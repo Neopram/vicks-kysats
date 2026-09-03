@@ -168,6 +168,8 @@ li.wrong .opt-letter { background: var(--error); color: #fff; border-color: var(
 .glossary-table td { padding: 8px 12px; border-bottom: 1px solid var(--border-light); vertical-align: top; }
 .glossary-table tr:hover td { background: var(--accent-light); }
 .glossary-table .greek-term { color: var(--greek); font-weight: 500; }
+.g-link { color: var(--greek); text-decoration: none; border-bottom: 1px dotted var(--border); }
+.g-link:hover { border-bottom-style: solid; opacity: .85; }
 .glossary-table .g-secs { display: flex; gap: 4px; flex-wrap: wrap; }
 .glossary-search { width: 100%; padding: 11px 14px; border: 1px solid var(--border); border-radius: var(--radius); font-size: 16px; background: var(--bg-card); color: var(--text-primary); margin-bottom: 12px; }
 .glossary-search:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(46,92,184,0.12); }
@@ -10119,7 +10121,19 @@ function buildGlossary(){
   $('#gloss-filters').innerHTML = '<button class="filter-btn active" onclick="filterSystem(this,\'all\')">Todos</button>' + Object.keys(SYS_LABEL).map(k=>`<button class="filter-btn" onclick="filterSystem(this,'${k}')">${SYS_LABEL[k]}</button>`).join('') + Object.keys(SECT).map(k=>`<button class="filter-btn" onclick="filterSystem(this,'sec:${k}')">${SECT[k].short}</button>`).join('');
 }
 let glossFilter='all', glossQuery='';
-function renderGlossary(){ const tb=$('#glossary-table tbody'); const q=glossQuery.toLowerCase(); const rows = GLOSS.filter(g => (glossFilter==='all' || (glossFilter.startsWith('sec:') ? g.secs.includes(glossFilter.slice(4)) : g.sys===glossFilter)) && (!q || g.el.toLowerCase().includes(q) || g.es.toLowerCase().includes(q))); tb.innerHTML = rows.slice(0,600).map(g=>`<tr><td class="greek-term">${esc(g.el)} ${speakBtn(g.el)}</td><td class="lang-es">${esc(g.es)}</td><td><div class="g-secs">${g.secs.map(s=>`<button class="chip c-${SPEC[SECT[s].spec].cls}" onclick="showSection('${s}')">${SECT[s].short}</button>`).join('')}</div></td></tr>`).join('') + (rows.length>600?`<tr><td colspan="3" style="color:var(--text-muted)">… ${rows.length-600} más — afina la búsqueda</td></tr>`:''); }
+function renderGlossary(){ const tb=$('#glossary-table tbody'); const q=glossQuery.toLowerCase(); const rows = GLOSS.filter(g => (glossFilter==='all' || (glossFilter.startsWith('sec:') ? g.secs.includes(glossFilter.slice(4)) : g.sys===glossFilter)) && (!q || g.el.toLowerCase().includes(q) || g.es.toLowerCase().includes(q))); tb.innerHTML = rows.slice(0,600).map(g=>`<tr><td class="greek-term"><a href="#" class="g-link" onclick="glossTermClick('${esc(g.el).replace(/'/g,"\\'")}');return false">${esc(g.el)}</a> ${speakBtn(g.el)}</td><td class="lang-es">${esc(g.es)}</td><td><div class="g-secs">${g.secs.map(s=>`<button class="chip c-${SPEC[SECT[s].spec].cls}" onclick="showSection('${s}')">${SECT[s].short}</button>`).join('')}</div></td></tr>`).join('') + (rows.length>600?`<tr><td colspan="3" style="color:var(--text-muted)">… ${rows.length-600} más — afina la búsqueda</td></tr>`:''); }
+function glossTermClick(term){
+  const tl=term.toLowerCase();
+  const hits=Q.map((q,qi)=>({qi,q,score:(q.topic.toLowerCase().includes(tl)?3:0)+(q.stemEl.toLowerCase().includes(tl)?2:0)+(q.explEl.toLowerCase().includes(tl)?1:0)})).filter(h=>h.score>0).sort((a,b)=>b.score-a.score).slice(0,5);
+  if(!hits.length){ toast('No hay preguntas con este término'); return; }
+  const g=GLOSS.find(x=>x.el===term);
+  modal(`<h3 style="margin-bottom:4px">${esc(term)}</h3>${g?`<p style="font-size:13px;color:var(--text-secondary);margin-bottom:12px">${esc(g.es)}</p>`:''}
+  <div style="display:flex;flex-direction:column;gap:8px">${hits.map(h=>{const q=h.q;return `<div style="background:var(--bg-card);border:1px solid var(--border-light);border-radius:var(--radius);padding:10px;cursor:pointer" onclick="closeModal();goToQ(${h.qi})">
+    <div style="font-size:11px;color:var(--text-muted);margin-bottom:4px">${q.id} · ${SECT[q.sid].short}</div>
+    <div style="font-size:13px">${esc(q.stemEl.length>120?q.stemEl.slice(0,120)+'…':q.stemEl)}</div>
+  </div>`;}).join('')}</div>
+  <div class="btn-row" style="margin-top:12px"><button class="btn" onclick="closeModal()">Cerrar</button></div>`);
+}
 function filterGlossary(v){ glossQuery=v; renderGlossary(); }
 function filterSystem(btn, sys){ $$('#gloss-filters .filter-btn').forEach(b=>b.classList.remove('active')); btn.classList.add('active'); glossFilter=sys; renderGlossary(); }
 
