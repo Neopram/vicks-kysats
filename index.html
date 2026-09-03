@@ -8134,14 +8134,14 @@ body.ex-strict .qnav { display: none; } body.ex-strict .ex-q .stem-es { display:
   <div class="hero">
     <div class="hero-eyebrow">Referencia</div>
     <h2>Glosario Médico Bilingüe</h2>
-    <div class="hero-meta"><span>Ελληνικά &middot; Español</span><span id="gloss-count"></span><span>Cada término enlaza con las secciones donde probablemente aparece</span></div>
+    <div class="hero-meta"><span>Ελληνικά <span class="lang-es">&middot; Español</span></span><span id="gloss-count"></span><span class="lang-es">Cada término enlaza con las secciones donde probablemente aparece</span></div>
   </div>
-  <p class="section-intro" style="margin-bottom:12px;">Construido a partir de los exámenes DOATAP 2024 (Παθολογία, Παιδιατρική, Χειρουργική: 300 preguntas), el temario del banco 2025 y los términos de las 300+ preguntas de esta guía. Busca en griego o español.</p>
+  <p class="section-intro lang-es" style="margin-bottom:12px;">Construido a partir de los exámenes DOATAP 2024 (Παθολογία, Παιδιατρική, Χειρουργική: 300 preguntas), el temario del banco 2025 y los términos de las 300+ preguntas de esta guía. Busca en griego o español.</p>
   <input type="text" class="glossary-search" placeholder="Buscar / Αναζήτηση..." oninput="filterGlossary(this.value)">
   <div class="glossary-filter" id="gloss-filters"></div>
   <div class="glossary-wrap">
     <table class="glossary-table" id="glossary-table">
-      <thead><tr><th>Ελληνικά</th><th>Español</th><th>Secciones probables</th></tr></thead>
+      <thead><tr><th>Ελληνικά</th><th class="lang-es">Español</th><th>Secciones probables</th></tr></thead>
       <tbody></tbody>
     </table>
   </div>
@@ -10113,13 +10113,13 @@ let GLOSS=[];
 function buildGlossary(){
   const seen=new Set(); GLOSS=[];
   GLOSS_RAW.trim().split('\n').forEach(l=>{ const [el,es,sys,secs]=l.split('|'); if(!el||seen.has(el)) return; seen.add(el); GLOSS.push({el:el.trim(), es:(es||'').trim(), sys:(sys||'gen').trim(), secs:(secs||'').split(',').map(c=>SCODE[c.trim()]).filter(Boolean)}); });
-  Q.forEach(q=>{ q.topic.split(/[·•]/).map(s=>s.trim().replace(/^[«"“]+|[»"”]+$/g,'').trim()).filter(s=>s.length>3 && /[Α-Ωα-ωά-ώ]/.test(s)).forEach(term=>{ const ex=GLOSS.find(g=>g.el.toLowerCase()===term.toLowerCase()); if(ex){ if(!ex.secs.includes(q.sid)) ex.secs.push(q.sid); } else if(!seen.has(term)){ seen.add(term); const sys = SECT[q.sid].spec==='B'?'ped':SECT[q.sid].spec==='C'?'surg':{'path-cardio':'cardio','path-resp':'resp','path-gi':'gi','path-misc':'endo','path-neuro':'neuro'}[q.sid]; GLOSS.push({el:term, es:'— (ver pregunta '+q.id+')', sys, secs:[q.sid], q:q.id}); } }); });
+  Q.forEach(q=>{ q.topic.split(/[·•]/).map(s=>s.trim().replace(/^[«””]+|[»””]+$/g,'').trim()).filter(s=>s.length>3 && /[Α-Ωα-ωά-ώ]/.test(s)).forEach(term=>{ const ex=GLOSS.find(g=>g.el.toLowerCase()===term.toLowerCase()); if(ex && !ex.secs.includes(q.sid)) ex.secs.push(q.sid); }); });
   GLOSS.sort((a,b)=>a.el.localeCompare(b.el,'el'));
   $('#gloss-count').textContent = GLOSS.length+' términos'; $('#nav-gloss').textContent = GLOSS.length;
   $('#gloss-filters').innerHTML = '<button class="filter-btn active" onclick="filterSystem(this,\'all\')">Todos</button>' + Object.keys(SYS_LABEL).map(k=>`<button class="filter-btn" onclick="filterSystem(this,'${k}')">${SYS_LABEL[k]}</button>`).join('') + Object.keys(SECT).map(k=>`<button class="filter-btn" onclick="filterSystem(this,'sec:${k}')">${SECT[k].short}</button>`).join('');
 }
 let glossFilter='all', glossQuery='';
-function renderGlossary(){ const tb=$('#glossary-table tbody'); const q=glossQuery.toLowerCase(); const rows = GLOSS.filter(g => (glossFilter==='all' || (glossFilter.startsWith('sec:') ? g.secs.includes(glossFilter.slice(4)) : g.sys===glossFilter)) && (!q || g.el.toLowerCase().includes(q) || g.es.toLowerCase().includes(q))); tb.innerHTML = rows.slice(0,600).map(g=>`<tr><td class="greek-term">${esc(g.el)} ${speakBtn(g.el)}</td><td>${esc(g.es)}</td><td><div class="g-secs">${g.secs.map(s=>`<button class="chip c-${SPEC[SECT[s].spec].cls}" onclick="showSection('${s}')">${SECT[s].short}</button>`).join('')}</div></td></tr>`).join('') + (rows.length>600?`<tr><td colspan="3" style="color:var(--text-muted)">… ${rows.length-600} más — afina la búsqueda</td></tr>`:''); }
+function renderGlossary(){ const tb=$('#glossary-table tbody'); const q=glossQuery.toLowerCase(); const rows = GLOSS.filter(g => (glossFilter==='all' || (glossFilter.startsWith('sec:') ? g.secs.includes(glossFilter.slice(4)) : g.sys===glossFilter)) && (!q || g.el.toLowerCase().includes(q) || g.es.toLowerCase().includes(q))); tb.innerHTML = rows.slice(0,600).map(g=>`<tr><td class="greek-term">${esc(g.el)} ${speakBtn(g.el)}</td><td class="lang-es">${esc(g.es)}</td><td><div class="g-secs">${g.secs.map(s=>`<button class="chip c-${SPEC[SECT[s].spec].cls}" onclick="showSection('${s}')">${SECT[s].short}</button>`).join('')}</div></td></tr>`).join('') + (rows.length>600?`<tr><td colspan="3" style="color:var(--text-muted)">… ${rows.length-600} más — afina la búsqueda</td></tr>`:''); }
 function filterGlossary(v){ glossQuery=v; renderGlossary(); }
 function filterSystem(btn, sys){ $$('#gloss-filters .filter-btn').forEach(b=>b.classList.remove('active')); btn.classList.add('active'); glossFilter=sys; renderGlossary(); }
 
