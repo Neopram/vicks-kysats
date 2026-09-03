@@ -11,7 +11,11 @@ Esta carpeta contiene **la misma guía** (`index.html`, un solo archivo) más tr
 
 El progreso se guarda en el propio dispositivo (IndexedDB + localStorage) tras cada respuesta. No hay servidor, cuentas ni envío de datos.
 
-## Opción A — Publicar gratis en GitHub Pages (recomendada para iPhone)
+## Ya publicada: https://neopram.github.io/vicks-kysats/
+
+Esta carpeta está subida al repositorio público `Neopram/vicks-kysats` y servida por GitHub Pages. En el iPhone: abre esa URL en **Safari** → Compartir → **Añadir a pantalla de inicio**. Para actualizarla, sube el nuevo `index.html` y `sw.js` al repositorio (o pídemelo: `gh` ya está autenticado).
+
+## Opción A — Publicar gratis en GitHub Pages (cómo se hizo)
 
 1. Crea una cuenta en github.com y un repositorio nuevo (por ejemplo `vicks-kysats`), público.
 2. Sube **el contenido de esta carpeta** (no la carpeta entera): `index.html`, `manifest.json`, `sw.js` y la carpeta `icons/`. Se puede arrastrar y soltar en la web de GitHub («Add file → Upload files»).
