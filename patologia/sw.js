@@ -1,4 +1,4 @@
-const CACHE = 'vicks-v6-path-d65c6288';
+const CACHE = 'vicks-v6-path-87b0629f';
 const ASSETS = ['./', './index.html', './manifest.json'];
 self.addEventListener('install', e => { self.skipWaiting();
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).catch(()=>{})); });
