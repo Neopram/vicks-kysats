@@ -1,16 +1,25 @@
 {
   "name": "Vicks · Παιδιατρική",
   "short_name": "Vicks Ped",
-  "description": "Guía adaptativa KYSATS 2026 — Παιδιατρική: 333 preguntas nuevas, simulacros DOATAP, SRS bilingüe.",
+  "description": "Guía adaptativa ΚΥΣΑΤΣ 2026 — Pediatría: 302 preguntas nuevas",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#F7F6F3",
   "theme_color": "#1B2A4A",
-  "lang": "es",
   "icons": [
-    { "src": "../icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "../icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    {
+      "src": "../icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
