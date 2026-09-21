@@ -5042,6 +5042,2606 @@
   "id": "A-283"
  },
  {
+  "sid": "path-gi",
+  "prob": 78,
+  "concepts": [
+   "c.path.gi.hpylori_dx"
+  ],
+  "topic_el": "Διάγνωση λοίμωξης από Helicobacter pylori",
+  "topic_es": "Diagnóstico de infección por Helicobacter pylori",
+  "stem_el": "Άνδρας 45 ετών με επιγαστραλγία και δυσπεψία 3 εβδομάδων, χωρίς απώλεια βάρους, δυσφαγία, αναιμία ή ιστορικό γαστρεκτομής. Δεν λαμβάνει IPP ή αντιβιοτικά τους τελευταίους 2 μήνες. Ποια είναι η εξέταση εκλογής για τη διάγνωση λοίμωξης από H. pylori;",
+  "stem_es": "Varón de 45 años con epigastralgia y dispepsia de 3 semanas, sin pérdida de peso, disfagia, anemia ni antecedente de gastrectomía. No toma IBP ni antibióticos desde hace 2 meses. ¿Cuál es la prueba de elección para diagnosticar infección por H. pylori?",
+  "options": [
+   {
+    "el": "Δοκιμασία αναπνοής ουρίας με 13C",
+    "es": "Test del aliento con urea marcada 13C"
+   },
+   {
+    "el": "Άμεση εμπειρική τετραπλή θεραπεία εκρίζωσης χωρίς έλεγχο",
+    "es": "Cuádruple terapia empírica de erradicación sin confirmación"
+   },
+   {
+    "el": "Γαστροσκόπηση με βιοψίες άμεσα",
+    "es": "Gastroscopia con biopsias de entrada"
+   },
+   {
+    "el": "Εμπειρική δοκιμασία με IPP 4 εβδομάδων",
+    "es": "Prueba empírica con IBP durante 4 semanas"
+   },
+   {
+    "el": "Ορολογικός έλεγχος IgG anti-H. pylori",
+    "es": "Serología IgG anti-H. pylori"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Σε δυσπεψία χωρίς σημεία επικινδυνότητας και χωρίς πρόσφατη χρήση IPP ή αντιβιοτικών, εξέταση εκλογής είναι η μη επεμβατική δοκιμασία αναπνοής ουρίας 13C ή το μονοκλωνικό κοπρανικό αντιγόνο, με υψηλή ευαισθησία και ειδικότητα για ενεργό λοίμωξη.",
+  "expl_es": "En dispepsia sin signos de alarma y sin uso reciente de IBP o antibióticos, la prueba no invasiva de elección es el test del aliento con urea 13C o el antígeno fecal monoclonal, con alta sensibilidad y especificidad para infección activa.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η ορολογία IgG παραμένει θετική και μετά από παλαιά ή θεραπευμένη λοίμωξη, δεν επιβεβαιώνει ενεργό νόσο · <b>B</b> Η εμπειρική θεραπεία χωρίς επιβεβαίωση εκθέτει σε περιττά αντιβιοτικά και επιλέγει ανθεκτικά στελέχη · <b>C</b> Η γαστροσκόπηση δεν είναι πρώτης γραμμής χωρίς σημεία επικινδυνότητας ή ηλικία άνω των 60 ετών · <b>D</b> Η εμπειρική IPP δεν διευκρινίζει την παρουσία λοίμωξης πριν την απόφαση εκρίζωσης",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> La serología IgG permanece positiva tras infección pasada o curada, no confirma enfermedad activa · <b>B</b> La terapia empírica sin confirmación expone a antibióticos innecesarios y selecciona cepas resistentes · <b>C</b> La endoscopia no es de primera línea sin signos de alarma o edad mayor de 60 años · <b>D</b> La prueba empírica con IBP no aclara la presencia de infección antes de decidir la erradicación",
+  "cite": "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection 2017 · Maastricht VI/Florence Consensus 2022",
+  "id": "A-284"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 85,
+  "concepts": [
+   "c.path.gi.hpylori_eradication"
+  ],
+  "topic_el": "Θεραπεία εκρίζωσης H. pylori πρώτης γραμμής",
+  "topic_es": "Tratamiento de erradicación de H. pylori de primera línea",
+  "stem_el": "Γυναίκα 50 ετών με πεπτικό έλκος δωδεκαδακτύλου και θετική δοκιμασία για H. pylori, σε περιοχή με ανθεκτικότητα στην κλαριθρομυκίνη άνω του 15%. Ποιο σχήμα πρώτης γραμμής συνιστάται;",
+  "stem_es": "Mujer de 50 años con úlcera duodenal y prueba positiva para H. pylori, en región con resistencia a claritromicina superior al 15%. ¿Qué esquema de primera línea se recomienda?",
+  "options": [
+   {
+    "el": "Τριπλή θεραπεία IPP + αμοξικιλλίνη + κλαριθρομυκίνη 14 ημερών",
+    "es": "Triple terapia IBP + amoxicilina + claritromicina 14 días"
+   },
+   {
+    "el": "Τετραπλή θεραπεία με βισμούθιο (IPP + βισμούθιο + τετρακυκλίνη + μετρονιδαζόλη) 14 ημερών",
+    "es": "Cuádruple terapia con bismuto (IBP + bismuto + tetraciclina + metronidazol) 14 días"
+   },
+   {
+    "el": "Διπλή θεραπεία IPP + αμοξικιλλίνη μόνο",
+    "es": "Doble terapia IBP + amoxicilina sola"
+   },
+   {
+    "el": "Μονοθεραπεία με κλαριθρομυκίνη υψηλής δόσης",
+    "es": "Monoterapia con claritromicina en dosis alta"
+   },
+   {
+    "el": "IPP εφ' όρου ζωής χωρίς αντιβίωση",
+    "es": "IBP de por vida sin antibiótico"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Όταν η τοπική ανθεκτικότητα στην κλαριθρομυκίνη υπερβαίνει το 15%, η τριπλή θεραπεία με κλαριθρομυκίνη χάνει αποτελεσματικότητα· η τετραπλή θεραπεία με βισμούθιο για 14 ημέρες είναι το προτεινόμενο σχήμα πρώτης γραμμής, καθώς δεν εξαρτάται από την ευαισθησία στην κλαριθρομυκίνη.",
+  "expl_es": "Cuando la resistencia local a claritromicina supera el 15%, la triple terapia con claritromicina pierde eficacia; la cuádruple terapia con bismuto durante 14 días es el esquema de primera línea recomendado, ya que no depende de la sensibilidad a claritromicina.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η τριπλή θεραπεία με κλαριθρομυκίνη έχει απαράδεκτα χαμηλά ποσοστά εκρίζωσης όταν η ανθεκτικότητα υπερβαίνει το 15% · <b>C</b> Η διπλή θεραπεία χωρίς δεύτερο αντιβιοτικό έχει πολύ χαμηλή αποτελεσματικότητα · <b>D</b> Η μονοθεραπεία επιλέγει ταχέως ανθεκτικά στελέχη και δεν εκριζώνει τη λοίμωξη · <b>E</b> Το IPP μόνο ελέγχει συμπτώματα αλλά δεν εκριζώνει τη λοίμωξη ούτε αποτρέπει την υποτροπή του έλκους",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La triple terapia con claritromicina tiene tasas de erradicación inaceptablemente bajas cuando la resistencia supera el 15% · <b>C</b> La doble terapia sin un segundo antibiótico tiene eficacia muy baja · <b>D</b> La monoterapia selecciona rápidamente cepas resistentes y no erradica la infección · <b>E</b> El IBP solo controla síntomas pero no erradica la infección ni previene la recidiva de la úlcera",
+  "cite": "Maastricht VI/Florence Consensus 2022 · ACG Clinical Guideline: Treatment of Helicobacter pylori Infection 2017",
+  "id": "A-285"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 72,
+  "concepts": [
+   "c.path.gi.hpylori_resistance"
+  ],
+  "topic_el": "Ανθεκτικότητα στην κλαριθρομυκίνη και επιλογή θεραπείας",
+  "topic_es": "Resistencia a claritromicina y elección de tratamiento",
+  "stem_el": "Ασθενής με λοίμωξη H. pylori έχει λάβει μακρολίδη (κλαριθρομυκίνη ή αζιθρομυκίνη) για άλλη αιτία τον τελευταίο χρόνο. Ποια είναι η πλέον κατάλληλη πρώτη επιλογή θεραπείας;",
+  "stem_es": "Paciente con infección por H. pylori que recibió un macrólido (claritromicina o azitromicina) por otra causa en el último año. ¿Cuál es la primera opción de tratamiento más adecuada?",
+  "options": [
+   {
+    "el": "Τριπλή θεραπεία με κλαριθρομυκίνη, όπως σε ασθενείς χωρίς προηγούμενη έκθεση",
+    "es": "Triple terapia con claritromicina, igual que en pacientes sin exposición previa"
+   },
+   {
+    "el": "Επανάληψη κλαριθρομυκίνης σε διπλάσια δόση",
+    "es": "Repetir claritromicina a doble dosis"
+   },
+   {
+    "el": "Τετραπλή θεραπεία χωρίς κλαριθρομυκίνη (π.χ. με βισμούθιο)",
+    "es": "Cuádruple terapia sin claritromicina (p. ej. con bismuto)"
+   },
+   {
+    "el": "Μονοθεραπεία με αμοξικιλλίνη",
+    "es": "Monoterapia con amoxicilina"
+   },
+   {
+    "el": "Αναβολή θεραπείας μέχρι υποχώρηση συμπτωμάτων",
+    "es": "Diferir el tratamiento hasta que remitan los síntomas"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Προηγούμενη έκθεση σε μακρολίδη αυξάνει σημαντικά την πιθανότητα ανθεκτικότητας στην κλαριθρομυκίνη· σε αυτούς τους ασθενείς πρέπει να αποφεύγεται η κλαριθρομυκίνη και να επιλέγεται σχήμα χωρίς αυτήν, όπως η τετραπλή θεραπεία με βισμούθιο.",
+  "expl_es": "La exposición previa a un macrólido aumenta considerablemente la probabilidad de resistencia a claritromicina; en estos pacientes debe evitarse la claritromicina y elegirse un esquema que no la incluya, como la cuádruple terapia con bismuto.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η προηγούμενη έκθεση σε μακρολίδη προδιαθέτει σε ανθεκτικότητα, καθιστώντας την κλαριθρομυκίνη πιθανό να αποτύχει · <b>B</b> Η αύξηση της δόσης δεν ξεπερνά τον μηχανισμό ριβοσωμικής ανθεκτικότητας · <b>D</b> Η μονοθεραπεία δεν εκριζώνει τη λοίμωξη ανεξαρτήτως ανθεκτικότητας · <b>E</b> Η καθυστέρηση επιτρέπει επιπλοκές του έλκους και δεν αλλάζει το πρόβλημα της ανθεκτικότητας",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La exposición previa a un macrólido predispone a resistencia, haciendo probable el fracaso de la claritromicina · <b>B</b> Aumentar la dosis no supera el mecanismo de resistencia ribosómica · <b>D</b> La monoterapia no erradica la infección independientemente de la resistencia · <b>E</b> Diferir el tratamiento permite complicaciones de la úlcera y no resuelve el problema de resistencia",
+  "cite": "Maastricht VI/Florence Consensus 2022",
+  "id": "A-286"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 68,
+  "concepts": [
+   "c.path.gi.hpylori_dx"
+  ],
+  "topic_el": "Επιβεβαίωση εκρίζωσης H. pylori",
+  "topic_es": "Confirmación de erradicación de H. pylori",
+  "stem_el": "Ασθενής ολοκλήρωσε τετραπλή θεραπεία εκρίζωσης H. pylori για πεπτικό έλκος. Πότε και με ποια εξέταση πρέπει να επιβεβαιωθεί η επιτυχής εκρίζωση;",
+  "stem_es": "Paciente que completó tratamiento cuádruple de erradicación de H. pylori por úlcera péptica. ¿Cuándo y con qué prueba debe confirmarse la erradicación exitosa?",
+  "options": [
+   {
+    "el": "Ορολογία IgG έναν μήνα μετά τη θεραπεία",
+    "es": "Serología IgG un mes tras el tratamiento"
+   },
+   {
+    "el": "Καμία επιβεβαίωση χρειάζεται αν υποχωρήσουν τα συμπτώματα",
+    "es": "No se necesita confirmación si ceden los síntomas"
+   },
+   {
+    "el": "Δοκιμασία αναπνοής ουρίας αμέσως μετά την τελευταία δόση αντιβιοτικού",
+    "es": "Test del aliento con urea inmediatamente tras la última dosis de antibiótico"
+   },
+   {
+    "el": "Δοκιμασία αναπνοής ουρίας ή κοπρανικό αντιγόνο, τουλάχιστον 4 εβδομάδες μετά τα αντιβιοτικά και εκτός IPP",
+    "es": "Test del aliento con urea o antígeno fecal, al menos 4 semanas tras los antibióticos y sin IBP"
+   },
+   {
+    "el": "Επανάληψη της ίδιας θεραπείας εμπειρικά χωρίς έλεγχο",
+    "es": "Repetir el mismo tratamiento empíricamente sin comprobar"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η επιβεβαίωση εκρίζωσης πρέπει να γίνεται με μη επεμβατική δοκιμασία (αναπνοή ουρίας ή κοπρανικό αντιγόνο) τουλάχιστον 4 εβδομάδες μετά την ολοκλήρωση των αντιβιοτικών και 1-2 εβδομάδες εκτός IPP, ώστε να αποφευχθούν ψευδώς αρνητικά αποτελέσματα.",
+  "expl_es": "La confirmación de erradicación debe hacerse con una prueba no invasiva (aliento con urea o antígeno fecal) al menos 4 semanas tras completar los antibióticos y 1-2 semanas sin IBP, para evitar falsos negativos.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η ορολογία παραμένει θετική για μήνες μετά την επιτυχή εκρίζωση, δεν χρησιμοποιείται ως έλεγχος θεραπείας · <b>B</b> Η υποχώρηση συμπτωμάτων δεν ισοδυναμεί με εκρίζωση, ειδικά σε ιστορικό επιπλοκών · <b>C</b> Η άμεση εξέταση δίνει ψευδώς αρνητικό αποτέλεσμα λόγω πρόσφατης καταστολής του βακτηρίου, όχι εξάλειψής του · <b>E</b> Η επανάληψη χωρίς επιβεβαίωση αποτυχίας εκθέτει σε περιττά αντιβιοτικά",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La serología permanece positiva meses tras la erradicación exitosa, no sirve como control de curación · <b>B</b> La mejoría sintomática no equivale a erradicación, especialmente con antecedente de complicaciones · <b>C</b> La prueba inmediata da falso negativo por supresión reciente de la bacteria, no por su eliminación · <b>E</b> Repetir sin confirmar el fracaso expone a antibióticos innecesarios",
+  "cite": "Maastricht VI/Florence Consensus 2022 · ACG Clinical Guideline: Treatment of Helicobacter pylori Infection 2017",
+  "id": "A-287"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 70,
+  "concepts": [
+   "c.path.gi.nsaid_ulcer"
+  ],
+  "topic_el": "Πεπτικό έλκος σχετιζόμενο με ΜΣΑΦ, H. pylori αρνητικό",
+  "topic_es": "Úlcera péptica asociada a AINE, H. pylori negativo",
+  "stem_el": "Γυναίκα 70 ετών με χρόνια χρήση ιβουπροφαίνης για οστεοαρθρίτιδα εμφανίζει γαστρικό έλκος στην ενδοσκόπηση, με αρνητικό έλεγχο H. pylori. Ποια είναι η καταλληλότερη αρχική αντιμετώπιση;",
+  "stem_es": "Mujer de 70 años con uso crónico de ibuprofeno por artrosis presenta úlcera gástrica en la endoscopia, con estudio de H. pylori negativo. ¿Cuál es el manejo inicial más adecuado?",
+  "options": [
+   {
+    "el": "Τετραπλή θεραπεία εκρίζωσης εμπειρικά παρά το αρνητικό αποτέλεσμα",
+    "es": "Cuádruple terapia de erradicación empírica pese al resultado negativo"
+   },
+   {
+    "el": "Συνέχιση ΜΣΑΦ στην ίδια δόση χωρίς αλλαγή",
+    "es": "Continuar el AINE a la misma dosis sin cambios"
+   },
+   {
+    "el": "Άμεση χειρουργική επέμβαση",
+    "es": "Cirugía inmediata"
+   },
+   {
+    "el": "Αντιόξινα κατ' απαίτηση μόνο",
+    "es": "Antiácidos a demanda únicamente"
+   },
+   {
+    "el": "Διακοπή του ΜΣΑΦ αν είναι εφικτό και έναρξη IPP· αν χρειάζεται να συνεχίσει ΜΣΑΦ, συν-χορήγηση IPP",
+    "es": "Suspender el AINE si es posible e iniciar IBP; si debe continuar el AINE, co-administrar IBP"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Στο ΜΣΑΦ-σχετιζόμενο έλκος με αρνητικό H. pylori, η βάση της θεραπείας είναι η διακοπή του ΜΣΑΦ όποτε είναι δυνατό και η χορήγηση IPP για επούλωση· αν το ΜΣΑΦ είναι απαραίτητο, συνιστάται συνεχής συγχορήγηση IPP ή γαστροπροστασίας.",
+  "expl_es": "En la úlcera asociada a AINE con H. pylori negativo, la base del tratamiento es suspender el AINE cuando sea posible e iniciar IBP para la cicatrización; si el AINE es imprescindible, se recomienda co-administración continua de IBP o gastroprotección.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η εμπειρική εκρίζωση δεν έχει νόημα με τεκμηριωμένα αρνητικό έλεγχο και εκθέτει σε περιττά αντιβιοτικά · <b>B</b> Η συνέχιση χωρίς γαστροπροστασία διατηρεί τον κίνδυνο επιπλοκών αιμορραγίας ή διάτρησης · <b>C</b> Η χειρουργική επέμβαση δεν είναι πρώτη γραμμή σε ανεπίπλεκτο έλκος · <b>D</b> Τα αντιόξινα κατ' απαίτηση δεν επιτυγχάνουν επούλωση όπως το IPP σε τακτική δοσολογία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La erradicación empírica no tiene sentido con un estudio negativo documentado y expone a antibióticos innecesarios · <b>B</b> Continuar sin gastroprotección mantiene el riesgo de hemorragia o perforación · <b>C</b> La cirugía no es primera línea en una úlcera no complicada · <b>D</b> Los antiácidos a demanda no logran la cicatrización que sí logra el IBP en pauta regular",
+  "cite": "Harrison 21.ª ed., cap. «Peptic Ulcer Disease and Related Disorders» · ACG Clinical Guideline: Treatment of Helicobacter pylori Infection 2017",
+  "id": "A-288"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 82,
+  "concepts": [
+   "c.path.gi.pud_perforation"
+  ],
+  "topic_el": "Διάτρηση πεπτικού έλκους",
+  "topic_es": "Perforación de úlcera péptica",
+  "stem_el": "Άνδρας 55 ετών με ιστορικό γαστρικού έλκους εμφανίζει ξαφνικό, σφοδρό επιγαστρικό πόνο που γενικεύεται, με ξυλώδη κοιλία στην ψηλάφηση και σημεία περιτοναϊκού ερεθισμού. Ποια είναι η πρώτη ενέργεια;",
+  "stem_es": "Varón de 55 años con antecedente de úlcera gástrica presenta dolor epigástrico súbito e intenso que se generaliza, con abdomen en tabla a la palpación y signos de irritación peritoneal. ¿Cuál es la primera conducta?",
+  "options": [
+   {
+    "el": "Απεικόνιση (όρθια ακτινογραφία θώρακα/κοιλίας ή CT) για ελεύθερο αέρα και άμεση χειρουργική εκτίμηση",
+    "es": "Imagen (radiografía en bipedestación o TC) para aire libre y valoración quirúrgica inmediata"
+   },
+   {
+    "el": "Χορήγηση οπιοειδών αναλγητικών και επανεκτίμηση σε 24 ώρες",
+    "es": "Analgesia opioide y reevaluación en 24 horas"
+   },
+   {
+    "el": "Ενδοσκόπηση επείγοντος για επιβεβαίωση της αιτίας",
+    "es": "Endoscopia urgente para confirmar la causa"
+   },
+   {
+    "el": "IPP ενδοφλέβια και παρακολούθηση εξωτερικά",
+    "es": "IBP intravenoso y seguimiento ambulatorio"
+   },
+   {
+    "el": "Εμπειρική θεραπεία εκρίζωσης H. pylori",
+    "es": "Tratamiento empírico de erradicación de H. pylori"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Ο ξαφνικός σφοδρός πόνος με ξυλώδη κοιλία υποδηλώνει διάτρηση σπλάχνου, χειρουργικό επείγον. Η απεικόνιση για ελεύθερο αέρα επιβεβαιώνει τη διάγνωση γρήγορα, χωρίς να καθυστερεί η άμεση χειρουργική εκτίμηση και αποκατάσταση (π.χ. επίρραμμα Graham).",
+  "expl_es": "El dolor súbito e intenso con abdomen en tabla sugiere perforación de víscera, una urgencia quirúrgica. La imagen para aire libre confirma el diagnóstico rápidamente, sin retrasar la valoración quirúrgica inmediata y la reparación (p. ej. parche de Graham).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η ενδοσκόπηση σε πιθανή διάτρηση μπορεί να επιδεινώσει τη διαφυγή αέρα και καθυστερεί τη χειρουργική αντιμετώπιση · <b>D</b> Η εξωτερική παρακολούθηση καθυστερεί επικίνδυνα την αντιμετώπιση περιτονίτιδας · <b>E</b> Η εκρίζωση δεν αντιμετωπίζει την οξεία χειρουργική επιπλοκή · <b>B</b> Η αναβολή με αναλγησία μόνο επιτρέπει εξέλιξη σε σηπτική περιτονίτιδα",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La endoscopia ante sospecha de perforación puede empeorar la fuga de aire y retrasa el manejo quirúrgico · <b>D</b> El seguimiento ambulatorio retrasa peligrosamente el tratamiento de una peritonitis · <b>E</b> La erradicación no resuelve la complicación quirúrgica aguda · <b>B</b> Diferir con solo analgesia permite progresión a peritonitis séptica",
+  "cite": "Harrison 21.ª ed., cap. «Peptic Ulcer Disease and Related Disorders» · Davidson's 24.ª ed. — cap. «Gastroenterology»",
+  "id": "A-289"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 60,
+  "concepts": [
+   "c.path.gi.hpylori_salvage"
+  ],
+  "topic_el": "Θεραπεία διάσωσης μετά από αποτυχία εκρίζωσης H. pylori",
+  "topic_es": "Terapia de rescate tras fracaso de erradicación de H. pylori",
+  "stem_el": "Ασθενής απέτυχε σε τετραπλή θεραπεία με βισμούθιο για H. pylori. Ποια είναι η καταλληλότερη προσέγγιση για τη δεύτερη γραμμή θεραπείας;",
+  "stem_es": "Paciente que fracasó con cuádruple terapia con bismuto para H. pylori. ¿Cuál es el enfoque más adecuado para el tratamiento de segunda línea?",
+  "options": [
+   {
+    "el": "IPP εφ' όρου ζωής χωρίς περαιτέρω αντιβίωση",
+    "es": "IBP de por vida sin más antibióticos"
+   },
+   {
+    "el": "Σχήμα δεύτερης γραμμής με διαφορετικά αντιβιοτικά (π.χ. βασισμένο σε λεβοφλοξασίνη), κατά προτίμηση καθοδηγούμενο από καλλιέργεια ή μοριακό έλεγχο ανθεκτικότητας",
+    "es": "Esquema de segunda línea con antibióticos distintos (p. ej. basado en levofloxacino), idealmente guiado por cultivo o estudio molecular de resistencia"
+   },
+   {
+    "el": "Μονοθεραπεία με μετρονιδαζόλη υψηλής δόσης",
+    "es": "Monoterapia con metronidazol en dosis alta"
+   },
+   {
+    "el": "Επανάληψη ακριβώς του ίδιου σχήματος για μεγαλύτερο διάστημα",
+    "es": "Repetir exactamente el mismo esquema durante más tiempo"
+   },
+   {
+    "el": "Διακοπή κάθε προσπάθειας εκρίζωσης οριστικά",
+    "es": "Abandonar definitivamente todo intento de erradicación"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Μετά από αποτυχία, δεν πρέπει να επαναχρησιμοποιούνται τα ίδια αντιβιοτικά· η θεραπεία διάσωσης βασίζεται σε εναλλακτικό σχήμα (π.χ. με λεβοφλοξασίνη) και, όταν είναι εφικτό, σε καλλιέργεια ή μοριακό έλεγχο ευαισθησίας για εξατομικευμένη επιλογή.",
+  "expl_es": "Tras un fracaso, no deben reutilizarse los mismos antibióticos; el tratamiento de rescate se basa en un esquema alternativo (p. ej. con levofloxacino) y, cuando es posible, en cultivo o estudio molecular de sensibilidad para una elección individualizada.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η επανάληψη του ίδιου αποτυχημένου σχήματος αντιμετωπίζει ήδη επιλεγμένη ανθεκτικότητα · <b>E</b> Η εγκατάλειψη αφήνει ενεργό λοίμωξη με κίνδυνο υποτροπιάζοντος έλκους και κακοήθειας · <b>A</b> Το IPP ελέγχει συμπτώματα αλλά δεν εκριζώνει το βακτήριο · <b>C</b> Η μονοθεραπεία επιλέγει περαιτέρω ανθεκτικότητα και δεν εκριζώνει τη λοίμωξη",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Repetir el mismo esquema fracasado se enfrenta a una resistencia ya seleccionada · <b>E</b> Abandonar deja infección activa con riesgo de úlcera recurrente y malignidad · <b>A</b> El IBP controla síntomas pero no erradica la bacteria · <b>C</b> La monoterapia selecciona más resistencia y no erradica la infección",
+  "cite": "Maastricht VI/Florence Consensus 2022",
+  "id": "A-290"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 90,
+  "concepts": [
+   "c.path.gi.gbs"
+  ],
+  "topic_el": "Κλίμακα Glasgow-Blatchford στην αιμορραγία ανώτερου πεπτικού",
+  "topic_es": "Escala de Glasgow-Blatchford en la hemorragia digestiva alta",
+  "stem_el": "Άνδρας 30 ετών προσέρχεται με έναν επεισόδιο μέλαινας κοπράνων, φυσιολογικές ζωτικές, αιμοσφαιρίνη και ουρία εντός φυσιολογικών ορίων, χωρίς συνοδά νοσήματα. Το σκορ Glasgow-Blatchford είναι 0. Ποια είναι η καταλληλότερη αρχική αντιμετώπιση;",
+  "stem_es": "Varón de 30 años acude por un episodio de melenas, con constantes normales, hemoglobina y urea dentro de límites normales, sin comorbilidades. La puntuación de Glasgow-Blatchford es 0. ¿Cuál es el manejo inicial más adecuado?",
+  "options": [
+   {
+    "el": "Εισαγωγή σε ΜΕΘ για στενή παρακολούθηση",
+    "es": "Ingreso en UCI para monitorización estrecha"
+   },
+   {
+    "el": "Επείγουσα ενδοσκόπηση εντός 2 ωρών υποχρεωτικά",
+    "es": "Endoscopia urgente obligatoria en menos de 2 horas"
+   },
+   {
+    "el": "Εξωτερική παρακολούθηση με ενδοσκόπηση σε προγραμματισμένη βάση, χωρίς ανάγκη εισαγωγής",
+    "es": "Manejo ambulatorio con endoscopia programada, sin necesidad de ingreso"
+   },
+   {
+    "el": "Μετάγγιση ερυθρών αιμοσφαιρίων προληπτικά",
+    "es": "Transfusión profiláctica de concentrados de hematíes"
+   },
+   {
+    "el": "Χειρουργική διερεύνηση άμεσα",
+    "es": "Exploración quirúrgica inmediata"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Σκορ Glasgow-Blatchford 0-1 προσδιορίζει πολύ χαμηλό κίνδυνο ανάγκης παρέμβασης ή θανάτου· αυτοί οι ασθενείς μπορούν να αντιμετωπιστούν εξωτερικά με προγραμματισμένη ενδοσκόπηση, χωρίς να χρειάζονται εισαγωγή.",
+  "expl_es": "Una puntuación de Glasgow-Blatchford de 0-1 identifica un riesgo muy bajo de necesitar intervención o de mortalidad; estos pacientes pueden manejarse de forma ambulatoria con endoscopia programada, sin necesidad de ingreso.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η ΜΕΘ είναι υπερβολική για ασθενή πολύ χαμηλού κινδύνου και σπαταλά πόρους · <b>B</b> Η επείγουσα ενδοσκόπηση δεν προσφέρει όφελος σε αυτόν τον πληθυσμό χαμηλού κινδύνου και αυξάνει αδικαιολόγητα το κόστος · <b>D</b> Η μετάγγιση χωρίς ένδειξη αναιμίας ή αστάθειας δεν αιτιολογείται · <b>E</b> Η χειρουργική διερεύνηση δεν έχει θέση χωρίς προηγούμενη ενδοσκοπική διάγνωση ή αστάθεια",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La UCI es excesiva para un paciente de riesgo muy bajo y consume recursos innecesarios · <b>B</b> La endoscopia urgente no aporta beneficio en esta población de bajo riesgo y encarece el manejo sin justificación · <b>D</b> La transfusión sin indicación de anemia o inestabilidad no se justifica · <b>E</b> La exploración quirúrgica no tiene lugar sin diagnóstico endoscópico previo ni inestabilidad",
+  "cite": "ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding 2021 · Harrison 21.ª ed., cap. «Gastrointestinal Bleeding»",
+  "id": "A-291"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 65,
+  "concepts": [
+   "c.path.gi.rockall"
+  ],
+  "topic_el": "Κλίμακα Rockall μετά την ενδοσκόπηση",
+  "topic_es": "Escala de Rockall tras la endoscopia",
+  "stem_el": "Ασθενής υποβλήθηκε σε ενδοσκόπηση για αιμορραγία ανώτερου πεπτικού. Ποιος σκοπός εξυπηρετεί η πλήρης (μετα-ενδοσκοπική) κλίμακα Rockall σε σχέση με την κλίμακα Glasgow-Blatchford;",
+  "stem_es": "Paciente sometido a endoscopia por hemorragia digestiva alta. ¿Qué propósito cumple la escala de Rockall completa (posendoscópica) en comparación con la escala de Glasgow-Blatchford?",
+  "options": [
+   {
+    "el": "Αντικαθιστά πλήρως την ανάγκη κλινικής επανεκτίμησης",
+    "es": "Sustituye por completo la necesidad de reevaluación clínica"
+   },
+   {
+    "el": "Χρησιμοποιείται αποκλειστικά για την επιλογή αντιβιοτικής προφύλαξης",
+    "es": "Se usa exclusivamente para elegir la profilaxis antibiótica"
+   },
+   {
+    "el": "Decide αν χρειάζεται ενδοσκόπηση, πριν αυτή γίνει",
+    "es": "Decide si se necesita endoscopia, antes de realizarla"
+   },
+   {
+    "el": "Ενσωματώνει ευρήματα ενδοσκοπίας (διάγνωση, στίγματα πρόσφατης αιμορραγίας) για να προβλέψει θνητότητα και υποτροπή μετά την ενδοσκόπηση",
+    "es": "Incorpora hallazgos endoscópicos (diagnóstico, estigmas de hemorragia reciente) para predecir mortalidad y recidiva tras la endoscopia"
+   },
+   {
+    "el": "Χρησιμοποιείται μόνο σε κιρσορραγία, όχι σε μη κιρσική αιμορραγία",
+    "es": "Se usa solo en hemorragia varicosa, no en la no varicosa"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η πλήρης κλίμακα Rockall προστίθεται στα κλινικά δεδομένα τα ευρήματα της ενδοσκόπησης (διάγνωση και στίγματα πρόσφατης αιμορραγίας) για να προβλέψει θνητότητα και κίνδυνο υποτροπής, σε αντίθεση με το Glasgow-Blatchford που είναι προ-ενδοσκοπικό και εστιάζει στην ανάγκη παρέμβασης.",
+  "expl_es": "La escala de Rockall completa añade a los datos clínicos los hallazgos endoscópicos (diagnóstico y estigmas de hemorragia reciente) para predecir mortalidad y riesgo de recidiva, a diferencia del Glasgow-Blatchford, que es preendoscópico y se centra en la necesidad de intervención.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Αυτή η λειτουργία αντιστοιχεί στο Glasgow-Blatchford, όχι στην πλήρη Rockall που χρειάζεται ενδοσκοπικά δεδομένα · <b>B</b> Η προφύλαξη με αντιβίωση καθορίζεται από την παρουσία κίρρωσης/αιμορραγίας, όχι από το σκορ Rockall · <b>A</b> Καμία κλίμακα δεν αντικαθιστά την κλινική κρίση και επανεκτίμηση · <b>E</b> Η Rockall εφαρμόζεται σε αιμορραγία ανώτερου πεπτικού γενικά, όχι αποκλειστικά κιρσική",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> Esa función corresponde al Glasgow-Blatchford, no a la Rockall completa que necesita datos endoscópicos · <b>B</b> La profilaxis antibiótica se determina por la presencia de cirrosis/hemorragia, no por la puntuación de Rockall · <b>A</b> Ninguna escala sustituye el juicio clínico y la reevaluación · <b>E</b> La Rockall se aplica a la hemorragia digestiva alta en general, no exclusivamente varicosa",
+  "cite": "Harrison 21.ª ed., cap. «Gastrointestinal Bleeding» · ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding 2021",
+  "id": "A-292"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 88,
+  "concepts": [
+   "c.path.gi.forrest"
+  ],
+  "topic_el": "Ταξινόμηση Forrest — αιμορραγία ενεργή",
+  "topic_es": "Clasificación de Forrest — hemorragia activa",
+  "stem_el": "Ενδοσκόπηση σε ασθενή με πεπτικό έλκος αποκαλύπτει ενεργό εκτοξευόμενη αιμορραγία από τη βάση του έλκους (Forrest Ia). Ποια είναι η καταλληλότερη αντιμετώπιση;",
+  "stem_es": "La endoscopia en un paciente con úlcera péptica revela hemorragia activa en chorro desde la base de la úlcera (Forrest Ia). ¿Cuál es el manejo más adecuado?",
+  "options": [
+   {
+    "el": "Απλή παρακολούθηση χωρίς ενδοσκοπική παρέμβαση",
+    "es": "Observación simple sin intervención endoscópica"
+   },
+   {
+    "el": "Επανάληψη ενδοσκόπησης σε 6 μήνες",
+    "es": "Repetir la endoscopia en 6 meses"
+   },
+   {
+    "el": "IPP από στόματος μόνο, χωρίς ενδοσκοπική θεραπεία",
+    "es": "IBP oral únicamente, sin tratamiento endoscópico"
+   },
+   {
+    "el": "Έξοδος από το νοσοκομείο την ίδια ημέρα",
+    "es": "Alta hospitalaria el mismo día"
+   },
+   {
+    "el": "Ενδοσκοπική αιμόσταση (π.χ. ένεση + θερμική ή μηχανική μέθοδο) και IPP ενδοφλέβια υψηλής δόσης",
+    "es": "Hemostasia endoscópica (p. ej. inyección + método térmico o mecánico) e IBP intravenoso en dosis alta"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Το Forrest Ia αντιστοιχεί σε πολύ υψηλό κίνδυνο υποτροπής (έως και >90% χωρίς θεραπεία)· απαιτεί άμεση ενδοσκοπική αιμόσταση, συνδυάζοντας συνήθως ένεση με θερμική ή μηχανική μέθοδο, μαζί με IPP ενδοφλέβια υψηλής δόσης μετά τη θεραπεία.",
+  "expl_es": "El Forrest Ia corresponde a un riesgo muy alto de recidiva (hasta >90% sin tratamiento); requiere hemostasia endoscópica inmediata, combinando habitualmente inyección con un método térmico o mecánico, junto con IBP intravenoso en dosis alta tras el tratamiento.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η παρακολούθηση χωρίς παρέμβαση αφήνει πολύ υψηλό κίνδυνο θανατηφόρας υποτροπής · <b>D</b> Η έξοδος είναι επικίνδυνη σε ενεργή αιμορραγία υψηλού κινδύνου · <b>C</b> Το IPP από στόματος μόνο δεν αντικαθιστά την αιμόσταση σε ενεργή αιμορραγία · <b>B</b> Η καθυστερημένη επανάληψη αφήνει τον ασθενή χωρίς αιμόσταση στην κρίσιμη περίοδο",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La observación sin intervención deja un riesgo muy alto de recidiva potencialmente mortal · <b>D</b> El alta es peligrosa ante hemorragia activa de alto riesgo · <b>C</b> El IBP oral solo no sustituye la hemostasia en hemorragia activa · <b>B</b> Repetir de forma diferida deja al paciente sin hemostasia en el período crítico",
+  "cite": "ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding 2021 · Harrison 21.ª ed., cap. «Gastrointestinal Bleeding»",
+  "id": "A-293"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 80,
+  "concepts": [
+   "c.path.gi.ppi_endoscopy"
+  ],
+  "topic_el": "IPP και χρόνος ενδοσκόπησης στην αιμορραγία ανώτερου πεπτικού",
+  "topic_es": "IBP y momento de la endoscopia en la hemorragia digestiva alta",
+  "stem_el": "Ασθενής με αιμοδυναμικά σταθερή υπόνοια αιμορραγίας ανώτερου πεπτικού από πιθανό πεπτικό έλκος αναμένει ενδοσκόπηση. Ποια είναι η κατάλληλη διαχείριση IPP και ο χρόνος ενδοσκόπησης;",
+  "stem_es": "Paciente hemodinámicamente estable con sospecha de hemorragia digestiva alta por probable úlcera péptica está a la espera de endoscopia. ¿Cuál es el manejo adecuado del IBP y el momento de la endoscopia?",
+  "options": [
+   {
+    "el": "IPP ενδοφλέβια υψηλής δόσης πριν την ενδοσκόπηση και ενδοσκόπηση εντός 24 ωρών μετά από αιμοδυναμική σταθεροποίηση",
+    "es": "IBP intravenoso en dosis alta antes de la endoscopia, con endoscopia dentro de las 24 horas tras la estabilización hemodinámica"
+   },
+   {
+    "el": "IPP μόνο μετά την ενδοσκόπηση, ανεξαρτήτως ευρημάτων",
+    "es": "IBP solo después de la endoscopia, independientemente de los hallazgos"
+   },
+   {
+    "el": "Καμία θεραπεία μέχρι την ενδοσκόπηση για να μην \"κρύψει\" ευρήματα",
+    "es": "Ningún tratamiento hasta la endoscopia para no \"enmascarar\" los hallazgos"
+   },
+   {
+    "el": "Αναβολή ενδοσκόπησης πέραν των 72 ωρών εφόσον ο ασθενής είναι σταθερός",
+    "es": "Diferir la endoscopia más allá de 72 horas si el paciente está estable"
+   },
+   {
+    "el": "Ενδοσκόπηση υποχρεωτικά εντός της πρώτης ώρας σε κάθε σταθερό ασθενή",
+    "es": "Endoscopia obligatoria en la primera hora en todo paciente estable"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Η IPP ενδοφλέβια υψηλής δόσης πριν την ενδοσκόπηση μπορεί να μειώσει τα υψηλού κινδύνου στίγματα αιμορραγίας και την ανάγκη ενδοσκοπικής θεραπείας· η ενδοσκόπηση συνιστάται εντός 24 ωρών μετά από επαρκή αιμοδυναμική σταθεροποίηση, όχι ως απόλυτο επείγον σε σταθερό ασθενή.",
+  "expl_es": "El IBP intravenoso en dosis alta antes de la endoscopia puede reducir los estigmas de alto riesgo y la necesidad de terapia endoscópica; la endoscopia se recomienda dentro de las 24 horas tras una estabilización hemodinámica adecuada, no como urgencia absoluta en un paciente estable.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η αποχή από IPP στερεί το όφελος της μείωσης στιγμάτων υψηλού κινδύνου πριν την ενδοσκόπηση · <b>B</b> Η καθυστέρηση του IPP μέχρι μετά την ενδοσκόπηση χάνει το προ-ενδοσκοπικό όφελος · <b>E</b> Η ενδοσκόπηση εντός 1 ώρας δεν προσφέρει επιπλέον όφελος σε σταθερό ασθενή και δεσμεύει πόρους περιττά · <b>D</b> Η υπερβολική καθυστέρηση πέραν των 24 ωρών αυξάνει τον κίνδυνο επιπλοκών και παράτασης νοσηλείας",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> Abstenerse del IBP priva del beneficio de reducir estigmas de alto riesgo antes de la endoscopia · <b>B</b> Retrasar el IBP hasta después de la endoscopia pierde el beneficio preendoscópico · <b>E</b> La endoscopia en la primera hora no aporta beneficio adicional en un paciente estable y consume recursos innecesariamente · <b>D</b> Retrasar en exceso más allá de 24 horas aumenta el riesgo de complicaciones y prolonga la hospitalización",
+  "cite": "ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding 2021 · Harrison 21.ª ed., cap. «Gastrointestinal Bleeding»",
+  "id": "A-294"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 62,
+  "concepts": [
+   "c.path.gi.forrest"
+  ],
+  "topic_el": "Ταξινόμηση Forrest — χαμηλός κίνδυνος",
+  "topic_es": "Clasificación de Forrest — bajo riesgo",
+  "stem_el": "Ενδοσκόπηση σε ασθενή με πεπτικό έλκος δείχνει καθαρή βάση χωρίς στίγματα αιμορραγίας (Forrest III). Ποια είναι η κατάλληλη αντιμετώπιση;",
+  "stem_es": "La endoscopia en un paciente con úlcera péptica muestra base limpia sin estigmas de hemorragia (Forrest III). ¿Cuál es el manejo adecuado?",
+  "options": [
+   {
+    "el": "Ενδοσκοπική θεραπεία με ένεση αδρεναλίνης προληπτικά",
+    "es": "Tratamiento endoscópico con inyección de adrenalina de forma preventiva"
+   },
+   {
+    "el": "Δεν χρειάζεται ενδοσκοπική αιμόσταση· έναρξη IPP από στόματος, πρώιμη σίτιση και εξέταση πρώιμης εξόδου",
+    "es": "No requiere hemostasia endoscópica; iniciar IBP oral, alimentación precoz y considerar alta temprana"
+   },
+   {
+    "el": "Εισαγωγή σε ΜΕΘ για 48 ώρες υποχρεωτικά",
+    "es": "Ingreso en UCI durante 48 horas de forma obligatoria"
+   },
+   {
+    "el": "Επανάληψη ενδοσκόπησης την επόμενη ημέρα για επιβεβαίωση",
+    "es": "Repetir la endoscopia al día siguiente para confirmar"
+   },
+   {
+    "el": "IPP ενδοφλέβια σε συνεχή έγχυση για 72 ώρες όπως στα υψηλού κινδύνου στίγματα",
+    "es": "IBP intravenoso en infusión continua durante 72 horas como en los estigmas de alto riesgo"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Το Forrest IIc/III (βάση χρωματισμένη ή καθαρή) έχει πολύ χαμηλό κίνδυνο υποτροπής και δεν χρειάζεται ενδοσκοπική αιμόσταση· αρκεί IPP από στόματος, πρώιμη επανασίτιση και μπορεί να εξεταστεί πρώιμη έξοδος.",
+  "expl_es": "El Forrest IIc/III (base pigmentada o limpia) tiene un riesgo muy bajo de recidiva y no requiere hemostasia endoscópica; basta con IBP oral, reinicio precoz de la alimentación y puede considerarse el alta temprana.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η προληπτική ένεση σε καθαρή βάση δεν προσφέρει όφελος και εκθέτει σε περιττό κίνδυνο · <b>C</b> Η ΜΕΘ είναι υπερβολική για ένα εύρημα πολύ χαμηλού κινδύνου · <b>D</b> Η επανάληψη ενδοσκόπησης χωρίς κλινική ένδειξη δεν αλλάζει τη διαχείριση και αυξάνει τον κίνδυνο · <b>E</b> Η συνεχής IPP έγχυση 72 ωρών προορίζεται για υψηλού κινδύνου στίγματα, όχι για καθαρή βάση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La inyección preventiva sobre una base limpia no aporta beneficio y expone a riesgo innecesario · <b>C</b> La UCI es excesiva para un hallazgo de riesgo muy bajo · <b>D</b> Repetir la endoscopia sin indicación clínica no cambia el manejo y añade riesgo · <b>E</b> La infusión continua de IBP 72 horas se reserva para estigmas de alto riesgo, no para base limpia",
+  "cite": "ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding 2021",
+  "id": "A-295"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 92,
+  "concepts": [
+   "c.path.gi.variceal_bleed"
+  ],
+  "topic_el": "Οξεία κιρσορραγία οισοφάγου — αρχική αντιμετώπιση",
+  "topic_es": "Hemorragia variceal esofágica aguda — manejo inicial",
+  "stem_el": "Ασθενής με γνωστή κίρρωση εμφανίζει αιματέμεση. Η ενδοσκόπηση θα καθυστερήσει λίγες ώρες. Ποια είναι η κατάλληλη αρχική φαρμακευτική αγωγή πριν από την ενδοσκόπηση;",
+  "stem_es": "Paciente con cirrosis conocida presenta hematemesis. La endoscopia se retrasará unas horas. ¿Cuál es el tratamiento farmacológico inicial adecuado antes de la endoscopia?",
+  "options": [
+   {
+    "el": "Αναμονή χωρίς φαρμακευτική αγωγή μέχρι την ενδοσκόπηση",
+    "es": "Esperar sin tratamiento farmacológico hasta la endoscopia"
+   },
+   {
+    "el": "Κορτικοστεροειδή ενδοφλέβια υψηλής δόσης",
+    "es": "Corticosteroides intravenosos en dosis alta"
+   },
+   {
+    "el": "Οκτρεοτίδη ή τερλιπρεσσίνη ενδοφλέβια, συν αντιβιοτική προφύλαξη (π.χ. κεφτριαξόνη)",
+    "es": "Octreotida o terlipresina intravenosa, más profilaxis antibiótica (p. ej. ceftriaxona)"
+   },
+   {
+    "el": "Β-αναστολείς ενδοφλέβια οξέως",
+    "es": "Betabloqueantes intravenosos de forma aguda"
+   },
+   {
+    "el": "Ηπαρίνη ενδοφλέβια για πρόληψη θρόμβωσης πυλαίας",
+    "es": "Heparina intravenosa para prevenir trombosis portal"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Σε πιθανή κιρσορραγία, το αγγειοδραστικό φάρμακο (τερλιπρεσσίνη, οκτρεοτίδη ή σωματοστατίνη) πρέπει να ξεκινά όσο το δυνατόν νωρίτερα, πριν την ενδοσκόπηση, μαζί με αντιβιοτική προφύλαξη, καθώς και οι δύο μειώνουν τη θνητότητα και τον κίνδυνο επανααιμορραγίας.",
+  "expl_es": "Ante sospecha de hemorragia variceal, el fármaco vasoactivo (terlipresina, octreotida o somatostatina) debe iniciarse lo antes posible, antes de la endoscopia, junto con profilaxis antibiótica, ya que ambas medidas reducen la mortalidad y el riesgo de resangrado.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η αναμονή χωρίς αγωγή χάνει το όφελος της πρώιμης αγγειοδραστικής θεραπείας στη μείωση της πυλαίας πίεσης · <b>E</b> Η ηπαρίνη δεν έχει θέση στην οξεία κιρσορραγία και επιδεινώνει την αιμορραγία · <b>B</b> Τα κορτικοστεροειδή δεν έχουν ρόλο στην κιρσορραγία, χρησιμοποιούνται σε άλλες ενδείξεις όπως η σοβαρή αλκοολική ηπατίτιδα · <b>D</b> Οι β-αναστολείς οξέως ενδοφλέβια δεν χρησιμοποιούνται στην οξεία αιμορραγία, έχουν ρόλο στην πρόληψη, όχι στο οξύ επεισόδιο",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Esperar sin tratamiento pierde el beneficio del fármaco vasoactivo precoz en reducir la presión portal · <b>E</b> La heparina no tiene lugar en la hemorragia variceal aguda y empeora el sangrado · <b>B</b> Los corticosteroides no tienen papel en la hemorragia variceal, se usan en otras indicaciones como la hepatitis alcohólica grave · <b>D</b> Los betabloqueantes intravenosos agudos no se usan en la hemorragia aguda, su papel es en la prevención, no en el episodio agudo",
+  "cite": "Baveno VII Consensus 2022 · EASL Clinical Practice Guidelines: Decompensated Cirrhosis 2018",
+  "id": "A-296"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 84,
+  "concepts": [
+   "c.path.gi.variceal_prophylaxis"
+  ],
+  "topic_el": "Πρωτογενής προφύλαξη κιρσορραγίας",
+  "topic_es": "Profilaxis primaria de la hemorragia variceal",
+  "stem_el": "Ασθενής με κίρρωση και μεσαίου/μεγάλου μεγέθους κιρσούς οισοφάγου στην ενδοσκόπηση, χωρίς προηγούμενο επεισόδιο αιμορραγίας. Ποια είναι κατάλληλη πρωτογενής προφύλαξη;",
+  "stem_es": "Paciente con cirrosis y varices esofágicas de tamaño medio/grande en la endoscopia, sin episodio previo de hemorragia. ¿Cuál es la profilaxis primaria adecuada?",
+  "options": [
+   {
+    "el": "Αντιβιοτική προφύλαξη εφ' όρου ζωής",
+    "es": "Profilaxis antibiótica de por vida"
+   },
+   {
+    "el": "Τερλιπρεσσίνη καθημερινά ενδοφλέβια στο σπίτι",
+    "es": "Terlipresina diaria intravenosa en el domicilio"
+   },
+   {
+    "el": "IPP υψηλής δόσης καθημερινά",
+    "es": "IBP en dosis alta diaria"
+   },
+   {
+    "el": "Μη εκλεκτικός β-αναστολέας (π.χ. προπρανολόλη, ναδολόλη ή καρβεδιλόλη) ή ενδοσκοπική απολίνωση με βρόχο",
+    "es": "Betabloqueante no selectivo (p. ej. propranolol, nadolol o carvedilol) o ligadura endoscópica con bandas"
+   },
+   {
+    "el": "Καμία παρέμβαση μέχρι το πρώτο επεισόδιο αιμορραγίας",
+    "es": "Ninguna intervención hasta el primer episodio de hemorragia"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Στην πρωτογενή προφύλαξη κιρσορραγίας σε κιρσούς μεσαίου/μεγάλου μεγέθους, οι επιλογές πρώτης γραμμής είναι ο μη εκλεκτικός β-αναστολέας ή η ενδοσκοπική απολίνωση με βρόχο, με ισοδύναμη αποτελεσματικότητα στη μείωση του κινδύνου πρώτης αιμορραγίας.",
+  "expl_es": "En la profilaxis primaria de la hemorragia variceal en varices de tamaño medio/grande, las opciones de primera línea son el betabloqueante no selectivo o la ligadura endoscópica con bandas, con eficacia equivalente en reducir el riesgo de primera hemorragia.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η αντιβιοτική προφύλαξη εφ' όρου ζωής δεν προλαμβάνει την κιρσορραγία, χρησιμοποιείται στο οξύ επεισόδιο ή μετά από ΑΒΠ · <b>B</b> Η τερλιπρεσσίνη χρησιμοποιείται στο οξύ επεισόδιο, όχι ως καθημερινή κατ' οίκον προφύλαξη · <b>C</b> Το IPP δεν μειώνει την πυλαία πίεση ούτε τον κίνδυνο κιρσορραγίας · <b>E</b> Η αναμονή χωρίς προφύλαξη σε κιρσούς μεσαίου/μεγάλου μεγέθους αφήνει σημαντικό κίνδυνο πρώτης αιμορραγίας που θα μπορούσε να προληφθεί",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La profilaxis antibiótica de por vida no previene la hemorragia variceal, se usa en el episodio agudo o tras una PBE · <b>B</b> La terlipresina se usa en el episodio agudo, no como profilaxis domiciliaria diaria · <b>C</b> El IBP no reduce la presión portal ni el riesgo de hemorragia variceal · <b>E</b> Esperar sin profilaxis en varices medianas/grandes deja un riesgo relevante de primera hemorragia que podría prevenirse",
+  "cite": "Baveno VII Consensus 2022 · EASL Clinical Practice Guidelines: Decompensated Cirrhosis 2018",
+  "id": "A-297"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 86,
+  "concepts": [
+   "c.path.gi.variceal_bleed"
+  ],
+  "topic_el": "Αντιβιοτική προφύλαξη στην αιμορραγία πεπτικού σε κιρρωτικό ασθενή",
+  "topic_es": "Profilaxis antibiótica en la hemorragia digestiva del paciente cirrótico",
+  "stem_el": "Κιρρωτικός ασθενής εισάγεται με αιματέμεση, ανεξαρτήτως αν η πηγή επιβεβαιωθεί ως κιρσική ή μη κιρσική. Ποιος είναι ο ρόλος της αντιβιοτικής προφύλαξης;",
+  "stem_es": "Un paciente cirrótico ingresa con hematemesis, independientemente de que la fuente se confirme como variceal o no variceal. ¿Cuál es el papel de la profilaxis antibiótica?",
+  "options": [
+   {
+    "el": "Δεν ενδείκνυται, εκτός αν υπάρχει ήδη τεκμηριωμένη λοίμωξη",
+    "es": "No está indicada, salvo que exista ya una infección documentada"
+   },
+   {
+    "el": "Ενδείκνυται μόνο σε ασθενείς με προηγούμενη αυτόματη βακτηριακή περιτονίτιδα",
+    "es": "Solo está indicada en pacientes con antecedente de peritonitis bacteriana espontánea"
+   },
+   {
+    "el": "Ενδείκνυται μόνο μετά την εμφάνιση πυρετού",
+    "es": "Solo está indicada tras la aparición de fiebre"
+   },
+   {
+    "el": "Ενδείκνυται μόνο αν η ενδοσκόπηση καθυστερήσει πάνω από 72 ώρες",
+    "es": "Solo está indicada si la endoscopia se retrasa más de 72 horas"
+   },
+   {
+    "el": "Ενδείκνυται σε κάθε κιρρωτικό ασθενή με αιμορραγία πεπτικού (π.χ. κεφτριαξόνη), καθώς μειώνει λοιμώξεις, επανααιμορραγία και θνητότητα",
+    "es": "Está indicada en todo paciente cirrótico con hemorragia digestiva (p. ej. ceftriaxona), ya que reduce infecciones, resangrado y mortalidad"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η αντιβιοτική προφύλαξη (συνήθως κεφτριαξόνη) ενδείκνυται σε κάθε κιρρωτικό ασθενή με αιμορραγία πεπτικού, ανεξαρτήτως της πηγής, καθώς αποδεδειγμένα μειώνει τις βακτηριακές λοιμώξεις, την επανααιμορραγία και τη θνητότητα.",
+  "expl_es": "La profilaxis antibiótica (habitualmente ceftriaxona) está indicada en todo paciente cirrótico con hemorragia digestiva, independientemente de la fuente, ya que reduce comprobadamente las infecciones bacterianas, el resangrado y la mortalidad.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η αναμονή για τεκμηριωμένη λοίμωξη χάνει το προληπτικό όφελος που έχει αποδειχθεί σε όλους τους κιρρωτικούς με αιμορραγία · <b>D</b> Η ένδειξη δεν εξαρτάται από τον χρόνο μέχρι την ενδοσκόπηση αλλά από την παρουσία κίρρωσης και αιμορραγίας · <b>B</b> Η ένδειξη δεν περιορίζεται σε ασθενείς με ιστορικό ΑΒΠ, αφορά όλους τους κιρρωτικούς με αιμορραγία · <b>C</b> Η αναμονή μέχρι τον πυρετό καθυστερεί το όφελος πρόληψης λοίμωξης που είναι μεγαλύτερο όταν δίνεται νωρίς",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Esperar a una infección documentada pierde el beneficio preventivo demostrado en todos los cirróticos con hemorragia · <b>D</b> La indicación no depende del tiempo hasta la endoscopia sino de la presencia de cirrosis y hemorragia · <b>B</b> La indicación no se limita a pacientes con antecedente de PBE, aplica a todos los cirróticos con hemorragia · <b>C</b> Esperar a la fiebre retrasa el beneficio preventivo, que es mayor cuando se administra precozmente",
+  "cite": "Baveno VII Consensus 2022 · EASL Clinical Practice Guidelines: Decompensated Cirrhosis 2018",
+  "id": "A-298"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 58,
+  "concepts": [
+   "c.path.gi.tips"
+  ],
+  "topic_el": "TIPS πρώιμη σε κιρσορραγία υψηλού κινδύνου",
+  "topic_es": "TIPS precoz en hemorragia variceal de alto riesgo",
+  "stem_el": "Ασθενής Child-Pugh C με ενεργό κιρσορραγία ελέγχεται αρχικά με φαρμακευτική και ενδοσκοπική θεραπεία. Ποια στρατηγική έχει δείξει όφελος επιβίωσης σε αυτόν τον υψηλού κινδύνου πληθυσμό;",
+  "stem_es": "Un paciente Child-Pugh C con hemorragia variceal activa se controla inicialmente con tratamiento farmacológico y endoscópico. ¿Qué estrategia ha mostrado beneficio de supervivencia en esta población de alto riesgo?",
+  "options": [
+   {
+    "el": "Πρώιμη τοποθέτηση διαηπατικής πυλαιοσυστηματικής διαφραγματικής παράκαμψης (TIPS) εντός 24-72 ωρών",
+    "es": "Colocación precoz de derivación portosistémica intrahepática transyugular (TIPS) en 24-72 horas"
+   },
+   {
+    "el": "Αναμονή για δεύτερο επεισόδιο αιμορραγίας πριν εξεταστεί το TIPS",
+    "es": "Esperar a un segundo episodio de hemorragia antes de considerar el TIPS"
+   },
+   {
+    "el": "Διακοπή κάθε φαρμακευτικής αγωγής μετά την πρώτη αιμόσταση",
+    "es": "Suspender todo tratamiento farmacológico tras la primera hemostasia"
+   },
+   {
+    "el": "Ηπατική μεταμόσχευση επείγουσα ως μόνη επιλογή",
+    "es": "Trasplante hepático urgente como única opción"
+   },
+   {
+    "el": "Επαναλαμβανόμενη σκληρυντική θεραπεία ως πρώτη επιλογή αντί απολίνωσης",
+    "es": "Escleroterapia repetida como primera opción en lugar de la ligadura"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Σε ασθενείς υψηλού κινδύνου (Child-Pugh C ή Β με ενεργή αιμορραγία στην ενδοσκόπηση), η πρώιμη τοποθέτηση TIPS εντός των πρώτων 24-72 ωρών μετά την αρχική σταθεροποίηση έχει δείξει μείωση της αποτυχίας ελέγχου της αιμορραγίας και βελτίωση της επιβίωσης.",
+  "expl_es": "En pacientes de alto riesgo (Child-Pugh C o B con hemorragia activa en la endoscopia), la colocación precoz de TIPS dentro de las primeras 24-72 horas tras la estabilización inicial ha mostrado reducir el fracaso del control de la hemorragia y mejorar la supervivencia.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η αναμονή για δεύτερο επεισόδιο χάνει το όφελος επιβίωσης της πρώιμης στρατηγικής σε αυτόν τον υψηλού κινδύνου πληθυσμό · <b>C</b> Η διακοπή φαρμάκων αυξάνει τον κίνδυνο υποτροπής, δεν αντικαθιστά το TIPS · <b>D</b> Η επείγουσα μεταμόσχευση δεν είναι εφικτή ούτε πρώτης γραμμής στην οξεία φάση, το TIPS είναι γέφυρα · <b>E</b> Η ενδοσκοπική απολίνωση με βρόχο έχει αντικαταστήσει τη σκληρυντική θεραπεία ως προτιμώμενη ενδοσκοπική τεχνική",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> Esperar a un segundo episodio pierde el beneficio de supervivencia de la estrategia precoz en esta población de alto riesgo · <b>C</b> Suspender los fármacos aumenta el riesgo de recidiva, no sustituye al TIPS · <b>D</b> El trasplante urgente no es factible ni de primera línea en la fase aguda, el TIPS actúa como puente · <b>E</b> La ligadura endoscópica con bandas ha reemplazado a la escleroterapia como técnica endoscópica preferida",
+  "cite": "Baveno VII Consensus 2022 · EASL Clinical Practice Guidelines: Decompensated Cirrhosis 2018",
+  "id": "A-299"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 75,
+  "concepts": [
+   "c.path.gi.gerd"
+  ],
+  "topic_el": "Διάγνωση ΓΟΠΝ — εμπειρική δοκιμασία IPP έναντι ενδοσκόπησης",
+  "topic_es": "Diagnóstico de ERGE — prueba empírica con IBP frente a endoscopia",
+  "stem_el": "Γυναίκα 38 ετών με τυπικά συμπτώματα καούρας και παλινδρόμησης 6 μηνών, χωρίς δυσφαγία, απώλεια βάρους, αναιμία ή αιμορραγία. Ποια είναι η κατάλληλη αρχική προσέγγιση;",
+  "stem_es": "Mujer de 38 años con síntomas típicos de pirosis y regurgitación de 6 meses, sin disfagia, pérdida de peso, anemia ni sangrado. ¿Cuál es el abordaje inicial adecuado?",
+  "options": [
+   {
+    "el": "Ενδοσκόπηση άνω πεπτικού πριν από κάθε θεραπεία",
+    "es": "Endoscopia digestiva alta antes de cualquier tratamiento"
+   },
+   {
+    "el": "Εμπειρική δοκιμασία IPP για 4-8 εβδομάδες χωρίς προηγούμενη ενδοσκόπηση",
+    "es": "Prueba empírica con IBP durante 4-8 semanas sin endoscopia previa"
+   },
+   {
+    "el": "24ωρη pH-μετρία πριν από οποιαδήποτε θεραπεία",
+    "es": "pHmetría de 24 horas antes de cualquier tratamiento"
+   },
+   {
+    "el": "Μανομετρία οισοφάγου ως πρώτο βήμα",
+    "es": "Manometría esofágica como primer paso"
+   },
+   {
+    "el": "CT κοιλίας ως πρώτη εξέταση",
+    "es": "TC de abdomen como primera prueba"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Σε τυπικά συμπτώματα ΓΟΠΝ χωρίς σημεία επικινδυνότητας, η κατάλληλη αρχική προσέγγιση είναι εμπειρική δοκιμασία IPP για 4-8 εβδομάδες· η ενδοσκόπηση επιφυλάσσεται για επίμονα συμπτώματα, σημεία επικινδυνότητας ή ηλικία άνω των 60 ετών με νέα συμπτώματα.",
+  "expl_es": "Ante síntomas típicos de ERGE sin signos de alarma, el abordaje inicial adecuado es una prueba empírica con IBP durante 4-8 semanas; la endoscopia se reserva para síntomas persistentes, signos de alarma o edad mayor de 60 años con síntomas nuevos.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η ενδοσκόπηση δεν είναι απαραίτητη πριν την πρώτη θεραπεία σε τυπικά συμπτώματα χωρίς σημεία επικινδυνότητας · <b>C</b> Η pH-μετρία επιφυλάσσεται για επίμονα συμπτώματα παρά τη θεραπεία ή πριν από χειρουργική διόρθωση · <b>D</b> Η μανομετρία αξιολογεί κινητικότητα, όχι πρώτο βήμα σε τυπική ΓΟΠΝ · <b>E</b> Η CT κοιλίας δεν έχει ρόλο στη διάγνωση τυπικής ΓΟΠΝ",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La endoscopia no es necesaria antes del primer tratamiento en síntomas típicos sin signos de alarma · <b>C</b> La pHmetría se reserva para síntomas persistentes pese al tratamiento o previo a corrección quirúrgica · <b>D</b> La manometría evalúa motilidad, no es el primer paso en la ERGE típica · <b>E</b> La TC de abdomen no tiene papel en el diagnóstico de la ERGE típica",
+  "cite": "Harrison 21.ª ed., cap. «Approach to the Patient with Esophageal Disease» · Davidson's 24.ª ed. — cap. «Gastroenterology»",
+  "id": "A-300"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 76,
+  "concepts": [
+   "c.path.gi.barrett"
+  ],
+  "topic_el": "Ενδοσκοπική παρακολούθηση οισοφάγου Barrett",
+  "topic_es": "Vigilancia endoscópica del esófago de Barrett",
+  "stem_el": "Ασθενής με οισοφάγο Barrett χωρίς δυσπλασία στη βιοψία, επιβεβαιωμένο σε δύο διαδοχικές ενδοσκοπήσεις. Ποιο είναι το κατάλληλο διάστημα παρακολούθησης;",
+  "stem_es": "Paciente con esófago de Barrett sin displasia en la biopsia, confirmado en dos endoscopias sucesivas. ¿Cuál es el intervalo de vigilancia adecuado?",
+  "options": [
+   {
+    "el": "Καμία περαιτέρω παρακολούθηση απαιτείται",
+    "es": "No se requiere más vigilancia"
+   },
+   {
+    "el": "Άμεση ενδοσκοπική εκρίζωση (π.χ. ραδιοσυχνοτική κατάλυση)",
+    "es": "Erradicación endoscópica inmediata (p. ej. ablación por radiofrecuencia)"
+   },
+   {
+    "el": "Ενδοσκόπηση κάθε 3-5 έτη",
+    "es": "Endoscopia cada 3-5 años"
+   },
+   {
+    "el": "Οισοφαγεκτομή προληπτικά",
+    "es": "Esofagectomía preventiva"
+   },
+   {
+    "el": "Ενδοσκόπηση κάθε 6 μήνες εφ' όρου ζωής",
+    "es": "Endoscopia cada 6 meses de por vida"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Στο Barrett χωρίς δυσπλασία, ο κίνδυνος εξέλιξης σε αδενοκαρκίνωμα είναι χαμηλός· η συνιστώμενη παρακολούθηση είναι ενδοσκόπηση με βιοψίες κάθε 3-5 έτη, όχι πιο συχνά ούτε διακοπή της παρακολούθησης.",
+  "expl_es": "En el Barrett sin displasia, el riesgo de progresión a adenocarcinoma es bajo; la vigilancia recomendada es endoscopia con biopsias cada 3-5 años, ni con mayor frecuencia ni suspendiendo la vigilancia.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η παρακολούθηση κάθε 6 μήνες προορίζεται για υψηλότερου βαθμού δυσπλασία, όχι για απουσία δυσπλασίας · <b>A</b> Η διακοπή παρακολούθησης αγνοεί τον υπολειπόμενο, έστω χαμηλό, κίνδυνο εξαλλαγής · <b>B</b> Η εκρίζωση επιφυλάσσεται για δυσπλασία, όχι για Barrett χωρίς δυσπλασία · <b>D</b> Η οισοφαγεκτομή είναι δυσανάλογη για χαμηλού κινδύνου νόσο χωρίς δυσπλασία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> La vigilancia cada 6 meses se reserva para displasia de mayor grado, no para ausencia de displasia · <b>A</b> Suspender la vigilancia ignora el riesgo residual, aunque bajo, de progresión maligna · <b>B</b> La erradicación se reserva para la displasia, no para el Barrett sin displasia · <b>D</b> La esofagectomía es desproporcionada para enfermedad de bajo riesgo sin displasia",
+  "cite": "ACG Clinical Guideline: Diagnosis and Management of Barrett's Esophagus 2022",
+  "id": "A-301"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 74,
+  "concepts": [
+   "c.path.gi.barrett"
+  ],
+  "topic_el": "Barrett με δυσπλασία υψηλού βαθμού",
+  "topic_es": "Barrett con displasia de alto grado",
+  "stem_el": "Βιοψία σε ασθενή με οισοφάγο Barrett επιβεβαιώνει δυσπλασία υψηλού βαθμού, επιβεβαιωμένη από δεύτερο παθολογοανατόμο. Ποια είναι η κατάλληλη αντιμετώπιση;",
+  "stem_es": "La biopsia en un paciente con esófago de Barrett confirma displasia de alto grado, verificada por un segundo patólogo. ¿Cuál es el manejo adecuado?",
+  "options": [
+   {
+    "el": "Απλή παρακολούθηση κάθε 3-5 έτη όπως στο Barrett χωρίς δυσπλασία",
+    "es": "Vigilancia simple cada 3-5 años como en el Barrett sin displasia"
+   },
+   {
+    "el": "IPP υψηλής δόσης ως μόνη θεραπεία",
+    "es": "IBP en dosis alta como único tratamiento"
+   },
+   {
+    "el": "Καμία ενέργεια μέχρι εμφάνιση συμπτωμάτων δυσφαγίας",
+    "es": "Ninguna acción hasta que aparezcan síntomas de disfagia"
+   },
+   {
+    "el": "Ενδοσκοπική θεραπεία εκρίζωσης (ενδοσκοπική βλεννογονεκτομή εστιακών βλαβών συν ραδιοσυχνοτική κατάλυση)",
+    "es": "Tratamiento endoscópico de erradicación (resección endoscópica mucosa de lesiones focales más ablación por radiofrecuencia)"
+   },
+   {
+    "el": "Χημειοθεραπεία συστηματική χωρίς τοπική θεραπεία",
+    "es": "Quimioterapia sistémica sin tratamiento local"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η δυσπλασία υψηλού βαθμού στο Barrett έχει σημαντικό κίνδυνο εξέλιξης σε αδενοκαρκίνωμα και συνιστάται ενδοσκοπική θεραπεία εκρίζωσης (εκτομή εστιακών βλαβών και κατάλυση του υπολειπόμενου Barrett), που έχει αντικαταστήσει την οισοφαγεκτομή ως προτιμώμενη προσέγγιση σε επιλεγμένους ασθενείς.",
+  "expl_es": "La displasia de alto grado en el Barrett conlleva un riesgo significativo de progresión a adenocarcinoma y se recomienda tratamiento endoscópico de erradicación (resección de lesiones focales y ablación del Barrett residual), que ha reemplazado a la esofagectomía como abordaje preferido en pacientes seleccionados.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η απλή παρακολούθηση υποεκτιμά τον κίνδυνο εξαλλαγής της δυσπλασίας υψηλού βαθμού · <b>B</b> Το IPP ελέγχει συμπτώματα αλλά δεν εκριζώνει τη δυσπλαστική βλάβη · <b>C</b> Η αναμονή για συμπτώματα επιτρέπει εξέλιξη σε διηθητικό καρκίνωμα · <b>E</b> Η συστηματική χημειοθεραπεία δεν είναι η αρχική θεραπεία για εντοπισμένη δυσπλασία χωρίς διήθηση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La vigilancia simple subestima el riesgo de progresión maligna de la displasia de alto grado · <b>B</b> El IBP controla síntomas pero no erradica la lesión displásica · <b>C</b> Esperar a los síntomas permite la progresión a carcinoma invasor · <b>E</b> La quimioterapia sistémica no es el tratamiento inicial para displasia localizada sin invasión",
+  "cite": "ACG Clinical Guideline: Diagnosis and Management of Barrett's Esophagus 2022",
+  "id": "A-302"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 55,
+  "concepts": [
+   "c.path.gi.gerd"
+  ],
+  "topic_el": "ΓΟΠΝ ανθεκτική στο IPP",
+  "topic_es": "ERGE refractaria al IBP",
+  "stem_el": "Ασθενής με επίμονη καούρα παρά τη διπλή δόση IPP για 8 εβδομάδες, με φυσιολογική ενδοσκόπηση. Ποιο είναι το κατάλληλο επόμενο βήμα πριν εξεταστεί χειρουργική αντιμετώπιση;",
+  "stem_es": "Paciente con pirosis persistente pese a doble dosis de IBP durante 8 semanas, con endoscopia normal. ¿Cuál es el siguiente paso adecuado antes de considerar el tratamiento quirúrgico?",
+  "options": [
+   {
+    "el": "Θεραπεία εκρίζωσης H. pylori εμπειρικά",
+    "es": "Tratamiento empírico de erradicación de H. pylori"
+   },
+   {
+    "el": "Άμεση αντιπαλινδρομική χειρουργική επέμβαση χωρίς περαιτέρω έλεγχο",
+    "es": "Cirugía antirreflujo inmediata sin más estudio"
+   },
+   {
+    "el": "Διπλασιασμός και πάλι της δόσης IPP επ' αόριστον χωρίς περαιτέρω μελέτη",
+    "es": "Duplicar de nuevo la dosis de IBP indefinidamente sin más estudio"
+   },
+   {
+    "el": "CT θώρακος ως επόμενο βήμα",
+    "es": "TC de tórax como siguiente paso"
+   },
+   {
+    "el": "24ωρη pH-μετρία ή pH-εμπέδηση, κατά προτίμηση εκτός IPP, για επιβεβαίωση παθολογικής έκθεσης σε οξύ",
+    "es": "pHmetría o pH-impedanciometría de 24 horas, idealmente sin IBP, para confirmar exposición ácida patológica"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Σε ανθεκτικά συμπτώματα παρά το IPP με φυσιολογική ενδοσκόπηση, πρέπει να επιβεβαιωθεί ότι πρόκειται πράγματι για παθολογική έκθεση σε οξύ πριν από οποιαδήποτε επεμβατική θεραπεία, με pH-μετρία ή pH-εμπέδηση, κατά προτίμηση εκτός IPP.",
+  "expl_es": "Ante síntomas refractarios pese al IBP con endoscopia normal, debe confirmarse que realmente existe exposición ácida patológica antes de cualquier tratamiento invasivo, mediante pHmetría o pH-impedanciometría, idealmente sin IBP.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η περαιτέρω αύξηση δόσης χωρίς επιβεβαίωση της αιτίας δεν είναι λογική επόμενη κίνηση · <b>B</b> Η χειρουργική επέμβαση χωρίς αντικειμενική επιβεβαίωση παθολογικού οξέος κινδυνεύει να μην ωφελήσει ασθενή χωρίς πραγματική ΓΟΠΝ · <b>A</b> Η εκρίζωση H. pylori δεν σχετίζεται με τη βελτίωση ανθεκτικών συμπτωμάτων ΓΟΠΝ · <b>D</b> Η CT θώρακος δεν διευκρινίζει την παθοφυσιολογία της ανθεκτικής παλινδρόμησης",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> Aumentar aún más la dosis sin confirmar la causa no es el siguiente paso lógico · <b>B</b> La cirugía sin confirmación objetiva de ácido patológico arriesga no beneficiar a un paciente sin ERGE real · <b>A</b> La erradicación de H. pylori no se relaciona con la mejoría de síntomas refractarios de ERGE · <b>D</b> La TC de tórax no aclara la fisiopatología del reflujo refractario",
+  "cite": "Harrison 21.ª ed., cap. «Approach to the Patient with Esophageal Disease»",
+  "id": "A-303"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 70,
+  "concepts": [
+   "c.path.gi.achalasia"
+  ],
+  "topic_el": "Διάγνωση αχαλασίας",
+  "topic_es": "Diagnóstico de acalasia",
+  "stem_el": "Ασθενής 45 ετών με προοδευτική δυσφαγία σε στερεά και υγρά επί μήνες, με παλινδρόμηση μη χωνεμένης τροφής και απώλεια βάρους. Η ενδοσκόπηση είναι φυσιολογική χωρίς μηχανική απόφραξη. Ποια εξέταση επιβεβαιώνει τη διάγνωση;",
+  "stem_es": "Paciente de 45 años con disfagia progresiva a sólidos y líquidos de meses de evolución, con regurgitación de alimento no digerido y pérdida de peso. La endoscopia es normal sin obstrucción mecánica. ¿Qué prueba confirma el diagnóstico?",
+  "options": [
+   {
+    "el": "Μανομετρία υψηλής ευκρίνειας δείχνει απουσία περισταλτισμού με ελλιπή χάλαση του κατώτερου οισοφαγικού σφιγκτήρα",
+    "es": "Manometría de alta resolución que muestra ausencia de peristaltismo con relajación incompleta del esfínter esofágico inferior"
+   },
+   {
+    "el": "24ωρη pH-μετρία με αυξημένη έκθεση σε οξύ",
+    "es": "pHmetría de 24 horas con exposición ácida aumentada"
+   },
+   {
+    "el": "Απλή ακτινογραφία θώρακος",
+    "es": "Radiografía simple de tórax"
+   },
+   {
+    "el": "Ορολογικός έλεγχος αντισωμάτων κατά ιστικής τρανσγλουταμινάσης",
+    "es": "Serología de anticuerpos antitransglutaminasa tisular"
+   },
+   {
+    "el": "Δοκιμασία αναπνοής υδρογόνου με γλυκόζη",
+    "es": "Test de aliento con hidrógeno tras glucosa"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Μετά τον αποκλεισμό μηχανικής απόφραξης ή ψευδοαχαλασίας με ενδοσκόπηση, η μανομετρία υψηλής ευκρίνειας είναι η εξέταση αναφοράς, δείχνοντας απουσία περισταλτισμού και ελλιπή χάλαση του κατώτερου οισοφαγικού σφιγκτήρα (ταξινόμηση Chicago).",
+  "expl_es": "Tras excluir obstrucción mecánica o pseudoacalasia con endoscopia, la manometría de alta resolución es la prueba de referencia, mostrando ausencia de peristaltismo y relajación incompleta del esfínter esofágico inferior (clasificación de Chicago).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η pH-μετρία αξιολογεί παλινδρόμηση οξέος, όχι κινητικότητα, και δεν είναι διαγνωστική για αχαλασία · <b>D</b> Η ορολογία κοιλιοκάκης αφορά εντεροπάθεια από γλουτένη, άσχετη με τη δυσλειτουργία του σφιγκτήρα · <b>C</b> Η απλή ακτινογραφία δεν έχει ευαισθησία για διάγνωση κινητικής διαταραχής · <b>E</b> Η δοκιμασία υδρογόνου διερευνά βακτηριακή υπερανάπτυξη, άσχετη με την αχαλασία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> La pHmetría evalúa reflujo ácido, no motilidad, y no es diagnóstica de acalasia · <b>D</b> La serología de celiaquía evalúa enteropatía por gluten, ajena a la disfunción del esfínter · <b>C</b> La radiografía simple no tiene sensibilidad para diagnosticar un trastorno motor · <b>E</b> El test de hidrógeno estudia sobrecrecimiento bacteriano, ajeno a la acalasia",
+  "cite": "Harrison 21.ª ed., cap. «Approach to the Patient with Esophageal Disease» · ACG Clinical Guideline: Diagnosis and Management of Achalasia 2020",
+  "id": "A-304"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 55,
+  "concepts": [
+   "c.path.gi.achalasia"
+  ],
+  "topic_el": "Θεραπεία αχαλασίας",
+  "topic_es": "Tratamiento de la acalasia",
+  "stem_el": "Ασθενής με επιβεβαιωμένη αχαλασία τύπου II στη μανομετρία, κατάλληλος για επεμβατική θεραπεία. Ποιες είναι οι αποδεκτές επιλογές πρώτης γραμμής;",
+  "stem_es": "Paciente con acalasia tipo II confirmada por manometría, candidato a tratamiento invasivo. ¿Cuáles son las opciones aceptadas de primera línea?",
+  "options": [
+   {
+    "el": "Μακροχρόνια θεραπεία με IPP ως οριστική λύση",
+    "es": "Tratamiento prolongado con IBP como solución definitiva"
+   },
+   {
+    "el": "Πνευμονικός διατασισμός, λαπαροσκοπική μυοτομή Heller με αντιπαλινδρομική τεχνική, ή περιστοματική ενδοσκοπική μυοτομή (POEM)",
+    "es": "Dilatación neumática, miotomía de Heller laparoscópica con técnica antirreflujo, o miotomía endoscópica peroral (POEM)"
+   },
+   {
+    "el": "Θεραπεία εκρίζωσης H. pylori",
+    "es": "Tratamiento de erradicación de H. pylori"
+   },
+   {
+    "el": "Αντιχολινεργικά φάρμακα ως μόνη θεραπεία μακροχρόνια",
+    "es": "Anticolinérgicos como único tratamiento a largo plazo"
+   },
+   {
+    "el": "Παρακολούθηση χωρίς θεραπεία μέχρι πλήρη απόφραξη",
+    "es": "Observación sin tratamiento hasta obstrucción completa"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Οι αναγνωρισμένες επεμβατικές επιλογές για αχαλασία είναι ο πνευμονικός διατασισμός, η λαπαροσκοπική μυοτομή Heller (συνήθως με μερική αντιπαλινδρομική τεχνική) και η POEM, με επιλογή εξατομικευμένη στον τύπο αχαλασίας και τα χαρακτηριστικά του ασθενούς.",
+  "expl_es": "Las opciones invasivas reconocidas para la acalasia son la dilatación neumática, la miotomía de Heller laparoscópica (habitualmente con técnica antirreflujo parcial) y la POEM, con elección individualizada según el tipo de acalasia y las características del paciente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Το IPP ελέγχει μόνο τη συνοδό οξύτητα αλλά δεν διορθώνει τη νευρομυϊκή βλάβη του κατώτερου σφιγκτήρα, δεν είναι οριστική λύση · <b>C</b> Η εκρίζωση H. pylori δεν σχετίζεται παθοφυσιολογικά με την αχαλασία · <b>D</b> Τα αντιχολινεργικά έχουν περιορισμένη και παροδική αποτελεσματικότητα, δεν είναι οριστική θεραπεία · <b>E</b> Η αναμονή χωρίς θεραπεία επιτρέπει προοδευτική διάταση οισοφάγου και υποθρεψία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El IBP solo controla la acidez asociada pero no corrige el daño neuromuscular del esfínter inferior, no es una solución definitiva · <b>C</b> La erradicación de H. pylori no se relaciona fisiopatológicamente con la acalasia · <b>D</b> Los anticolinérgicos tienen eficacia limitada y transitoria, no son tratamiento definitivo · <b>E</b> Esperar sin tratamiento permite dilatación esofágica progresiva y desnutrición",
+  "cite": "ACG Clinical Guideline: Diagnosis and Management of Achalasia 2020",
+  "id": "A-305"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 60,
+  "concepts": [
+   "c.path.gi.eoe"
+  ],
+  "topic_el": "Ηωσινοφιλική οισοφαγίτιδα",
+  "topic_es": "Esofagitis eosinofílica",
+  "stem_el": "Άνδρας 28 ετών με ιστορικό ατοπίας εμφανίζει επεισόδιο εμπλοκής τροφής στον οισοφάγο. Η ενδοσκόπηση δείχνει δακτυλίους και αύλακες, οι βιοψίες αποκαλύπτουν ≥15 ηωσινόφιλα ανά οπτικό πεδίο μεγάλης μεγέθυνσης. Ποια είναι η κατάλληλη αρχική θεραπεία;",
+  "stem_es": "Varón de 28 años con antecedente de atopia presenta un episodio de impactación alimentaria esofágica. La endoscopia muestra anillos y surcos, las biopsias revelan ≥15 eosinófilos por campo de gran aumento. ¿Cuál es el tratamiento inicial adecuado?",
+  "options": [
+   {
+    "el": "Χειρουργική διαστολή χωρίς φαρμακευτική αγωγή",
+    "es": "Dilatación quirúrgica sin tratamiento farmacológico"
+   },
+   {
+    "el": "Χημειοθεραπεία συστηματική",
+    "es": "Quimioterapia sistémica"
+   },
+   {
+    "el": "Δοκιμασία IPP σε υψηλή δόση για 8 εβδομάδες, με επαναληπτική ενδοσκόπηση/βιοψία",
+    "es": "Prueba con IBP en dosis alta durante 8 semanas, con endoscopia/biopsia de reevaluación"
+   },
+   {
+    "el": "Καμία θεραπεία, μόνο αποφυγή στερεών τροφών οριστικά",
+    "es": "Ningún tratamiento, solo evitar sólidos de forma definitiva"
+   },
+   {
+    "el": "Αντιβίωση ευρέος φάσματος εμπειρικά",
+    "es": "Antibiótico de amplio espectro empírico"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η αρχική θεραπεία της ηωσινοφιλικής οισοφαγίτιδας περιλαμβάνει δοκιμασία IPP υψηλής δόσης για 8 εβδομάδες με επαναληπτική βιοψία, καθώς σημαντικό ποσοστό ασθενών ανταποκρίνεται· σε μη ανταπόκριση ακολουθούν τοπικά κορτικοστεροειδή ή δίαιτα αποκλεισμού.",
+  "expl_es": "El tratamiento inicial de la esofagitis eosinofílica incluye una prueba con IBP en dosis alta durante 8 semanas con biopsia de reevaluación, ya que una proporción significativa de pacientes responde; ante la falta de respuesta siguen los corticoides tópicos o la dieta de eliminación.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Δεν πρόκειται για βακτηριακή λοίμωξη, η αντιβίωση δεν έχει ρόλο · <b>A</b> Η διαστολή χωρίς αντιφλεγμονώδη θεραπεία δεν αντιμετωπίζει την υποκείμενη φλεγμονή και έχει αυξημένο κίνδυνο ρήξης σε ενεργή νόσο · <b>B</b> Δεν πρόκειται για κακοήθεια, η χημειοθεραπεία δεν ενδείκνυται · <b>D</b> Η αυστηρή αποφυγή χωρίς φαρμακευτική δοκιμή στερεί την ευκαιρία ανταπόκρισης στο IPP και επιβαρύνει άσκοπα την ποιότητα ζωής",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> No se trata de una infección bacteriana, el antibiótico no tiene papel · <b>A</b> La dilatación sin tratamiento antiinflamatorio no aborda la inflamación subyacente y tiene mayor riesgo de perforación en enfermedad activa · <b>B</b> No se trata de una neoplasia, la quimioterapia no está indicada · <b>D</b> Evitar sólidos de forma estricta sin prueba farmacológica priva de la oportunidad de respuesta al IBP y perjudica la calidad de vida innecesariamente",
+  "cite": "ACG Clinical Guideline: Eosinophilic Esophagitis 2020",
+  "id": "A-306"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 89,
+  "concepts": [
+   "c.path.gi.pancreatitis_atlanta"
+  ],
+  "topic_el": "Διαγνωστικά κριτήρια οξείας παγκρεατίτιδας — Atlanta 2012",
+  "topic_es": "Criterios diagnósticos de pancreatitis aguda — Atlanta 2012",
+  "stem_el": "Ασθενής με έντονο επιγαστρικό πόνο που ακτινοβολεί στη ράχη, λιπάση 4 φορές το ανώτερο φυσιολογικό όριο, χωρίς ακόμη απεικόνιση. Σύμφωνα με την αναθεωρημένη ταξινόμηση Atlanta 2012, τι απαιτείται για τη διάγνωση οξείας παγκρεατίτιδας;",
+  "stem_es": "Paciente con dolor epigástrico intenso irradiado a la espalda, lipasa 4 veces el límite superior normal, sin imagen todavía. Según la clasificación revisada de Atlanta 2012, ¿qué se requiere para el diagnóstico de pancreatitis aguda?",
+  "options": [
+   {
+    "el": "Και τα τρία κριτήρια ταυτόχρονα: πόνος, ενζυμική αύξηση και απεικόνιση",
+    "es": "Los tres criterios simultáneamente: dolor, elevación enzimática e imagen"
+   },
+   {
+    "el": "Η διάγνωση απαιτεί οπωσδήποτε CT με σκιαγραφικό στην εισαγωγή",
+    "es": "El diagnóstico requiere obligatoriamente TC con contraste al ingreso"
+   },
+   {
+    "el": "Απαιτείται πάντα βιοψία παγκρέατος για επιβεβαίωση",
+    "es": "Siempre se requiere biopsia pancreática para confirmar"
+   },
+   {
+    "el": "Δύο από τα τρία: τυπικός κοιλιακός πόνος, λιπάση/αμυλάση >3x ανώτερο φυσιολογικό όριο, ή απεικονιστικά ευρήματα συμβατά με παγκρεατίτιδα — ο ασθενής ήδη πληροί τα κριτήρια",
+    "es": "Dos de los tres: dolor abdominal típico, lipasa/amilasa >3 veces el límite superior normal, o hallazgos de imagen compatibles con pancreatitis — el paciente ya cumple los criterios"
+   },
+   {
+    "el": "Μόνο η απεικόνιση είναι απαραίτητη, τα ένζυμα δεν αρκούν",
+    "es": "Solo la imagen es necesaria, las enzimas no bastan"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Κατά την Atlanta 2012, η διάγνωση οξείας παγκρεατίτιδας απαιτεί δύο από τα τρία: τυπικό κοιλιακό πόνο, ενζυμική αύξηση >3x το ανώτερο φυσιολογικό όριο, ή απεικονιστικά ευρήματα· ο ασθενής με πόνο και λιπάση 4x πληροί ήδη δύο κριτήρια, χωρίς να απαιτείται απεικόνιση.",
+  "expl_es": "Según Atlanta 2012, el diagnóstico de pancreatitis aguda requiere dos de tres: dolor típico, elevación enzimática >3 veces el límite superior normal, o hallazgos de imagen; el paciente con dolor y lipasa 4x ya cumple dos criterios, sin necesitar imagen.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Δεν απαιτούνται και τα τρία κριτήρια ταυτόχρονα, αρκούν δύο από τα τρία · <b>E</b> Τα ένζυμα >3x αρκούν από μόνα τους ως ένα από τα δύο απαιτούμενα κριτήρια · <b>C</b> Η βιοψία δεν χρειάζεται για τη ρουτίνα διάγνωση οξείας παγκρεατίτιδας · <b>B</b> Η CT δεν είναι απαραίτητη στην εισαγωγή όταν ήδη πληρούνται κλινικά και εργαστηριακά κριτήρια, επιφυλάσσεται για αμφίβολες περιπτώσεις ή επιπλοκές",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> No se requieren los tres criterios a la vez, bastan dos de tres · <b>E</b> Las enzimas >3x bastan por sí solas como uno de los dos criterios requeridos · <b>C</b> La biopsia no es necesaria para el diagnóstico rutinario de pancreatitis aguda · <b>B</b> La TC no es obligatoria al ingreso cuando ya se cumplen los criterios clínicos y analíticos, se reserva para casos dudosos o complicaciones",
+  "cite": "Atlanta Classification 2012 (revised) · Harrison 21.ª ed., cap. «Acute and Chronic Pancreatitis»",
+  "id": "A-307"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 83,
+  "concepts": [
+   "c.path.gi.pancreatitis_severity"
+  ],
+  "topic_el": "Ταξινόμηση βαρύτητας οξείας παγκρεατίτιδας — Atlanta 2012",
+  "topic_es": "Clasificación de gravedad de la pancreatitis aguda — Atlanta 2012",
+  "stem_el": "Ασθενής με οξεία παγκρεατίτιδα εμφανίζει νεφρική ανεπάρκεια που επιμένει πάνω από 48 ώρες παρά την ενυδάτωση. Πώς ταξινομείται κατά Atlanta 2012;",
+  "stem_es": "Paciente con pancreatitis aguda presenta insuficiencia renal que persiste más de 48 horas pese a la hidratación. ¿Cómo se clasifica según Atlanta 2012?",
+  "options": [
+   {
+    "el": "Χρόνια παγκρεατίτιδα με οξεία έξαρση",
+    "es": "Pancreatitis crónica con brote agudo"
+   },
+   {
+    "el": "Δεν ταξινομείται μέχρι την έξοδο από το νοσοκομείο",
+    "es": "No se clasifica hasta el alta hospitalaria"
+   },
+   {
+    "el": "Μετρίως σοβαρή παγκρεατίτιδα (παροδική οργανική ανεπάρκεια <48 ώρες)",
+    "es": "Pancreatitis moderadamente grave (falla orgánica transitoria <48 horas)"
+   },
+   {
+    "el": "Ήπια παγκρεατίτιδα",
+    "es": "Pancreatitis leve"
+   },
+   {
+    "el": "Σοβαρή παγκρεατίτιδα (επίμονη οργανική ανεπάρκεια >48 ώρες)",
+    "es": "Pancreatitis grave (falla orgánica persistente >48 horas)"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η αναθεωρημένη ταξινόμηση Atlanta 2012 ορίζει τη σοβαρή παγκρεατίτιδα ως επίμονη οργανική ανεπάρκεια (καρδιαγγειακή, αναπνευστική ή νεφρική) που διαρκεί περισσότερο από 48 ώρες, σε αντίθεση με τη μετρίως σοβαρή όπου η ανεπάρκεια είναι παροδική.",
+  "expl_es": "La clasificación revisada de Atlanta 2012 define la pancreatitis grave como falla orgánica persistente (cardiovascular, respiratoria o renal) que dura más de 48 horas, a diferencia de la moderadamente grave, donde la falla es transitoria.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η ήπια μορφή δεν έχει καμία οργανική ανεπάρκεια ούτε τοπικές επιπλοκές · <b>C</b> Η μετρίως σοβαρή αφορά ανεπάρκεια που υποχωρεί εντός 48 ωρών, όχι επίμονη · <b>A</b> Δεν περιγράφεται προϋπάρχουσα χρόνια παγκρεατίτιδα σε αυτό το σενάριο · <b>B</b> Η ταξινόμηση βασίζεται στην κλινική πορεία των πρώτων ημερών, όχι στην έξοδο από το νοσοκομείο",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> La forma leve no presenta ninguna falla orgánica ni complicaciones locales · <b>C</b> La moderadamente grave implica falla que se resuelve en menos de 48 horas, no persistente · <b>A</b> No se describe pancreatitis crónica previa en este escenario · <b>B</b> La clasificación se basa en la evolución clínica de los primeros días, no en el momento del alta",
+  "cite": "Atlanta Classification 2012 (revised)",
+  "id": "A-308"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 80,
+  "concepts": [
+   "c.path.gi.pancreatitis_fluids"
+  ],
+  "topic_el": "Ενδοφλέβια ενυδάτωση στην οξεία παγκρεατίτιδα",
+  "topic_es": "Fluidoterapia intravenosa en la pancreatitis aguda",
+  "stem_el": "Ασθενής με οξεία παγκρεατίτιδα εισάγεται εντός των πρώτων ωρών. Ποια είναι η σύγχρονη συνιστώμενη στρατηγική ενυδάτωσης;",
+  "stem_es": "Paciente con pancreatitis aguda ingresa dentro de las primeras horas. ¿Cuál es la estrategia de hidratación actualmente recomendada?",
+  "options": [
+   {
+    "el": "Στοχευμένη, μετρίως επιθετική ενυδάτωση με κρυσταλλοειδή (π.χ. διάλυμα Ringer γαλακτικού), με επανεκτίμηση κλινικών παραμέτρων",
+    "es": "Hidratación dirigida y moderadamente agresiva con cristaloides (p. ej. Ringer lactato), con reevaluación de parámetros clínicos"
+   },
+   {
+    "el": "Πολύ επιθετική ενυδάτωση χωρίς όριο, όσο πιο γρήγορα τόσο καλύτερα",
+    "es": "Hidratación muy agresiva sin límite, cuanto más rápido mejor"
+   },
+   {
+    "el": "Αποκλειστικά κολλοειδή διαλύματα ως πρώτη επιλογή",
+    "es": "Exclusivamente coloides como primera elección"
+   },
+   {
+    "el": "Περιορισμός υγρών στο ελάχιστο δυνατό ανεξαρτήτως αιμοδυναμικής κατάστασης",
+    "es": "Restricción de líquidos al mínimo posible independientemente del estado hemodinámico"
+   },
+   {
+    "el": "Καμία ενδοφλέβια ενυδάτωση αν ο ασθενής ανέχεται από στόματος υγρά",
+    "es": "Ninguna hidratación intravenosa si el paciente tolera líquidos orales"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Οι σύγχρονες κατευθυντήριες οδηγίες συνιστούν στοχευμένη, μετρίως επιθετική ενυδάτωση με κρυσταλλοειδή (συνήθως διάλυμα Ringer γαλακτικού), με τακτική επανεκτίμηση κλινικών και εργαστηριακών παραμέτρων· η υπερβολικά επιθετική ενυδάτωση έχει συσχετιστεί με αυξημένο κίνδυνο κοιλιακού διαμερισματικού συνδρόμου και αναπνευστικής ανεπάρκειας.",
+  "expl_es": "Las guías actuales recomiendan hidratación dirigida y moderadamente agresiva con cristaloides (habitualmente Ringer lactato), con reevaluación frecuente de parámetros clínicos y analíticos; la hidratación excesivamente agresiva se ha asociado con mayor riesgo de síndrome compartimental abdominal e insuficiencia respiratoria.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η υπερβολικά επιθετική ενυδάτωση χωρίς όριο αυξάνει τον κίνδυνο κοιλιακού διαμερισματικού συνδρόμου και πνευμονικού οιδήματος · <b>D</b> Ο υπερβολικός περιορισμός υγρών επιδεινώνει την υποάρδευση του παγκρέατος και τον κίνδυνο νέκρωσης · <b>C</b> Τα κολλοειδή δεν είναι πρώτη επιλογή, τα κρυσταλλοειδή προτιμώνται · <b>E</b> Η αρχική φάση συνήθως απαιτεί ενδοφλέβια υγρά λόγω τρίτου χώρου απώλειας, ανεξαρτήτως ανοχής από στόματος",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> La hidratación excesivamente agresiva sin límite aumenta el riesgo de síndrome compartimental abdominal y edema pulmonar · <b>D</b> La restricción excesiva de líquidos empeora la hipoperfusión pancreática y el riesgo de necrosis · <b>C</b> Los coloides no son primera elección, se prefieren los cristaloides · <b>E</b> La fase inicial suele requerir líquidos intravenosos por pérdidas al tercer espacio, independientemente de la tolerancia oral",
+  "cite": "ACG Clinical Guideline: Management of Acute Pancreatitis 2013 · Atlanta Classification 2012 (revised)",
+  "id": "A-309"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 77,
+  "concepts": [
+   "c.path.gi.pancreatitis_necrosis"
+  ],
+  "topic_el": "Μολυσμένη παγκρεατική νέκρωση",
+  "topic_es": "Necrosis pancreática infectada",
+  "stem_el": "Ασθενής με νεκρωτική παγκρεατίτιδα εμφανίζει επίμονο πυρετό και λευκοκυττάρωση την 10η ημέρα νοσηλείας, με αέρα εντός της νεκρωτικής συλλογής στην CT. Ποια είναι η κατάλληλη προσέγγιση;",
+  "stem_es": "Paciente con pancreatitis necrotizante presenta fiebre persistente y leucocitosis al día 10 de ingreso, con gas dentro de la colección necrótica en la TC. ¿Cuál es el abordaje adecuado?",
+  "options": [
+   {
+    "el": "Άμεση ανοικτή χειρουργική νεκρεκτομή ως πρώτη επιλογή σε όλες τις περιπτώσεις",
+    "es": "Necrosectomía quirúrgica abierta inmediata como primera opción en todos los casos"
+   },
+   {
+    "el": "Προσέγγιση \"step-up\": αρχικά διαδερμική ή ενδοσκοπική παροχέτευση, με χειρουργική νεκρεκτομή αν δεν επαρκεί",
+    "es": "Abordaje \"step-up\": drenaje percutáneo o endoscópico inicial, con necrosectomía quirúrgica si no es suficiente"
+   },
+   {
+    "el": "Προφυλακτική αντιβίωση ευρέος φάσματος από την εισαγωγή σε κάθε νεκρωτική παγκρεατίτιδα, ανεξαρτήτως λοίμωξης",
+    "es": "Antibiótico profiláctico de amplio espectro desde el ingreso en toda pancreatitis necrotizante, independientemente de infección"
+   },
+   {
+    "el": "Παρακολούθηση χωρίς παρέμβαση εφόσον ο ασθενής είναι αιμοδυναμικά σταθερός",
+    "es": "Observación sin intervención mientras el paciente esté hemodinámicamente estable"
+   },
+   {
+    "el": "Χορήγηση αντιμυκητιασικών εμπειρικά χωρίς καλλιέργεια",
+    "es": "Antifúngicos empíricos sin cultivo"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Η παρουσία αερίου στη νεκρωτική συλλογή είναι ενδεικτική μολυσμένης νέκρωσης· η σύγχρονη προσέγγιση είναι η στρατηγική \"step-up\", ξεκινώντας με ελάχιστα επεμβατική παροχέτευση (διαδερμική ή ενδοσκοπική) και προχωρώντας σε χειρουργική νεκρεκτομή μόνο αν δεν υπάρξει κλινική βελτίωση.",
+  "expl_es": "La presencia de gas en la colección necrótica es indicativa de necrosis infectada; el abordaje actual es la estrategia \"step-up\", comenzando con drenaje mínimamente invasivo (percutáneo o endoscópico) y avanzando a necrosectomía quirúrgica solo si no hay mejoría clínica.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η άμεση ανοικτή χειρουργική νεκρεκτομή ως πρώτη επιλογή αυξάνει νοσηρότητα και θνητότητα σε σχέση με τη σταδιακή προσέγγιση · <b>C</b> Η προφυλακτική αντιβίωση χωρίς τεκμηρίωση λοίμωξης δεν μειώνει τη θνητότητα και προάγει ανθεκτικότητα · <b>D</b> Η παρακολούθηση χωρίς παρέμβαση σε τεκμηριωμένη μολυσμένη νέκρωση αφήνει ενεργή πηγή σήψης · <b>E</b> Τα αντιμυκητιασικά εμπειρικά χωρίς καλλιέργεια δεν είναι η αρχική ενέργεια, η προτεραιότητα είναι η παροχέτευση και στοχευμένη αντιμικροβιακή αγωγή",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La necrosectomía quirúrgica abierta inmediata como primera opción aumenta la morbimortalidad frente al abordaje escalonado · <b>C</b> El antibiótico profiláctico sin infección documentada no reduce la mortalidad y favorece resistencias · <b>D</b> La observación sin intervención ante necrosis infectada documentada deja una fuente activa de sepsis · <b>E</b> Los antifúngicos empíricos sin cultivo no son la primera acción, la prioridad es el drenaje y el tratamiento antimicrobiano dirigido",
+  "cite": "ACG Clinical Guideline: Management of Acute Pancreatitis 2013 · Atlanta Classification 2012 (revised)",
+  "id": "A-310"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 65,
+  "concepts": [
+   "c.path.gi.pancreatitis_gallstone"
+  ],
+  "topic_el": "Παγκρεατίτιδα εκ χολολίθων — ένδειξη επείγουσας ERCP",
+  "topic_es": "Pancreatitis biliar — indicación de CPRE urgente",
+  "stem_el": "Ασθενής με παγκρεατίτιδα εκ χολολίθων εμφανίζει επιπλέον πυρετό, ίκτερο και χολαγγειίτιδα με ανοδική χολερυθρίνη. Ποια είναι η κατάλληλη αντιμετώπιση της χοληφόρου οδού;",
+  "stem_es": "Paciente con pancreatitis biliar presenta además fiebre, ictericia y colangitis con bilirrubina en ascenso. ¿Cuál es el manejo adecuado de la vía biliar?",
+  "options": [
+   {
+    "el": "Αναμονή χωρίς παρέμβαση στη χοληφόρο οδό μέχρι πλήρη υποχώρηση της παγκρεατίτιδας",
+    "es": "Esperar sin intervenir la vía biliar hasta la resolución completa de la pancreatitis"
+   },
+   {
+    "el": "Χολοκυστεκτομή επείγουσα πριν από οποιαδήποτε αποσυμφόρηση της χοληφόρου οδού",
+    "es": "Colecistectomía urgente antes de descomprimir la vía biliar"
+   },
+   {
+    "el": "Επείγουσα ενδοσκοπική παλίνδρομη χολαγγειοπαγκρεατογραφία (ERCP) εντός 24 ωρών",
+    "es": "Colangiopancreatografía retrógrada endoscópica (CPRE) urgente en 24 horas"
+   },
+   {
+    "el": "Αντιβίωση μόνο, χωρίς αποσυμφόρηση της χοληφόρου οδού",
+    "es": "Solo antibióticos, sin descompresión de la vía biliar"
+   },
+   {
+    "el": "ERCP σε κάθε παγκρεατίτιδα εκ χολολίθων χωρίς χολαγγειίτιδα, ως ρουτίνα",
+    "es": "CPRE en toda pancreatitis biliar sin colangitis, de rutina"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η συνύπαρξη χολαγγειίτιδας ή επίμονης απόφραξης του χοληφόρου δέντρου σε παγκρεατίτιδα εκ χολολίθων αποτελεί ένδειξη επείγουσας ERCP εντός 24 ωρών για αποσυμφόρηση· χωρίς χολαγγειίτιδα, η ERCP δεν είναι ρουτίνα ένδειξη.",
+  "expl_es": "La coexistencia de colangitis u obstrucción persistente de la vía biliar en la pancreatitis biliar es indicación de CPRE urgente en 24 horas para descompresión; sin colangitis, la CPRE no es una indicación de rutina.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Χωρίς χολαγγειίτιδα ή επίμονη απόφραξη, η ρουτίνα ERCP δεν προσφέρει όφελος και προσθέτει κίνδυνο επιπλοκών · <b>A</b> Η αναμονή σε ενεργή χολαγγειίτιδα επιτρέπει εξέλιξη σε σήψη · <b>B</b> Η χολοκυστεκτομή δεν αποσυμφορίζει τη χοληφόρο οδό στην οξεία χολαγγειίτιδα, χρειάζεται πρώτα ERCP ή παροχέτευση · <b>D</b> Η αντιβίωση μόνο χωρίς αποσυμφόρηση δεν αντιμετωπίζει την υποκείμενη απόφραξη και ο ασθενής επιδεινώνεται",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> Sin colangitis ni obstrucción persistente, la CPRE de rutina no aporta beneficio y añade riesgo de complicaciones · <b>A</b> Esperar ante colangitis activa permite progresión a sepsis · <b>B</b> La colecistectomía no descomprime la vía biliar en la colangitis aguda, se necesita primero CPRE o drenaje · <b>D</b> Los antibióticos solos sin descompresión no resuelven la obstrucción subyacente y el paciente empeora",
+  "cite": "ACG Clinical Guideline: Management of Acute Pancreatitis 2013 · Harrison 21.ª ed., cap. «Acute and Chronic Pancreatitis»",
+  "id": "A-311"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 60,
+  "concepts": [
+   "c.path.gi.chronic_pancreatitis"
+  ],
+  "topic_el": "Διάγνωση χρόνιας παγκρεατίτιδας",
+  "topic_es": "Diagnóstico de pancreatitis crónica",
+  "stem_el": "Ασθενής με χρόνιο αλκοολισμό εμφανίζει επαναλαμβανόμενο κοιλιακό πόνο, στεατόρροια και απώλεια βάρους επί έτη. Η CT δείχνει ενασβεστιώσεις παγκρέατος και διάταση του παγκρεατικού πόρου. Ποια εξέταση επιβεβαιώνει την εξωκρινή ανεπάρκεια;",
+  "stem_es": "Paciente con alcoholismo crónico presenta dolor abdominal recurrente, esteatorrea y pérdida de peso durante años. La TC muestra calcificaciones pancreáticas y dilatación del conducto pancreático. ¿Qué prueba confirma la insuficiencia exocrina?",
+  "options": [
+   {
+    "el": "Δοκιμασία αναπνοής ουρίας 13C",
+    "es": "Test del aliento con urea 13C"
+   },
+   {
+    "el": "Ορολογικός έλεγχος αμυλάσης ορού",
+    "es": "Determinación de amilasa sérica"
+   },
+   {
+    "el": "Κολονοσκόπηση με βιοψίες",
+    "es": "Colonoscopia con biopsias"
+   },
+   {
+    "el": "Κοπρανική ελαστάση-1",
+    "es": "Elastasa fecal-1"
+   },
+   {
+    "el": "Ορολογικός έλεγχος αντισωμάτων κατά ιστικής τρανσγλουταμινάσης",
+    "es": "Serología de anticuerpos antitransglutaminasa tisular"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η κοπρανική ελαστάση-1 είναι η μη επεμβατική εξέταση εκλογής για την τεκμηρίωση εξωκρινούς παγκρεατικής ανεπάρκειας σε χρόνια παγκρεατίτιδα, με χαμηλή τιμή υποδεικνύουσα ανεπαρκή έκκριση ενζύμων.",
+  "expl_es": "La elastasa fecal-1 es la prueba no invasiva de elección para documentar la insuficiencia exocrina pancreática en la pancreatitis crónica, con un valor bajo que indica secreción enzimática insuficiente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η αμυλάση ορού αντανακλά οξεία φλεγμονή, όχι χρόνια εξωκρινή ανεπάρκεια, και συχνά είναι φυσιολογική σε προχωρημένη χρόνια παγκρεατίτιδα · <b>A</b> Η δοκιμασία ουρίας αφορά λοίμωξη από H. pylori, άσχετη με παγκρεατική λειτουργία · <b>E</b> Η ορολογία κοιλιοκάκης διερευνά εντεροπάθεια από γλουτένη, άλλη αιτία στεατόρροιας · <b>C</b> Η κολονοσκόπηση αξιολογεί το παχύ έντερο, δεν τεκμηριώνει παγκρεατική εξωκρινή λειτουργία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> La amilasa sérica refleja inflamación aguda, no insuficiencia exocrina crónica, y suele ser normal en pancreatitis crónica avanzada · <b>A</b> El test de urea evalúa infección por H. pylori, ajeno a la función pancreática · <b>E</b> La serología de celiaquía estudia enteropatía por gluten, otra causa de esteatorrea · <b>C</b> La colonoscopia evalúa el colon, no documenta la función exocrina pancreática",
+  "cite": "Harrison 21.ª ed., cap. «Acute and Chronic Pancreatitis» · Davidson's 24.ª ed. — cap. «Gastroenterology»",
+  "id": "A-312"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 58,
+  "concepts": [
+   "c.path.gi.chronic_pancreatitis"
+  ],
+  "topic_el": "Αντιμετώπιση στεατόρροιας στη χρόνια παγκρεατίτιδα",
+  "topic_es": "Manejo de la esteatorrea en la pancreatitis crónica",
+  "stem_el": "Ασθενής με χρόνια παγκρεατίτιδα και τεκμηριωμένη εξωκρινή ανεπάρκεια (χαμηλή κοπρανική ελαστάση) εμφανίζει στεατόρροια. Ποια είναι η κατάλληλη θεραπεία;",
+  "stem_es": "Paciente con pancreatitis crónica e insuficiencia exocrina documentada (elastasa fecal baja) presenta esteatorrea. ¿Cuál es el tratamiento adecuado?",
+  "options": [
+   {
+    "el": "Αντιβίωση ευρέος φάσματος εμπειρικά",
+    "es": "Antibiótico de amplio espectro empírico"
+   },
+   {
+    "el": "IPP υψηλής δόσης ως μόνη θεραπεία της στεατόρροιας",
+    "es": "IBP en dosis alta como único tratamiento de la esteatorrea"
+   },
+   {
+    "el": "Δίαιτα αποκλειστικά χωρίς γλουτένη",
+    "es": "Dieta exclusivamente sin gluten"
+   },
+   {
+    "el": "Περιορισμός πρόσληψης νερού",
+    "es": "Restricción de la ingesta de agua"
+   },
+   {
+    "el": "Υποκατάσταση παγκρεατικών ενζύμων με τα γεύματα, σε επαρκή δόση λιπάσης",
+    "es": "Sustitución con enzimas pancreáticas junto a las comidas, en dosis suficiente de lipasa"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η στεατόρροια από εξωκρινή παγκρεατική ανεπάρκεια αντιμετωπίζεται με υποκατάσταση παγκρεατικών ενζύμων (λιπάση) λαμβανόμενη με τα γεύματα, σε δόση προσαρμοσμένη στη βαρύτητα, μαζί με διακοπή αλκοόλ/καπνίσματος.",
+  "expl_es": "La esteatorrea por insuficiencia exocrina pancreática se trata con sustitución de enzimas pancreáticas (lipasa) tomadas con las comidas, en dosis ajustada a la gravedad, junto con el cese del alcohol y el tabaco.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η δίαιτα χωρίς γλουτένη αφορά κοιλιοκάκη, όχι παγκρεατική ανεπάρκεια · <b>A</b> Δεν πρόκειται για λοίμωξη, η αντιβίωση δεν διορθώνει την ενζυμική ανεπάρκεια · <b>D</b> Ο περιορισμός νερού δεν σχετίζεται με τη δυσαπορρόφηση λίπους · <b>B</b> Το IPP μπορεί να βοηθήσει τη δράση των ενζύμων ρυθμίζοντας το pH αλλά δεν αντικαθιστά την υποκατάσταση ενζύμων ως μόνη θεραπεία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La dieta sin gluten corresponde a la celiaquía, no a la insuficiencia pancreática · <b>A</b> No se trata de una infección, el antibiótico no corrige la insuficiencia enzimática · <b>D</b> Restringir el agua no se relaciona con la malabsorción de grasa · <b>B</b> El IBP puede ayudar a la acción enzimática regulando el pH, pero no sustituye a la sustitución enzimática como tratamiento único",
+  "cite": "Harrison 21.ª ed., cap. «Acute and Chronic Pancreatitis»",
+  "id": "A-313"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 87,
+  "concepts": [
+   "c.path.gi.child_meld"
+  ],
+  "topic_el": "Κλίμακα Child-Pugh",
+  "topic_es": "Escala de Child-Pugh",
+  "stem_el": "Ασθενής με κίρρωση έχει χολερυθρίνη 3 mg/dL, λευκωματίνη 2.8 g/dL, INR 1.9, μέτριο ασκίτη ελεγχόμενο με διουρητικά, και ήπια εγκεφαλοπάθεια (βαθμού I-II). Ποιος είναι ο πλησιέστερος προσδιορισμός της κλίμακας Child-Pugh που χρησιμοποιείται;",
+  "stem_es": "Paciente con cirrosis tiene bilirrubina 3 mg/dL, albúmina 2.8 g/dL, INR 1.9, ascitis moderada controlada con diuréticos y encefalopatía leve (grado I-II). ¿Cuál es la aproximación correcta de la escala Child-Pugh utilizada?",
+  "options": [
+   {
+    "el": "Bilirrubina, albúmina, INR, presencia y grado de ascitis, presencia y grado de encefalopatía — este paciente correspondería a Child-Pugh clase C",
+    "es": "Bilirrubina, albúmina, INR, presencia y grado de ascitis, presencia y grado de encefalopatía — este paciente correspondería a Child-Pugh clase C"
+   },
+   {
+    "el": "Solo la bilirrubina y la creatinina determinan la clase",
+    "es": "Solo la bilirrubina y la creatinina determinan la clase"
+   },
+   {
+    "el": "Το σκορ βασίζεται αποκλειστικά στην απεικόνιση με υπερηχογράφημα",
+    "es": "La puntuación se basa exclusivamente en la ecografía abdominal"
+   },
+   {
+    "el": "Περιλαμβάνει το νάτριο ορού ως βασική μεταβλητή",
+    "es": "Incluye el sodio sérico como variable central"
+   },
+   {
+    "el": "Χρησιμοποιεί μόνο τρανσαμινάσες (AST/ALT) για την ταξινόμηση",
+    "es": "Utiliza únicamente transaminasas (AST/ALT) para la clasificación"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Το Child-Pugh χρησιμοποιεί πέντε μεταβλητές: χολερυθρίνη, λευκωματίνη, INR, ασκίτη και εγκεφαλοπάθεια. Με σοβαρά παθολογικές τιμές στα τρία εργαστηριακά και παρουσία τόσο ασκίτη όσο και εγκεφαλοπάθειας, ο ασθενής βαθμολογείται υψηλά και κατατάσσεται σε τάξη C.",
+  "expl_es": "El Child-Pugh utiliza cinco variables: bilirrubina, albúmina, INR, ascitis y encefalopatía. Con valores marcadamente alterados en las tres analíticas y presencia tanto de ascitis como de encefalopatía, el paciente puntúa alto y se clasifica como clase C.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η κρεατινίνη δεν αποτελεί μεταβλητή του Child-Pugh, χρησιμοποιείται στο MELD · <b>C</b> Το σκορ βασίζεται σε κλινικά και εργαστηριακά δεδομένα, όχι σε απεικόνιση · <b>D</b> Το νάτριο περιλαμβάνεται στο MELD-Na, όχι στο Child-Pugh · <b>E</b> Οι τρανσαμινάσες δεν είναι μεταβλητή του Child-Pugh, αντανακλούν κυτταρόλυση όχι συνθετική λειτουργία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> La creatinina no es variable del Child-Pugh, se usa en el MELD · <b>C</b> La puntuación se basa en datos clínicos y analíticos, no en imagen · <b>D</b> El sodio se incluye en el MELD-Na, no en el Child-Pugh · <b>E</b> Las transaminasas no son variable del Child-Pugh, reflejan citólisis, no función sintética",
+  "cite": "Harrison 21.ª ed., cap. «Cirrhosis and Its Complications» · Davidson's 24.ª ed. — cap. «Hepatology and pancreatic disease»",
+  "id": "A-314"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 84,
+  "concepts": [
+   "c.path.gi.child_meld"
+  ],
+  "topic_el": "Κλίμακα MELD και κατανομή μοσχευμάτων",
+  "topic_es": "Escala MELD y asignación de trasplantes",
+  "stem_el": "Ασθενής με κίρρωση αξιολογείται για ένταξη σε λίστα αναμονής ηπατικής μεταμόσχευσης. Ποιες μεταβλητές χρησιμοποιεί το σκορ MELD (ή MELD-Na) για την πρόβλεψη 90ήμερης θνητότητας και την προτεραιοποίηση;",
+  "stem_es": "Paciente con cirrosis es evaluado para inclusión en lista de espera de trasplante hepático. ¿Qué variables utiliza la puntuación MELD (o MELD-Na) para predecir la mortalidad a 90 días y priorizar?",
+  "options": [
+   {
+    "el": "Μόνο η παρουσία ασκίτη και εγκεφαλοπάθειας",
+    "es": "Solo la presencia de ascitis y encefalopatía"
+   },
+   {
+    "el": "Χολερυθρίνη, INR, κρεατινίνη (και νάτριο στην παραλλαγή MELD-Na)",
+    "es": "Bilirrubina, INR, creatinina (y sodio en la variante MELD-Na)"
+   },
+   {
+    "el": "Μόνο τα επίπεδα αμμωνίας ορού",
+    "es": "Solo los niveles de amoníaco sérico"
+   },
+   {
+    "el": "Αποκλειστικά η ηλικία και το φύλο του ασθενούς",
+    "es": "Exclusivamente la edad y el sexo del paciente"
+   },
+   {
+    "el": "Αποκλειστικά ο αριθμός αιμοπεταλίων",
+    "es": "Exclusivamente el recuento de plaquetas"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Το MELD βασίζεται σε χολερυθρίνη, INR και κρεατινίνη· η παραλλαγή MELD-Na προσθέτει το νάτριο ορού, βελτιώνοντας την πρόβλεψη θνητότητας σε ασθενείς με υπονατριαιμία, και χρησιμοποιείται για την προτεραιοποίηση στη λίστα μεταμόσχευσης.",
+  "expl_es": "El MELD se basa en bilirrubina, INR y creatinina; la variante MELD-Na añade el sodio sérico, mejorando la predicción de mortalidad en pacientes con hiponatremia, y se utiliza para priorizar en la lista de trasplante.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Ο ασκίτης και η εγκεφαλοπάθεια είναι μεταβλητές του Child-Pugh, όχι του MELD · <b>D</b> Η ηλικία και το φύλο δεν είναι συνιστώσες του κλασικού MELD · <b>C</b> Η αμμωνία δεν χρησιμοποιείται στον υπολογισμό του MELD, ούτε συσχετίζεται καλά με τη βαρύτητα της εγκεφαλοπάθειας · <b>E</b> Τα αιμοπετάλια δεν αποτελούν μεταβλητή του MELD",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La ascitis y la encefalopatía son variables del Child-Pugh, no del MELD · <b>D</b> La edad y el sexo no son componentes del MELD clásico · <b>C</b> El amoníaco no se usa en el cálculo del MELD, ni se correlaciona bien con la gravedad de la encefalopatía · <b>E</b> Las plaquetas no son variable del MELD",
+  "cite": "Harrison 21.ª ed., cap. «Cirrhosis and Its Complications»",
+  "id": "A-315"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 79,
+  "concepts": [
+   "c.path.gi.ascites_sbp"
+  ],
+  "topic_el": "Διαχωριστική διαβάθμιση αλβουμίνης ορού-ασκιτικού υγρού (SAAG)",
+  "topic_es": "Gradiente de albúmina suero-ascitis (SAAG)",
+  "stem_el": "Ασθενής με κίρρωση και νεοεμφανισθέντα ασκίτη υποβάλλεται σε διαγνωστική παρακέντηση. Η αλβουμίνη ορού είναι 3.0 g/dL και του ασκιτικού υγρού 1.2 g/dL. Τι υποδηλώνει αυτό;",
+  "stem_es": "Paciente con cirrosis y ascitis de nueva aparición se somete a paracentesis diagnóstica. La albúmina sérica es 3.0 g/dL y la del líquido ascítico 1.2 g/dL. ¿Qué indica esto?",
+  "options": [
+   {
+    "el": "Υποδηλώνει καρκινωμάτωση περιτοναίου ως πιθανότερη αιτία",
+    "es": "Sugiere carcinomatosis peritoneal como causa más probable"
+   },
+   {
+    "el": "Υποδηλώνει φυματιώδη περιτονίτιδα ως πιθανότερη αιτία",
+    "es": "Sugiere peritonitis tuberculosa como causa más probable"
+   },
+   {
+    "el": "SAAG 1.8 g/dL (≥1.1), συμβατό με πυλαία υπέρταση ως αιτία ασκίτη",
+    "es": "SAAG de 1.8 g/dL (≥1.1), compatible con hipertensión portal como causa de la ascitis"
+   },
+   {
+    "el": "Αποκλείει την κίρρωση ως αιτία ασκίτη",
+    "es": "Descarta la cirrosis como causa de la ascitis"
+   },
+   {
+    "el": "Δεν έχει καμία διαγνωστική αξία χωρίς κυτταρολογική εξέταση",
+    "es": "No tiene ningún valor diagnóstico sin estudio citológico"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Το SAAG υπολογίζεται αφαιρώντας την αλβουμίνη ασκιτικού υγρού από την αλβουμίνη ορού (3.0-1.2=1.8 g/dL). Τιμή ≥1.1 g/dL υποδηλώνει πυλαία υπέρταση ως μηχανισμό, με την κίρρωση να είναι η συχνότερη αιτία.",
+  "expl_es": "El SAAG se calcula restando la albúmina del líquido ascítico a la albúmina sérica (3.0-1.2=1.8 g/dL). Un valor ≥1.1 g/dL indica hipertensión portal como mecanismo, siendo la cirrosis la causa más frecuente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Ένα υψηλό SAAG είναι απόλυτα συμβατό με κίρρωση, δεν την αποκλείει, την υποστηρίζει · <b>B</b> Η φυματιώδης περιτονίτιδα τυπικά δίνει χαμηλό SAAG (<1.1), όχι υψηλό · <b>A</b> Η καρκινωμάτωση περιτοναίου τυπικά δίνει επίσης χαμηλό SAAG · <b>E</b> Το SAAG έχει καλά τεκμηριωμένη διαγνωστική αξία για τον διαχωρισμό πυλαίας υπέρτασης από άλλες αιτίες, ανεξάρτητα από την κυτταρολογία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Un SAAG alto es totalmente compatible con cirrosis, no la descarta, la respalda · <b>B</b> La peritonitis tuberculosa típicamente da un SAAG bajo (<1.1), no alto · <b>A</b> La carcinomatosis peritoneal también suele dar un SAAG bajo · <b>E</b> El SAAG tiene un valor diagnóstico bien documentado para diferenciar la hipertensión portal de otras causas, independientemente de la citología",
+  "cite": "Harrison 21.ª ed., cap. «Cirrhosis and Its Complications» · EASL Clinical Practice Guidelines: Decompensated Cirrhosis 2018",
+  "id": "A-316"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 91,
+  "concepts": [
+   "c.path.gi.ascites_sbp"
+  ],
+  "topic_el": "Διάγνωση αυτόματης βακτηριακής περιτονίτιδας",
+  "topic_es": "Diagnóstico de peritonitis bacteriana espontánea",
+  "stem_el": "Ασθενής με κίρρωση και ασκίτη εμφανίζει κοιλιακό πόνο και πυρετό. Η παρακέντηση δείχνει 350 πολυμορφοπύρηνα/mm³. Ποια είναι η κατάλληλη άμεση αντιμετώπιση;",
+  "stem_es": "Paciente con cirrosis y ascitis presenta dolor abdominal y fiebre. La paracentesis muestra 350 polimorfonucleares/mm³. ¿Cuál es el manejo inmediato adecuado?",
+  "options": [
+   {
+    "el": "Αναμονή για αποτέλεσμα καλλιέργειας πριν από οποιαδήποτε αγωγή",
+    "es": "Esperar el resultado del cultivo antes de cualquier tratamiento"
+   },
+   {
+    "el": "Χορήγηση διουρητικών μόνο",
+    "es": "Administrar solo diuréticos"
+   },
+   {
+    "el": "Επαναληπτική παρακέντηση σε μία εβδομάδα χωρίς αγωγή στο μεταξύ",
+    "es": "Repetir la paracentesis en una semana sin tratamiento mientras tanto"
+   },
+   {
+    "el": "Εμπειρική ενδοφλέβια κεφαλοσπορίνη 3ης γενιάς (π.χ. κεφοταξίμη) άμεσα, ± αλβουμίνη ενδοφλέβια",
+    "es": "Cefalosporina de 3.ª generación intravenosa empírica (p. ej. cefotaxima) de inmediato, ± albúmina intravenosa"
+   },
+   {
+    "el": "Χειρουργική διερεύνηση επείγουσα",
+    "es": "Exploración quirúrgica urgente"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Πολυμορφοπύρηνα ≥250/mm³ στο ασκιτικό υγρό επιβεβαιώνουν αυτόματη βακτηριακή περιτονίτιδα και επιβάλλουν άμεση έναρξη εμπειρικής ενδοφλέβιας κεφαλοσπορίνης 3ης γενιάς, χωρίς αναμονή για καλλιέργεια· η αλβουμίνη ενδοφλέβια προστίθεται σε ασθενείς υψηλού κινδύνου νεφρικής προσβολής.",
+  "expl_es": "Polimorfonucleares ≥250/mm³ en el líquido ascítico confirman peritonitis bacteriana espontánea y obligan a iniciar de inmediato una cefalosporina de 3.ª generación intravenosa empírica, sin esperar el cultivo; se añade albúmina intravenosa en pacientes de alto riesgo de daño renal.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η αναμονή για καλλιέργεια καθυστερεί κρίσιμα την αγωγή, ενώ η καλλιέργεια είναι συχνά αρνητική παρά την ενεργό λοίμωξη · <b>B</b> Τα διουρητικά δεν αντιμετωπίζουν τη λοίμωξη και μπορεί να επιδεινώσουν τη νεφρική λειτουργία · <b>C</b> Η αναβολή χωρίς αγωγή επιτρέπει εξέλιξη σε σήψη και ηπατονεφρικό σύνδρομο · <b>E</b> Η χειρουργική διερεύνηση δεν ενδείκνυται στην αυτόματη (μη δευτεροπαθή) περιτονίτιδα και καθυστερεί την κατάλληλη αντιβιοτική αγωγή",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Esperar el cultivo retrasa críticamente el tratamiento, y el cultivo suele ser negativo pese a la infección activa · <b>B</b> Los diuréticos no tratan la infección y pueden empeorar la función renal · <b>C</b> Diferir sin tratamiento permite progresión a sepsis y síndrome hepatorrenal · <b>E</b> La exploración quirúrgica no está indicada en la peritonitis espontánea (no secundaria) y retrasa el tratamiento antibiótico adecuado",
+  "cite": "EASL Clinical Practice Guidelines: Decompensated Cirrhosis 2018 · AASLD Practice Guidance: Ascites, SBP and HRS in Cirrhosis",
+  "id": "A-317"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 73,
+  "concepts": [
+   "c.path.gi.ascites_sbp"
+  ],
+  "topic_el": "Προφύλαξη αυτόματης βακτηριακής περιτονίτιδας",
+  "topic_es": "Profilaxis de la peritonitis bacteriana espontánea",
+  "stem_el": "Ασθενής με κίρρωση επέζησε επεισοδίου αυτόματης βακτηριακής περιτονίτιδας πριν έναν μήνα. Ποια είναι η κατάλληλη μακροχρόνια προφύλαξη;",
+  "stem_es": "Paciente con cirrosis sobrevivió a un episodio de peritonitis bacteriana espontánea hace un mes. ¿Cuál es la profilaxis a largo plazo adecuada?",
+  "options": [
+   {
+    "el": "Καμία προφύλαξη χρειάζεται μετά την επιτυχή θεραπεία του επεισοδίου",
+    "es": "No se necesita profilaxis tras el tratamiento exitoso del episodio"
+   },
+   {
+    "el": "Ετήσιος εμβολιασμός γρίπης ως μόνη προφύλαξη επαρκής",
+    "es": "La vacunación antigripal anual como única profilaxis es suficiente"
+   },
+   {
+    "el": "Χρόνια αντιμυκητιασική αγωγή",
+    "es": "Tratamiento antifúngico crónico"
+   },
+   {
+    "el": "Διακοπή κάθε διουρητικής αγωγής ως προφύλαξη",
+    "es": "Suspender todo diurético como profilaxis"
+   },
+   {
+    "el": "Δευτερογενής προφύλαξη με νορφλοξασίνη (ή άλλη κινολόνη) εφ' όρου ζωής ή μέχρι μεταμόσχευση/υποχώρηση ασκίτη",
+    "es": "Profilaxis secundaria con norfloxacino (u otra quinolona) de por vida o hasta trasplante/resolución de la ascitis"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Μετά από επεισόδιο ΑΒΠ, ο κίνδυνος υποτροπής είναι υψηλός· η δευτερογενής προφύλαξη με νορφλοξασίνη (ή εναλλακτική κινολόνη/τριμεθοπρίμη-σουλφαμεθοξαζόλη) μειώνει σημαντικά τον κίνδυνο και συνεχίζεται μακροχρόνια, μέχρι μεταμόσχευση ή μόνιμη υποχώρηση του ασκίτη.",
+  "expl_es": "Tras un episodio de PBE, el riesgo de recidiva es alto; la profilaxis secundaria con norfloxacino (o quinolona alternativa/trimetoprim-sulfametoxazol) reduce significativamente el riesgo y se mantiene a largo plazo, hasta el trasplante o la resolución permanente de la ascitis.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Χωρίς προφύλαξη, το ποσοστό υποτροπής εντός ενός έτους είναι πολύ υψηλό · <b>B</b> Ο εμβολιασμός γρίπης είναι χρήσιμος γενικά αλλά δεν προλαμβάνει την ΑΒΠ · <b>C</b> Η ΑΒΠ είναι βακτηριακή, όχι μυκητιασική, η αντιμυκητιασική αγωγή δεν έχει ρόλο · <b>D</b> Η διακοπή διουρητικών δεν σχετίζεται με πρόληψη λοίμωξης και μπορεί να επιδεινώσει τον ασκίτη",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Sin profilaxis, la tasa de recidiva en un año es muy alta · <b>B</b> La vacunación antigripal es útil en general pero no previene la PBE · <b>C</b> La PBE es bacteriana, no fúngica, el tratamiento antifúngico no tiene papel · <b>D</b> Suspender los diuréticos no se relaciona con la prevención de la infección y puede empeorar la ascitis",
+  "cite": "EASL Clinical Practice Guidelines: Decompensated Cirrhosis 2018 · AASLD Practice Guidance: Ascites, SBP and HRS in Cirrhosis",
+  "id": "A-318"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 82,
+  "concepts": [
+   "c.path.gi.hepatic_encephalopathy"
+  ],
+  "topic_el": "Ηπατική εγκεφαλοπάθεια — παράγοντες πυροδότησης και πρώτη θεραπεία",
+  "topic_es": "Encefalopatía hepática — factores precipitantes y tratamiento inicial",
+  "stem_el": "Κιρρωτικός ασθενής εμφανίζει σύγχυση και αναστρέψιμη αστερίξη. Πρόσφατα ξεκίνησε δυσκοιλιότητα και έλαβε βενζοδιαζεπίνη. Ποια είναι η αρχική θεραπεία πρώτης γραμμής;",
+  "stem_es": "Paciente cirrótico presenta confusión y asterixis reversible. Recientemente comenzó con estreñimiento y recibió una benzodiacepina. ¿Cuál es el tratamiento inicial de primera línea?",
+  "options": [
+   {
+    "el": "Λακτουλόζη από στόματος ή με υποκλυσμό, τιτλοποιούμενη σε 2-3 μαλακές κενώσεις/ημέρα, μαζί με διόρθωση του πυροδοτούντος παράγοντα",
+    "es": "Lactulosa oral o en enema, titulada a 2-3 deposiciones blandas/día, junto con corrección del factor precipitante"
+   },
+   {
+    "el": "Φλουμαζενίλη ενδοφλέβια ως ρουτίνα σε κάθε επεισόδιο",
+    "es": "Flumazenilo intravenoso de rutina en todo episodio"
+   },
+   {
+    "el": "Αιμοκάθαρση επείγουσα",
+    "es": "Hemodiálisis urgente"
+   },
+   {
+    "el": "Περιορισμός πρωτεϊνών στο ελάχιστο εφ' όρου ζωής",
+    "es": "Restricción proteica al mínimo de por vida"
+   },
+   {
+    "el": "Ριφαξιμίνη ως μονοθεραπεία πρώτης γραμμής χωρίς λακτουλόζη",
+    "es": "Rifaximina como monoterapia de primera línea sin lactulosa"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Η αρχική θεραπεία της ηπατικής εγκεφαλοπάθειας είναι η λακτουλόζη, τιτλοποιούμενη σε 2-3 μαλακές κενώσεις ημερησίως, σε συνδυασμό με αναζήτηση και διόρθωση πυροδοτούντων παραγόντων (δυσκοιλιότητα, βενζοδιαζεπίνες, λοίμωξη, αιμορραγία, ηλεκτρολυτικές διαταραχές).",
+  "expl_es": "El tratamiento inicial de la encefalopatía hepática es la lactulosa, titulada a 2-3 deposiciones blandas al día, junto con la búsqueda y corrección de factores precipitantes (estreñimiento, benzodiacepinas, infección, hemorragia, alteraciones electrolíticas).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η ριφαξιμίνη προστίθεται συνήθως ως δεύτερη γραμμή για υποτροπιάζουσα εγκεφαλοπάθεια, δεν αντικαθιστά τη λακτουλόζη ως πρώτη γραμμή · <b>D</b> Ο αυστηρός περιορισμός πρωτεϊνών δεν συνιστάται πλέον, μπορεί να επιδεινώσει τη θρέψη χωρίς σαφές όφελος · <b>B</b> Η φλουμαζενίλη έχει περιορισμένη, βραχυπρόθεσμη θέση μόνο σε τεκμηριωμένη πρόσφατη έκθεση σε βενζοδιαζεπίνες, όχι ως ρουτίνα · <b>C</b> Η αιμοκάθαρση δεν είναι θεραπεία πρώτης γραμμής για ηπατική εγκεφαλοπάθεια",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> La rifaximina suele añadirse como segunda línea para la encefalopatía recurrente, no sustituye a la lactulosa como primera línea · <b>D</b> La restricción proteica estricta ya no se recomienda, puede empeorar el estado nutricional sin beneficio claro · <b>B</b> El flumazenilo tiene un papel limitado y breve solo ante exposición reciente documentada a benzodiacepinas, no de rutina · <b>C</b> La hemodiálisis no es tratamiento de primera línea para la encefalopatía hepática",
+  "cite": "AASLD/EASL Practice Guideline: Hepatic Encephalopathy 2014 · Harrison 21.ª ed., cap. «Cirrhosis and Its Complications»",
+  "id": "A-319"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 66,
+  "concepts": [
+   "c.path.gi.hepatic_encephalopathy"
+  ],
+  "topic_el": "Ριφαξιμίνη στην υποτροπιάζουσα ηπατική εγκεφαλοπάθεια",
+  "topic_es": "Rifaximina en la encefalopatía hepática recurrente",
+  "stem_el": "Ασθενής με κίρρωση εμφανίζει δεύτερο επεισόδιο ηπατικής εγκεφαλοπάθειας παρά τη σωστή χρήση λακτουλόζης με επαρκή αριθμό κενώσεων. Ποια είναι η κατάλληλη προσθήκη στη θεραπεία;",
+  "stem_es": "Paciente con cirrosis presenta un segundo episodio de encefalopatía hepática pese al uso correcto de lactulosa con número adecuado de deposiciones. ¿Cuál es la adición adecuada al tratamiento?",
+  "options": [
+   {
+    "el": "Διακοπή της λακτουλόζης και αντικατάσταση με περιορισμό πρωτεϊνών",
+    "es": "Suspender la lactulosa y sustituirla por restricción proteica"
+   },
+   {
+    "el": "Ριφαξιμίνη από στόματος ως προσθήκη στη λακτουλόζη, για πρόληψη υποτροπής",
+    "es": "Rifaximina oral añadida a la lactulosa, para prevenir la recidiva"
+   },
+   {
+    "el": "Αύξηση της δόσης βενζοδιαζεπίνης για καταστολή",
+    "es": "Aumentar la dosis de benzodiacepina para sedación"
+   },
+   {
+    "el": "Ηπατεκτομή μερική",
+    "es": "Hepatectomía parcial"
+   },
+   {
+    "el": "Διακοπή κάθε θεραπείας και απλή παρακολούθηση",
+    "es": "Suspender todo tratamiento y observación simple"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Σε υποτροπιάζουσα ηπατική εγκεφαλοπάθεια παρά τη σωστή χρήση λακτουλόζης, η προσθήκη ριφαξιμίνης έχει αποδειχθεί ότι μειώνει σημαντικά τον κίνδυνο νέου επεισοδίου και επανεισαγωγής.",
+  "expl_es": "En la encefalopatía hepática recurrente pese al uso correcto de lactulosa, añadir rifaximina ha demostrado reducir significativamente el riesgo de un nuevo episodio y de reingreso.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η διακοπή λακτουλόζης αφαιρεί αποτελεσματική θεραπεία, ο περιορισμός πρωτεϊνών δεν συνιστάται πλέον ως ρουτίνα · <b>C</b> Οι βενζοδιαζεπίνες επιδεινώνουν την εγκεφαλοπάθεια, δεν χρησιμοποιούνται ως θεραπεία της · <b>D</b> Η ηπατεκτομή δεν έχει καμία θέση, το πρόβλημα είναι λειτουργική ανεπάρκεια όχι εστιακή βλάβη προς αφαίρεση · <b>E</b> Η διακοπή κάθε αγωγής αφήνει τον ασθενή εκτεθειμένο σε νέα, ενδεχομένως βαρύτερα, επεισόδια",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Suspender la lactulosa retira un tratamiento eficaz, la restricción proteica ya no se recomienda de rutina · <b>C</b> Las benzodiacepinas empeoran la encefalopatía, no se usan como tratamiento de esta · <b>D</b> La hepatectomía no tiene ningún papel, el problema es una insuficiencia funcional, no una lesión focal resecable · <b>E</b> Suspender todo tratamiento deja al paciente expuesto a nuevos episodios, posiblemente más graves",
+  "cite": "AASLD/EASL Practice Guideline: Hepatic Encephalopathy 2014",
+  "id": "A-320"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 71,
+  "concepts": [
+   "c.path.gi.hepatorenal"
+  ],
+  "topic_el": "Διάγνωση ηπατονεφρικού συνδρόμου",
+  "topic_es": "Diagnóstico del síndrome hepatorrenal",
+  "stem_el": "Κιρρωτικός ασθενής με ασκίτη εμφανίζει προοδευτική αύξηση κρεατινίνης. Δεν βελτιώνεται μετά από 2 ημέρες διακοπής διουρητικών και χορήγησης αλβουμίνης, δεν υπάρχει shock, δεν λαμβάνει νεφροτοξικά και το υπερηχογράφημα νεφρών είναι φυσιολογικό, χωρίς πρωτεϊνουρία ή αιματουρία. Ποια είναι η πιθανότερη διάγνωση;",
+  "stem_es": "Paciente cirrótico con ascitis presenta aumento progresivo de creatinina. No mejora tras 2 días de suspender diuréticos y administrar albúmina, no hay shock, no recibe nefrotóxicos y la ecografía renal es normal, sin proteinuria ni hematuria. ¿Cuál es el diagnóstico más probable?",
+  "options": [
+   {
+    "el": "Οξεία σωληναριακή νέκρωση από αμινογλυκοσίδες",
+    "es": "Necrosis tubular aguda por aminoglucósidos"
+   },
+   {
+    "el": "Αφυδάτωση απλή διορθώσιμη με υγρά μόνο",
+    "es": "Deshidratación simple corregible solo con líquidos"
+   },
+   {
+    "el": "Ηπατονεφρικό σύνδρομο (HRS-AKI)",
+    "es": "Síndrome hepatorrenal (SHR-IRA)"
+   },
+   {
+    "el": "Απόφραξη ουροποιητικού",
+    "es": "Obstrucción del tracto urinario"
+   },
+   {
+    "el": "Σπειραματονεφρίτιδα πρωτοπαθής",
+    "es": "Glomerulonefritis primaria"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η διάγνωση του HRS-AKI απαιτεί κίρρωση με ασκίτη, αύξηση κρεατινίνης χωρίς βελτίωση μετά διακοπή διουρητικών και χορήγηση αλβουμίνης, απουσία shock, νεφροτοξικών φαρμάκων και δομικής νεφρικής νόσου (φυσιολογικό υπερηχογράφημα, χωρίς πρωτεϊνουρία/αιματουρία) — όλα παρόντα σε αυτό το σενάριο.",
+  "expl_es": "El diagnóstico de SHR-IRA requiere cirrosis con ascitis, aumento de creatinina sin mejoría tras suspender diuréticos y administrar albúmina, ausencia de shock, fármacos nefrotóxicos y enfermedad renal estructural (ecografía normal, sin proteinuria/hematuria) — todo presente en este escenario.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Δεν αναφέρεται έκθεση σε νεφροτοξικά φάρμακα, κριτήριο που αποκλείει τη διάγνωση αυτή · <b>E</b> Η σπειραματονεφρίτιδα θα αναμενόταν πρωτεϊνουρία ή αιματουρία, απούσες εδώ · <b>D</b> Το φυσιολογικό υπερηχογράφημα αποκλείει απόφραξη ως αιτία · <b>B</b> Η απλή αφυδάτωση θα βελτιωνόταν με τη χορήγηση αλβουμίνης/υγρών, κάτι που δεν συνέβη εδώ",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> No se refiere exposición a fármacos nefrotóxicos, criterio que descarta este diagnóstico · <b>E</b> En la glomerulonefritis se esperaría proteinuria o hematuria, ausentes aquí · <b>D</b> La ecografía normal descarta la obstrucción como causa · <b>B</b> La deshidratación simple mejoraría con la administración de albúmina/líquidos, lo que no ocurrió aquí",
+  "cite": "EASL Clinical Practice Guidelines: Decompensated Cirrhosis 2018 · AASLD Practice Guidance: Ascites, SBP and HRS in Cirrhosis",
+  "id": "A-321"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 78,
+  "concepts": [
+   "c.path.gi.hepatorenal"
+  ],
+  "topic_el": "Θεραπεία ηπατονεφρικού συνδρόμου",
+  "topic_es": "Tratamiento del síndrome hepatorrenal",
+  "stem_el": "Ασθενής με επιβεβαιωμένο HRS-AKI εκκρεμεί για ηπατική μεταμόσχευση. Ποια είναι η φαρμακολογική θεραπεία εκλογής εν αναμονή;",
+  "stem_es": "Paciente con SHR-IRA confirmado está en espera de trasplante hepático. ¿Cuál es el tratamiento farmacológico de elección mientras tanto?",
+  "options": [
+   {
+    "el": "Νεφροτοξικά αντιβιοτικά προληπτικά",
+    "es": "Antibióticos nefrotóxicos de forma preventiva"
+   },
+   {
+    "el": "Στεροειδή ενδοφλέβια υψηλής δόσης",
+    "es": "Corticosteroides intravenosos en dosis alta"
+   },
+   {
+    "el": "Περιορισμός υγρών στο ελάχιστο χωρίς αγγειοδραστική αγωγή",
+    "es": "Restricción de líquidos al mínimo sin tratamiento vasoactivo"
+   },
+   {
+    "el": "Τερλιπρεσσίνη ενδοφλέβια συν αλβουμίνη ενδοφλέβια",
+    "es": "Terlipresina intravenosa más albúmina intravenosa"
+   },
+   {
+    "el": "Διουρητικά αγκύλης σε υψηλή δόση",
+    "es": "Diuréticos de asa en dosis alta"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η θεραπεία εκλογής για HRS-AKI είναι ο συνδυασμός αγγειοσυσπαστικού (τερλιπρεσσίνη, εναλλακτικά νορεπινεφρίνη ή μιδοντρίνη+οκτρεοτίδη) με ενδοφλέβια αλβουμίνη, στοχεύοντας στη βελτίωση της νεφρικής αιμάτωσης εν αναμονή οριστικής θεραπείας με μεταμόσχευση.",
+  "expl_es": "El tratamiento de elección para el SHR-IRA es la combinación de un vasoconstrictor (terlipresina, alternativamente noradrenalina o midodrina+octreotida) con albúmina intravenosa, buscando mejorar la perfusión renal mientras se espera el tratamiento definitivo con el trasplante.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Τα διουρητικά επιδεινώνουν την ενδαγγειακή υποάρδευση και δεν έχουν θέση στο HRS · <b>A</b> Τα νεφροτοξικά αντιβιοτικά επιδεινώνουν τη νεφρική λειτουργία, δεν χρησιμοποιούνται προληπτικά χωρίς ένδειξη λοίμωξης · <b>B</b> Τα στεροειδή δεν έχουν ρόλο στο HRS, εκτός αν συνυπάρχει άλλη ένδειξη όπως σοβαρή αλκοολική ηπατίτιδα · <b>C</b> Χωρίς αγγειοδραστική αγωγή, μόνο ο περιορισμός υγρών δεν βελτιώνει τη νεφρική αιμάτωση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> Los diuréticos empeoran la hipoperfusión intravascular y no tienen lugar en el SHR · <b>A</b> Los antibióticos nefrotóxicos empeoran la función renal, no se usan de forma preventiva sin indicación de infección · <b>B</b> Los corticosteroides no tienen papel en el SHR, salvo que coexista otra indicación como hepatitis alcohólica grave · <b>C</b> Sin tratamiento vasoactivo, solo la restricción de líquidos no mejora la perfusión renal",
+  "cite": "EASL Clinical Practice Guidelines: Decompensated Cirrhosis 2018 · AASLD Practice Guidance: Ascites, SBP and HRS in Cirrhosis",
+  "id": "A-322"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 85,
+  "concepts": [
+   "c.path.gi.hepatitis_b"
+  ],
+  "topic_el": "Ερμηνεία ορολογίας ηπατίτιδας Β",
+  "topic_es": "Interpretación serológica de la hepatitis B",
+  "stem_el": "Ασθενής έχει HBsAg αρνητικό, anti-HBs θετικό και anti-HBc αρνητικό. Ποια είναι η πιο πιθανή ερμηνεία;",
+  "stem_es": "Paciente con HBsAg negativo, anti-HBs positivo y anti-HBc negativo. ¿Cuál es la interpretación más probable?",
+  "options": [
+   {
+    "el": "Χρόνια ενεργός ηπατίτιδα Β",
+    "es": "Hepatitis B crónica activa"
+   },
+   {
+    "el": "Οξεία λοίμωξη ηπατίτιδας Β σε εξέλιξη",
+    "es": "Infección aguda de hepatitis B en curso"
+   },
+   {
+    "el": "Παλαιά, αυτοπεριοριζόμενη λοίμωξη με ίαση",
+    "es": "Infección antigua autolimitada con curación"
+   },
+   {
+    "el": "Ενεργός λοίμωξη με χαμηλό ιικό φορτίο",
+    "es": "Infección activa con carga viral baja"
+   },
+   {
+    "el": "Ανοσία λόγω εμβολιασμού, χωρίς προηγούμενη φυσική λοίμωξη",
+    "es": "Inmunidad por vacunación, sin infección natural previa"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η παρουσία μόνο anti-HBs θετικού, χωρίς anti-HBc, είναι το χαρακτηριστικό προφίλ της ανοσίας από εμβολιασμό, σε αντίθεση με την παλαιά φυσική λοίμωξη όπου το anti-HBc παραμένει θετικό εφ' όρου ζωής.",
+  "expl_es": "La presencia de solo anti-HBs positivo, sin anti-HBc, es el perfil característico de la inmunidad por vacunación, a diferencia de la infección natural antigua, donde el anti-HBc permanece positivo de por vida.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η χρόνια λοίμωξη απαιτεί HBsAg θετικό επί >6 μήνες, απόν εδώ · <b>B</b> Η οξεία λοίμωξη θα είχε HBsAg θετικό και συνήθως anti-HBc IgM θετικό · <b>C</b> Η παλαιά φυσική λοίμωξη με ίαση δίνει anti-HBc θετικό μαζί με anti-HBs, ενώ εδώ το anti-HBc είναι αρνητικό · <b>D</b> Χωρίς HBsAg δεν υπάρχει ενεργός λοίμωξη, ανεξαρτήτως ιικού φορτίου",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La infección crónica requiere HBsAg positivo durante más de 6 meses, ausente aquí · <b>B</b> La infección aguda tendría HBsAg positivo y habitualmente anti-HBc IgM positivo · <b>C</b> La infección natural antigua curada da anti-HBc positivo junto con anti-HBs, mientras que aquí el anti-HBc es negativo · <b>D</b> Sin HBsAg no hay infección activa, independientemente de la carga viral",
+  "cite": "AASLD Guidance: Prevention, Diagnosis and Treatment of Chronic Hepatitis B 2018 · Harrison 21.ª ed., cap. «Chronic Hepatitis»",
+  "id": "A-323"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 80,
+  "concepts": [
+   "c.path.gi.hepatitis_b"
+  ],
+  "topic_el": "Ένδειξη θεραπείας χρόνιας ηπατίτιδας Β",
+  "topic_es": "Indicación de tratamiento en la hepatitis B crónica",
+  "stem_el": "Ασθενής με χρόνια ηπατίτιδα Β έχει HBV DNA υψηλό, επίμονα αυξημένη ALT και ιστολογικά ευρήματα σημαντικής φλεγμονής/ίνωσης. Ποια είναι η κατάλληλη πρώτης γραμμής θεραπεία;",
+  "stem_es": "Paciente con hepatitis B crónica tiene ADN-VHB alto, ALT persistentemente elevada y hallazgos histológicos de inflamación/fibrosis significativa. ¿Cuál es el tratamiento de primera línea adecuado?",
+  "options": [
+   {
+    "el": "Εντεκαβίρη ή τενοφοβίρη ως πρώτης γραμμής νουκλεοζιτικό/νουκλεοτιδικό ανάλογο",
+    "es": "Entecavir o tenofovir como análogo nucleósido/nucleotídico de primera línea"
+   },
+   {
+    "el": "Καμία θεραπεία μέχρι εμφάνιση κίρρωσης",
+    "es": "Ningún tratamiento hasta que aparezca cirrosis"
+   },
+   {
+    "el": "Ριμπαβιρίνη σε συνδυασμό με ιντερφερόνη",
+    "es": "Ribavirina en combinación con interferón"
+   },
+   {
+    "el": "Ιντερφερόνη άλφα ως μόνη αποδεκτή επιλογή σε όλους τους ασθενείς",
+    "es": "Interferón alfa como única opción aceptada en todos los pacientes"
+   },
+   {
+    "el": "Λαμιβουδίνη ως πρώτη επιλογή λόγω χαμηλού κόστους",
+    "es": "Lamivudina como primera opción por su bajo coste"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Στη χρόνια ηπατίτιδα Β με υψηλό DNA, αυξημένη ALT και σημαντική ιστολογική βλάβη, η θεραπεία πρώτης γραμμής είναι νουκλεοζιτικά/νουκλεοτιδικά ανάλογα υψηλού γενετικού φραγμού (εντεκαβίρη, τενοφοβίρη δισοπροξίλη ή τενοφοβίρη αλαφεναμίδη), λόγω αποτελεσματικότητας και χαμηλού κινδύνου ανθεκτικότητας.",
+  "expl_es": "En la hepatitis B crónica con ADN alto, ALT elevada y daño histológico significativo, el tratamiento de primera línea son los análogos nucleósidos/nucleotídicos de alta barrera genética (entecavir, tenofovir disoproxil o tenofovir alafenamida), por su eficacia y bajo riesgo de resistencia.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η λαμιβουδίνη έχει χαμηλό γενετικό φραγμό και υψηλό ποσοστό ανθεκτικότητας, δεν είναι πλέον πρώτη επιλογή · <b>D</b> Η ιντερφερόνη είναι εναλλακτική, όχι η μόνη αποδεκτή, και αντενδείκνυται σε προχωρημένη κίρρωση · <b>B</b> Η αναμονή μέχρι κίρρωση χάνει την ευκαιρία πρόληψης εξέλιξης της ηπατικής βλάβης · <b>C</b> Η ριμπαβιρίνη δεν έχει ρόλο στην ηπατίτιδα Β, χρησιμοποιείται σε άλλα πλαίσια όπως ιστορικά στην ηπατίτιδα C",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> La lamivudina tiene baja barrera genética y alta tasa de resistencia, ya no es primera opción · <b>D</b> El interferón es una alternativa, no la única opción aceptada, y está contraindicado en cirrosis avanzada · <b>B</b> Esperar hasta la cirrosis pierde la oportunidad de prevenir la progresión del daño hepático · <b>C</b> La ribavirina no tiene papel en la hepatitis B, se usaba en otros contextos como históricamente en la hepatitis C",
+  "cite": "AASLD Guidance: Prevention, Diagnosis and Treatment of Chronic Hepatitis B 2018",
+  "id": "A-324"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 77,
+  "concepts": [
+   "c.path.gi.hepatitis_c"
+  ],
+  "topic_el": "Αλγόριθμος διάγνωσης ηπατίτιδας C",
+  "topic_es": "Algoritmo diagnóstico de la hepatitis C",
+  "stem_el": "Ασυμπτωματικός ασθενής υποβάλλεται σε ρουτίνα screening για ηπατίτιδα C και βρίσκεται θετικός σε αντισώματα anti-HCV. Ποιο είναι το κατάλληλο επόμενο βήμα;",
+  "stem_es": "Paciente asintomático se somete a cribado rutinario de hepatitis C y resulta positivo en anticuerpos anti-VHC. ¿Cuál es el siguiente paso adecuado?",
+  "options": [
+   {
+    "el": "Έναρξη αντιικής θεραπείας άμεσα χωρίς περαιτέρω έλεγχο",
+    "es": "Iniciar tratamiento antiviral de inmediato sin más estudio"
+   },
+   {
+    "el": "Προσδιορισμός HCV RNA για επιβεβαίωση ενεργού λοίμωξης",
+    "es": "Determinación de ARN del VHC para confirmar infección activa"
+   },
+   {
+    "el": "Επανάληψη μόνο της ορολογίας anti-HCV σε 6 μήνες",
+    "es": "Repetir solo la serología anti-VHC en 6 meses"
+   },
+   {
+    "el": "Βιοψία ήπατος άμεσα πριν από οποιονδήποτε άλλο έλεγχο",
+    "es": "Biopsia hepática de inmediato antes de cualquier otro estudio"
+   },
+   {
+    "el": "Καμία περαιτέρω ενέργεια, τα αντισώματα αρκούν για τη διάγνωση ενεργού λοίμωξης",
+    "es": "Ninguna acción adicional, los anticuerpos bastan para diagnosticar infección activa"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Τα αντισώματα anti-HCV υποδηλώνουν έκθεση, όχι απαραίτητα ενεργό λοίμωξη (έως 25% αυτοκαθαρίζουν)· το επόμενο βήμα είναι ο προσδιορισμός HCV RNA, που επιβεβαιώνει ενεργό λοίμωξη και καθοδηγεί την απόφαση θεραπείας.",
+  "expl_es": "Los anticuerpos anti-VHC indican exposición, no necesariamente infección activa (hasta un 25% se aclaran espontáneamente); el siguiente paso es determinar el ARN del VHC, que confirma la infección activa y guía la decisión de tratamiento.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Δεν πρέπει να ξεκινά θεραπεία χωρίς επιβεβαίωση ενεργού λοίμωξης με RNA · <b>C</b> Η επανάληψη μόνο ορολογίας δεν διακρίνει ενεργό από παλαιά καθαρισμένη λοίμωξη · <b>D</b> Η βιοψία δεν είναι απαραίτητη ούτε πρώτο βήμα στη σύγχρονη διαγνωστική προσέγγιση, ούτε πριν επιβεβαιωθεί ενεργός λοίμωξη · <b>E</b> Τα αντισώματα μόνα τους δεν επιβεβαιώνουν ενεργό λοίμωξη, χρειάζεται RNA",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> No debe iniciarse tratamiento sin confirmar infección activa con ARN · <b>C</b> Repetir solo la serología no distingue infección activa de infección antigua aclarada · <b>D</b> La biopsia no es necesaria ni primer paso en el abordaje diagnóstico actual, ni antes de confirmar infección activa · <b>E</b> Los anticuerpos solos no confirman infección activa, se necesita el ARN",
+  "cite": "AASLD-IDSA HCV Guidance · EASL Recommendations on Treatment of Hepatitis C 2020",
+  "id": "A-325"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 81,
+  "concepts": [
+   "c.path.gi.hepatitis_c"
+  ],
+  "topic_el": "Θεραπεία χρόνιας ηπατίτιδας C",
+  "topic_es": "Tratamiento de la hepatitis C crónica",
+  "stem_el": "Ασθενής με χρόνια ηπατίτιδα C, γονότυπο 1, ήπια ίνωση, επιβεβαιωμένο θετικό HCV RNA. Ποια είναι η σύγχρονη θεραπεία εκλογής;",
+  "stem_es": "Paciente con hepatitis C crónica, genotipo 1, fibrosis leve, ARN del VHC positivo confirmado. ¿Cuál es el tratamiento actual de elección?",
+  "options": [
+   {
+    "el": "Αναμονή θεραπείας μέχρι την εμφάνιση κίρρωσης",
+    "es": "Esperar el tratamiento hasta que aparezca cirrosis"
+   },
+   {
+    "el": "Γλυκοκορτικοειδή από στόματος ως βάση της θεραπείας",
+    "es": "Glucocorticoides orales como base del tratamiento"
+   },
+   {
+    "el": "Άμεσης δράσης αντιικά (DAA) παγγενοτυπικά από στόματος (π.χ. σοφοσβουβίρη/βελπατασβίρη ή γλεκαπρεβίρη/πιμπρεντασβίρη), 8-12 εβδομάδες",
+    "es": "Antivirales de acción directa (AAD) pangenotípicos orales (p. ej. sofosbuvir/velpatasvir o glecaprevir/pibrentasvir), 8-12 semanas"
+   },
+   {
+    "el": "Θεραπεία μόνο αν ο ασθενής είναι υποψήφιος για μεταμόσχευση",
+    "es": "Tratar solo si el paciente es candidato a trasplante"
+   },
+   {
+    "el": "Ιντερφερόνη πεγκυλιωμένη σε συνδυασμό με ριμπαβιρίνη ως πρώτη επιλογή",
+    "es": "Interferón pegilado combinado con ribavirina como primera opción"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η σύγχρονη θεραπεία εκλογής για χρόνια ηπατίτιδα C είναι τα άμεσης δράσης αντιικά από στόματος, με ποσοστά ίασης άνω του 95% σε διάρκεια 8-12 εβδομάδων· η θεραπεία συνιστάται σχεδόν σε όλους τους ασθενείς ανεξαρτήτως σταδίου ίνωσης, όχι μόνο στην προχωρημένη νόσο.",
+  "expl_es": "El tratamiento actual de elección para la hepatitis C crónica son los antivirales de acción directa orales, con tasas de curación superiores al 95% en 8-12 semanas; se recomienda en prácticamente todos los pacientes independientemente del estadio de fibrosis, no solo en enfermedad avanzada.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η ιντερφερόνη/ριμπαβιρίνη είναι παρωχημένη θεραπεία, με χαμηλότερη αποτελεσματικότητα και σημαντικές ανεπιθύμητες ενέργειες σε σχέση με τα DAA · <b>A</b> Η αναμονή μέχρι κίρρωση χάνει την ευκαιρία ίασης πριν την εξέλιξη της νόσου · <b>D</b> Η θεραπεία συνιστάται ανεξαρτήτως υποψηφιότητας για μεταμόσχευση, σε σχεδόν όλους τους ασθενείς · <b>B</b> Τα γλυκοκορτικοειδή δεν έχουν αντιική δράση και δεν έχουν θέση στην ηπατίτιδα C",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> El interferón/ribavirina es un tratamiento obsoleto, con menor eficacia y efectos adversos importantes frente a los AAD · <b>A</b> Esperar hasta la cirrosis pierde la oportunidad de curación antes de la progresión de la enfermedad · <b>D</b> El tratamiento se recomienda independientemente de la candidatura a trasplante, en prácticamente todos los pacientes · <b>B</b> Los glucocorticoides no tienen acción antiviral ni lugar en la hepatitis C",
+  "cite": "AASLD-IDSA HCV Guidance · EASL Recommendations on Treatment of Hepatitis C 2020",
+  "id": "A-326"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 67,
+  "concepts": [
+   "c.path.gi.autoimmune_hepatitis"
+  ],
+  "topic_el": "Αυτοάνοση ηπατίτιδα",
+  "topic_es": "Hepatitis autoinmune",
+  "stem_el": "Γυναίκα 35 ετών με κόπωση και αυξημένες τρανσαμινάσες έχει θετικά ANA και αντι-λείου μυός αντισώματα, υπεργαμμασφαιριναιμία IgG, και βιοψία με φλεγμονή διαμέσου ορίου (interface hepatitis) με πλασματοκύτταρα. Ποια είναι η κατάλληλη αρχική θεραπεία;",
+  "stem_es": "Mujer de 35 años con fatiga y transaminasas elevadas tiene ANA y anticuerpos antimúsculo liso positivos, hipergammaglobulinemia IgG, y biopsia con hepatitis de interfase con infiltrado de células plasmáticas. ¿Cuál es el tratamiento inicial adecuado?",
+  "options": [
+   {
+    "el": "Ουρσοδεοξυχολικό οξύ ως μόνη θεραπεία",
+    "es": "Ácido ursodesoxicólico como único tratamiento"
+   },
+   {
+    "el": "Άμεσης δράσης αντιικά φάρμακα",
+    "es": "Antivirales de acción directa"
+   },
+   {
+    "el": "Φλεβοτομίες τακτικές",
+    "es": "Flebotomías periódicas"
+   },
+   {
+    "el": "Πρεδνιζολόνη, με ή χωρίς αζαθειοπρίνη, ως θεραπεία εφόδου",
+    "es": "Prednisolona, con o sin azatioprina, como tratamiento de inducción"
+   },
+   {
+    "el": "Χηλικοί παράγοντες χαλκού (π.χ. πενικιλλαμίνη)",
+    "es": "Quelantes de cobre (p. ej. penicilamina)"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Το κλινικό, ορολογικό και ιστολογικό προφίλ είναι χαρακτηριστικό αυτοάνοσης ηπατίτιδας· η θεραπεία εφόδου είναι κορτικοστεροειδή (πρεδνιζολόνη), συχνά σε συνδυασμό με αζαθειοπρίνη ως φάρμακο διατήρησης για μείωση της στεροειδικής δόσης.",
+  "expl_es": "El perfil clínico, serológico e histológico es característico de hepatitis autoinmune; el tratamiento de inducción son los corticosteroides (prednisolona), a menudo combinados con azatioprina como agente de mantenimiento para reducir la dosis de esteroides.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Το ουρσοδεοξυχολικό οξύ είναι θεραπεία της πρωτοπαθούς χολικής χολαγγειίτιδας, όχι της αυτοάνοσης ηπατίτιδας · <b>B</b> Δεν υπάρχει στοιχείο ιογενούς λοίμωξης εδώ, τα αντιικά δεν έχουν ρόλο · <b>C</b> Οι φλεβοτομίες χρησιμοποιούνται στην αιμοχρωμάτωση, άσχετη κλινική οντότητα · <b>E</b> Οι χηλικοί παράγοντες χαλκού χρησιμοποιούνται στη νόσο Wilson, όχι εδώ όπου δεν υπάρχουν ευρήματα συσσώρευσης χαλκού",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El ácido ursodesoxicólico es el tratamiento de la colangitis biliar primaria, no de la hepatitis autoinmune · <b>B</b> No hay evidencia de infección viral aquí, los antivirales no tienen papel · <b>C</b> Las flebotomías se usan en la hemocromatosis, entidad clínica distinta · <b>E</b> Los quelantes de cobre se usan en la enfermedad de Wilson, no aquí donde no hay hallazgos de acumulación de cobre",
+  "cite": "AASLD Practice Guidance: Autoimmune Hepatitis 2019 · Harrison 21.ª ed., cap. «Autoimmune Hepatitis»",
+  "id": "A-327"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 63,
+  "concepts": [
+   "c.path.gi.alcoholic_liver"
+  ],
+  "topic_el": "Σοβαρή αλκοολική ηπατίτιδα — δείκτης Maddrey",
+  "topic_es": "Hepatitis alcohólica grave — función discriminante de Maddrey",
+  "stem_el": "Ασθενής με βαρύ ιστορικό αλκοολισμού εμφανίζει ίκτερο, χολερυθρίνη 12 mg/dL, INR 2.2, χωρίς ενεργό λοίμωξη ή αιμορραγία. Ο δείκτης Maddrey υπολογίζεται 38. Ποια θεραπεία πρέπει να εξεταστεί;",
+  "stem_es": "Paciente con historia intensa de alcoholismo presenta ictericia, bilirrubina 12 mg/dL, INR 2.2, sin infección activa ni hemorragia. La función discriminante de Maddrey se calcula en 38. ¿Qué tratamiento debe considerarse?",
+  "options": [
+   {
+    "el": "Άμεση ηπατική μεταμόσχευση χωρίς περίοδο αποχής από αλκοόλ",
+    "es": "Trasplante hepático inmediato sin período de abstinencia"
+   },
+   {
+    "el": "Φλεβοτομίες τακτικές",
+    "es": "Flebotomías periódicas"
+   },
+   {
+    "el": "Χηλικοί παράγοντες χαλκού",
+    "es": "Quelantes de cobre"
+   },
+   {
+    "el": "Αντιβίωση εμπειρική ως μόνη θεραπεία, χωρίς αντιμετώπιση της ηπατίτιδας",
+    "es": "Antibiótico empírico como único tratamiento, sin abordar la hepatitis"
+   },
+   {
+    "el": "Κορτικοστεροειδή (π.χ. πρεδνιζολόνη) μετά αποκλεισμό λοίμωξης, με επανεκτίμηση απάντησης στις 7 ημέρες (δείκτης Lille)",
+    "es": "Corticosteroides (p. ej. prednisolona) tras excluir infección, con reevaluación de respuesta a los 7 días (índice de Lille)"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Δείκτης Maddrey ≥32 υποδηλώνει σοβαρή αλκοολική ηπατίτιδα με σημαντικό κίνδυνο βραχυπρόθεσμης θνητότητας· μετά τον αποκλεισμό ενεργού λοίμωξης, τα κορτικοστεροειδή μπορούν να εξεταστούν, με επανεκτίμηση της ανταπόκρισης στις 7 ημέρες με τον δείκτη Lille για απόφαση συνέχισης ή διακοπής.",
+  "expl_es": "Una función de Maddrey ≥32 indica hepatitis alcohólica grave con riesgo significativo de mortalidad a corto plazo; tras excluir infección activa, pueden considerarse los corticosteroides, reevaluando la respuesta a los 7 días con el índice de Lille para decidir continuar o suspender.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η μεταμόσχευση απαιτεί συνήθως τεκμηριωμένη περίοδο αποχής και πολυεπιστημονική αξιολόγηση, δεν είναι άμεση πρώτη επιλογή · <b>D</b> Χωρίς τεκμηριωμένη λοίμωξη, η αντιβίωση μόνη δεν αντιμετωπίζει τη φλεγμονώδη ηπατική βλάβη · <b>B</b> Οι φλεβοτομίες χρησιμοποιούνται στην αιμοχρωμάτωση, άσχετη εδώ · <b>C</b> Οι χηλικοί παράγοντες χαλκού αφορούν τη νόσο Wilson, όχι την αλκοολική ηπατίτιδα",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El trasplante habitualmente requiere un período de abstinencia documentado y evaluación multidisciplinar, no es la primera opción inmediata · <b>D</b> Sin infección documentada, el antibiótico solo no aborda el daño hepático inflamatorio · <b>B</b> Las flebotomías se usan en la hemocromatosis, ajena aquí · <b>C</b> Los quelantes de cobre corresponden a la enfermedad de Wilson, no a la hepatitis alcohólica",
+  "cite": "AASLD Practice Guidance: Alcohol-Associated Liver Disease 2020 · Harrison 21.ª ed., cap. «Alcoholic Liver Disease»",
+  "id": "A-328"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 75,
+  "concepts": [
+   "c.path.gi.mash"
+  ],
+  "topic_el": "Μεταβολική στεατοηπατίτιδα (MASH)",
+  "topic_es": "Esteatohepatitis metabólica (MASH)",
+  "stem_el": "Ασθενής με παχυσαρκία, σακχαρώδη διαβήτη τύπου 2 και τυχαία ανεύρεση ηπατικής στεάτωσης στο υπερηχογράφημα, με ήπια αύξηση τρανσαμινασών. Ποιο είναι το κατάλληλο αρχικό βήμα για την εκτίμηση της ηπατικής ίνωσης;",
+  "stem_es": "Paciente con obesidad, diabetes tipo 2 y hallazgo incidental de esteatosis hepática en la ecografía, con transaminasas levemente elevadas. ¿Cuál es el paso inicial adecuado para evaluar la fibrosis hepática?",
+  "options": [
+   {
+    "el": "Μη επεμβατικός δείκτης ίνωσης (π.χ. FIB-4) και, αν παθολογικός, ελαστογραφία ή περαιτέρω αξιολόγηση",
+    "es": "Índice no invasivo de fibrosis (p. ej. FIB-4) y, si es anormal, elastografía o evaluación adicional"
+   },
+   {
+    "el": "Καμία περαιτέρω αξιολόγηση, η στεάτωση είναι πάντα καλοήθης",
+    "es": "Ninguna evaluación adicional, la esteatosis es siempre benigna"
+   },
+   {
+    "el": "Ορολογικός έλεγχος αντι-μιτοχονδριακών αντισωμάτων",
+    "es": "Serología de anticuerpos antimitocondriales"
+   },
+   {
+    "el": "ERCP διαγνωστική",
+    "es": "CPRE diagnóstica"
+   },
+   {
+    "el": "Βιοψία ήπατος σε όλους τους ασθενείς με στεάτωση, ανεξαρτήτως άλλων ευρημάτων",
+    "es": "Biopsia hepática en todos los pacientes con esteatosis, independientemente de otros hallazgos"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Στη μεταβολικά σχετιζόμενη στεατωτική ηπατική νόσο, η αρχική εκτίμηση κινδύνου ίνωσης γίνεται με μη επεμβατικούς δείκτες όπως το FIB-4· παθολογικό αποτέλεσμα οδηγεί σε ελαστογραφία ή περαιτέρω αξιολόγηση, εξοικονομώντας βιοψία μόνο για επιλεγμένες περιπτώσεις.",
+  "expl_es": "En la enfermedad hepática esteatósica asociada a disfunción metabólica, la evaluación inicial del riesgo de fibrosis se realiza con índices no invasivos como el FIB-4; un resultado anormal conduce a elastografía o evaluación adicional, reservando la biopsia solo para casos seleccionados.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η βιοψία σε όλους τους ασθενείς είναι επεμβατική και περιττή ως πρώτο βήμα, δεν είναι η σύγχρονη προσέγγιση · <b>B</b> Η στεάτωση μπορεί να εξελιχθεί σε στεατοηπατίτιδα, ίνωση και κίρρωση, δεν είναι πάντα αθώα · <b>C</b> Τα αντι-μιτοχονδριακά αντισώματα αφορούν την πρωτοπαθή χολική χολαγγειίτιδα, άσχετα εδώ · <b>D</b> Η ERCP απεικονίζει τη χοληφόρο οδό, δεν αξιολογεί ηπατική ίνωση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> La biopsia en todos los pacientes es invasiva e innecesaria como primer paso, no es el abordaje actual · <b>B</b> La esteatosis puede progresar a esteatohepatitis, fibrosis y cirrosis, no es siempre inocua · <b>C</b> Los anticuerpos antimitocondriales corresponden a la colangitis biliar primaria, ajenos aquí · <b>D</b> La CPRE explora la vía biliar, no evalúa la fibrosis hepática",
+  "cite": "AASLD Practice Guidance: Nonalcoholic Fatty Liver Disease 2023 · EASL-EASD-EASO Clinical Practice Guidelines on NAFLD 2016",
+  "id": "A-329"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 66,
+  "concepts": [
+   "c.path.gi.hemochromatosis"
+  ],
+  "topic_el": "Κληρονομική αιμοχρωμάτωση",
+  "topic_es": "Hemocromatosis hereditaria",
+  "stem_el": "Άνδρας 48 ετών με κόπωση, αρθραλγίες και νεοεμφανισθέντα σακχαρώδη διαβήτη έχει κορεσμό τρανσφερρίνης 78% και φερριτίνη 900 ng/mL. Ποιο είναι το κατάλληλο επόμενο διαγνωστικό βήμα;",
+  "stem_es": "Varón de 48 años con fatiga, artralgias y diabetes de nueva aparición tiene saturación de transferrina del 78% y ferritina de 900 ng/mL. ¿Cuál es el siguiente paso diagnóstico adecuado?",
+  "options": [
+   {
+    "el": "Ορολογικός έλεγχος αντι-μιτοχονδριακών αντισωμάτων",
+    "es": "Serología de anticuerpos antimitocondriales"
+   },
+   {
+    "el": "Γονοτύπηση HFE (C282Y/H63D)",
+    "es": "Genotipado del gen HFE (C282Y/H63D)"
+   },
+   {
+    "el": "Δοκιμασία αναπνοής ουρίας 13C",
+    "es": "Test del aliento con urea 13C"
+   },
+   {
+    "el": "Μανομετρία οισοφάγου",
+    "es": "Manometría esofágica"
+   },
+   {
+    "el": "24ωρη συλλογή ούρων για χαλκό",
+    "es": "Recolección de orina de 24 horas para cobre"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Ο συνδυασμός υψηλού κορεσμού τρανσφερρίνης και φερριτίνης σε ασθενή με συμβατά κλινικά ευρήματα (κόπωση, αρθραλγίες, διαβήτης) εγείρει ισχυρή υποψία κληρονομικής αιμοχρωμάτωσης· η γονοτύπηση HFE (κυρίως ομοζυγωτία C282Y) επιβεβαιώνει τη διάγνωση.",
+  "expl_es": "La combinación de saturación de transferrina y ferritina elevadas en un paciente con hallazgos clínicos compatibles (fatiga, artralgias, diabetes) plantea una fuerte sospecha de hemocromatosis hereditaria; el genotipado HFE (principalmente homocigosidad C282Y) confirma el diagnóstico.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Τα αντι-μιτοχονδριακά αντισώματα αφορούν την πρωτοπαθή χολική χολαγγειίτιδα, άσχετη με το προφίλ σιδήρου εδώ · <b>E</b> Ο χαλκός ούρων διερευνά νόσο Wilson, με διαφορετικό κλινικοεργαστηριακό προφίλ · <b>C</b> Η δοκιμασία ουρίας αφορά H. pylori, άσχετη με υπερφόρτωση σιδήρου · <b>D</b> Η μανομετρία αξιολογεί κινητικότητα οισοφάγου, άσχετη με τη διάγνωση αυτή",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Los anticuerpos antimitocondriales corresponden a la colangitis biliar primaria, ajenos al perfil de hierro aquí · <b>E</b> El cobre en orina estudia la enfermedad de Wilson, con un perfil clínico-analítico distinto · <b>C</b> El test de urea corresponde a H. pylori, ajeno a la sobrecarga de hierro · <b>D</b> La manometría evalúa la motilidad esofágica, ajena a este diagnóstico",
+  "cite": "AASLD Practice Guideline: Hemochromatosis 2011 · Harrison 21.ª ed., cap. «Hemochromatosis»",
+  "id": "A-330"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 60,
+  "concepts": [
+   "c.path.gi.wilson"
+  ],
+  "topic_el": "Νόσος Wilson",
+  "topic_es": "Enfermedad de Wilson",
+  "stem_el": "Ασθενής 22 ετών με αυξημένες τρανσαμινάσες, δυσαρθρία και τρόμο, χαμηλή κερουλοπλασμίνη ορού και δακτυλίους Kayser-Fleischer στη σχισμοειδή λυχνία. Ποια είναι η κατάλληλη αρχική θεραπεία;",
+  "stem_es": "Paciente de 22 años con transaminasas elevadas, disartria y temblor, ceruloplasmina sérica baja y anillos de Kayser-Fleischer en la lámpara de hendidura. ¿Cuál es el tratamiento inicial adecuado?",
+  "options": [
+   {
+    "el": "Φλεβοτομίες τακτικές",
+    "es": "Flebotomías periódicas"
+   },
+   {
+    "el": "Ουρσοδεοξυχολικό οξύ ως μόνη θεραπεία",
+    "es": "Ácido ursodesoxicólico como único tratamiento"
+   },
+   {
+    "el": "Χηλικός παράγοντας χαλκού (π.χ. πενικιλλαμίνη ή τριεντίνη), ή ψευδάργυρος σε ήπιες/προσυμπτωματικές μορφές",
+    "es": "Quelante de cobre (p. ej. penicilamina o trientina), o zinc en formas leves/presintomáticas"
+   },
+   {
+    "el": "Άμεσης δράσης αντιικά φάρμακα",
+    "es": "Antivirales de acción directa"
+   },
+   {
+    "el": "Κορτικοστεροειδή υψηλής δόσης ως μόνη θεραπεία",
+    "es": "Corticosteroides en dosis alta como único tratamiento"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Το κλινικό (νευρολογικά συμπτώματα), οφθαλμολογικό (δακτύλιοι Kayser-Fleischer) και εργαστηριακό (χαμηλή κερουλοπλασμίνη) προφίλ είναι χαρακτηριστικό νόσου Wilson· η θεραπεία βασίζεται σε χηλικούς παράγοντες χαλκού, με τον ψευδάργυρο ως εναλλακτική σε ήπιες ή προσυμπτωματικές μορφές.",
+  "expl_es": "El perfil clínico (síntomas neurológicos), oftalmológico (anillos de Kayser-Fleischer) y analítico (ceruloplasmina baja) es característico de la enfermedad de Wilson; el tratamiento se basa en quelantes de cobre, con el zinc como alternativa en formas leves o presintomáticas.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Οι φλεβοτομίες χρησιμοποιούνται στην αιμοχρωμάτωση (υπερφόρτωση σιδήρου), άσχετη εδώ · <b>E</b> Τα κορτικοστεροειδή δεν αφαιρούν τον συσσωρευμένο χαλκό, δεν είναι η βάση της θεραπείας · <b>D</b> Δεν πρόκειται για ιογενή λοίμωξη, τα αντιικά δεν έχουν ρόλο · <b>B</b> Το ουρσοδεοξυχολικό οξύ είναι θεραπεία χολοστατικών νόσων όπως η πρωτοπαθής χολική χολαγγειίτιδα, όχι της νόσου Wilson",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Las flebotomías se usan en la hemocromatosis (sobrecarga de hierro), ajena aquí · <b>E</b> Los corticosteroides no eliminan el cobre acumulado, no son la base del tratamiento · <b>D</b> No se trata de una infección viral, los antivirales no tienen papel · <b>B</b> El ácido ursodesoxicólico es tratamiento de enfermedades colestásicas como la colangitis biliar primaria, no de la enfermedad de Wilson",
+  "cite": "AASLD Practice Guideline: Wilson Disease 2008 · Harrison 21.ª ed., cap. «Wilson's Disease»",
+  "id": "A-331"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 78,
+  "concepts": [
+   "c.path.gi.ulcerative_colitis"
+  ],
+  "topic_el": "Κριτήρια Truelove-Witts — σοβαρό κύμα ελκώδους κολίτιδας",
+  "topic_es": "Criterios de Truelove-Witts — brote grave de colitis ulcerosa",
+  "stem_el": "Ασθενής με γνωστή ελκώδη κολίτιδα εμφανίζει 8 αιματηρές κενώσεις ημερησίως, θερμοκρασία 38.2°C, καρδιακή συχνότητα 105/min, αιμοσφαιρίνη 9.8 g/dL και ΤΚΕ 40 mm/h. Πώς ταξινομείται το κύμα κατά Truelove-Witts;",
+  "stem_es": "Paciente con colitis ulcerosa conocida presenta 8 deposiciones sanguinolentas al día, temperatura 38.2°C, frecuencia cardíaca 105/min, hemoglobina 9.8 g/dL y VSG 40 mm/h. ¿Cómo se clasifica el brote según Truelove-Witts?",
+  "options": [
+   {
+    "el": "Δεν μπορεί να ταξινομηθεί χωρίς κολονοσκόπηση",
+    "es": "No puede clasificarse sin colonoscopia"
+   },
+   {
+    "el": "Ήπιο κύμα (<4 αιματηρές κενώσεις/ημέρα, χωρίς σημεία συστηματικής τοξικότητας)",
+    "es": "Brote leve (<4 deposiciones sanguinolentas/día, sin signos de toxicidad sistémica)"
+   },
+   {
+    "el": "Μέτριο κύμα (ενδιάμεσο μεταξύ ήπιου και σοβαρού, χωρίς πλήρη κριτήρια τοξικότητας)",
+    "es": "Brote moderado (intermedio entre leve y grave, sin cumplir todos los criterios de toxicidad)"
+   },
+   {
+    "el": "Σοβαρό κύμα (≥6 αιματηρές κενώσεις/ημέρα συν συστηματικά σημεία τοξικότητας)",
+    "es": "Brote grave (≥6 deposiciones sanguinolentas/día más signos sistémicos de toxicidad)"
+   },
+   {
+    "el": "Ύφεση (απουσία συμπτωμάτων και φυσιολογικοί δείκτες φλεγμονής)",
+    "es": "Remisión (ausencia de síntomas y marcadores inflamatorios normales)"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Τα κριτήρια Truelove-Witts ορίζουν σοβαρό κύμα ως ≥6 αιματηρές κενώσεις ημερησίως συν τουλάχιστον ένα σημείο συστηματικής τοξικότητας (ταχυκαρδία >90, πυρετός >37.8°C, αιμοσφαιρίνη <10.5 g/dL, ή ΤΚΕ >30) — όλα παρόντα σε αυτόν τον ασθενή.",
+  "expl_es": "Los criterios de Truelove-Witts definen el brote grave como ≥6 deposiciones sanguinolentas al día más al menos un signo de toxicidad sistémica (taquicardia >90, fiebre >37.8°C, hemoglobina <10.5 g/dL, o VSG >30) — todos presentes en este paciente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Το ήπιο κύμα έχει <4 κενώσεις χωρίς σημεία τοξικότητας, πολύ κάτω από το κλινικό εικόνα εδώ · <b>C</b> Το μέτριο κύμα βρίσκεται μεταξύ ήπιου και σοβαρού, χωρίς πλήρη κριτήρια τοξικότητας, ενώ εδώ πληρούνται πολλαπλά κριτήρια σοβαρότητας · <b>E</b> Η ύφεση σημαίνει απουσία συμπτωμάτων, το αντίθετο του σεναρίου · <b>A</b> Η ταξινόμηση Truelove-Witts είναι κλινικοεργαστηριακή, δεν απαιτεί κολονοσκόπηση για τον καθορισμό της βαρύτητας του κύματος",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> El brote leve tiene <4 deposiciones sin signos de toxicidad, muy por debajo del cuadro clínico aquí · <b>C</b> El brote moderado se sitúa entre leve y grave, sin cumplir todos los criterios de toxicidad, mientras que aquí se cumplen múltiples criterios de gravedad · <b>E</b> La remisión implica ausencia de síntomas, lo contrario del escenario · <b>A</b> La clasificación de Truelove-Witts es clínico-analítica, no requiere colonoscopia para determinar la gravedad del brote",
+  "cite": "ECCO Guidelines on Ulcerative Colitis 2022 · Harrison 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "A-332"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 86,
+  "concepts": [
+   "c.path.gi.ulcerative_colitis"
+  ],
+  "topic_el": "Σοβαρή ελκώδης κολίτιδα — αρχική θεραπεία εισαγωγής",
+  "topic_es": "Colitis ulcerosa grave — tratamiento inicial de ingreso",
+  "stem_el": "Ασθενής εισάγεται με σοβαρό κύμα ελκώδους κολίτιδας κατά Truelove-Witts, μετά τον αποκλεισμό λοίμωξης από C. difficile. Ποια είναι η κατάλληλη αρχική θεραπεία;",
+  "stem_es": "Paciente ingresa con brote grave de colitis ulcerosa según Truelove-Witts, tras excluir infección por C. difficile. ¿Cuál es el tratamiento inicial adecuado?",
+  "options": [
+   {
+    "el": "Αντιβίωση ευρέος φάσματος ως μόνη θεραπεία",
+    "es": "Antibiótico de amplio espectro como único tratamiento"
+   },
+   {
+    "el": "Χειρουργική κολεκτομή άμεσα σε κάθε σοβαρό κύμα, χωρίς δοκιμή φαρμακευτικής αγωγής",
+    "es": "Colectomía quirúrgica inmediata en todo brote grave, sin ensayo de tratamiento farmacológico"
+   },
+   {
+    "el": "5-αμινοσαλικυλικά από στόματος μόνο",
+    "es": "5-aminosalicilatos orales solos"
+   },
+   {
+    "el": "Παρακολούθηση χωρίς φαρμακευτική αγωγή",
+    "es": "Observación sin tratamiento farmacológico"
+   },
+   {
+    "el": "Ενδοφλέβια κορτικοστεροειδή (π.χ. μεθυλπρεδνιζολόνη), με κλινική επανεκτίμηση περίπου στις 3 ημέρες",
+    "es": "Corticosteroides intravenosos (p. ej. metilprednisolona), con reevaluación clínica alrededor del día 3"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η θεραπεία πρώτης γραμμής στο σοβαρό κύμα ελκώδους κολίτιδας είναι τα ενδοφλέβια κορτικοστεροειδή, με κλινική και εργαστηριακή επανεκτίμηση περίπου την 3η ημέρα (κριτήρια Οξφόρδης) για να αποφασιστεί αν χρειάζεται θεραπεία διάσωσης.",
+  "expl_es": "El tratamiento de primera línea en el brote grave de colitis ulcerosa son los corticosteroides intravenosos, con reevaluación clínica y analítica alrededor del día 3 (criterios de Oxford) para decidir si se necesita terapia de rescate.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Τα 5-ASA από στόματος μόνα είναι ανεπαρκή σε σοβαρό κύμα, χρησιμοποιούνται σε ήπια/μέτρια νόσο · <b>D</b> Η παρακολούθηση χωρίς αγωγή σε σοβαρό κύμα κινδυνεύει σε τοξικό μεγάκολο και διάτρηση · <b>A</b> Η αντιβίωση μόνη δεν αντιμετωπίζει τη φλεγμονώδη διεργασία της ΙΦΝΕ, εκτός αν συνυπάρχει λοίμωξη · <b>B</b> Η άμεση κολεκτομή χωρίς δοκιμή στεροειδών παραλείπει το βήμα διάσωσης που σώζει το παχύ έντερο σε σημαντικό ποσοστό ασθενών",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> Los 5-ASA orales solos son insuficientes en un brote grave, se usan en enfermedad leve/moderada · <b>D</b> La observación sin tratamiento en un brote grave arriesga megacolon tóxico y perforación · <b>A</b> El antibiótico solo no aborda el proceso inflamatorio de la EII, salvo que coexista infección · <b>B</b> La colectomía inmediata sin ensayo de esteroides se salta el paso de rescate que salva el colon en una proporción importante de pacientes",
+  "cite": "ECCO Guidelines on Ulcerative Colitis 2022",
+  "id": "A-333"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 82,
+  "concepts": [
+   "c.path.gi.ulcerative_colitis"
+  ],
+  "topic_el": "Ελκώδης κολίτιδα ανθεκτική σε στεροειδή — θεραπεία διάσωσης",
+  "topic_es": "Colitis ulcerosa refractaria a esteroides — terapia de rescate",
+  "stem_el": "Ασθενής με σοβαρό κύμα ελκώδους κολίτιδας δεν βελτιώνεται κλινικά και εργαστηριακά μετά από 3 ημέρες ενδοφλέβιων κορτικοστεροειδών. Ποια είναι η κατάλληλη επόμενη θεραπεία;",
+  "stem_es": "Paciente con brote grave de colitis ulcerosa no mejora clínica ni analíticamente tras 3 días de corticosteroides intravenosos. ¿Cuál es el siguiente tratamiento adecuado?",
+  "options": [
+   {
+    "el": "Θεραπεία διάσωσης με ινφλιξιμάμπη ή κυκλοσπορίνη ενδοφλέβια, με πρώιμη χειρουργική συζήτηση",
+    "es": "Terapia de rescate con infliximab o ciclosporina intravenosa, con discusión quirúrgica temprana"
+   },
+   {
+    "el": "Αύξηση της δόσης των ίδιων κορτικοστεροειδών επ' αόριστον",
+    "es": "Aumentar la dosis de los mismos corticosteroides de forma indefinida"
+   },
+   {
+    "el": "Αλλαγή σε 5-ASA από στόματος μόνο",
+    "es": "Cambiar a 5-ASA oral únicamente"
+   },
+   {
+    "el": "Έξοδος από το νοσοκομείο με παρακολούθηση εξωτερικά",
+    "es": "Alta hospitalaria con seguimiento ambulatorio"
+   },
+   {
+    "el": "Αντιπαρασιτική αγωγή εμπειρικά",
+    "es": "Tratamiento antiparasitario empírico"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Η μη ανταπόκριση στα ενδοφλέβια κορτικοστεροειδή στις 3 ημέρες ορίζει στεροειδο-ανθεκτικό σοβαρό κύμα· η θεραπεία διάσωσης με ινφλιξιμάμπη ή κυκλοσπορίνη ενδοφλέβια πρέπει να ξεκινήσει άμεσα, με παράλληλη πρώιμη συζήτηση με χειρουργό για ενδεχόμενη κολεκτομή.",
+  "expl_es": "La falta de respuesta a los corticosteroides intravenosos a los 3 días define un brote grave refractario a esteroides; la terapia de rescate con infliximab o ciclosporina intravenosa debe iniciarse de inmediato, con discusión temprana en paralelo con cirugía por una posible colectomía.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η αύξηση δόσης του ίδιου στεροειδούς δεν προσφέρει επιπλέον όφελος σε τεκμηριωμένη αντίσταση και καθυστερεί την αποτελεσματική θεραπεία διάσωσης · <b>C</b> Τα 5-ASA είναι ανεπαρκή σε σοβαρό, στεροειδο-ανθεκτικό κύμα · <b>D</b> Η έξοδος χωρίς έλεγχο της νόσου κινδυνεύει σε ταχεία επιδείνωση και επιπλοκές όπως τοξικό μεγάκολο · <b>E</b> Δεν υπάρχει στοιχείο παρασιτικής αιτιολογίας, η αντιπαρασιτική αγωγή δεν αντιμετωπίζει την ΙΦΝΕ",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> Aumentar la dosis del mismo esteroide no aporta beneficio adicional ante resistencia documentada y retrasa la terapia de rescate eficaz · <b>C</b> Los 5-ASA son insuficientes en un brote grave refractario a esteroides · <b>D</b> El alta sin controlar la enfermedad arriesga un deterioro rápido y complicaciones como el megacolon tóxico · <b>E</b> No hay evidencia de etiología parasitaria, el tratamiento antiparasitario no aborda la EII",
+  "cite": "ECCO Guidelines on Ulcerative Colitis 2022",
+  "id": "A-334"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 70,
+  "concepts": [
+   "c.path.gi.ulcerative_colitis"
+  ],
+  "topic_el": "Θεραπεία συντήρησης ήπιας/μέτριας ελκώδους κολίτιδας",
+  "topic_es": "Tratamiento de mantenimiento de la colitis ulcerosa leve/moderada",
+  "stem_el": "Ασθενής με ήπια/μέτρια αριστερή ελκώδη κολίτιδα σε ύφεση. Ποια είναι η κατάλληλη θεραπεία συντήρησης πρώτης γραμμής;",
+  "stem_es": "Paciente con colitis ulcerosa izquierda leve/moderada en remisión. ¿Cuál es el tratamiento de mantenimiento de primera línea adecuado?",
+  "options": [
+   {
+    "el": "Κυκλοσπορίνη από στόματος μακροχρόνια",
+    "es": "Ciclosporina oral a largo plazo"
+   },
+   {
+    "el": "5-αμινοσαλικυλικά (μεσαλαζίνη) από στόματος ή/και τοπικά, ανάλογα με την έκταση",
+    "es": "5-aminosalicilatos (mesalazina) orales y/o tópicos, según la extensión"
+   },
+   {
+    "el": "Καμία θεραπεία συντήρησης εφόσον υπάρχει ύφεση",
+    "es": "Ninguna terapia de mantenimiento mientras haya remisión"
+   },
+   {
+    "el": "Κορτικοστεροειδή συστηματικά μακροχρόνια ως συντήρηση",
+    "es": "Corticosteroides sistémicos a largo plazo como mantenimiento"
+   },
+   {
+    "el": "Ινφλιξιμάμπη ως πρώτη επιλογή σε κάθε ήπια νόσο",
+    "es": "Infliximab como primera opción en toda enfermedad leve"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Στη ήπια/μέτρια ελκώδη κολίτιδα, η θεραπεία συντήρησης πρώτης γραμμής είναι τα 5-ASA, από στόματος ή/και τοπικά (υπόθετα/κλύσματα) ανάλογα με την έκταση της νόσου, με καλή αποτελεσματικότητα και ασφαλές προφίλ μακροχρόνιας χρήσης.",
+  "expl_es": "En la colitis ulcerosa leve/moderada, el tratamiento de mantenimiento de primera línea son los 5-ASA, orales y/o tópicos (supositorios/enemas) según la extensión de la enfermedad, con buena eficacia y un perfil seguro para uso a largo plazo.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η ινφλιξιμάμπη επιφυλάσσεται για μέτρια-σοβαρή νόσο ανθεκτική σε συμβατική θεραπεία, όχι πρώτη επιλογή σε ήπια νόσο · <b>D</b> Τα συστηματικά κορτικοστεροειδή δεν είναι κατάλληλα για μακροχρόνια συντήρηση λόγω σημαντικών παρενεργειών · <b>A</b> Η κυκλοσπορίνη χρησιμοποιείται ως θεραπεία διάσωσης βραχυπρόθεσμα σε σοβαρό κύμα, όχι ως μακροχρόνια συντήρηση · <b>C</b> Η διακοπή κάθε θεραπείας συντήρησης αυξάνει σημαντικά τον κίνδυνο υποτροπής",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> El infliximab se reserva para enfermedad moderada-grave refractaria al tratamiento convencional, no es primera opción en enfermedad leve · <b>D</b> Los corticosteroides sistémicos no son adecuados para el mantenimiento a largo plazo por sus efectos adversos importantes · <b>A</b> La ciclosporina se usa como terapia de rescate a corto plazo en un brote grave, no como mantenimiento a largo plazo · <b>C</b> Suspender todo tratamiento de mantenimiento aumenta significativamente el riesgo de recidiva",
+  "cite": "ECCO Guidelines on Ulcerative Colitis 2022 · Harrison 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "A-335"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 76,
+  "concepts": [
+   "c.path.gi.crohn"
+  ],
+  "topic_el": "Διαφορική διάγνωση νόσου Crohn έναντι ελκώδους κολίτιδας",
+  "topic_es": "Diagnóstico diferencial de la enfermedad de Crohn frente a la colitis ulcerosa",
+  "stem_el": "Ασθενής με χρόνια διάρροια, περιεδρικά συρίγγια και τμηματικές βλάβες με φυσιολογικό βλεννογόνο ανάμεσά τους στην κολονοσκόπηση, με διήθηση σε όλο το πάχος του τοιχώματος στη βιοψία. Ποια διάγνωση υποστηρίζουν αυτά τα ευρήματα;",
+  "stem_es": "Paciente con diarrea crónica, fístulas perianales y lesiones segmentarias con mucosa normal entre ellas en la colonoscopia, con infiltrado transmural en la biopsia. ¿Qué diagnóstico apoyan estos hallazgos?",
+  "options": [
+   {
+    "el": "Ελκώδης κολίτιδα",
+    "es": "Colitis ulcerosa"
+   },
+   {
+    "el": "Ισχαιμική κολίτιδα",
+    "es": "Colitis isquémica"
+   },
+   {
+    "el": "Νόσος Crohn, λόγω τμηματικών βλαβών, διαφυγής (skip lesions), διηθητικού χαρακτήρα και περιεδρικής νόσου",
+    "es": "Enfermedad de Crohn, por las lesiones segmentarias (skip lesions), el carácter transmural y la enfermedad perianal"
+   },
+   {
+    "el": "Σύνδρομο ευερέθιστου εντέρου",
+    "es": "Síndrome de intestino irritable"
+   },
+   {
+    "el": "Κολίτιδα από C. difficile",
+    "es": "Colitis por C. difficile"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Οι τμηματικές βλάβες με φυσιολογικό βλεννογόνο ανάμεσα («skip lesions»), η διήθηση σε όλο το πάχος του τοιχώματος και η περιεδρική νόσος (συρίγγια) είναι χαρακτηριστικά της νόσου Crohn, σε αντίθεση με την ελκώδη κολίτιδα που είναι συνεχής και περιορίζεται στον βλεννογόνο.",
+  "expl_es": "Las lesiones segmentarias con mucosa normal entre ellas («skip lesions»), la infiltración transmural y la enfermedad perianal (fístulas) son características de la enfermedad de Crohn, a diferencia de la colitis ulcerosa, que es continua y se limita a la mucosa.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η ελκώδης κολίτιδα προκαλεί συνεχή, όχι τμηματική, φλεγμονή περιορισμένη στον βλεννογόνο, χωρίς τυπικά περιεδρικά συρίγγια · <b>B</b> Η ισχαιμική κολίτιδα έχει οξεία έναρξη σε ηλικιωμένους με αγγειακούς παράγοντες κινδύνου, όχι χρόνια πορεία με συρίγγια · <b>D</b> Το ΣΕΕ δεν προκαλεί ενδοσκοπικές ή ιστολογικές βλάβες · <b>E</b> Η κολίτιδα από C. difficile έχει οξεία έναρξη σχετιζόμενη με αντιβίωση, όχι τμηματικές χρόνιες βλάβες με συρίγγια",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La colitis ulcerosa produce inflamación continua, no segmentaria, limitada a la mucosa, sin fístulas perianales típicas · <b>B</b> La colitis isquémica tiene inicio agudo en ancianos con factores de riesgo vascular, no un curso crónico con fístulas · <b>D</b> El SII no produce lesiones endoscópicas ni histológicas · <b>E</b> La colitis por C. difficile tiene inicio agudo asociado a antibióticos, no lesiones crónicas segmentarias con fístulas",
+  "cite": "ECCO Guidelines on Crohn's Disease 2019 · Harrison 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "A-336"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 72,
+  "concepts": [
+   "c.path.gi.crohn"
+  ],
+  "topic_el": "Διαγνωστική διερεύνηση νόσου Crohn",
+  "topic_es": "Estudio diagnóstico de la enfermedad de Crohn",
+  "stem_el": "Ασθενής με κλινική υποψία νόσου Crohn του λεπτού εντέρου με πιθανή στένωση. Ποιος συνδυασμός εξετάσεων είναι κατάλληλος για πλήρη αξιολόγηση;",
+  "stem_es": "Paciente con sospecha clínica de enfermedad de Crohn de intestino delgado con posible estenosis. ¿Qué combinación de pruebas es adecuada para la evaluación completa?",
+  "options": [
+   {
+    "el": "Μόνο απλή ακτινογραφία κοιλίας",
+    "es": "Solo radiografía simple de abdomen"
+   },
+   {
+    "el": "Μόνο ορολογικός έλεγχος αντισωμάτων κατά ιστικής τρανσγλουταμινάσης",
+    "es": "Solo serología de anticuerpos antitransglutaminasa tisular"
+   },
+   {
+    "el": "Μόνο δοκιμασία αναπνοής υδρογόνου με λακτουλόζη",
+    "es": "Solo test de aliento con hidrógeno y lactulosa"
+   },
+   {
+    "el": "Ειλεοκολονοσκόπηση με βιοψίες συν απεικόνιση διασταυρούμενης τομής (π.χ. εντερογραφία MRI) για αξιολόγηση λεπτού εντέρου και επιπλοκών",
+    "es": "Ileocolonoscopia con biopsias más imagen transversal (p. ej. enterografía por RM) para evaluar el intestino delgado y las complicaciones"
+   },
+   {
+    "el": "Μόνο κοπρανική ελαστάση-1",
+    "es": "Solo elastasa fecal-1"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η πλήρης αξιολόγηση της νόσου Crohn απαιτεί ειλεοκολονοσκόπηση με βιοψίες για ιστολογική επιβεβαίωση και απεικόνιση διασταυρούμενης τομής (εντερογραφία MRI ή CT) για την αξιολόγηση του λεπτού εντέρου, στενώσεων, συριγγίων και αποστημάτων που η ενδοσκόπηση δεν μπορεί να δει.",
+  "expl_es": "La evaluación completa de la enfermedad de Crohn requiere ileocolonoscopia con biopsias para confirmación histológica e imagen transversal (enterografía por RM o TC) para evaluar el intestino delgado, estenosis, fístulas y abscesos que la endoscopia no puede ver.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η απλή ακτινογραφία δεν έχει ευαισθησία για βλεννογονικές βλάβες ή επιπλοκές του λεπτού εντέρου · <b>B</b> Η ορολογία κοιλιοκάκης διερευνά άλλη οντότητα, δεν επιβεβαιώνει ούτε αποκλείει τη νόσο Crohn · <b>C</b> Η δοκιμασία υδρογόνου διερευνά βακτηριακή υπερανάπτυξη, δεν αξιολογεί τη φλεγμονώδη νόσο ή τις στενώσεις · <b>E</b> Η κοπρανική ελαστάση αξιολογεί παγκρεατική εξωκρινή λειτουργία, άσχετη με τη διάγνωση της νόσου Crohn",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La radiografía simple no tiene sensibilidad para lesiones mucosas o complicaciones del intestino delgado · <b>B</b> La serología de celiaquía estudia otra entidad, no confirma ni descarta la enfermedad de Crohn · <b>C</b> El test de hidrógeno estudia sobrecrecimiento bacteriano, no evalúa la enfermedad inflamatoria ni las estenosis · <b>E</b> La elastasa fecal evalúa la función exocrina pancreática, ajena al diagnóstico de la enfermedad de Crohn",
+  "cite": "ECCO Guidelines on Crohn's Disease 2019 · Harrison 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "A-337"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 74,
+  "concepts": [
+   "c.path.gi.crohn"
+  ],
+  "topic_el": "Θεραπεία εφόδου μέτριας-σοβαρής νόσου Crohn",
+  "topic_es": "Tratamiento de inducción en la enfermedad de Crohn moderada-grave",
+  "stem_el": "Ασθενής με μέτρια-σοβαρή νόσο Crohn, με περιεδρική νόσο και ανεπαρκή ανταπόκριση σε 5-ASA. Ποια είναι η κατάλληλη στρατηγική θεραπείας;",
+  "stem_es": "Paciente con enfermedad de Crohn moderada-grave, con enfermedad perianal y respuesta insuficiente a 5-ASA. ¿Cuál es la estrategia de tratamiento adecuada?",
+  "options": [
+   {
+    "el": "Βιολογικός παράγοντας αντι-TNF (π.χ. ινφλιξιμάμπη ή αδαλιμουμάμπη) για εφόδο και διατήρηση, αποφεύγοντας παρατεταμένη χρήση στεροειδών",
+    "es": "Agente biológico anti-TNF (p. ej. infliximab o adalimumab) para inducción y mantenimiento, evitando el uso prolongado de esteroides"
+   },
+   {
+    "el": "Παρατεταμένη θεραπεία με συστηματικά κορτικοστεροειδή ως μόνη μακροχρόνια στρατηγική",
+    "es": "Tratamiento prolongado con corticosteroides sistémicos como única estrategia a largo plazo"
+   },
+   {
+    "el": "Αύξηση μόνο της δόσης 5-ASA επ' αόριστον",
+    "es": "Aumentar solo la dosis de 5-ASA de forma indefinida"
+   },
+   {
+    "el": "Θεραπεία εκρίζωσης H. pylori",
+    "es": "Tratamiento de erradicación de H. pylori"
+   },
+   {
+    "el": "Καμία φαρμακευτική αλλαγή, μόνο διαιτητικές συστάσεις",
+    "es": "Ningún cambio farmacológico, solo recomendaciones dietéticas"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Στη μέτρια-σοβαρή νόσο Crohn με ανεπαρκή ανταπόκριση σε 5-ASA, ειδικά με περιεδρική νόσο, ενδείκνυται βιολογικός παράγοντας αντι-TNF για εφόδο και διατήρηση της ύφεσης, αποφεύγοντας τη μακροχρόνια χρήση στεροειδών λόγω των παρενεργειών τους.",
+  "expl_es": "En la enfermedad de Crohn moderada-grave con respuesta insuficiente a 5-ASA, especialmente con enfermedad perianal, está indicado un agente biológico anti-TNF para la inducción y el mantenimiento de la remisión, evitando el uso prolongado de esteroides por sus efectos adversos.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Τα στεροειδή δεν επουλώνουν την περιεδρική νόσο και δεν πρέπει να χρησιμοποιούνται μακροχρόνια λόγω παρενεργειών · <b>B</b> Τα 5-ASA έχουν περιορισμένη αποτελεσματικότητα στη νόσο Crohn σε σχέση με την ελκώδη κολίτιδα, η αύξηση δόσης δεν αναμένεται να επαρκέσει · <b>C</b> Δεν υπάρχει στοιχείο σχετιζόμενο με H. pylori σε αυτό το σενάριο · <b>D</b> Η διαιτητική παρέμβαση μόνη δεν ελέγχει τη φλεγμονώδη νόσο μέτριας-σοβαρής βαρύτητας με περιεδρική προσβολή",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Los esteroides no curan la enfermedad perianal y no deben usarse a largo plazo por sus efectos adversos · <b>B</b> Los 5-ASA tienen eficacia limitada en la enfermedad de Crohn en comparación con la colitis ulcerosa, aumentar la dosis no bastará previsiblemente · <b>C</b> No hay evidencia relacionada con H. pylori en este escenario · <b>D</b> La intervención dietética sola no controla la enfermedad inflamatoria de gravedad moderada-grave con afectación perianal",
+  "cite": "ECCO Guidelines on Crohn's Disease 2019 · Harrison 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "A-338"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 83,
+  "concepts": [
+   "c.path.gi.celiac"
+  ],
+  "topic_el": "Διάγνωση κοιλιοκάκης ενήλικα",
+  "topic_es": "Diagnóstico de celiaquía del adulto",
+  "stem_el": "Γυναίκα 30 ετών με χρόνια διάρροια, σιδηροπενική αναιμία και φούσκωμα, ακολουθεί δίαιτα με γλουτένη. Ποιο είναι το κατάλληλο πρώτο διαγνωστικό βήμα;",
+  "stem_es": "Mujer de 30 años con diarrea crónica, anemia ferropénica y distensión abdominal, sigue una dieta con gluten. ¿Cuál es el primer paso diagnóstico adecuado?",
+  "options": [
+   {
+    "el": "Αντισώματα ιστικής τρανσγλουταμινάσης IgA, μαζί με ολική IgA ορού, με τον ασθενή να συνεχίζει δίαιτα με γλουτένη",
+    "es": "Anticuerpos antitransglutaminasa tisular IgA, junto con IgA sérica total, con el paciente continuando dieta con gluten"
+   },
+   {
+    "el": "Κολονοσκόπηση με βιοψίες παχέος εντέρου ως πρώτο βήμα",
+    "es": "Colonoscopia con biopsias de colon como primer paso"
+   },
+   {
+    "el": "CT κοιλίας ως πρώτη εξέταση",
+    "es": "TC de abdomen como primera prueba"
+   },
+   {
+    "el": "Έναρξη δίαιτας χωρίς γλουτένη πριν από οποιονδήποτε ορολογικό έλεγχο",
+    "es": "Iniciar dieta sin gluten antes de cualquier estudio serológico"
+   },
+   {
+    "el": "Δοκιμασία αναπνοής υδρογόνου με λακτόζη",
+    "es": "Test de aliento con hidrógeno y lactosa"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Ο αρχικός ορολογικός έλεγχος για κοιλιοκάκη περιλαμβάνει αντισώματα ιστικής τρανσγλουταμινάσης IgA μαζί με ολική IgA (για αποκλεισμό ανεπάρκειας IgA που δίνει ψευδώς αρνητικό αποτέλεσμα)· ο ασθενής πρέπει να συνεχίζει δίαιτα με γλουτένη μέχρι την ολοκλήρωση της διάγνωσης.",
+  "expl_es": "El estudio serológico inicial para celiaquía incluye anticuerpos antitransglutaminasa tisular IgA junto con IgA total (para descartar déficit de IgA que da falso negativo); el paciente debe continuar con dieta con gluten hasta completar el diagnóstico.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η δίαιτα χωρίς γλουτένη πριν τον έλεγχο μπορεί να αρνητικοποιήσει την ορολογία και τη βιοψία, καθιστώντας τη διάγνωση αδύνατη αργότερα · <b>B</b> Η κοιλιοκάκη προσβάλλει το δωδεκαδάκτυλο/λεπτό έντερο, όχι το παχύ έντερο, η κολονοσκόπηση δεν είναι το κατάλληλο πρώτο βήμα · <b>E</b> Η δοκιμασία λακτόζης διερευνά δυσανεξία λακτόζης, διαφορετική οντότητα · <b>C</b> Η CT κοιλίας δεν έχει ρόλο στην αρχική διάγνωση κοιλιοκάκης",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> La dieta sin gluten antes del estudio puede negativizar la serología y la biopsia, imposibilitando el diagnóstico posterior · <b>B</b> La celiaquía afecta el duodeno/intestino delgado, no el colon, la colonoscopia no es el primer paso adecuado · <b>E</b> El test de lactosa estudia intolerancia a la lactosa, una entidad distinta · <b>C</b> La TC de abdomen no tiene papel en el diagnóstico inicial de la celiaquía",
+  "cite": "ACG Clinical Guideline: Diagnosis and Management of Celiac Disease 2023",
+  "id": "A-339"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 68,
+  "concepts": [
+   "c.path.gi.celiac"
+  ],
+  "topic_el": "Αντιμετώπιση επιβεβαιωμένης κοιλιοκάκης",
+  "topic_es": "Manejo de la celiaquía confirmada",
+  "stem_el": "Ασθενής με κοιλιοκάκη επιβεβαιωμένη με θετική ορολογία και βιοψία δωδεκαδακτύλου (ατροφία λαχνών). Ποια είναι η βασική θεραπεία και ποια συμπληρωματική εκτίμηση συνιστάται;",
+  "stem_es": "Paciente con celiaquía confirmada por serología positiva y biopsia duodenal (atrofia vellositaria). ¿Cuál es el tratamiento de base y qué evaluación complementaria se recomienda?",
+  "options": [
+   {
+    "el": "Χορήγηση κορτικοστεροειδών μακροχρόνια αντί δίαιτας",
+    "es": "Corticosteroides a largo plazo en lugar de la dieta"
+   },
+   {
+    "el": "Αυστηρή δίαιτα χωρίς γλουτένη εφ' όρου ζωής, με έλεγχο για ελλείψεις (σίδηρος, φυλλικό, βιταμίνη D/B12) και οστική πυκνότητα",
+    "es": "Dieta estricta sin gluten de por vida, con estudio de deficiencias (hierro, folato, vitamina D/B12) y densidad ósea"
+   },
+   {
+    "el": "Θεραπεία εκρίζωσης H. pylori ως βασική θεραπεία",
+    "es": "Tratamiento de erradicación de H. pylori como tratamiento de base"
+   },
+   {
+    "el": "Χορήγηση παγκρεατικών ενζύμων ως βασική θεραπεία",
+    "es": "Sustitución con enzimas pancreáticas como tratamiento de base"
+   },
+   {
+    "el": "Καμία διατροφική αλλαγή, μόνο συμπτωματική αγωγή",
+    "es": "Ningún cambio dietético, solo tratamiento sintomático"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Η μοναδική αποδεδειγμένη θεραπεία της κοιλιοκάκης είναι η αυστηρή, εφ' όρου ζωής δίαιτα χωρίς γλουτένη· επιπλέον συνιστάται έλεγχος για διατροφικές ελλείψεις και οστεοπόρωση, καθώς η χρόνια δυσαπορρόφηση αυξάνει τον κίνδυνο και των δύο.",
+  "expl_es": "El único tratamiento comprobado de la celiaquía es la dieta estricta sin gluten de por vida; además se recomienda estudiar deficiencias nutricionales y osteoporosis, ya que la malabsorción crónica aumenta el riesgo de ambas.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Τα κορτικοστεροειδή δεν αντιμετωπίζουν την υποκείμενη ανοσολογική αντίδραση στη γλουτένη, δεν αντικαθιστούν τη δίαιτα · <b>C</b> Η κοιλιοκάκη δεν σχετίζεται αιτιολογικά με H. pylori, η εκρίζωση δεν είναι η βασική θεραπεία · <b>D</b> Η ανεπάρκεια παγκρεατικών ενζύμων δεν είναι η πρωτοπαθής βλάβη στην κοιλιοκάκη, το πρόβλημα είναι η βλεννογονική ατροφία λόγω γλουτένης · <b>E</b> Χωρίς διατροφική αλλαγή η βλάβη του βλεννογόνου και η δυσαπορρόφηση συνεχίζονται",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Los corticosteroides no abordan la reacción inmunológica subyacente al gluten, no sustituyen la dieta · <b>C</b> La celiaquía no se relaciona etiológicamente con H. pylori, la erradicación no es el tratamiento de base · <b>D</b> La insuficiencia de enzimas pancreáticas no es la lesión primaria en la celiaquía, el problema es la atrofia mucosa por el gluten · <b>E</b> Sin cambio dietético, el daño de la mucosa y la malabsorción continúan",
+  "cite": "ACG Clinical Guideline: Diagnosis and Management of Celiac Disease 2023",
+  "id": "A-340"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 64,
+  "concepts": [
+   "c.path.gi.ibs"
+  ],
+  "topic_el": "Διάγνωση συνδρόμου ευερέθιστου εντέρου — κριτήρια Rome IV",
+  "topic_es": "Diagnóstico del síndrome de intestino irritable — criterios Rome IV",
+  "stem_el": "Γυναίκα 26 ετών με κοιλιακό άλγος τουλάχιστον 1 ημέρα/εβδομάδα τους τελευταίους 3 μήνες, σχετιζόμενο με τη διάβαση κοπράνων και μεταβολή στη συχνότητα, χωρίς απώλεια βάρους, αιμορραγία, αναιμία ή οικογενειακό ιστορικό ΙΦΝΕ/καρκίνου. Ποια είναι η κατάλληλη προσέγγιση;",
+  "stem_es": "Mujer de 26 años con dolor abdominal al menos 1 día/semana en los últimos 3 meses, relacionado con la defecación y cambio en la frecuencia, sin pérdida de peso, sangrado, anemia ni antecedente familiar de EII/cáncer. ¿Cuál es el abordaje adecuado?",
+  "options": [
+   {
+    "el": "Κολονοσκόπηση με βιοψίες υποχρεωτικά σε όλες τις περιπτώσεις πριν από τη διάγνωση",
+    "es": "Colonoscopia con biopsias obligatoria en todos los casos antes del diagnóstico"
+   },
+   {
+    "el": "CT κοιλίας με σκιαγραφικό ως πρώτη εξέταση",
+    "es": "TC de abdomen con contraste como primera prueba"
+   },
+   {
+    "el": "Διάγνωση κλινική με βάση τα κριτήρια Rome IV, με περιορισμένο εργαστηριακό έλεγχο χωρίς εκτεταμένη διερεύνηση απουσία σημείων επικινδυνότητας",
+    "es": "Diagnóstico clínico basado en criterios Rome IV, con estudio limitado sin investigación extensa en ausencia de signos de alarma"
+   },
+   {
+    "el": "Εμπειρική θεραπεία εκρίζωσης H. pylori",
+    "es": "Tratamiento empírico de erradicación de H. pylori"
+   },
+   {
+    "el": "Λαπαροσκοπική διερεύνηση διαγνωστική",
+    "es": "Exploración laparoscópica diagnóstica"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Στο ΣΕΕ, η διάγνωση βασίζεται κλινικά στα κριτήρια Rome IV· απουσία σημείων επικινδυνότητας (απώλεια βάρους, αιμορραγία, αναιμία, οικογενειακό ιστορικό), δεν απαιτείται εκτεταμένη διερεύνηση, μόνο περιορισμένος έλεγχος για αποκλεισμό άλλων αιτιών.",
+  "expl_es": "En el SII, el diagnóstico se basa clínicamente en los criterios Rome IV; en ausencia de signos de alarma (pérdida de peso, sangrado, anemia, antecedente familiar), no se requiere una investigación extensa, solo un estudio limitado para descartar otras causas.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η υποχρεωτική κολονοσκόπηση σε όλους επιβαρύνει άσκοπα χωρίς σημεία επικινδυνότητας, δεν είναι απαραίτητη ρουτίνα · <b>B</b> Η CT με σκιαγραφικό δεν είναι πρώτη εξέταση σε τυπικό ΣΕΕ χωρίς σημεία επικινδυνότητας · <b>D</b> Δεν υπάρχει τεκμηρίωση σχέσης H. pylori με το ΣΕΕ σε αυτό το σενάριο · <b>E</b> Η λαπαροσκοπική διερεύνηση είναι δυσανάλογα επεμβατική για μια λειτουργική διαταραχή χωρίς σημεία επικινδυνότητας",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La colonoscopia obligatoria en todos los casos sobrecarga innecesariamente sin signos de alarma, no es rutina necesaria · <b>B</b> La TC con contraste no es la primera prueba en un SII típico sin signos de alarma · <b>D</b> No hay evidencia de relación de H. pylori con el SII en este escenario · <b>E</b> La exploración laparoscópica es desproporcionadamente invasiva para un trastorno funcional sin signos de alarma",
+  "cite": "Rome IV Diagnostic Criteria for Functional Gastrointestinal Disorders · ACG Clinical Guideline: Irritable Bowel Syndrome 2021",
+  "id": "A-341"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 58,
+  "concepts": [
+   "c.path.gi.chronic_diarrhea"
+  ],
+  "topic_el": "Προσέγγιση χρόνιας διάρροιας",
+  "topic_es": "Abordaje de la diarrea crónica",
+  "stem_el": "Ασθενής με διάρροια διάρκειας 8 εβδομάδων. Ποια είναι η κατάλληλη αρχική προσέγγιση πριν από εξειδικευμένες εξετάσεις;",
+  "stem_es": "Paciente con diarrea de 8 semanas de evolución. ¿Cuál es el abordaje inicial adecuado antes de pruebas especializadas?",
+  "options": [
+   {
+    "el": "Άμεση χειρουργική διερεύνηση κοιλίας",
+    "es": "Exploración quirúrgica abdominal inmediata"
+   },
+   {
+    "el": "Άμεση έναρξη ισχυρών οπιοειδών αντιδιαρροϊκών χωρίς διάγνωση",
+    "es": "Inicio inmediato de opioides antidiarreicos potentes sin diagnóstico"
+   },
+   {
+    "el": "Καμία διερεύνηση, αναμονή αυτόματης υποχώρησης",
+    "es": "Ninguna investigación, esperar resolución espontánea"
+   },
+   {
+    "el": "Ταξινόμηση κατά μηχανισμό (εκκριτική, ωσμωτική, φλεγμονώδης, δυσαπορροφητική/λιπώδης, κινητική) με βασικό έλεγχο (κοπρανική εξέταση, φλεγμονώδεις δείκτες, ορολογία κοιλιοκάκης)",
+    "es": "Clasificación por mecanismo (secretora, osmótica, inflamatoria, malabsortiva/grasa, motora) con estudio básico (análisis de heces, marcadores inflamatorios, serología de celiaquía)"
+   },
+   {
+    "el": "Εμπειρική αντιβίωση ευρέος φάσματος χωρίς περαιτέρω διερεύνηση",
+    "es": "Antibiótico empírico de amplio espectro sin más estudio"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η χρόνια διάρροια (>4 εβδομάδες) προσεγγίζεται αρχικά με ταξινόμηση κατά πιθανό μηχανισμό και βασικό έλεγχο (κοπρανική εξέταση για λοίμωξη/φλεγμονή, ορολογία κοιλιοκάκης, βασικές αιματολογικές εξετάσεις), που κατευθύνει την περαιτέρω στοχευμένη διερεύνηση.",
+  "expl_es": "La diarrea crónica (>4 semanas) se aborda inicialmente clasificándola por su mecanismo probable y con un estudio básico (análisis de heces para infección/inflamación, serología de celiaquía, analítica básica), que orienta la investigación dirigida posterior.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η χειρουργική διερεύνηση είναι δυσανάλογη χωρίς προηγούμενη μη επεμβατική διερεύνηση · <b>E</b> Η εμπειρική αντιβίωση χωρίς τεκμηρίωση λοιμώδους αιτίας δεν είναι λογική πρώτη κίνηση και μπορεί να επιδεινώσει τη διάρροια · <b>B</b> Τα ισχυρά αντιδιαρροϊκά χωρίς διάγνωση κινδυνεύουν να καλύψουν σοβαρή υποκείμενη νόσο (π.χ. λοιμώδη κολίτιδα) · <b>C</b> Η χρόνια διάρροια σπάνια υποχωρεί αυτόματα και η αναμονή χωρίς διερεύνηση καθυστερεί τη θεραπεία αιτιών όπως η κοιλιοκάκη ή η ΙΦΝΕ",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La exploración quirúrgica es desproporcionada sin una investigación no invasiva previa · <b>E</b> El antibiótico empírico sin causa infecciosa documentada no es una primera medida lógica y puede empeorar la diarrea · <b>B</b> Los antidiarreicos potentes sin diagnóstico arriesgan enmascarar una enfermedad subyacente grave (p. ej. colitis infecciosa) · <b>C</b> La diarrea crónica rara vez se resuelve espontáneamente y esperar sin investigar retrasa el tratamiento de causas como la celiaquía o la EII",
+  "cite": "Harrison 21.ª ed., cap. «Diarrhea and Constipation» · Davidson's 24.ª ed. — cap. «Gastroenterology»",
+  "id": "A-342"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 55,
+  "concepts": [
+   "c.path.gi.sibo"
+  ],
+  "topic_el": "Βακτηριακή υπερανάπτυξη λεπτού εντέρου (SIBO)",
+  "topic_es": "Sobrecrecimiento bacteriano del intestino delgado (SIBO)",
+  "stem_el": "Ασθενής με σκληροδερμία και διαταραχή κινητικότητας εντέρου εμφανίζει φούσκωμα, μετεωρισμό και στεατόρροια. Υποψιάζεστε βακτηριακή υπερανάπτυξη λεπτού εντέρου. Ποια είναι η κατάλληλη διαγνωστική προσέγγιση και θεραπεία;",
+  "stem_es": "Paciente con esclerodermia y trastorno de la motilidad intestinal presenta distensión, meteorismo y esteatorrea. Se sospecha sobrecrecimiento bacteriano del intestino delgado. ¿Cuál es el abordaje diagnóstico y terapéutico adecuado?",
+  "options": [
+   {
+    "el": "Ορολογικός έλεγχος αντισωμάτων κοιλιοκάκης ως μόνη διερεύνηση",
+    "es": "Serología de anticuerpos de celiaquía como única investigación"
+   },
+   {
+    "el": "Θεραπεία εκρίζωσης H. pylori",
+    "es": "Tratamiento de erradicación de H. pylori"
+   },
+   {
+    "el": "Φλεβοτομίες τακτικές",
+    "es": "Flebotomías periódicas"
+   },
+   {
+    "el": "Κολονοσκόπηση με βιοψίες ως πρώτη εξέταση",
+    "es": "Colonoscopia con biopsias como primera prueba"
+   },
+   {
+    "el": "Δοκιμασία αναπνοής υδρογόνου/μεθανίου με γλυκόζη ή λακτουλόζη, θεραπεία με ριφαξιμίνη",
+    "es": "Test de aliento con hidrógeno/metano tras glucosa o lactulosa, tratamiento con rifaximina"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Σε ασθενείς με διαταραχή κινητικότητας (όπως σκληροδερμία) υψηλού κινδύνου για SIBO, η διάγνωση γίνεται με δοκιμασία αναπνοής υδρογόνου/μεθανίου μετά από γλυκόζη ή λακτουλόζη, και η θεραπεία βασίζεται σε αντιβίωση, συνήθως ριφαξιμίνη.",
+  "expl_es": "En pacientes con trastorno de la motilidad (como la esclerodermia) de alto riesgo de SIBO, el diagnóstico se realiza con test de aliento con hidrógeno/metano tras glucosa o lactulosa, y el tratamiento se basa en antibióticos, habitualmente rifaximina.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η ορολογία κοιλιοκάκης διερευνά άλλη οντότητα και δεν διαγιγνώσκει SIBO, αν και μπορεί να συνυπάρχει ως διαφορική διάγνωση · <b>D</b> Η κολονοσκόπηση εξετάζει το παχύ έντερο, το SIBO αφορά το λεπτό έντερο και δεν διαγιγνώσκεται έτσι · <b>C</b> Οι φλεβοτομίες αφορούν την αιμοχρωμάτωση, άσχετη εδώ · <b>B</b> Δεν υπάρχει παθοφυσιολογική σύνδεση H. pylori με το SIBO σε αυτό το σενάριο",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La serología de celiaquía estudia otra entidad y no diagnostica SIBO, aunque puede coexistir como diagnóstico diferencial · <b>D</b> La colonoscopia examina el colon, el SIBO afecta el intestino delgado y no se diagnostica así · <b>C</b> Las flebotomías corresponden a la hemocromatosis, ajena aquí · <b>B</b> No hay relación fisiopatológica de H. pylori con el SIBO en este escenario",
+  "cite": "ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth 2020",
+  "id": "A-343"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 79,
+  "concepts": [
+   "c.path.gi.cdiff"
+  ],
+  "topic_el": "Διάγνωση κολίτιδας από Clostridioides difficile",
+  "topic_es": "Diagnóstico de la colitis por Clostridioides difficile",
+  "stem_el": "Ασθενής με πρόσφατη λήψη αντιβίωσης εμφανίζει υδαρή διάρροια, κοιλιακό άλγος και πυρετό. Ποια είναι η κατάλληλη διαγνωστική προσέγγιση;",
+  "stem_es": "Paciente con antibioticoterapia reciente presenta diarrea acuosa, dolor abdominal y fiebre. ¿Cuál es el abordaje diagnóstico adecuado?",
+  "options": [
+   {
+    "el": "Έλεγχος κοπράνων με ευαίσθητη μοριακή μέθοδο (NAAT) σε συνδυασμό με ανίχνευση τοξίνης, ερμηνευόμενος με το κλινικό πλαίσιο",
+    "es": "Estudio de heces con método molecular sensible (NAAT) combinado con detección de toxina, interpretado en el contexto clínico"
+   },
+   {
+    "el": "Ορολογικός έλεγχος αντισωμάτων κοιλιοκάκης",
+    "es": "Serología de anticuerpos de celiaquía"
+   },
+   {
+    "el": "Κολονοσκόπηση επείγουσα σε κάθε ύποπτο περιστατικό πριν από εργαστηριακό έλεγχο",
+    "es": "Colonoscopia urgente en todo caso sospechoso antes del estudio de laboratorio"
+   },
+   {
+    "el": "Καλλιέργεια κοπράνων ρουτίνας για κοινά παθογόνα μόνο",
+    "es": "Cultivo de heces de rutina para patógenos comunes únicamente"
+   },
+   {
+    "el": "CT θώρακος, εξέταση άσχετη με τη διερεύνηση γαστρεντερικής λοίμωξης",
+    "es": "TC de tórax, prueba ajena al estudio de una infección gastrointestinal"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Η διάγνωση της λοίμωξης από C. difficile βασίζεται σε συνδυασμό ευαίσθητης μοριακής μεθόδου (NAAT/PCR) με ανίχνευση τοξίνης, καθώς η NAAT μόνη μπορεί να ανιχνεύσει απλό αποικισμό· η ερμηνεία πρέπει πάντα να γίνεται στο κλινικό πλαίσιο.",
+  "expl_es": "El diagnóstico de la infección por C. difficile se basa en combinar un método molecular sensible (NAAT/PCR) con detección de toxina, ya que la NAAT sola puede detectar simple colonización; la interpretación siempre debe hacerse en el contexto clínico.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η ρουτίνα καλλιέργεια κοπράνων δεν στοχεύει το C. difficile και καθυστερεί τη διάγνωση · <b>C</b> Η κολονοσκόπηση δεν είναι απαραίτητη ρουτίνα πριν τον εργαστηριακό έλεγχο και φέρει κίνδυνο διάτρησης σε ενεργή κολίτιδα · <b>B</b> Η ορολογία κοιλιοκάκης δεν σχετίζεται με οξεία διάρροια σχετιζόμενη με αντιβίωση · <b>E</b> Η CT θώρακος δεν διερευνά γαστρεντερική λοίμωξη",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> El cultivo de heces de rutina no se dirige a C. difficile y retrasa el diagnóstico · <b>C</b> La colonoscopia no es necesaria de rutina antes del estudio de laboratorio y conlleva riesgo de perforación en colitis activa · <b>B</b> La serología de celiaquía no se relaciona con la diarrea aguda asociada a antibióticos · <b>E</b> La TC de tórax no estudia una infección gastrointestinal",
+  "cite": "ACG Clinical Guideline: Clostridioides difficile Infections 2021 · IDSA/SHEA Clinical Practice Guidelines 2021",
+  "id": "A-344"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 81,
+  "concepts": [
+   "c.path.gi.cdiff"
+  ],
+  "topic_el": "Θεραπεία πρώτου επεισοδίου κολίτιδας από C. difficile",
+  "topic_es": "Tratamiento del primer episodio de colitis por C. difficile",
+  "stem_el": "Ασθενής με πρώτο επεισόδιο λοίμωξης από C. difficile, μη σοβαρή μορφή. Ποια είναι η σύγχρονη θεραπεία πρώτης γραμμής;",
+  "stem_es": "Paciente con primer episodio de infección por C. difficile, forma no grave. ¿Cuál es el tratamiento actual de primera línea?",
+  "options": [
+   {
+    "el": "Μετρονιδαζόλη από στόματος ως αδιαμφισβήτητη πρώτη επιλογή σε κάθε περίπτωση",
+    "es": "Metronidazol oral como primera opción indiscutible en todo caso"
+   },
+   {
+    "el": "Βανκομυκίνη από στόματος ή φινταξομικίνη, όχι πλέον η μετρονιδαζόλη ως πρώτη επιλογή",
+    "es": "Vancomicina oral o fidaxomicina, ya no el metronidazol como primera opción"
+   },
+   {
+    "el": "Καμία θεραπεία, μόνο ενυδάτωση",
+    "es": "Ningún tratamiento, solo hidratación"
+   },
+   {
+    "el": "Αντιδιαρροϊκά οπιοειδή ως βασική θεραπεία",
+    "es": "Antidiarreicos opioides como tratamiento de base"
+   },
+   {
+    "el": "Αντιβίωση ενδοφλέβια ευρέος φάσματος πρόσθετη σε κάθε ήπια περίπτωση",
+    "es": "Antibiótico intravenoso de amplio espectro adicional en todo caso leve"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Οι σύγχρονες κατευθυντήριες οδηγίες (IDSA/SHEA, ACG) συνιστούν βανκομυκίνη από στόματος ή φινταξομικίνη ως πρώτης γραμμής θεραπεία για το πρώτο επεισόδιο λοίμωξης από C. difficile, ακόμη και σε μη σοβαρή μορφή· η μετρονιδαζόλη δεν είναι πλέον προτιμώμενη πρώτη επιλογή λόγω κατώτερης αποτελεσματικότητας.",
+  "expl_es": "Las guías actuales (IDSA/SHEA, ACG) recomiendan vancomicina oral o fidaxomicina como tratamiento de primera línea para el primer episodio de infección por C. difficile, incluso en forma no grave; el metronidazol ya no es la primera opción preferida por su menor eficacia.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η μετρονιδαζόλη έχει κατώτερη αποτελεσματικότητα σε σχέση με τη βανκομυκίνη/φινταξομικίνη και δεν είναι πλέον η προτιμώμενη πρώτη επιλογή · <b>E</b> Η συστηματική αντιβίωση ενδοφλέβια δεν προστίθεται ρουτίνα σε ήπια νόσο, το C. difficile θεραπεύεται με στοχευμένη από στόματος αγωγή · <b>D</b> Τα αντιδιαρροϊκά οπιοειδή αντενδείκνυνται, μπορούν να επιβραδύνουν την αποβολή τοξίνης και να προάγουν τοξικό μεγάκολο · <b>C</b> Χωρίς στοχευμένη αντιμικροβιακή αγωγή, η λοίμωξη επιμένει και μπορεί να επιδεινωθεί",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El metronidazol tiene menor eficacia frente a vancomicina/fidaxomicina y ya no es la primera opción preferida · <b>E</b> El antibiótico sistémico intravenoso no se añade de rutina en enfermedad leve, el C. difficile se trata con terapia oral dirigida · <b>D</b> Los antidiarreicos opioides están contraindicados, pueden retrasar la eliminación de la toxina y favorecer el megacolon tóxico · <b>C</b> Sin tratamiento antimicrobiano dirigido, la infección persiste y puede empeorar",
+  "cite": "IDSA/SHEA Clinical Practice Guidelines: C. difficile 2021 · ACG Clinical Guideline: Clostridioides difficile Infections 2021",
+  "id": "A-345"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 65,
+  "concepts": [
+   "c.path.gi.pbc"
+  ],
+  "topic_el": "Πρωτοπαθής χολική χολαγγειίτιδα",
+  "topic_es": "Colangitis biliar primaria",
+  "stem_el": "Γυναίκα 52 ετών με κνησμό και κόπωση έχει αυξημένη αλκαλική φωσφατάση με φυσιολογική χολερυθρίνη, θετικά αντι-μιτοχονδριακά αντισώματα. Ποια είναι η πιθανότερη διάγνωση και η θεραπεία πρώτης γραμμής;",
+  "stem_es": "Mujer de 52 años con prurito y fatiga tiene fosfatasa alcalina elevada con bilirrubina normal, anticuerpos antimitocondriales positivos. ¿Cuál es el diagnóstico más probable y el tratamiento de primera línea?",
+  "options": [
+   {
+    "el": "Νόσος Wilson· θεραπεία με χηλικούς παράγοντες χαλκού",
+    "es": "Enfermedad de Wilson; tratamiento con quelantes de cobre"
+   },
+   {
+    "el": "Αλκοολική ηπατοπάθεια· θεραπεία με αποχή από αλκοόλ μόνο",
+    "es": "Hepatopatía alcohólica; tratamiento con abstinencia alcohólica únicamente"
+   },
+   {
+    "el": "Πρωτοπαθής χολική χολαγγειίτιδα· θεραπεία πρώτης γραμμής με ουρσοδεοξυχολικό οξύ",
+    "es": "Colangitis biliar primaria; tratamiento de primera línea con ácido ursodesoxicólico"
+   },
+   {
+    "el": "Αιμοχρωμάτωση· θεραπεία με φλεβοτομίες",
+    "es": "Hemocromatosis; tratamiento con flebotomías"
+   },
+   {
+    "el": "Οξεία ιογενής ηπατίτιδα Α· θεραπεία υποστηρικτική μόνο",
+    "es": "Hepatitis viral A aguda; tratamiento solo de soporte"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Το προφίλ (γυναίκα μέσης ηλικίας, κνησμός, χολοστατικό πρότυπο, θετικά αντι-μιτοχονδριακά αντισώματα) είναι χαρακτηριστικό πρωτοπαθούς χολικής χολαγγειίτιδας· η θεραπεία πρώτης γραμμής είναι το ουρσοδεοξυχολικό οξύ, που επιβραδύνει την εξέλιξη της νόσου.",
+  "expl_es": "El perfil (mujer de mediana edad, prurito, patrón colestásico, anticuerpos antimitocondriales positivos) es característico de la colangitis biliar primaria; el tratamiento de primera línea es el ácido ursodesoxicólico, que enlentece la progresión de la enfermedad.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η οξεία ηπατίτιδα Α έχει οξεία κλινική εικόνα με κυτταρολυτικό, όχι χρόνιο χολοστατικό πρότυπο, και δεν σχετίζεται με αντι-μιτοχονδριακά αντισώματα · <b>A</b> Η νόσος Wilson δεν σχετίζεται με αντι-μιτοχονδριακά αντισώματα, εμφανίζεται σε νεότερους ασθενείς με νευρολογικά ευρήματα · <b>D</b> Η αιμοχρωμάτωση δεν εξηγεί τα θετικά αντι-μιτοχονδριακά αντισώματα ούτε το χολοστατικό πρότυπο ως πρωτεύον εύρημα · <b>B</b> Δεν αναφέρεται ιστορικό αλκοολισμού, και η αλκοολική ηπατοπάθεια δεν σχετίζεται με αντι-μιτοχονδριακά αντισώματα",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> La hepatitis A aguda tiene un cuadro clínico agudo con patrón citolítico, no colestásico crónico, y no se relaciona con anticuerpos antimitocondriales · <b>A</b> La enfermedad de Wilson no se relaciona con anticuerpos antimitocondriales, aparece en pacientes más jóvenes con hallazgos neurológicos · <b>D</b> La hemocromatosis no explica los anticuerpos antimitocondriales positivos ni el patrón colestásico como hallazgo primario · <b>B</b> No se refiere antecedente de alcoholismo, y la hepatopatía alcohólica no se relaciona con anticuerpos antimitocondriales",
+  "cite": "EASL Clinical Practice Guidelines: Primary Biliary Cholangitis 2017 · Harrison 21.ª ed., cap. «Primary Biliary Cholangitis»",
+  "id": "A-346"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 62,
+  "concepts": [
+   "c.path.gi.psc"
+  ],
+  "topic_el": "Πρωτοπαθής σκληρυντική χολαγγειίτιδα",
+  "topic_es": "Colangitis esclerosante primaria",
+  "stem_el": "Άνδρας 34 ετών με γνωστή ελκώδη κολίτιδα εμφανίζει χολοστατικό πρότυπο ηπατικών ενζύμων. Η MRCP δείχνει πολυεστιακές στενώσεις με διάταση της ενδο- και εξωηπατικής χοληφόρου οδού («κομβολόγιο»). Ποια είναι η πιθανότερη διάγνωση και ποιος επιπλέον κίνδυνος πρέπει να παρακολουθείται;",
+  "stem_es": "Varón de 34 años con colitis ulcerosa conocida presenta patrón colestásico de enzimas hepáticas. La CPRM muestra estenosis multifocales con dilatación de la vía biliar intra y extrahepática («en rosario»). ¿Cuál es el diagnóstico más probable y qué riesgo adicional debe vigilarse?",
+  "options": [
+   {
+    "el": "Χολολιθίαση απλή, χωρίς ανάγκη περαιτέρω παρακολούθησης",
+    "es": "Colelitiasis simple, sin necesidad de más seguimiento"
+   },
+   {
+    "el": "Νόσος Wilson, χωρίς σχέση με τη φλεγμονώδη νόσο του εντέρου",
+    "es": "Enfermedad de Wilson, sin relación con la enfermedad inflamatoria intestinal"
+   },
+   {
+    "el": "Οξεία ιογενής ηπατίτιδα, αυτοπεριοριζόμενη",
+    "es": "Hepatitis viral aguda, autolimitada"
+   },
+   {
+    "el": "Πρωτοπαθής σκληρυντική χολαγγειίτιδα, με αυξημένο κίνδυνο χολαγγειοκαρκινώματος και καρκίνου παχέος εντέρου, απαιτεί επιτήρηση",
+    "es": "Colangitis esclerosante primaria, con mayor riesgo de colangiocarcinoma y cáncer colorrectal, requiere vigilancia"
+   },
+   {
+    "el": "Αιμοχρωμάτωση, χωρίς αυξημένο κίνδυνο κακοήθειας χοληφόρου",
+    "es": "Hemocromatosis, sin mayor riesgo de neoplasia biliar"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η συνύπαρξη ΙΦΝΕ (κυρίως ελκώδους κολίτιδας) με πολυεστιακές στενώσεις χοληφόρου δέντρου («κομβολόγιο») στη MRCP είναι χαρακτηριστική πρωτοπαθούς σκληρυντικής χολαγγειίτιδας· οι ασθενείς έχουν αυξημένο κίνδυνο χολαγγειοκαρκινώματος και καρκίνου παχέος εντέρου, που απαιτεί τακτική επιτήρηση.",
+  "expl_es": "La coexistencia de EII (principalmente colitis ulcerosa) con estenosis multifocales de la vía biliar («en rosario») en la CPRM es característica de la colangitis esclerosante primaria; los pacientes tienen mayor riesgo de colangiocarcinoma y cáncer colorrectal, que requiere vigilancia periódica.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η απλή χολολιθίαση δεν προκαλεί πολυεστιακές στενώσεις σε όλο το χοληφόρο δέντρο ούτε σχετίζεται συστηματικά με ΙΦΝΕ · <b>C</b> Η οξεία ιογενής ηπατίτιδα δίνει κυτταρολυτικό, όχι χρόνιο χολοστατικό με απεικονιστικές στενώσεις · <b>B</b> Η νόσος Wilson δεν σχετίζεται με ΙΦΝΕ ούτε με το χαρακτηριστικό απεικονιστικό εύρημα · <b>E</b> Η αιμοχρωμάτωση δεν εξηγεί τις χοληφόρες στενώσεις και δεν αυξάνει τον κίνδυνο χολαγγειοκαρκινώματος με αυτόν τον μηχανισμό",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La colelitiasis simple no produce estenosis multifocales en toda la vía biliar ni se asocia sistemáticamente a EII · <b>C</b> La hepatitis viral aguda da un patrón citolítico, no colestásico crónico con estenosis en la imagen · <b>B</b> La enfermedad de Wilson no se relaciona con la EII ni con este hallazgo de imagen característico · <b>E</b> La hemocromatosis no explica las estenosis biliares ni aumenta el riesgo de colangiocarcinoma por este mecanismo",
+  "cite": "EASL Clinical Practice Guidelines: Sclerosing Cholangitis 2022 · Harrison 21.ª ed., cap. «Primary Sclerosing Cholangitis»",
+  "id": "A-347"
+ },
+ {
+  "sid": "path-gi",
+  "prob": 88,
+  "concepts": [
+   "c.path.gi.crc_screening"
+  ],
+  "topic_el": "Πρόγραμμα προσυμπτωματικού ελέγχου καρκίνου παχέος εντέρου",
+  "topic_es": "Programa de cribado del cáncer colorrectal",
+  "stem_el": "Ασυμπτωματικός ασθενής μέσου κινδύνου, χωρίς οικογενειακό ιστορικό καρκίνου παχέος εντέρου ή πολυποδίασης, φτάνει τα 45 έτη. Πότε και πώς πρέπει να ξεκινήσει ο προσυμπτωματικός έλεγχος;",
+  "stem_es": "Paciente asintomático de riesgo promedio, sin antecedente familiar de cáncer colorrectal ni poliposis, cumple 45 años. ¿Cuándo y cómo debe iniciarse el cribado?",
+  "options": [
+   {
+    "el": "Έναρξη μόνο στα 60 έτη σε μέσο κίνδυνο",
+    "es": "Iniciar solo a los 60 años en riesgo promedio"
+   },
+   {
+    "el": "Καμία ανάγκη ελέγχου χωρίς συμπτώματα, ανεξαρτήτως ηλικίας",
+    "es": "Ninguna necesidad de cribado sin síntomas, independientemente de la edad"
+   },
+   {
+    "el": "Έναρξη μόνο μετά την εμφάνιση αιμορραγίας από το ορθό",
+    "es": "Iniciar solo tras la aparición de sangrado rectal"
+   },
+   {
+    "el": "Γενετικός έλεγχος για σύνδρομο Lynch σε όλους πριν από οποιαδήποτε άλλη εξέταση",
+    "es": "Estudio genético para síndrome de Lynch en todos antes de cualquier otra prueba"
+   },
+   {
+    "el": "Έναρξη προσυμπτωματικού ελέγχου στα 45 έτη (κολονοσκόπηση κάθε 10 έτη ή εναλλακτική μέθοδος κατά τις κατευθυντήριες οδηγίες)",
+    "es": "Iniciar el cribado a los 45 años (colonoscopia cada 10 años u otro método alternativo según las guías)"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Στους ασθενείς μέσου κινδύνου, οι σύγχρονες κατευθυντήριες οδηγίες συνιστούν έναρξη προσυμπτωματικού ελέγχου στα 45 έτη, με κολονοσκόπηση κάθε 10 έτη ή εναλλακτικές μεθόδους (π.χ. κοπρανικό ανοσοχημικό τεστ ετησίως), ανεξαρτήτως συμπτωμάτων.",
+  "expl_es": "En pacientes de riesgo promedio, las guías actuales recomiendan iniciar el cribado a los 45 años, con colonoscopia cada 10 años o métodos alternativos (p. ej. test inmunoquímico fecal anual), independientemente de los síntomas.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η έναρξη στα 60 έτη καθυστερεί σημαντικά τον έλεγχο σε σχέση με τη σύγχρονη σύσταση των 45 ετών · <b>B</b> Ο προσυμπτωματικός έλεγχος γίνεται ακριβώς επειδή ο καρκίνος παχέος εντέρου μπορεί να είναι ασυμπτωματικός σε πρώιμο στάδιο · <b>C</b> Η αναμονή για αιμορραγία σημαίνει διάγνωση σε πιο προχωρημένο, συμπτωματικό στάδιο, χάνοντας τον σκοπό του ελέγχου · <b>D</b> Ο γενετικός έλεγχος για Lynch δεν γίνεται ρουτίνα σε όλο τον πληθυσμό μέσου κινδύνου, επιφυλάσσεται για ενδείξεις οικογενειακού ιστορικού",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Iniciar a los 60 años retrasa significativamente el cribado respecto a la recomendación actual de los 45 años · <b>B</b> El cribado se realiza precisamente porque el cáncer colorrectal puede ser asintomático en etapa temprana · <b>C</b> Esperar al sangrado implica diagnosticar en una etapa más avanzada y sintomática, perdiendo el objetivo del cribado · <b>D</b> El estudio genético para Lynch no se realiza de rutina en toda la población de riesgo promedio, se reserva para indicaciones por antecedente familiar",
+  "cite": "ACG Clinical Guideline: Colorectal Cancer Screening 2021 · Harrison 21.ª ed., cap. «Colorectal Cancer»",
+  "id": "A-348"
+ },
+ {
   "sid": "path-misc",
   "prob": 90,
   "concepts": [

@@ -58,23 +58,30 @@ tanda anterior coló 698 tarjetas con enunciados tipo «Pregunta sobre X» y opc
    obviamente absurdos.
 4. **`dis_el` / `dis_es` explican por qué falla cada opción incorrecta**, una por una,
    con la letra en negrita. Es lo que convierte la pregunta en material de estudio.
-5. **`cite` tiene que ser una referencia real y comprobable**, con año o edición:
+5. **Las letras de `dis_*` tienen que ser exactamente las opciones incorrectas.** Si la
+   correcta es la C, el análisis cita A, B, D y E — nunca la C, y sin saltarse ninguna.
+   **Si reordenas las opciones, reetiqueta las letras del análisis en el mismo paso.** Un
+   agente anterior reordenó para repartir la correcta y dejó el `dis_*` apuntando a las
+   letras viejas: sus 19 preguntas explicaban por qué falla la respuesta correcta. Se
+   descartaron enteras. Lo más seguro es **decidir la posición de la correcta antes de
+   escribir el análisis** y no tocarla después.
+6. **`cite` tiene que ser una referencia real y comprobable**, con año o edición:
    `Harrison 21.ª ed., cap. «…»`, `Davidson's 24.ª ed. — cap. «…»`, `ESC 2023`,
    `KDIGO 2012`, `Nelson 21.ª ed., cap. «…»`, `ATLS 10.ª ed.`, `Sabiston 21.ª ed.`.
    **No inventes citas.** Si no estás seguro de un capítulo concreto, cita el libro y la
    edición sin capítulo, o la guía y su año. Una cita falsa es peor que una genérica.
-6. **Bilingüe nativo.** El griego se redacta como griego médico, no como traducción
+7. **Bilingüe nativo.** El griego se redacta como griego médico, no como traducción
    calcada del español. Usa la terminología griega real (Οξύ έμφραγμα μυοκαρδίου,
    καρδιακή ανεπάρκεια, νεφρική ανεπάρκεια…). Con acentos correctos, en ambos idiomas.
-7. **Enunciado ≥ 40 caracteres, explicación ≥ 40, distractores ≥ 30.** En la práctica el
+8. **Enunciado ≥ 40 caracteres, explicación ≥ 40, distractores ≥ 30.** En la práctica el
    enunciado será un caso clínico de dos o tres líneas con los datos que hacen falta para
    decidir: edad, cuadro, constantes, la prueba clave.
-8. **Sin duplicados.** Ni entre sí ni con temas repetidos con otras palabras. Cada
+9. **Sin duplicados.** Ni entre sí ni con temas repetidos con otras palabras. Cada
    pregunta cubre un punto de decisión distinto.
-9. **`prob`** entre 50 y 99: tu estimación de cuán probable es que ese punto caiga en el
+10. **`prob`** entre 50 y 99: tu estimación de cuán probable es que ese punto caiga en el
    examen. Reserva ≥ 88 para el núcleo de alto rendimiento. Reparte de forma realista,
    no pongas todo a 90.
-10. **`concepts`**: uno o dos ids con la forma `c.<materia>.<area>.<concepto>`, en
+11. **`concepts`**: uno o dos ids con la forma `c.<materia>.<area>.<concepto>`, en
     minúsculas y sin acentos, p. ej. `c.path.cardio.sca`, `c.surg.acute.apendicitis`.
     Reutiliza el mismo id cuando dos preguntas tratan el mismo concepto — así el mapa de
     progreso agrupa bien.
