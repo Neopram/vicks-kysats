@@ -8000,6 +8000,726 @@
   "cite": "Mikalsen et al., Scand J Trauma Resusc Emerg Med 2016 (high-flow nasal cannula); Nelson Textbook of Pediatrics 21.a ed., cap. Respiratory Support in Children"
  },
  {
+  "sid": "ped-resp",
+  "prob": 92,
+  "concepts": [
+   "c.ped.resp.bronquiolitis"
+  ],
+  "topic_el": "Βρογχιολίτιδα VRS · Ορισμός AAP 2014",
+  "topic_es": "Bronquiolitis VRS · Definición AAP 2014",
+  "stem_el": "Βρέφος 8 μηνών εμφανίζει για πρώτη φορά συριγμό, κρυφτίτα 2 ημερών και ήπιο πυρετό. Ακρόαση: διμερής εκπνευστικός συριγμός και λεπτοί ρόγχοι. SpO2 97%, ΑΑ. Ποιος ορισμός (AAP 2014) ταιριάζει καλύτερα σε αυτή τη κλινική εικόνα;",
+  "stem_es": "Lactante de 8 meses con primer episodio de sibilancias, rinorrea de 2 días y fiebre leve. Auscultación: sibilancias espiratorias bilaterales y estertores finos. SpO2 97%. ¿Qué definición (AAP 2014) corresponde mejor a este cuadro?",
+  "options": [
+   {
+    "el": "Άσθμα βρέφους (επαναλαμβανόμενα επεισόδια συριγμού, ≥3 εντός 12 μηνών)",
+    "es": "Asma del lactante (episodios recurrentes de sibilancias, ≥3 en 12 meses)"
+   },
+   {
+    "el": "Ιογενής πνευμονία με βρογχόσπασμο",
+    "es": "Neumonía viral con broncoespasmo"
+   },
+   {
+    "el": "Συγγενής καρδιακή ανεπάρκεια με βρογχόσπασμο",
+    "es": "Insuficiencia cardíaca congénita con broncoespasmo"
+   },
+   {
+    "el": "Οξεία βρογχιολίτιδα: πρώτο επεισόδιο συριγμού σε βρέφος ≤24 μηνών μετά από ιογενή κατώτερη αναπνευστική λοίμωξη",
+    "es": "Bronquiolitis aguda: primer episodio de sibilancias en lactante ≤24 meses tras infección viral de vías respiratorias bajas"
+   },
+   {
+    "el": "Κρούπ (λαρυγγοτραχειοβρογχίτιδα) ιογενούς αιτιολογίας",
+    "es": "Croup (laringotraqueobronquitis) de etiología viral"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Σύμφωνα με τον ορισμό AAP 2014, βρογχιολίτιδα ορίζεται ως το ΠΡΩΤΟ επεισόδιο συριγμού σε βρέφος ≤24 μηνών, που εμφανίζεται στο πλαίσιο ιογενούς λοίμωξης κατώτερου αναπνευστικού. Αυτό το κριτήριο («πρώτο επεισόδιο») είναι διαγνωστικά κρίσιμο: αν ο συριγμός επαναλαμβάνεται, η εκτίμηση άλλάζει προς άσθμα βρέφους.",
+  "expl_es": "Según la definición AAP 2014, bronquiolitis es el PRIMER episodio de sibilancias en un lactante ≤24 meses en el contexto de una infección viral de vías respiratorias bajas. El criterio «primer episodio» es diagnósticamente clave: si las sibilancias se repiten, la evaluación se desplaza hacia asma del lactante.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Το κρούπ εμφανίζεται με βράγχος φωνής, στριδορός εισπνοής και «φλοιώδη» βήχα — χωρίς εκπνευστικό συριγμό · <b>A</b> Το άσθμα βρέφους απαιτεί ≥3 επεισόδια συριγμού εντός 12 μηνών, όχι πρώτο επεισόδιο · <b>B</b> Η ιογενής πνευμονία εμφανίζεται με εστιακούς ρόγχους ή πύκνωση, χωρίς απαραίτητα διμερή συριγμό · <b>C</b> Η καρδιακή ανεπάρκεια έχει ηπατομεγαλία, ρυθμό καλπασμού και ιδρώτα κατά τη σίτιση — και εμφανίζεται συνήθως στη νεογνική περίοδο",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> El croup se presenta con disfonía, estridor inspiratorio y tos «perruna» — sin sibilancias espiratorias · <b>A</b> El asma del lactante requiere ≥3 episodios de sibilancias en 12 meses, no un primer episodio · <b>B</b> La neumonía viral presenta crepitantes focales o consolidación, no necesariamente sibilancias bilaterales · <b>C</b> La insuficiencia cardíaca cursa con hepatomegalia, ritmo de galope y sudoración durante las tomas — y suele aparecer en el período neonatal",
+  "cite": "AAP Clinical Practice Guideline: Diagnosis, Management, and Prevention of Bronchiolitis, Pediatrics 2014 (reafirmado 2022) · Nelson 21.ª ed., cap. «Bronchiolitis»",
+  "id": "B-612"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 94,
+  "concepts": [
+   "c.ped.resp.bronquiolitis.ingreso"
+  ],
+  "topic_el": "Βρογχιολίτιδα · Κριτήρια νοσηλείας — SpO2",
+  "topic_es": "Bronquiolitis · Criterios de ingreso — SpO2",
+  "stem_el": "Βρέφος 6 μηνών με βρογχιολίτιδα: ΑΑ 52/λεπτό, SpO2 90% στον αέρα δωματίου, σίτιση 60% της συνήθους, χωρίς άπνοια. Ποιο εύρημα αποτελεί τον καθοριστικό λόγο για νοσηλεία σύμφωνα με τις κατευθυντήριες οδηγίες AAP;",
+  "stem_es": "Lactante de 6 meses con bronquiolitis: FR 52/min, SpO2 90% en aire ambiente, ingesta del 60% de la habitual, sin apnea. ¿Cuál es el hallazgo determinante para indicar ingreso hospitalario según las guías AAP?",
+  "options": [
+   {
+    "el": "Πλήρης άρνηση σίτισης (0% πρόσληψη)",
+    "es": "Rechazo total de la alimentación (ingesta 0%)"
+   },
+   {
+    "el": "Ηλικία <3 μηνών ως μοναδικό κριτήριο νοσηλείας",
+    "es": "Edad <3 meses como único criterio de ingreso"
+   },
+   {
+    "el": "Αναπνευστική συχνότητα >60/λεπτό",
+    "es": "Frecuencia respiratoria >60/min"
+   },
+   {
+    "el": "Παρατηρούμενη άπνοια",
+    "es": "Apnea observada"
+   },
+   {
+    "el": "SpO2 ≤92% στον αέρα δωματίου — εν προκειμένω 90%",
+    "es": "SpO2 ≤92% en aire ambiente — en este caso 90%"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η SpO2 ≤92% στον αέρα δωματίου είναι κριτήριο εισαγωγής σύμφωνα με την AAP 2014. Αυτό το βρέφος έχει SpO2 90%, που βρίσκεται κάτω από το όριο, άρα η νοσηλεία είναι ενδεδειγμένη. Μαζί με την ανεπαρκή σίτιση (<50% κανονικής πρόσληψης είναι συνήθες κριτήριο, αλλά εδώ είναι 60%), η SpO2 παραμένει το αντικειμενικότερο και επείγον εύρημα.",
+  "expl_es": "La SpO2 ≤92% en aire ambiente es criterio de ingreso según la AAP 2014. Este lactante tiene SpO2 del 90%, por debajo del umbral, por lo que el ingreso está indicado. Aunque la alimentación reducida también es criterio (habitualmente <50% de la ingesta habitual), la SpO2 es el hallazgo más objetivo y urgente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η ΑΑ 52/λεπτό είναι αυξημένη αλλά δεν υπερβαίνει το κριτήριο των >60/λεπτό — δεν αρκεί μόνη της · <b>D</b> Η άπνοια είναι κριτήριο εισαγωγής, αλλά σε αυτό το βρέφος δεν υπάρχει · <b>A</b> Η σίτιση 60% δεν φτάνει το κατώφλι της πλήρους άρνησης που αναφέρει η επιλογή · <b>B</b> Η ηλικία <3 μηνών αυξάνει τον κίνδυνο άπνοιας, αλλά δεν αποτελεί μοναδικό αυτόνομο κριτήριο εισαγωγής — η SpO2 παραμένει το πιο επιτακτικό",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La FR de 52/min está elevada pero no supera el umbral de >60/min — no basta sola · <b>D</b> La apnea es criterio de ingreso, pero en este lactante no está presente · <b>A</b> La ingesta del 60% no alcanza el umbral de rechazo total que plantea la opción · <b>B</b> La edad <3 meses aumenta el riesgo de apnea, pero no es un criterio aislado independiente — la SpO2 sigue siendo el hallazgo más imperativo",
+  "cite": "AAP Bronchiolitis Guideline, Pediatrics 2014 (actualización 2022) · Nelson 21.ª ed., cap. «Bronchiolitis»",
+  "id": "B-613"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 90,
+  "concepts": [
+   "c.ped.resp.bronquiolitis.hfnc"
+  ],
+  "topic_el": "Βρογχιολίτιδα μέτρια-βαριά · HFNC οξυγονοθεραπεία",
+  "topic_es": "Bronquiolitis moderada-grave · Oxigenoterapia HFNC",
+  "stem_el": "Βρέφος 4 μηνών με βρογχιολίτιδα μέτρια-βαριάς μορφής: ΑΑ 72/λεπτό, SpO2 88% με μάσκα οξυγόνου 40%, έντονη υποπλευρική αναρρόφηση. Ποιο μέτρο αναπνευστικής υποστήριξης ενδείκνυται ως πρώτη επιλογή σε αυτό το επίπεδο βαρύτητας;",
+  "stem_es": "Lactante de 4 meses con bronquiolitis moderada-grave: FR 72/min, SpO2 88% con mascarilla de O2 al 40%, tiraje intercostal severo. ¿Cuál es la medida de soporte respiratorio de primera línea en este nivel de gravedad?",
+  "options": [
+   {
+    "el": "Υγρή οξυγονοθεραπεία υψηλής ροής μέσω ρινικής κάνουλας (HFNC)",
+    "es": "Oxigenoterapia de alto flujo nasal humidificada y calentada (HFNC)"
+   },
+   {
+    "el": "Νεφελοποίηση υπέρτονου NaCl 3% και φυσικοθεραπεία θώρακα",
+    "es": "Nebulización de suero hipertónico al 3% y fisioterapia torácica"
+   },
+   {
+    "el": "Ρινική CPAP σε 5 cmH2O χωρίς θέρμανση/ύγρανση",
+    "es": "CPAP nasal a 5 cmH2O sin calefacción ni humidificación"
+   },
+   {
+    "el": "Ενδοτραχειακή διασωλήνωση και κλασσική μηχανική αναπνοή",
+    "es": "Intubación endotraqueal y ventilación mecánica convencional"
+   },
+   {
+    "el": "Συμβατική οξυγονοθεραπεία μέσω ρινικής κάνουλας σε ροή 2 L/λεπτό",
+    "es": "Oxígeno convencional por cánula nasal a 2 L/min"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Η οξυγονοθεραπεία υψηλής ροής (HFNC) με ρινική κάνουλα, με θέρμανση και ύγρανση, αποτελεί τη σύγχρονη πρώτη επιλογή στη μέτρια-βαριά βρογχιολίτιδα. Μειώνει τον κόπο της αναπνοής, βελτιώνει την οξυγόνωση και μπορεί να αποφευχθεί η διασωλήνωση σε πολλές περιπτώσεις. Η AAP και η βιβλιογραφία PICU την υποστηρίζουν ως bridge πριν τη διασωλήνωση.",
+  "expl_es": "La oxigenoterapia de alto flujo nasal (HFNC) humidificada y calentada es la primera línea actual en bronquiolitis moderada-grave. Reduce el trabajo respiratorio, mejora la oxigenación y frecuentemente evita la intubación. La AAP y la literatura de UCIP la respaldan como puente antes de la ventilación mecánica.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η διασωλήνωση αποφεύγεται ως πρώτη επιλογή· είναι επέμβαση με ιδιαίτερο κίνδυνο σε βρέφη < 6 μηνών· χρησιμοποιείται μόνο αν η HFNC αποτύχει · <b>C</b> Η CPAP χωρίς ύγρανση είναι ανεπαρκής — η HFNC προτιμάται λόγω καλύτερης ανοχής και αποτελεσματικότητας σε βρέφη · <b>B</b> Το υπέρτονο NaCl 3% δεν συνιστάται πλέον ρουτίνα (AAP 2022), ενώ η φυσικοθεραπεία θώρακα αντενδείκνυται · <b>E</b> Η συμβατική ροή 2 L/λεπτό είναι ανεπαρκής για SpO2 88%· δεν παρέχει αρκετή ροή για ουσιαστική μείωση της αναπνευστικής προσπάθειας",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> La intubación se evita como primera opción; es un procedimiento de alto riesgo en lactantes <6 meses; se usa solo si la HFNC fracasa · <b>C</b> La CPAP sin humidificación es insuficiente — la HFNC es preferible por mejor tolerancia y eficacia en lactantes · <b>B</b> El suero hipertónico al 3% ya no se recomienda rutinariamente (AAP 2022), y la fisioterapia torácica está contraindicada · <b>E</b> Un flujo convencional de 2 L/min es insuficiente para SpO2 del 88%; no aporta suficiente flujo para reducir el trabajo respiratorio",
+  "cite": "AAP Bronchiolitis Guideline, Pediatrics 2014 (actualización 2022) · Hernandez-Reif et al., PICU HFNC evidence · Nelson 21.ª ed., cap. «Bronchiolitis»",
+  "id": "B-614"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 88,
+  "concepts": [
+   "c.ped.resp.bronquiolitis.manejo"
+  ],
+  "topic_el": "Βρογχιολίτιδα · Μη ένδειξη κορτικοστεροειδών",
+  "topic_es": "Bronquiolitis · Contraindicación de corticoides",
+  "stem_el": "Βρέφος 7 μηνών εισάγεται με βρογχιολίτιδα μέτριας μορφής (VRS(+), πρώτο επεισόδιο, SpO2 91%, χωρίς ατοπικό ιστορικό, χωρίς οικογενειακό ιστορικό άσθματος). Ποια από τις παρακάτω παρεμβάσεις είναι αντενδεδειγμένη σύμφωνα με τις κατευθυντήριες οδηγίες AAP;",
+  "stem_es": "Lactante de 7 meses ingresa con bronquiolitis moderada (VRS positivo, primer episodio, SpO2 91%, sin antecedentes de atopia ni asma familiar). ¿Cuál de las siguientes intervenciones está contraindicada según las guías AAP?",
+  "options": [
+   {
+    "el": "Χορήγηση υγρού οξυγόνου για SpO2 ≥95%",
+    "es": "Oxígeno húmedo para mantener SpO2 ≥95%"
+   },
+   {
+    "el": "Δεξαμεθαζόνη 0,6 mg/kg IV για μείωση της βρογχιολικής φλεγμονής",
+    "es": "Dexametasona 0,6 mg/kg IV para reducir la inflamación bronquiolar"
+   },
+   {
+    "el": "Κατά κλάσματα σίτιση ή ρινογαστρικός σωλήνας αν η σίτιση είναι ανεπαρκής",
+    "es": "Alimentación fraccionada o sonda nasogástrica si la ingesta es insuficiente"
+   },
+   {
+    "el": "Συνεχής παρακολούθηση κορεσμού αιμοσφαιρίνης",
+    "es": "Monitorización continua de saturación de hemoglobina"
+   },
+   {
+    "el": "Ενδοφλέβια ενυδάτωση αν απαιτείται",
+    "es": "Hidratación intravenosa si es necesario"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Τα κορτικοστεροειδή (συστηματικά ή εισπνεόμενα) δεν συνιστώνται στη βρογχιολίτιδα. Πολλαπλές τυχαιοποιημένες μελέτες, συμπεριλαμβανομένης της μελέτης NEJM του Corneli (2007) και μετα-αναλύσεων Cochrane, δεν έδειξαν όφελος στη διάρκεια νοσηλείας, στη βαρύτητα κλινικής εικόνας ή στα ποσοστά διασωλήνωσης. Ο ορισμός AAP 2014 αναφέρει ρητά «δεν χρησιμοποιούνται κορτικοστεροειδή».",
+  "expl_es": "Los corticoides (sistémicos o inhalados) no están recomendados en bronquiolitis. Múltiples ensayos aleatorizados, incluido el estudio NEJM de Corneli (2007) y metaanálisis Cochrane, no mostraron beneficio en duración de ingreso, gravedad clínica ni tasas de intubación. La guía AAP 2014 establece explícitamente «no se usan corticoides».",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η χορήγηση υγρού O2 είναι ορθή — διατηρεί SpO2 ≥95% σε νοσηλευόμενο βρέφος · <b>C</b> Η κατά κλάσματα σίτιση ή ο ρινογαστρικός σωλήνας είναι ενδεδειγμένα αν η σίτιση είναι <50-70% · <b>D</b> Η συνεχής παρακολούθηση SpO2 είναι τυπική νοσηλευτική φροντίδα · <b>E</b> Η IV ενυδάτωση χορηγείται όποτε η από στόματος πρόσληψη υγρών είναι ανεπαρκής",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El O2 húmedo es correcto — mantiene SpO2 ≥95% en el lactante hospitalizado · <b>C</b> La alimentación fraccionada o la SNG están indicadas si la ingesta es <50-70% · <b>D</b> La monitorización continua de SpO2 es cuidado de enfermería estándar · <b>E</b> La hidratación IV se administra cuando la ingesta oral es insuficiente",
+  "cite": "AAP Bronchiolitis Guideline, Pediatrics 2014 (actualización 2022) · Corneli et al., NEJM 2007 · Cochrane Review: Corticosteroids for bronchiolitis",
+  "id": "B-615"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 93,
+  "concepts": [
+   "c.ped.resp.bronquiolitis.palivizumab"
+  ],
+  "topic_el": "Βρογχιολίτιδα · Παλιβιζουμάμπη — προφύλαξη πρόωρων",
+  "topic_es": "Bronquiolitis · Palivizumab — profilaxis en prematuros",
+  "stem_el": "Νεογέννητο που γεννήθηκε στις 32 εβδομάδες κύησης, τώρα 2 μηνών χρονολογικής ηλικίας, Οκτώβριο (έναρξη εποχής VRS). Δεν υπάρχει συγγενής καρδιοπάθεια ούτε χρόνια πνευμονοπάθεια. Ποια είναι η ένδειξη για παλιβιζουμάμπη;",
+  "stem_es": "Neonato nacido a las 32 semanas de gestación, actualmente 2 meses de edad cronológica, en octubre (inicio de temporada VRS). Sin cardiopatía congénita ni neumopatía crónica. ¿Cuál es la indicación de palivizumab?",
+  "options": [
+   {
+    "el": "Δεν ενδείκνυται διότι η προωρότητα είναι μέτρια (≥32 εβδ.)",
+    "es": "No está indicado porque la prematuridad es moderada (≥32 sem)"
+   },
+   {
+    "el": "Ενδείκνυται μόνο αν υπάρχει βρογχοπνευμονική δυσπλασία μέτριας-βαριάς μορφής",
+    "es": "Solo indicado si hay displasia broncopulmonar moderada-grave"
+   },
+   {
+    "el": "Ενδείκνυται μηνιαία καθ' όλη τη διάρκεια της εποχής VRS λόγω γέννησης <35 εβδ.",
+    "es": "Indicado mensualmente durante toda la temporada VRS por nacimiento <35 semanas"
+   },
+   {
+    "el": "Χορηγείται εφάπαξ κατά την εξιτήριο από τη ΜΝΝΜ, ανεξάρτητα εποχής",
+    "es": "Se administra una sola dosis al alta de la UCIN, independientemente de la temporada"
+   },
+   {
+    "el": "Ενδείκνυται μόνο αν υπήρξε ήδη ένα σοβαρό επεισόδιο βρογχιολίτιδας",
+    "es": "Solo indicado si ya huvo un episodio grave previo de bronquiolitis"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η AAP συνιστά παλιβιζουμάμπη (15 mg/kg IM, μηνιαία, εποχικά) για βρέφη <35 εβδομάδων κύησης κατά τη γέννηση, εφόσον η χρονολογική τους ηλικία κατά την έναρξη της εποχής VRS είναι ≤12 μηνών. Η 32η εβδομάδα είναι εντός αυτής της κατηγορίας (<35 εβδ.). Δεν απαιτείται συνοδή νόσος για αυτή την ηλικιακή ομάδα.",
+  "expl_es": "La AAP recomienda palivizumab (15 mg/kg IM, mensual, estacionalmente) para lactantes <35 semanas de gestación al nacer, siempre que su edad cronológica al inicio de la temporada VRS sea ≤12 meses. Las 32 semanas están dentro de esta categoría (<35 sem). No se requiere enfermedad concomitante para este grupo de edad.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Το όριο δεν είναι 35 εβδ. ή άνω· η 32η εβδ. πληροί τα κριτήρια <35 εβδ. · <b>B</b> Η BPD είναι ξεχωριστή ένδειξη, αλλά η προωρότητα <35 εβδ. αρκεί μόνη της · <b>D</b> Η παλιβιζουμάμπη δεν χορηγείται εφάπαξ· δίνεται μηνιαία για έως 5 δόσεις ανά εποχή VRS · <b>E</b> Η παλιβιζουμάμπη είναι προφυλακτική — δεν περιμένουμε σοβαρό επεισόδιο για να την αρχίσουμε",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El umbral no es ≥35 sem; las 32 semanas cumplen el criterio de <35 sem · <b>B</b> La DBP es una indicación separada, pero la prematuridad <35 sem basta sola · <b>D</b> El palivizumab no se da en dosis única; se administra mensualmente hasta 5 dosis por temporada VRS · <b>E</b> El palivizumab es profiláctico — no se espera un episodio grave para iniciarlo",
+  "cite": "AAP Committee on Infectious Diseases: Updated Guidance for Palivizumab Prophylaxis, Pediatrics 2014 · Nelson 21.ª ed., cap. «Respiratory Syncytial Virus»",
+  "id": "B-616"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 87,
+  "concepts": [
+   "c.ped.resp.bronquiolitis.palivizumab"
+  ],
+  "topic_el": "Βρογχιολίτιδα · Παλιβιζουμάμπη — συγγενής καρδιοπάθεια",
+  "topic_es": "Bronquiolitis · Palivizumab — cardiopatía congénita",
+  "stem_el": "Βρέφος 3 μηνών με κυανωτική συγγενή καρδιοπάθεια (τετραλογία Fallot, εκκρεμεί χειρουργική διόρθωση). Εισερχόμαστε στην εποχή VRS. Ποια είναι η σωστή ένδειξη για παλιβιζουμάμπη;",
+  "stem_es": "Lactante de 3 meses con cardiopatía congénita cianosante (tetralogía de Fallot, pendiente de corrección quirúrgica). Entrando en temporada VRS. ¿Cuál es la indicación correcta de palivizumab?",
+  "options": [
+   {
+    "el": "Δεν ενδείκνυται· η κυανωτική καρδιοπάθεια αυξάνει υποξία αλλά όχι τον κίνδυνο βαριάς βρογχιολίτιδας",
+    "es": "No está indicado; la cardiopatía cianosante aumenta la hipoxia pero no el riesgo de bronquiolitis grave"
+   },
+   {
+    "el": "Ενδείκνυται μόνο αν το κλάσμα εξώθησης είναι <40%",
+    "es": "Indicado solo si la fracción de eyección es <40%"
+   },
+   {
+    "el": "Ενδείκνυται μόνο σε ακυανωτικές καρδιοπάθειες με shunt αριστερά-δεξιά μη διορθωμένες",
+    "es": "Solo indicado en cardiopatías acianóticas con shunt izquierda-derecha no corregidas"
+   },
+   {
+    "el": "Ενδείκνυται σε συγγενείς καρδιοπάθειες με αιμοδυναμική σημασία, συμπεριλαμβανομένων κυανωτικών εκκρεμούς διόρθωσης",
+    "es": "Indicado en cardiopatías congénitas hemodinámicamente significativas, incluyendo las cianosantes pendientes de corrección"
+   },
+   {
+    "el": "Ενδείκνυται μόνο αν το βρέφος νοσηλεύτηκε >28 ημέρες σε ΜΕΝΝΜ",
+    "es": "Solo indicado si el lactante estuvo más de 28 días ingresado en UCIN"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η AAP συνιστά παλιβιζουμάμπη σε βρέφη <24 μηνών με αιμοδυναμικά σημαντική συγγενή καρδιοπάθεια (τόσο κυανωτική όσο και μη κυανωτική, εκκρεμεί χειρουργική διόρθωση ή ανεπαρκής φαρμακευτική αντιμετώπιση). Στην τετραλογία Fallot εκκρεμεί διόρθωσης, η έκθεση σε VRS με ταυτόχρονη υποξαιμία αποτελεί ιδιαίτερο κίνδυνο.",
+  "expl_es": "La AAP recomienda palivizumab en lactantes <24 meses con cardiopatía congénita hemodinámicamente significativa (tanto cianosante como no cianosante, con corrección quirúrgica pendiente o manejo médico insuficiente). En la tetralogía de Fallot pendiente de corrección, la exposición al VRS con hipoxemia concomitante supone un riesgo particular.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Ακριβώς επειδή η κυανωτική καρδιοπάθεια συνοδεύεται ήδη από βασική υποξαιμία, η επιπλοκή από VRS είναι ιδιαίτερα επικίνδυνη · <b>B</b> Το κλάσμα εξώθησης δεν αποτελεί κριτήριο για παλιβιζουμάμπη· η αιμοδυναμική σημασία αφορά την εξαιρούμενη παθοφυσιολογία, όχι την αριθμητική τιμή ΚΕ · <b>C</b> Οι κυανωτικές καρδιοπάθειες (π.χ. TGA, TOF) συμπεριλαμβάνονται — δεν αφορά μόνο ακυανωτικές · <b>E</b> Η διάρκεια νοσηλείας ΜΕΝΝΜ είναι σχετικό κριτήριο (ΒΠΔ), αλλά δεν αποτελεί προϋπόθεση για καρδιοπάθεια",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Precisamente porque la cardiopatía cianosante ya cursa con hipoxemia basal, la complicación por VRS es especialmente peligrosa · <b>B</b> La fracción de eyección no es criterio para palivizumab; la «significación hemodinámica» se refiere a la fisiopatología, no a un valor numérico de FE · <b>C</b> Las cardiopatías cianosantes (TGA, TOF) están incluidas — no aplica solo a las acianóticas · <b>E</b> La duración del ingreso en UCIN es criterio para DBP, pero no es requisito para cardiopatía congénita",
+  "cite": "AAP Committee on Infectious Diseases: Updated Guidance for Palivizumab Prophylaxis, Pediatrics 2014 · Nelson 21.ª ed., cap. «Respiratory Syncytial Virus»",
+  "id": "B-617"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 82,
+  "concepts": [
+   "c.ped.resp.bronquiolitis.ddx"
+  ],
+  "topic_el": "Βρογχιολίτιδα · Διαφορική διάγνωση — νεογνική καρδιακή ανεπάρκεια",
+  "topic_es": "Bronquiolitis · Diagnóstico diferencial — insuficiencia cardíaca neonatal",
+  "stem_el": "Νεογέννητο 3 εβδομάδων με ταχύπνοια 68/λεπτό, βαθιά αμφοτερόπλευρα κρεπιτά, ηπατομεγαλία 3 εκ., ρυθμός καλπασμού. Χωρίς πυρετό, χωρίς συρρίζον αναπνοή. Ποια διάγνωση πρέπει να αποκλειστεί ΠΡΙΝ αποδοθεί το κλινικό φαινόμενο σε βρογχιολίτιδα;",
+  "stem_es": "Neonato de 3 semanas con taquipnea de 68/min, crepitantes bibasales profundos, hepatomegalia de 3 cm y ritmo de galope. Sin fiebre, sin estridor. ¿Qué diagnóstico debe descartarse ANTES de atribuir el cuadro a bronquiolitis?",
+  "options": [
+   {
+    "el": "Βρογχιολίτιδα VRS πρώιμης έναρξης στη νεογνική περίοδο",
+    "es": "Bronquiolitis por VRS de inicio precoz en período neonatal"
+   },
+   {
+    "el": "Βρογχιολίτιδα αποφρακτική μετά-λοιμώδης (ΒΑΠ)",
+    "es": "Bronquiolitis obliterante postinfecciosa (BOP)"
+   },
+   {
+    "el": "Κοκκύτης (ροδινό στάδιο) με ταχύπνοια",
+    "es": "Tos ferina (fase catarral) con taquipnea"
+   },
+   {
+    "el": "Νεογνική πνευμονία από Streptococcus agalactiae (GBS)",
+    "es": "Neumonía neonatal por Streptococcus agalactiae (GBS)"
+   },
+   {
+    "el": "Συμφορητική καρδιακή ανεπάρκεια λόγω συγγενούς καρδιοπάθειας",
+    "es": "Insuficiencia cardíaca congestiva por cardiopatía congénita"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η ηπατομεγαλία, ο ρυθμός καλπασμού και η απουσία πυρετού είναι κλασσικά σημεία καρδιακής ανεπάρκειας στο νεογέννητο. Οι βρογχιολίτιδες συνήθως συνοδεύονται από εκκριτικό πυρετό και ιικά συμπτώματα ανώτερου αναπνευστικού. Η μη αναγνωρισμένη καρδιοπάθεια (π.χ. μεγάλη VSD, AVSD, coarctation) με καρδιακή ανεπάρκεια αποτελεί βιοτική επείγουσα ανάγκη.",
+  "expl_es": "La hepatomegalia, el ritmo de galope y la ausencia de fiebre son signos clásicos de insuficiencia cardíaca neonatal. Las bronquiolitis suelen acompañarse de fiebre e infección viral de vías altas. La cardiopatía no reconocida (p. ej. CIV grande, AVSD, coartación) con insuficiencia cardíaca es una emergencia vital.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η βρογχιολίτιδα σπάνια στα 3 εβδομάδα, συνοδεύεται από ιικά συμπτώματα και δεν εξηγεί ηπατομεγαλία + ρυθμό καλπασμού · <b>D</b> Η GBS πνευμονία συνήθως εμφανίζεται τις πρώτες 72 ώρες με υπόταση και σηπτική εικόνα — λιγότερο πιθανό στις 3 εβδομάδες · <b>B</b> Η ΒΑΠ αναπτύσσεται εβδομάδες-μήνες μετά από σοβαρή αναπνευστική λοίμωξη, δεν είναι νεογνικό πρόβλημα · <b>C</b> Ο κοκκύτης παρουσιάζεται με παροξυσμική βήχα και μπλε κρίσεις, χωρίς καρδιακά σημεία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La bronquiolitis es rara a las 3 semanas, se acompaña de síntomas virales de vías altas y no explica hepatomegalia + galope · <b>D</b> La neumonía por GBS suele presentarse en las primeras 72 horas con hipotensión y sepsis — menos probable a las 3 semanas · <b>B</b> La BOP se desarrolla semanas-meses tras infección respiratoria grave, no es un problema neonatal · <b>C</b> La tos ferina se presenta con tos paroxística y cianosis, sin signos cardíacos",
+  "cite": "Nelson 21.ª ed., cap. «Bronchiolitis» y cap. «Congenital Heart Disease» · AAP Bronchiolitis Guideline 2014",
+  "id": "B-618"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 88,
+  "concepts": [
+   "c.ped.resp.bronquiolitis.ingreso"
+  ],
+  "topic_el": "Βρογχιολίτιδα · Κριτήρια νοσηλείας — άπνοια σε πρόωρο",
+  "topic_es": "Bronquiolitis · Criterios de ingreso — apnea en prematuro",
+  "stem_el": "Βρέφος 34 εβδομάδων, τώρα 6 εβδομάδων διορθωμένης ηλικίας, εμφανίζει ρινόρροια και βήχα 2 ημερών. SpO2 96%, ΑΑ 44/λεπτό, σίτιση καλή. VRS(+). Στα επείγοντα εμφανίζει επεισόδιο άπνοιας 15 δευτερολέπτων. Ποια είναι η σωστή αντιμετώπιση;",
+  "stem_es": "Lactante de 34 semanas, ahora 6 semanas de edad corregida, con rinorrea y tos de 2 días. SpO2 96%, FR 44/min, buena alimentación. VRS positivo. En urgencias presenta apnea de 15 segundos. ¿Cuál es la conducta correcta?",
+  "options": [
+   {
+    "el": "Άμεση νοσηλεία· η άπνοια σε πρόωρο βρέφος με VRS αποτελεί απόλυτο κριτήριο εισαγωγής",
+    "es": "Ingreso hospitalario inmediato; la apnea en lactante prematuro con VRS es criterio absoluto de ingreso"
+   },
+   {
+    "el": "Εξιτήριο με οικιακό οξύμετρο παλμών",
+    "es": "Alta con oxímetro de pulso domiciliario"
+   },
+   {
+    "el": "Νοσηλεία μόνο αν η άπνοια επαναληφθεί δύο φορές ακόμη",
+    "es": "Ingreso solo si la apnea se repite dos veces más"
+   },
+   {
+    "el": "Εξιτήριο με οδηγίες επιστροφής αν εμφανιστεί νέα άπνοια",
+    "es": "Alta con instrucciones de volver si hay nueva apnea"
+   },
+   {
+    "el": "Παρακολούθηση 2 ώρες στα επείγοντα· εξιτήριο αν δεν επανεμφανιστεί",
+    "es": "Observación 2 horas en urgencias; alta si no se repite"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Η άπνοια αποτελεί κριτήριο εισαγωγής για βρογχιολίτιδα (AAP 2014). Ο κίνδυνος είναι ιδιαίτερα αυξημένος σε πρόωρα βρέφη (<36 εβδ.) λόγω ανωριμότητας του κέντρου ελέγχου της αναπνοής. Ακόμη και ένα επεισόδιο άπνοιας σε αυτή την ηλικιακή ομάδα δικαιολογεί παρακολούθηση εντός νοσοκομείου.",
+  "expl_es": "La apnea es criterio de ingreso en bronquiolitis (AAP 2014). El riesgo es especialmente elevado en prematuros (<36 sem) por inmadurez del centro de control respiratorio. Incluso un solo episodio de apnea en este grupo de edad justifica monitorización intrahospitalaria.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Ο οικιακός οξύμετρος δεν επαρκεί — η άπνοια απαιτεί ίνεργα παρακολούθηση εντός νοσοκομείου · <b>E</b> 2 ώρες παρακολούθησης είναι ανεπαρκείς για πρόωρο βρέφος 6 εβδομάδων με VRS και ιστορικό άπνοιας · <b>C</b> Η αναμονή δύο επιπλέον επεισοδίων θέτει σε κίνδυνο το βρέφος — η πρώτη άπνοια αρκεί · <b>D</b> Η αποστολή σπίτι με οδηγίες μετά άπνοια σε πρόωρο VRS(+) είναι ιατρικό σφάλμα",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> El oxímetro domiciliario es insuficiente — la apnea requiere monitorización activa intrahospitalaria · <b>E</b> 2 horas de observación son insuficientes para un prematuro de 6 semanas con VRS e historial de apnea · <b>C</b> Esperar dos episodios más pone en riesgo al lactante — el primer episodio ya es suficiente · <b>D</b> Dar el alta con instrucciones tras apnea en prematuro VRS+ es un error médico",
+  "cite": "AAP Bronchiolitis Guideline, Pediatrics 2014 (actualización 2022) · Nelson 21.ª ed., cap. «Bronchiolitis»",
+  "id": "B-619"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 90,
+  "concepts": [
+   "c.ped.resp.asma.control"
+  ],
+  "topic_el": "Άσθμα παιδιών · Κατηγοριοποίηση ελέγχου GINA",
+  "topic_es": "Asma pediátrica · Clasificación del control GINA",
+  "stem_el": "Αγόρι 8 ετών με άσθμα. Τις τελευταίες 4 εβδομάδες: ημερήσια συμπτώματα 3 φορές/εβδομάδα, 1 νυχτερινή αφύπνιση, εκπαιδευτικοί περιορισμοί άπαξ, χρήση βρογχοδιασταλτικού σωτηρίας 3 φορές/εβδομάδα. Πώς ταξινομείται ο έλεγχος του άσθματος σύμφωνα με τη GINA;",
+  "stem_es": "Niño de 8 años con asma. En las últimas 4 semanas: síntomas diurnos 3 veces/semana, 1 despertar nocturno, limitación de actividad una vez, uso de broncodilatador de rescate 3 veces/semana. ¿Cómo clasifica el control del asma según GINA?",
+  "options": [
+   {
+    "el": "Μη ελεγχόμενο (≥4 κριτήρια παρόντα)",
+    "es": "Asma no controlada (≥4 criterios de mal control)"
+   },
+   {
+    "el": "Εν μέρει ελεγχόμενο (2-3 κριτήρια κακού ελέγχου παρόντα)",
+    "es": "Asma parcialmente controlada (2-3 criterios de mal control presentes)"
+   },
+   {
+    "el": "Οξεία κρίση ήπιας μορφής — η κατηγοριοποίηση ελέγχου δεν εφαρμόζεται",
+    "es": "Crisis asmática leve — la clasificación de control no aplica"
+   },
+   {
+    "el": "Εν μέρει ελεγχόμενο (1 κριτήριο παρόν)",
+    "es": "Asma parcialmente controlada (1 criterio presente)"
+   },
+   {
+    "el": "Καλά ελεγχόμενο άσθμα (κανένα κριτήριο κακού ελέγχου)",
+    "es": "Asma bien controlada (ningún criterio de mal control presente)"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Σύμφωνα με τη GINA (2023), τα κριτήρια κακού ελέγχου τις τελευταίες 4 εβδομάδες είναι: ημερήσια συμπτώματα >2 φορές/εβδ., νυχτερινή αφύπνιση οποτεδήποτε, περιορισμός δραστηριότητας, χρήση σωτηρίας >2 φορές/εβδ. Αυτό το παιδί έχει 4 κριτήρια (>2 ημερ. σύμπτωμα, νυχτερινή αφύπνιση, περιορισμός, σωτηρία >2/εβδ.) — άρα **μη ελεγχόμενο** (≥3). Αν υπήρχαν 1-2: εν μέρει ελεγχόμενο.",
+  "expl_es": "Según GINA 2023, los criterios de mal control en las últimas 4 semanas son: síntomas diurnos >2 veces/semana, despertar nocturno alguna vez, limitación de actividad, uso de rescate >2 veces/semana. Este niño tiene los 4 criterios — por tanto **no controlado** (≥3). Con 1-2 sería parcialmente controlado.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Καλά ελεγχόμενο απαιτεί μηδενικά κριτήρια — εδώ υπάρχουν 4 · <b>D</b> Εν μέρει ελεγχόμενο είναι 1-2 κριτήρια, όχι 4 · <b>A</b> «Μη ελεγχόμενο» ορίζεται ως ≥3 κριτήρια (όχι απαραίτητα 4), άρα αυτή η επιλογή είναι λανθασμένη στη διατύπωση «≥4 κριτήρια» — η σωστή GINA κατηγοριοποίηση λέει ≥3 · <b>C</b> Η οξεία κρίση και η κατηγοριοποίηση ελέγχου είναι ξεχωριστές αξιολογήσεις — δεν αποκλείεται η μία την άλλη",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> Bien controlada requiere cero criterios — aquí hay 4 · <b>D</b> Parcialmente controlada corresponde a 1-2 criterios, no a 4 · <b>A</b> «No controlada» se define como ≥3 criterios (no necesariamente 4), por lo que la formulación «≥4 criterios» de esta opción es incorrecta — GINA dice ≥3 · <b>C</b> La crisis aguda y la clasificación de control son evaluaciones separadas — no se excluyen mutuamente",
+  "cite": "GINA 2023, Global Strategy for Asthma Management and Prevention, Chapter 2 · Nelson 21.ª ed., cap. «Asthma in Children»",
+  "id": "B-620"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 92,
+  "concepts": [
+   "c.ped.resp.asma.crisis"
+  ],
+  "topic_el": "Άσθμα παιδιών · Κρίση — β2-αγωνιστές με αεροθάλαμο",
+  "topic_es": "Asma pediátrica · Crisis — β2-agonistas con cámara espaciadora",
+  "stem_el": "Αγόρι 6 ετών στα ΤΕΠ με ήπια-μέτρια κρίση άσθματος: ΑΑ 30/λεπτό, SpO2 95%, χωρίς αναπνευστικά βοηθητικά. Δεν έχει εμφανίσει ποτέ σοβαρή κρίση. Ποια είναι η πρώτης γραμμής βρογχοδιασταλτική αγωγή;",
+  "stem_es": "Niño de 6 años en urgencias con crisis asmática leve-moderada: FR 30/min, SpO2 95%, sin uso de musculatura accesoria. Sin crisis grave previa. ¿Cuál es el tratamiento broncodilatador de primera línea?",
+  "options": [
+   {
+    "el": "Φορμοτερόλη εισπνεόμενη ως ταχέος έναρξης βρογχοδιασταλτικό σωτηρίας",
+    "es": "Formoterol inhalado como broncodilatador de rescate de inicio rápido"
+   },
+   {
+    "el": "Ιπρατρόπιο νεφελοποιημένο σε μονοθεραπεία ως πρώτης γραμμής επιλογή",
+    "es": "Ipratropio nebulizado en monoterapia como primera línea"
+   },
+   {
+    "el": "Σαλβουταμόλη pMDI (100 mcg/εισπνοή) με αεροθάλαμο, 4-8 εισπνοές ανά 20 λεπτά × 3",
+    "es": "Salbutamol MDI (100 mcg/pulsación) con cámara espaciadora, 4-8 pulsaciones cada 20 min × 3"
+   },
+   {
+    "el": "Νεφελοποιημένη σαλβουταμόλη 2,5 mg σε συνεχή νέφωση 60 λεπτών",
+    "es": "Salbutamol nebulizado 2,5 mg en nebulización continua de 60 minutos"
+   },
+   {
+    "el": "Τερβουταλίνη υποδόρια 0,01 mg/kg ως επείγουσα επιλογή",
+    "es": "Terbutalina subcutánea 0,01 mg/kg como opción urgente"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Για ήπια-μέτρια κρίση άσθματος, τα GINA 2023 και NAEPP συνιστούν σαλβουταμόλη pMDI με αεροθάλαμο ως ισοδύναμη ή ανώτερη επιλογή από τη νεφελοποίηση. Η τεχνική pMDI + αεροθάλαμος μειώνει τον χρόνο θεραπείας, έχει λιγότερες παρενέργειες και είναι φτηνότερη.",
+  "expl_es": "Para crisis asmática leve-moderada, GINA 2023 y NAEPP recomiendan salbutamol MDI con cámara espaciadora como opción equivalente o superior a la nebulización. La técnica pMDI + cámara reduce el tiempo de tratamiento, tiene menos efectos adversos y es más económica.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η νεφελοποίηση δεν υπερτερεί σε ήπια-μέτρια κρίση· ο αεροθάλαμος είναι εξίσου αποτελεσματικός και ταχύτερος · <b>A</b> Η φορμοτερόλη (LABA) δεν ενδείκνυται ως μοναδική θεραπεία σωτηρίας σε κρίση σε παιδί 6 ετών χωρίς CI · <b>E</b> Η τερβουταλίνη υποδόρια αποθεματεύεται για ανακοπή αναπνοής ή βαριά κρίση που δεν ανταποκρίνεται — παρακάμπτει την εισπνευστική οδό χωρίς λόγο σε ήπια κρίση · <b>B</b> Το ιπρατρόπιο σε μονοθεραπεία δεν αποτελεί πρώτης γραμμής αγωγή· συνδυάζεται με β2 σε μέτρια-βαριά κρίση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> La nebulización no supera al MDI + cámara en crisis leve-moderada; la cámara es igualmente eficaz y más rápida · <b>A</b> El formoterol (LABA) no está indicado como único rescate en crisis en un niño de 6 años sin CI · <b>E</b> La terbutalina subcutánea se reserva para paro respiratorio o crisis grave refractaria — omite la vía inhalatoria sin necesidad en crisis leve · <b>B</b> El ipratropio en monoterapia no es primera línea; se combina con β2 en crisis moderada-grave",
+  "cite": "GINA 2023, cap. «Management of Acute Asthma» · NAEPP EPR-4 2020 · Nelson 21.ª ed., cap. «Asthma»",
+  "id": "B-621"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 91,
+  "concepts": [
+   "c.ped.resp.asma.crisis"
+  ],
+  "topic_el": "Άσθμα παιδιών · Κρίση βαριάς μορφής — θειικό μαγνήσιο IV",
+  "topic_es": "Asma pediátrica · Crisis grave — sulfato de magnesio IV",
+  "stem_el": "Αγόρι 9 ετών με βαριά κρίση άσθματος: SpO2 88%, ΑΑ 40/λεπτό, χρήση επικουρικών μυών. Δεν ανταποκρίνεται μετά 3 σειρές σαλβουταμόλης + ιπρατρόπιου και μία δόση πρεδνιζολόνης per os. Ποιο είναι το επόμενο θεραπευτικό βήμα;",
+  "stem_es": "Niño de 9 años con crisis asmática grave: SpO2 88%, FR 40/min, uso de musculatura accesoria. Sin respuesta tras 3 tandas de salbutamol + ipratropio y una dosis de prednisolona oral. ¿Cuál es el siguiente escalón terapéutico?",
+  "options": [
+   {
+    "el": "Επανάληψη νεφελοποιημένης σαλβουταμόλης κάθε 20 λεπτά για άλλες 2 ώρες",
+    "es": "Repetir salbutamol nebulizado cada 20 min durante 2 horas más"
+   },
+   {
+    "el": "Νεφελοποιημένη αδρεναλίνη ως βρογχοδιασταλτικό σωτηρίας",
+    "es": "Adrenalina nebulizada como broncodilatador de rescate"
+   },
+   {
+    "el": "Εκλεκτική ενδοτραχειακή διασωλήνωση πριν επιδεινωθεί",
+    "es": "Intubación endotraqueal electiva antes de deterioro"
+   },
+   {
+    "el": "Θειικό μαγνήσιο IV 25-75 mg/kg (μέγ. 2,5 g) σε έγχυση 20 λεπτών",
+    "es": "Sulfato de magnesio IV 25-75 mg/kg (máx. 2,5 g) en infusión de 20 min"
+   },
+   {
+    "el": "Θεοφυλλίνη IV (δόση φόρτισης 5 mg/kg)",
+    "es": "Teofilina IV (dosis de carga 5 mg/kg)"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Το θειικό μαγνήσιο IV συνιστάται σε βαριά κρίση άσθματος σε παιδιά ≥2 ετών που δεν ανταποκρίνονται σε β2 + αντιχολινεργικό + κορτικοστεροειδή. Μεταανάλυση Cochrane (2000, επικαιροποιήσεις) και GINA 2023 το συστήνουν. Δρα ως αντανταγωνιστής ασβεστίου στο λείο μυ και αναστέλλει την απελευθέρωση ακετυλοχολίνης.",
+  "expl_es": "El sulfato de magnesio IV está recomendado en crisis grave de asma en niños ≥2 años que no responden a β2 + anticolinérgico + corticoides. Metaanálisis Cochrane (2000, actualizaciones) y GINA 2023 lo recomiendan. Actúa como antagonista del calcio en el músculo liso e inhibe la liberación de acetilcolina.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η επανάληψη β2 χωρίς κλιμάκωση δεν είναι αρκετή σε αποτυχία 3 σειρών — η βαρύτητα απαιτεί νέο φάρμακο · <b>E</b> Η θεοφυλλίνη IV έχει πολύ στενό θεραπευτικό παράθυρο και δεν συνιστάται πλέον ως ρουτίνα σε κρίση — αντικαταστάθηκε από MgSO4 · <b>C</b> Η εκλεκτική διασωλήνωση αναβάλλεται όσο υπάρχουν φαρμακολογικές επιλογές· το MgSO4 δεν έχει δοθεί ακόμη · <b>B</b> Η νεφελοποιημένη αδρεναλίνη ενδείκνυται κυρίως σε κρούπ ή ανακοπή αναπνοής — δεν είναι τυπικό βήμα στη διαχείριση οξείας κρίσης άσθματος",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Repetir β2 sin escalar es insuficiente tras 3 tandas fallidas — la gravedad exige un nuevo fármaco · <b>E</b> La teofilina IV tiene margen terapéutico muy estrecho y ya no se recomienda rutinariamente en crisis — ha sido sustituida por MgSO4 · <b>C</b> La intubación electiva se pospone mientras existan opciones farmacológicas; el MgSO4 aún no se ha administrado · <b>B</b> La adrenalina nebulizada es para croup o parada respiratoria — no es un paso estándar en el manejo de crisis asmática",
+  "cite": "GINA 2023, cap. «Management of Acute Asthma in Children» · Cochrane Review: Magnesium sulphate for acute asthma · Nelson 21.ª ed., cap. «Asthma»",
+  "id": "B-622"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 89,
+  "concepts": [
+   "c.ped.resp.asma.crisis"
+  ],
+  "topic_el": "Άσθμα παιδιών · Κρίση — κριτήρια ΜΕΝ",
+  "topic_es": "Asma pediátrica · Crisis — criterios de UCI",
+  "stem_el": "Έφηβος 14 ετών με κρίση άσθματος που δεν ανταποκρίνεται στη θεραπεία ΤΕΠ. Ποιο εύρημα υποδεικνύει ΑΜΕΣΗ μεταφορά στη Μονάδα Εντατικής Νοσηλείας;",
+  "stem_es": "Adolescente de 14 años con crisis asmática que no responde al tratamiento en urgencias. ¿Cuál hallazgo indica traslado INMEDIATO a la UCI pediátrica?",
+  "options": [
+   {
+    "el": "ΑΑ >30/λεπτό με χρήση στερνοκλειδομαστοειδών",
+    "es": "FR >30/min con uso de esternocleidomastoideo"
+   },
+   {
+    "el": "Απαίτηση άνω των 6 εισπνοών σαλβουταμόλης κατά την πρώτη ώρα",
+    "es": "Necesidad de más de 6 pulsaciones de salbutamol en la primera hora"
+   },
+   {
+    "el": "PEF 40-60% του προβλεπόμενου μετά βρογχοδιασταλτικό",
+    "es": "PEF entre 40-60% del predicho tras broncodilatador"
+   },
+   {
+    "el": "SpO2 94-95% μετά δύο σειρές σαλβουταμόλης",
+    "es": "SpO2 94-95% tras dos tandas de salbutamol"
+   },
+   {
+    "el": "Παράδοξος σφυγμός >20 mmHg, κυάνωση, αμφοτερόπλευρη σιγή κατά την ακρόαση ή διαταραχή συνείδησης",
+    "es": "Pulso paradójico >20 mmHg, cianosis, silencio auscultatorio bilateral o alteración del nivel de conciencia"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Τα απόλυτα κριτήρια ΜΕΝ σε κρίση άσθματος περιλαμβάνουν: (1) κυάνωση/SpO2 <90% παρά οξυγόνο, (2) αμφοτερόπλευρη σιγή αναπνευστικών ήχων («βωβός θώρακας» — σημαίνει εξάντληση), (3) διαταραχή συνείδησης/κόπωση, (4) παράδοξος σφυγμός >20-25 mmHg. Όλα αυτά σηματοδοτούν επικείμενη αναπνευστική ανακοπή.",
+  "expl_es": "Los criterios absolutos de UCI en crisis de asma incluyen: (1) cianosis/SpO2 <90% a pesar de O2, (2) silencio auscultatorio bilateral («tórax silente» — indica agotamiento), (3) alteración de conciencia/fatiga, (4) pulso paradójico >20-25 mmHg. Todos señalan parada respiratoria inminente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> SpO2 94-95% με οξυγόνο είναι ανησυχητικό αλλά δεν αποτελεί αυτόνομο κριτήριο ΜΕΝ· απαιτεί κλιμάκωση αγωγής · <b>A</b> ΑΑ >30 με χρήση επικουρικών σημαίνει βαρύτητα, αλλά δεν είναι απόλυτο κριτήριο ΜΕΝ από μόνο του · <b>B</b> Η ανάγκη πολλαπλών εισπνοών σαλβουταμόλης υποδηλώνει ανεπαρκή ανταπόκριση, όχι επικείμενη ανακοπή αναπνοής · <b>C</b> PEF 40-60% είναι βαριά κρίση αλλά με αυτό μόνο δεν δικαιολογείται αμέσως ΜΕΝ",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> SpO2 94-95% con O2 es preocupante pero no es criterio autónomo de UCI; requiere escalar tratamiento · <b>A</b> FR >30 con musculatura accesoria indica gravedad, pero no es criterio absoluto de UCI por sí solo · <b>B</b> La necesidad de múltiples pulsaciones de salbutamol indica respuesta insuficiente, no parada respiratoria inminente · <b>C</b> PEF 40-60% es crisis grave pero con eso solo no se justifica UCI de inmediato",
+  "cite": "GINA 2023, cap. «Management of Acute Asthma — Hospital Admission Criteria» · Nelson 21.ª ed., cap. «Asthma — Status Asthmaticus»",
+  "id": "B-623"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 88,
+  "concepts": [
+   "c.ped.resp.asma.mantenimiento"
+  ],
+  "topic_el": "Άσθμα παιδιών · Εκλόν 2 GINA — θεραπεία συντήρησης",
+  "topic_es": "Asma pediátrica · Escalón 2 GINA — tratamiento de mantenimiento",
+  "stem_el": "Αγόρι 4 ετών χωρίς φαρμακευτική συντήρηση. Τις τελευταίες 8 εβδομάδες: ημερήσια συμπτώματα 2-3 φορές/εβδ., καμία νυχτερινή αφύπνιση, καμία περιορισμός δραστηριότητας. Σύμφωνα με GINA εκλόν 2, ποια είναι η αγωγή συντήρησης πρώτης επιλογής;",
+  "stem_es": "Niño de 4 años sin medicación de mantenimiento. En las últimas 8 semanas: síntomas diurnos 2-3 veces/semana, sin despertares nocturnos, sin limitación de actividad. Según GINA escalón 2, ¿cuál es la medicación de mantenimiento de primera elección?",
+  "options": [
+   {
+    "el": "Εισπνεόμενο κορτικοστεροειδές σε χαμηλή δόση (εκλόν 2 GINA, πρώτη γραμμή συντήρησης)",
+    "es": "Corticoide inhalado en dosis baja (escalón GINA 2, primera línea de mantenimiento)"
+   },
+   {
+    "el": "Μοντελουκάστ per os ως μοναδική επιλογή εκλόν 2",
+    "es": "Montelukast oral como única opción de escalón 2"
+   },
+   {
+    "el": "Συνδυασμός CI χαμηλής δόσης + LABA εξαρχής σε παιδιά ≤5 ετών",
+    "es": "Combinación CI dosis baja + LABA desde el inicio en niños ≤5 años"
+   },
+   {
+    "el": "Σαλμετερόλη εισπνεόμενη σε μονοθεραπεία (LABA) ως συντήρηση",
+    "es": "Salmeterol inhalado en monoterapia (LABA) de mantenimiento"
+   },
+   {
+    "el": "Προδνιζολόνη per os σε σύντομους μηνιαίους κύκλους",
+    "es": "Prednisolona oral en ciclos cortos mensuales"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Το εκλόν 2 της GINA (2023) ορίζει ως πρώτη επιλογή συντήρησης το εισπνεόμενο κορτικοστεροειδές (ICS) σε χαμηλή δόση. Σε παιδιά ≤5 ετών ο μοντελουκάστ είναι εναλλακτική, αλλά δεν αποτελεί πρώτη επιλογή (μειωτέρα αντι-φλεγμονώδης δράση).",
+  "expl_es": "El escalón 2 de GINA (2023) define el corticoide inhalado (ICS) en dosis baja como primera elección de mantenimiento. En niños ≤5 años el montelukast es alternativa, pero no es primera elección (menor eficacia antiinflamatoria).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Τα LABA σε μονοθεραπεία χωρίς ICS είναι αντενδεδειγμένα σε άσθμα — κίνδυνος θανατηφόρου κρίσης · <b>E</b> Οι κύκλοι συστηματικής κορτιζόνης δεν αντικαθιστούν εισπνεόμενη συντήρηση· χρησιμοποιούνται μόνο σε οξείες κρίσεις · <b>B</b> Ο μοντελουκάστ είναι εναλλακτική εκλόν 2, όχι πρώτη επιλογή — ICS υπερτερεί · <b>C</b> LABA δεν συνιστάται ως εκκίνηση σε παιδιά ≤5 ετών — απαιτεί ICS πρώτα, και ο LABA προστίθεται μόνο αν υπάρχει ανεπαρκής έλεγχος σε εκλόν 2-3",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Los LABA en monoterapia sin ICS están contraindicados en asma — riesgo de crisis fatal · <b>E</b> Los ciclos de corticoide sistémico no reemplazan el mantenimiento inhalado; se usan solo en crisis agudas · <b>B</b> El montelukast es alternativa en escalón 2, no primera elección — el ICS es superior · <b>C</b> El LABA no se recomienda de inicio en niños ≤5 años — se requiere ICS primero; el LABA se añade solo si hay control insuficiente en escalón 2-3",
+  "cite": "GINA 2023, cap. «Stepwise Approach to Asthma Management in Children 5 Years and Younger» · Nelson 21.ª ed., cap. «Asthma — Controller Therapy»",
+  "id": "B-624"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 87,
+  "concepts": [
+   "c.ped.resp.asma.mantenimiento"
+  ],
+  "topic_el": "Άσθμα παιδιών · Εκλόν 3 GINA — κλιμάκωση συντήρησης",
+  "topic_es": "Asma pediátrica · Escalón 3 GINA — escalada de mantenimiento",
+  "stem_el": "Αγόρι 10 ετών με εν μέρει ελεγχόμενο άσθμα παρά βουδεσονίδη 200 mcg/ημέρα (χαμηλή δόση ICS). Δύο νυχτερινές αφυπνίσεις τον τελευταίο μήνα. Ποιο είναι το εκλόν 3 GINA για αυτόν τον ασθενή;",
+  "stem_es": "Niño de 10 años con asma parcialmente controlada a pesar de budesonida 200 mcg/día (ICS dosis baja). Dos despertares nocturnos el último mes. ¿Cuál es el escalón 3 GINA para este paciente?",
+  "options": [
+   {
+    "el": "Διπλασιασμός ICS σε υψηλή δόση (>400 mcg/ημέρα βουδεσονίδης)",
+    "es": "Duplicar ICS hasta dosis alta (>400 mcg/día de budesonida)"
+   },
+   {
+    "el": "Μέτρια δόση ICS Ή χαμηλή δόση ICS + LABA (σαλμετερόλη ή φορμοτερόλη)",
+    "es": "ICS dosis media O ICS dosis baja + LABA (salmeterol o formoterol)"
+   },
+   {
+    "el": "Μοντελουκάστ και συνέχιση ICS χαμηλής δόσης αορίστου χρόνου ως μόνο εκλόν 3",
+    "es": "Montelukast y mantener ICS dosis baja indefinidamente como único escalón 3"
+   },
+   {
+    "el": "Omalizumab (αντι-IgE) ως βιολογική αγωγή",
+    "es": "Omalizumab (anti-IgE) como tratamiento biológico"
+   },
+   {
+    "el": "Προσθήκη θεοφυλλίνης βραδείας αποδέσμευσης ως δεύτερου φαρμάκου",
+    "es": "Añadir teofilina de liberación lenta como segundo fármaco"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Το εκλόν 3 της GINA (2023) για παιδιά ≥6 ετών είναι: (α) ICS μέτρια δόση ΕΩΣ ΑΛΛΩΣ (β) ICS χαμηλή δόση + LABA. Η επιλογή εξαρτάται από ηλικία (LABA <5 ετών με περιορισμούς), τεχνική εισπνοής και συνεργία του ασθενή.",
+  "expl_es": "El escalón 3 de GINA (2023) para niños ≥6 años es: (a) ICS dosis media O (b) ICS dosis baja + LABA. La elección depende de la edad (LABA <5 años con limitaciones), técnica de inhalación y adherencia del paciente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η υψηλή δόση ICS δεν είναι εκλόν 3 — είναι εκλόν 4· επίσης αυξάνει τον κίνδυνο ανεπιθύμητων ενεργειών · <b>E</b> Η θεοφυλλίνη δεν συνιστάται ως τυπικό εκλόν 3 — ξεπεράστηκε από LABA και έχει στενό θεραπευτικό παράθυρο · <b>D</b> Το omalizumab είναι εκλόν 5 (σοβαρό αλλεργικό άσθμα) — δεν χρησιμοποιείται ρουτίνα σε εκλόν 3 · <b>C</b> Ο μοντελουκάστ μόνος με χαμηλή δόση ICS είναι λιγότερο αποτελεσματικός από ICS+LABA ή μέτρια ICS",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La dosis alta de ICS no es escalón 3 — es escalón 4; además aumenta el riesgo de efectos adversos · <b>E</b> La teofilina no se recomienda como escalón 3 estándar — ha sido desplazada por LABA y tiene margen terapéutico estrecho · <b>D</b> El omalizumab es escalón 5 (asma alérgica grave) — no se usa rutinariamente en escalón 3 · <b>C</b> El montelukast solo con ICS baja dosis es menos eficaz que ICS+LABA o ICS dosis media",
+  "cite": "GINA 2023, cap. «Stepwise Approach — Step 3» · Nelson 21.ª ed., cap. «Asthma — Step-up Therapy»",
+  "id": "B-625"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 90,
+  "concepts": [
+   "c.ped.resp.asma.diagnostico"
+  ],
+  "topic_el": "Άσθμα >5 ετών · Αντικειμενική διάγνωση — σπιρομέτρηση",
+  "topic_es": "Asma >5 años · Diagnóstico objetivo — espirometría",
+  "stem_el": "Κορίτσι 7 ετών με επαναλαμβανόμενα επεισόδια συριγμού. Ποιο αντικειμενικό κριτήριο επιβεβαιώνει τη διάγνωση άσθματος σε παιδιά άνω των 5 ετών;",
+  "stem_es": "Niña de 7 años con episodios repetidos de sibilancias. ¿Cuál es el criterio diagnóstico objetivo del asma en niños mayores de 5 años?",
+  "options": [
+   {
+    "el": "Μέτρηση PEF <80% του προβλεπόμενου σε οποιαδήποτε μεμονωμένη μέτρηση",
+    "es": "PEF <80% del predicho en cualquier determinación aislada"
+   },
+   {
+    "el": "Θετική δοκιμασία μεταχολίνης ως μόνη επιβεβαιωτική δοκιμασία",
+    "es": "Prueba de metacolina positiva como única prueba confirmatoria"
+   },
+   {
+    "el": "Σπιρομετρία με αποφρακτικό πρότυπο (FEV1/FVC <0,80) και αναστρεψιμότητα ≥12% του FEV1 μετά βρογχοδιαστολή",
+    "es": "Espirometría con patrón obstructivo (FEV1/FVC <0,80) y reversibilidad ≥12% del FEV1 tras broncodilatador"
+   },
+   {
+    "el": "Ακτινογραφία θώρακα με υπερδιάταση και παγίδευση αέρα",
+    "es": "Radiografía de tórax con hiperinflación y atrapamiento aéreo"
+   },
+   {
+    "el": "FeNO >20 ppb σε οποιοδήποτε παιδί με συριγμό — αρκεί για τη διάγνωση",
+    "es": "FeNO >20 ppb en cualquier niño con sibilancias — suficiente para el diagnóstico"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η GINA 2023 ορίζει ως αντικειμενικό τεκμήριο άσθματος: αποφρακτικό πρότυπο σπιρομετρίας (FEV1/FVC <0,80 ή <κατώτατο φυσιολογικό στα παιδιά) με ανάδειξη αναστρεψιμότητας ≥12% (και ≥200 mL σε >12 ετών) μετά σαλβουταμόλη. Σε παιδιά <200 mL δεν απαιτείται — ≥12% αρκεί.",
+  "expl_es": "GINA 2023 define como evidencia objetiva de asma: patrón obstructivo en espirometría (FEV1/FVC <0,80 o <límite inferior de la normalidad en niños) con reversibilidad ≥12% (y ≥200 mL en >12 años) tras salbutamol. En niños <200 mL no es necesario — ≥12% es suficiente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η μεταχολίνη είναι ευαίσθητη αλλά μη ειδική· χρησιμοποιείται για αποκλεισμό, όχι επιβεβαίωση — τιμή αρνητική αποκλείει άσθμα · <b>A</b> Ένας χαμηλός PEF σε μεμονωμένη μέτρηση δεν επιβεβαιώνει διάγνωση· απαιτείται αναστρεψιμότητα ή παραλλακτικότητα ≥20% · <b>E</b> Το FeNO >20-25 ppb υποδηλώνει ηωσινοφιλική φλεγμονή, αλλά δεν αρκεί μόνο του για διάγνωση άσθματος — ούτε στα GINA κριτήρια · <b>D</b> Η υπερδιάταση στην ακτινογραφία είναι μη ειδικό εύρημα — εμφανίζεται και σε άλλες αποφρακτικές παθήσεις",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> La metacolina es sensible pero poco específica; se usa para excluir, no para confirmar — un resultado negativo descarta asma · <b>A</b> Un PEF bajo en medición aislada no confirma diagnóstico; se requiere reversibilidad o variabilidad ≥20% · <b>E</b> FeNO >20-25 ppb sugiere inflamación eosinofílica, pero no basta solo para diagnóstico de asma — tampoco está en criterios GINA · <b>D</b> La hiperinflación en radiografía es un hallazgo inespecífico — aparece también en otras patologías obstructivas",
+  "cite": "GINA 2023, cap. «Diagnosis of Asthma» · Nelson 21.ª ed., cap. «Asthma — Diagnosis and Pulmonary Function Tests»",
+  "id": "B-626"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 86,
+  "concepts": [
+   "c.ped.resp.asma.diagnostico"
+  ],
+  "topic_el": "Άσθμα <5 ετών · Κλινική διάγνωση",
+  "topic_es": "Asma <5 años · Diagnóstico clínico",
+  "stem_el": "Αγόρι 3 ετών με 4 επεισόδια συριγμού το τελευταίο χρόνο, όλα κατά τη διάρκεια ιογενών λοιμώξεων. Έκζεμα μέτριας μορφής, πατέρας με άσθμα. Χωρίς έκθεση σε καπνό. Πώς επιβεβαιώνεται η διάγνωση άσθματος σε αυτό το παιδί;",
+  "stem_es": "Niño de 3 años con 4 episodios de sibilancias en el último año, todos precipitados por infecciones virales. Eccema moderado, padre asmático. Sin exposición al tabaco. ¿Cómo se confirma el diagnóstico de asma en este niño?",
+  "options": [
+   {
+    "el": "Ακτινογραφία θώρακα και αιμόγραμμα με ηωσινοφιλία",
+    "es": "Radiografía de tórax y hemograma con eosinofilia"
+   },
+   {
+    "el": "Prick test αλλεργιογόνων και πρόσθιος ρινοσκοπία",
+    "es": "Prick test para alérgenos y rinoscopia anterior"
+   },
+   {
+    "el": "Σπιρομετρία με δοκιμασία βρογχοδιαστολής σε ηλικία 3 ετών",
+    "es": "Espirometría con prueba de broncodilatación a los 3 años"
+   },
+   {
+    "el": "Η διάγνωση στα <5 έτη είναι κλινική: πρότυπο επαναλαμβανόμενου συριγμού, ανταπόκριση σε βρογχοδιασταλτικά και παράγοντες αtοπικού κινδύνου",
+    "es": "El diagnóstico en <5 años es clínico: patrón de sibilancias recurrentes, respuesta a broncodilatadores y factores de riesgo atópicos"
+   },
+   {
+    "el": "Μέτρηση FeNO (εκπνεόμενο μονοξείδιο αζώτου) σε συνεργάσιμο παιδί 3 ετών",
+    "es": "Medición de FeNO (óxido nítrico exhalado) en niño colaborador de 3 años"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Σε παιδιά <5 ετών δεν είναι δυνατή η αξιόπιστη σπιρομετρία ή FeNO. Η GINA 2023 ορίζει ότι η διάγνωση στηρίζεται σε κλινική αξιολόγηση: (1) επαναλαμβανόμενος συριγμός, (2) ανταπόκριση στη βρογχοδιαστολή, (3) παρουσία παραγόντων αtοπικού κινδύνου (έκζεμα, οικογενειακό ιστορικό, ενεργητική/παθητική έκθεση σε αλλεργιογόνα).",
+  "expl_es": "En niños <5 años no es posible la espirometría ni el FeNO de forma fiable. GINA 2023 establece que el diagnóstico se basa en evaluación clínica: (1) sibilancias recurrentes, (2) respuesta a broncodilatadores, (3) presencia de factores de riesgo atópicos (eccema, historia familiar, exposición activa/pasiva a alérgenos).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η σπιρομετρία δεν είναι αξιόπιστη σε 3 χρόνια — τα παιδιά δεν είναι συνήθως ικανά για μέγιστη εκπνευστική προσπάθεια · <b>E</b> Το FeNO σε 3 χρόνια δεν εκτελείται αξιόπιστα· απαιτεί συνεργασία για ελεγχόμενη εκπνοή στα 50 mL/δευτερόλεπτο · <b>A</b> Η ακτινογραφία και η ηωσινοφιλία είναι μη ειδικά και δεν επιβεβαιώνουν άσθμα σε <5 χρόνια · <b>B</b> Ο prick test βοηθά στην ταυτοποίηση αλλεργιογόνων αλλά δεν αποτελεί επιβεβαιωτική δοκιμασία για άσθμα",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La espirometría no es fiable a los 3 años — los niños generalmente no son capaces de realizar el esfuerzo espiratorio máximo necesario · <b>E</b> El FeNO a los 3 años no se realiza de forma fiable; requiere colaboración para una espiración controlada a 50 mL/segundo · <b>A</b> La radiografía y la eosinofilia son inespecíficas y no confirman asma en <5 años · <b>B</b> El prick test ayuda a identificar alérgenos pero no es prueba confirmatoria de asma",
+  "cite": "GINA 2023, cap. «Diagnosis of Asthma in Children 5 Years and Younger» · Nelson 21.ª ed., cap. «Wheezing in Infancy and Early Childhood»",
+  "id": "B-627"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 83,
+  "concepts": [
+   "c.ped.resp.asma.eib"
+  ],
+  "topic_el": "Άσθμα · Βρογχόσπασμος επαγόμενος από άσκηση",
+  "topic_es": "Asma · Broncoespasmo inducido por ejercicio",
+  "stem_el": "Έφηβος 15 ετών με καλά ελεγχόμενο άσθμα σε ηρεμία. Αναφέρει βήχα και συριγμό που εμφανίζονται 5-10 λεπτά μετά την έναρξη τρεξίματος και υποχωρούν αυτόματα σε 30 λεπτά. Ποια είναι η κατάλληλη αντιμετώπιση για αυτό το ειδικό πρότυπο;",
+  "stem_es": "Adolescente de 15 años con asma bien controlada en reposo. Refiere tos y sibilancias que aparecen 5-10 minutos después de empezar a correr y se resuelven solas en 30 minutos. ¿Cuál es la conducta correcta para este patrón específico?",
+  "options": [
+   {
+    "el": "Έναρξη LABA + ICS παρά τον καλό έλεγχο σε ηρεμία",
+    "es": "Iniciar LABA + ICS a pesar del buen control en reposo"
+   },
+   {
+    "el": "Μοντελουκάστ νυχτερινό ως μοναδικό προληπτικό μέτρο",
+    "es": "Montelukast nocturno como única medida preventiva"
+   },
+   {
+    "el": "Διπλασιασμός της δόσης εισπνεόμενου κορτικοστεροειδούς συντήρησης",
+    "es": "Doblar la dosis del corticoide inhalado de mantenimiento"
+   },
+   {
+    "el": "Απαγόρευση αθλητικής άσκησης και ανταγωνιστικού αθλητισμού",
+    "es": "Contraindicación del ejercicio físico y el deporte de competición"
+   },
+   {
+    "el": "Σαλβουταμόλη MDI 2 εισπνοές 15 λεπτά πριν την άσκηση ως βρογχοπροστασία",
+    "es": "Salbutamol MDI 2 pulsaciones 15 minutos antes del ejercicio como broncoprotección"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Ο βρογχόσπασμος επαγόμενος από άσκηση (EIB) αντιμετωπίζεται με SABA (σαλβουταμόλη) 2 εισπνοές 15 λεπτά πριν την άσκηση. Αυτό προσφέρει βρογχοπροστασία για 2-4 ώρες. Η άσκηση δεν αντενδείκνυται — συνιστάται με κατάλληλη προφύλαξη. Ο μοντελουκάστ είναι εναλλακτική, αλλά λιγότερο άμεσος.",
+  "expl_es": "El broncoespasmo inducido por ejercicio (EIB) se trata con SABA (salbutamol) 2 pulsaciones 15 minutos antes del ejercicio. Esto ofrece broncoprotección por 2-4 horas. El ejercicio no está contraindicado — se recomienda con profilaxis adecuada. El montelukast es alternativa, pero menos inmediata.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Διπλασιασμός ICS δεν αντιμετωπίζει ειδικά τον EIB — το EIB εμφανίζεται ακόμη και με άριστο έλεγχο · <b>D</b> Η άσκηση συνιστάται σε ασθματικούς· η αποφυγή επιδεινώνει τη φυσική κατάσταση και αυξάνει την υπερδεκτικότητα · <b>A</b> LABA δεν προστίθεται μόνο για EIB σε καλά ελεγχόμενο εκτός άσκησης άσθμα — υπερθεραπεία · <b>B</b> Ο μοντελουκάστ είναι εναλλακτική για EIB αλλά με καθυστερημένη έναρξη δράσης· ο SABA πριν την άσκηση είναι ταχύτερος και αποτελεσματικότερος",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> Doblar el ICS no trata específicamente el EIB — el EIB puede ocurrir incluso con excelente control · <b>D</b> El ejercicio está recomendado en asmáticos; la evitación empeora la condición física y aumenta la hiperreactividad · <b>A</b> LABA no se añade solo por EIB en asma bien controlada fuera del ejercicio — es sobretratamiento · <b>B</b> El montelukast es alternativa para EIB pero con inicio de acción tardío; el SABA pre-ejercicio es más rápido y eficaz",
+  "cite": "GINA 2023, cap. «Exercise-induced Bronchoconstriction» · Nelson 21.ª ed., cap. «Asthma — Exercise-Induced Asthma»",
+  "id": "B-628"
+ },
+ {
+  "sid": "ped-resp",
+  "prob": 80,
+  "concepts": [
+   "c.ped.resp.asma.nsaid"
+  ],
+  "topic_el": "Άσθμα · Αναπνευστική νόσος επιδεινούμενη από ΜΣΑΦ (EREA)",
+  "topic_es": "Asma · Enfermedad respiratoria exacerbada por AINE (EREA)",
+  "stem_el": "Έφηβος 16 ετών με διεγνωσμένο άσθμα. Μετά τη λήψη ιβουπροφαίνης για κεφαλαλγία, σε 30-60 λεπτά εμφανίζει έντονο βρογχόσπασμο, ρινόρροια και κνίδωση. Ποια είναι η διάγνωση και η σωστή αντιμετώπιση;",
+  "stem_es": "Adolescente de 16 años con asma diagnosticada. Tras tomar ibuprofeno por cefalea, en 30-60 minutos desarrolla broncoespasmo intenso, rinorrea y urticaria. ¿Cuál es el diagnóstico y la conducta correcta?",
+  "options": [
+   {
+    "el": "Αναπνευστική νόσος επιδεινούμενη από ΜΣΑΦ (EREA/ασπιρίνη-άσθμα): αντενδεικνύονται όλοι οι αναστολείς COX-1",
+    "es": "Enfermedad respiratoria exacerbada por AINE (EREA/asma por aspirina): contraindicados todos los inhibidores de COX-1"
+   },
+   {
+    "el": "Βρογχόσπασμος επαγόμενος από άσκηση ο οποίος σχετίστηκε χρονικά με την κεφαλαλγία",
+    "es": "Broncoespasmo inducido por ejercicio relacionado temporalmente con la cefalea"
+   },
+   {
+    "el": "Μεμονωμένη κνιδωτική αντίδραση χωρίς επίπτωση στη μελλοντική χορήγηση ΜΣΑΦ",
+    "es": "Urticaria alérgica aislada, sin impacto en la prescripción futura de AINEs"
+   },
+   {
+    "el": "IgE-μεσολαβούμενη αλλεργία στο ιβουπροφαίνη· αποφυγή μόνο αυτού, τα άλλα ΜΣΑΦ είναι ασφαλή",
+    "es": "Alergia IgE-mediada al ibuprofeno; evitar solo ese fármaco, otros AINEs son seguros"
+   },
+   {
+    "el": "Τυχαία κρίση άσθματος χωρίς σχέση με το ΜΣΑΦ· μπορεί να συνεχίσει τη λήψη του",
+    "es": "Crisis asmática coincidental, sin relación con el AINE; puede seguir tomándolo"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Η EREA (Aspirin-Exacerbated Respiratory Disease) είναι μη ανοσολογική αντίδραση σε ΜΣΑΦ μέσω αναστολής COX-1, με αύξηση λευκοτριενίων. Εμφανίζεται σε 10-20% αστών ασθματικών και χαρακτηρίζεται από τριάδα: άσθμα + ρινίτιδα/πολύποδες + βρογχόσπασμος μετά ασπιρίνη/ΜΣΑΦ. Αντενδείκνυνται ΟΛΟΙ οι αναστολείς COX-1. Τα παρακεταμόλη (ακεταμινοφαίνη) σε χαμηλές δόσεις και οι εκλεκτικοί COX-2 είναι συνήθως ασφαλείς.",
+  "expl_es": "La EREA (Enfermedad Respiratoria Exacerbada por Aspirina) es una reacción no inmunológica a los AINEs mediada por inhibición de COX-1, con aumento de leucotrienos. Afecta al 10-20% de asmáticos adultos y se caracteriza por la tríada: asma + rinosinusitis/pólipos + broncoespasmo tras aspirina/AINEs. Están contraindicados TODOS los inhibidores de COX-1. El paracetamol a dosis bajas y los COX-2 selectivos son generalmente seguros.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η EREA δεν είναι IgE-μεσολαβούμενη — είναι φαρμακολογικά (COX-1 αναστολή)· αντιδρούν όλα τα ΜΣΑΦ που αναστέλλουν COX-1, όχι μόνο το ιβουπροφαίνη · <b>E</b> Η χρονική σχέση (30-60 λεπτά) και τα τρία συμπτώματα ταυτόχρονα κάνουν το τυχαίο σενάριο απίθανο · <b>B</b> Δεν υπάρχει άσκηση περιγεγραμμένη στο ιστορικό — δεν εξηγεί κνίδωση ή ρινόρροια · <b>C</b> Η κνίδωση και ο βρογχόσπασμος ταυτόχρονα συνιστούν αναφυλακτοειδή αντίδραση — δεν αντιμετωπίζεται ως «ανεπίδραστη κνίδωση»",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> La EREA no es IgE-mediada — es farmacológica (inhibición de COX-1); reaccionan todos los AINEs que inhiben COX-1, no solo el ibuprofeno · <b>E</b> La relación temporal (30-60 min) y los tres síntomas simultáneos hacen improbable la coincidencia · <b>B</b> No se describe ejercicio en el historial — no explica la urticaria ni la rinorrea · <b>C</b> La urticaria y el broncoespasmo simultáneos constituyen una reacción anafilactoide — no se puede manejar como «urticaria sin importancia»",
+  "cite": "Nelson 21.ª ed., cap. «Asthma — Aspirin-Exacerbated Respiratory Disease» · GINA 2023, cap. «Asthma Comorbidities» · Stevenson & Szczeklik, NEJM 2006",
+  "id": "B-629"
+ },
+ {
   "id": "B-686",
   "sid": "ped-gi",
   "concepts": [
@@ -10518,6 +11238,1527 @@
   "dis_el": "<b>Γιατι οχι οι υπολοιπες:</b> Ninguna accion si asintomatico: peligroso, la asintomaticidad inicial es tipica y NO descarta toxicidad significativa (fase I silente). Carbon activado solo sin NAC: insuficiente, el NAC es el tratamiento especifico esencial, el carbon solo reduce la absorcion si se da muy precozmente. Dialisis inmediata sin laboratorio: innecesaria de entrada, el nivel serico guia la decision terapeutica primero. Esperar sintomas de dano hepatico: peligroso, el NAC pierde eficacia con el retraso, debe iniciarse segun el nomograma no esperando dano establecido.",
   "dis_es": "<b>Por que no las otras:</b> Ninguna accion si asintomatico: peligroso, la asintomaticidad inicial no descarta toxicidad. Carbon activado solo: insuficiente, el NAC es esencial. Dialisis inmediata sin laboratorio: innecesaria de entrada. Esperar sintomas de dano hepatico: peligroso, el NAC pierde eficacia con el retraso.",
   "cite": "Hendrickson, Pediatr Emerg Care 2019 (acetaminophen toxicity); Rumack & Matthew, Pediatrics 1975 (nomogram)"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 90,
+  "concepts": [
+   "c.ped.gi.deshidratacion"
+  ],
+  "topic_el": "Γαστρεντερίτιδα · Ταξινόμηση αφυδάτωσης ΠΟΥ · Μέτρια",
+  "topic_es": "Gastroenteritis · Clasificación deshidratación OMS · Moderada",
+  "stem_el": "Βρέφος 10 μηνών προσκομίζεται με 3 ημέρες γαστρεντερίτιδας. Παρουσιάζει κοιλωμένα μάτια, βυθισμένη πρόσθια πηγή, στεγνά χείλη και βλεννογόνους, κλαίει με λίγα δάκρυα, η δερματική πτυχή επανέρχεται αργά, πίνει με λαιμαργία όταν του προσφέρεται νερό. Βάρος 9 κg (προ νόσου 9,8 kg). Ποιο βαθμό αφυδάτωσης αντιστοιχεί η εικόνα αυτή κατά ΠΟΥ;",
+  "stem_es": "Lactante de 10 meses con 3 días de gastroenteritis. Presenta ojos hundidos, fontanela anterior deprimida, labios y mucosas secos, llanto con pocas lágrimas, pliegue cutáneo que se retracta lentamente y bebe con avidez. Peso actual 9 kg (previo 9,8 kg). ¿Qué grado de deshidratación corresponde a este cuadro según la OMS?",
+  "options": [
+   {
+    "el": "Χωρίς σημαντική αφυδάτωση (<3% βάρους), φυσιολογικά κλινικά σημεία",
+    "es": "Sin deshidratación apreciable (<3% del peso), signos clínicos normales"
+   },
+   {
+    "el": "Σοβαρή αφυδάτωση (>10% βάρους): ληθαργία, αδύνατο να πιει, απουσία περιφερικού σφυγμού, ψυχρά άκρα",
+    "es": "Deshidratación grave (>10% del peso): letargia, incapaz de beber, pulso periférico ausente, extremidades frías"
+   },
+   {
+    "el": "Ήπια αφυδάτωση (<5% βάρους): ελαφρά ξηρότητα βλεννογόνων, συμπεριφορά φυσιολογική",
+    "es": "Deshidratación leve (<5% del peso): ligera sequedad de mucosas, comportamiento normal"
+   },
+   {
+    "el": "Μέτρια αφυδάτωση (5-10% βάρους): κοιλωμένα μάτια, βυθισμένη πηγή, ξηροί βλεννογόνοι, εκνευρισμός, αργή ε ́παρση πτυχής, πίνει με λαιμαργία",
+    "es": "Deshidratación moderada (5-10% del peso): ojos hundidos, fontanela deprimida, mucosas secas, irritabilidad, pliegue lento, bebe con avidez"
+   },
+   {
+    "el": "Αφυδάτωση με shock (>15% βάρους): αναισθησία, απουσία ούρων, σοκ ανεπανόρθωτο χωρίς IV",
+    "es": "Deshidratación con shock (>15% del peso): inconsciencia, anuria, shock irreversible sin IV"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Κατά ΠΟΥ, η μέτρια αφυδάτωση ορίζεται ως 5-10% απώλεια βάρους (εδώ ~8%). Χαρακτηρίζεται από κοιλωμένα μάτια, βυθισμένη πρόσθια πηγή, ξηρούς βλεννογόνους, αργή ε ́παρση δερματικής πτυχής (>2 sec) και αίσθηση δίψας/λαιμαργία. Η αντιμετώπιση είναι επανυδάτωση από στόμα (ORS) 50-100 ml/kg σε 3-4 ώρες.",
+  "expl_es": "Según la OMS, la deshidratación moderada corresponde a una pérdida del 5-10% del peso corporal (aquí ~8%). Se caracteriza por ojos hundidos, fontanela deprimida, mucosas secas, pliegue cutáneo lento (>2 seg) y sed intensa. El tratamiento es rehidratación oral (SRO) 50-100 ml/kg en 3-4 horas.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Χωρίς αφυδάτωση: βάρος αμετάβλητο, κλινικά φυσιολογικό — εδώ υπάρχει 8% απώλεια · <b>C</b> Ήπια (<5%): μόνο ελαφρά ξηρότητα χωρίς άλλα σημεία — αυτό το βρέφος έχει πολλαπλά σημεία · <b>B</b> Σοβαρή (>10%): θα ήταν ληθαργικό, ανίκανο να πιει, με απόν περιφερικό σφυγμό — εδώ πίνει με λαιμαργία · <b>E</b> Shock: βαθύτερο στάδιο με πλήρη αστάθεια κυκλοφορίας, που δεν ταιριάζει στα δεδομένα",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Sin deshidratación: peso estable y clínica normal — aquí hay pérdida del 8% · <b>C</b> Leve (<5%): solo leve sequedad sin otros signos — este lactante tiene múltiples hallazgos · <b>B</b> Grave (>10%): estaría letárgico, incapaz de beber, sin pulso periférico — aquí bebe con avidez · <b>E</b> Shock: estadio más profundo con inestabilidad circulatoria total, no concordante con los datos",
+  "cite": "Nelson 21.ª ed., cap. «Deshidratación» · OMS/UNICEF guía SRO 2006 · ESPGHAN JPGN 2014",
+  "id": "B-749"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 85,
+  "concepts": [
+   "c.ped.gi.sro"
+  ],
+  "topic_el": "Γαστρεντερίτιδα · Σύνθεση ORS χαμηλής ωσμωτικότητας ΠΟΥ 2002",
+  "topic_es": "Gastroenteritis · Composición SRO baja osmolaridad OMS 2002",
+  "stem_el": "Παιδίατρος συστήνει χρήση «SRO χαμηλής ωσμωτικότητας» για επανυδάτωση βρέφους με οξεία γαστρεντερίτιδα. Ποια είναι η σύνθεση που συνιστά ο ΠΟΥ από το 2002;",
+  "stem_es": "Un pediatra indica usar «SRO de baja osmolaridad» para rehidratar a un lactante con gastroenteritis aguda. ¿Cuál es la composición que recomienda la OMS desde 2002?",
+  "options": [
+   {
+    "el": "Na 90 mEq/L, K 20 mEq/L, γλυκόζη 200 mmol/L, ωσμωτικότητα 360 mOsm/L",
+    "es": "Na 90 mEq/L, K 20 mEq/L, glucosa 200 mmol/L, osmolaridad 360 mOsm/L"
+   },
+   {
+    "el": "Na 90 mEq/L, γλυκόζη 111 mmol/L, ωσμωτικότητα 311 mOsm/L (φόρμουλα ΠΟΥ 1975)",
+    "es": "Na 90 mEq/L, glucosa 111 mmol/L, osmolaridad 311 mOsm/L (fórmula OMS 1975)"
+   },
+   {
+    "el": "Na 50 mEq/L, K 15 mEq/L, γλυκόζη 50 mmol/L, ωσμωτικότητα 200 mOsm/L",
+    "es": "Na 50 mEq/L, K 15 mEq/L, glucosa 50 mmol/L, osmolaridad 200 mOsm/L"
+   },
+   {
+    "el": "Na 130 mEq/L, K 4 mEq/L, Cl 109 mEq/L, ωσμωτικότητα 273 mOsm/L (παρόμοιο Ringer lactate)",
+    "es": "Na 130 mEq/L, K 4 mEq/L, Cl 109 mEq/L, osmolaridad 273 mOsm/L (similar a Ringer lactato)"
+   },
+   {
+    "el": "Na 75 mEq/L, K 20 mEq/L, γλυκόζη 75 mmol/L, ωσμωτικότητα 245 mOsm/L",
+    "es": "Na 75 mEq/L, K 20 mEq/L, glucosa 75 mmol/L, osmolaridad 245 mOsm/L"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η φόρμουλα χαμηλής ωσμωτικότητας του ΠΟΥ (2002) περιέχει Na 75 mEq/L, Cl 65 mEq/L, K 20 mEq/L, κιτρικά 10 mmol/L, γλυκόζη 75 mmol/L, ωσμωτικότητα 245 mOsm/L. Μειώνει τους εμέτους και την ανάγκη IV σε σχέση με την παλαιά φόρμουλα (311 mOsm/L).",
+  "expl_es": "La fórmula de baja osmolaridad OMS 2002 contiene Na 75 mEq/L, Cl 65 mEq/L, K 20 mEq/L, citrato 10 mmol/L, glucosa 75 mmol/L, osmolaridad 245 mOsm/L. Reduce vómitos y necesidad de IV frente a la fórmula clásica de 311 mOsm/L.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Φόρμουλα ΠΟΥ 1975: υπέρτονη (311 mOsm/L), αντικαταστάθηκε γιατί αύξανε υπερνατριαιμία · <b>C</b> Ανύπαρκτη φόρμουλα: ωσμωτικότητα 200 mOsm/L δεν αντιστοιχεί σε καμιά επίσημη σύσταση · <b>D</b> Παρόμοιο με Ringer: IV διάλυμα, όχι ORS — κατάλληλο για ενδοφλέβια χρήση, όχι από στόμα · <b>A</b> Υπέρτονο: ωσμωτικότητα 360 mOsm/L επιδεινώνει την αφυδάτωση αντί να τη διορθώνει",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> Fórmula OMS 1975: hipertónica (311 mOsm/L), retirada por riesgo de hipernatremia · <b>C</b> Fórmula inexistente: osmolaridad 200 mOsm/L no corresponde a ninguna recomendación oficial · <b>D</b> Similar a Ringer: solución IV, no oral — inadecuada para rehidratación enteral · <b>A</b> Hipertónica: osmolaridad 360 mOsm/L agravaría la deshidratación",
+  "cite": "OMS/UNICEF «New formula for oral rehydration salts» 2006 · ESPGHAN JPGN 2014 · Nelson 21.ª ed.",
+  "id": "B-750"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 88,
+  "concepts": [
+   "c.ped.gi.deshidratacion",
+   "c.ped.gi.rehidratacion_iv"
+  ],
+  "topic_el": "Γαστρεντερίτιδα · Σοβαρή αφυδάτωση με shock · Αρχική IV επανυδάτωση",
+  "topic_es": "Gastroenteritis · Deshidratación grave con shock · Rehidratación IV inicial",
+  "stem_el": "Βρέφος 8 μηνών φτάνει στο ΤΕΠ με γαστρεντερίτιδα, ληθαργικό, ταχυκαρδία 180/λεπτό, χρόνο τριχοειδικής επαναπλήρωσης 6 δευτερόλεπτα, αδύνατον ψηλαφητός περιφερικός σφυγμός. Ποια είναι η άμεση αντιμετώπιση;",
+  "stem_es": "Lactante de 8 meses llega a urgencias con gastroenteritis, letárgico, frecuencia cardíaca 180/min, tiempo de relleno capilar 6 segundos, pulso periférico imperceptible. ¿Cuál es la primera medida?",
+  "options": [
+   {
+    "el": "SSF 0,9% 20 ml/kg IV σε bolus σε <20 λεπτά, επαναλαμβανόμενο έως ανάνηψη κυκλοφορίας",
+    "es": "SSF 0,9% 20 ml/kg IV en bolo en <20 minutos, repetible hasta recuperación circulatoria"
+   },
+   {
+    "el": "ORS από στόμα 50 ml/kg σε 4 ώρες με εντατικοποιημένη παρακολούθηση",
+    "es": "SRO oral 50 ml/kg en 4 horas con monitorización estrecha"
+   },
+   {
+    "el": "Δεξτράνη 70 20 ml/kg IV συν φουροσεμίδη 1 mg/kg IV",
+    "es": "Dextrano 70 20 ml/kg IV más furosemida 1 mg/kg IV"
+   },
+   {
+    "el": "Γλυκόζη 5% 20 ml/kg IV bolus σε 20 λεπτά",
+    "es": "Glucosado 5% 20 ml/kg IV en bolo en 20 minutos"
+   },
+   {
+    "el": "Υποτονικό διάλυμα NaCl 0,45% + γλυκόζη 5% 10 ml/kg IV σε 1 ώρα",
+    "es": "Suero hipotónico NaCl 0,45% + glucosa 5% 10 ml/kg IV en 1 hora"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Σε αφυδάτωση με shock η πρώτη προτεραιότητα είναι αποκατάσταση ενδαγγειακού όγκου: SSF 0,9% 20 ml/kg IV bolus σε <20 λεπτά. Επαναλαμβάνεται έως αποκατάστασης κυκλοφορίας (CRT <2 sec, φυσιολογικός σφυγμός). Ο ισότονος SSF αποφεύγει υπονατριαιμία και διατηρεί ωσμωτικότητα.",
+  "expl_es": "En deshidratación con shock la prioridad es restaurar la volemia: SSF 0,9% 20 ml/kg IV en bolo en <20 min, repetible hasta normalización circulatoria (CRT <2 seg, pulso palpable). El suero salino isotónico evita la hiponatremia y mantiene la osmolaridad.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Γλυκόζη 5%: υπότονο, χωρίς Na — επιδεινώνει υπονατριαιμία και δεν αποκαθιστά ενδαγγειακό όγκο · <b>B</b> ORS από στόμα: αντενδείκνυται σε shock (αδυναμία κατάποσης, κίνδυνος εισρόφησης) · <b>E</b> Υποτονικό: ανεπαρκής Na για ανάνηψη και κίνδυνος εγκεφαλικού οιδήματος · <b>C</b> Δεξτράνη: κολλοειδές χωρίς τεκμηριωμένο πλεονέκτημα σε παιδιά, η φουροσεμίδη είναι ενεργά επιβλαβής σε shock",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Glucosado 5%: hipotónico, sin Na — empeora hiponatremia y no restaura volemia · <b>B</b> SRO oral: contraindicado en shock (incapacidad de deglutir, riesgo de aspiración) · <b>E</b> Hipotónico: Na insuficiente para reanimación y riesgo de edema cerebral · <b>C</b> Dextrano: coloide sin beneficio probado en niños; la furosemida es activamente dañina en shock",
+  "cite": "Nelson 21.ª ed., cap. «Deshidratación y terapia de fluidos» · AAP Acute Gastroenteritis Guidelines 2016",
+  "id": "B-751"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 82,
+  "concepts": [
+   "c.ped.gi.holliday_segar"
+  ],
+  "topic_el": "Γαστρεντερίτιδα · Υπολογισμός υγρών συντήρησης · Κανόνας Holliday-Segar",
+  "topic_es": "Gastroenteritis · Cálculo líquidos de mantenimiento · Regla de Holliday-Segar",
+  "stem_el": "Παιδίατρος χρειάζεται να υπολογίσει τα ημερήσια υγρά συντήρησης για παιδί 25 kg. Ποια φόρμουλα Holliday-Segar δίνει τη σωστή τιμή;",
+  "stem_es": "Un pediatra necesita calcular los líquidos de mantenimiento diarios para un niño de 25 kg. ¿Qué fórmula de Holliday-Segar da el valor correcto?",
+  "options": [
+   {
+    "el": "120 ml/kg/ημέρα ανεξαρτήτως βάρους έως 30 kg",
+    "es": "120 ml/kg/día independientemente del peso hasta 30 kg"
+   },
+   {
+    "el": "100 ml/kg/ημέρα για τα πρώτα 10 kg, 50 ml/kg/ημέρα για τα kg 11-20, 20 ml/kg/ημέρα για κάθε kg >20 kg",
+    "es": "100 ml/kg/día para los primeros 10 kg, 50 ml/kg/día para los kg 11-20, 20 ml/kg/día para cada kg >20 kg"
+   },
+   {
+    "el": "100 ml/kg/ημέρα για κάθε kg έως 20 kg, 50 ml/kg/ημέρα για κάθε kg >20 kg",
+    "es": "100 ml/kg/día para cada kg hasta 20 kg, 50 ml/kg/día para cada kg >20 kg"
+   },
+   {
+    "el": "150 ml/kg/ημέρα για τα πρώτα 10 kg, 50 ml/kg/ημέρα για τα kg 11-20, 20 ml/kg/ημέρα για κάθε kg >20 kg",
+    "es": "150 ml/kg/día para los primeros 10 kg, 50 ml/kg/día para los kg 11-20, 20 ml/kg/día para cada kg >20 kg"
+   },
+   {
+    "el": "100 ml/kg/ημέρα για τα πρώτα 10 kg, 50 ml/kg/ημέρα για κάθε επόμενο kg",
+    "es": "100 ml/kg/día para los primeros 10 kg, 50 ml/kg/día para cada kilogramo adicional"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Holliday-Segar (1957): 100 ml/kg/ημέρα × 10 kg = 1000 ml · 50 ml/kg/ημέρα × 10 kg = 500 ml · 20 ml/kg/ημέρα × 5 kg = 100 ml → σύνολο 1600 ml/ημέρα για παιδί 25 kg. Ισοδύναμο ωριαίο: 4-2-1 (ml/kg/h).",
+  "expl_es": "Holliday-Segar (1957): 100 ml/kg/día × 10 kg = 1000 ml · 50 ml/kg/día × 10 kg = 500 ml · 20 ml/kg/día × 5 kg = 100 ml → total 1600 ml/día para un niño de 25 kg. Equivalente horario: regla 4-2-1 (ml/kg/h).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Χρησιμοποιεί 150 αντί 100 για τα πρώτα 10 kg — υπερεκτίμηση των αναγκών συντήρησης · <b>C</b> Εφαρμόζει 100 ml/kg για ΟΛΑ τα kg έως 20, διπλασιάζοντας σφαλερά την εκτίμηση · <b>A</b> Σταθερή δόση 120 ml/kg: δεν αντικατοπτρίζει τη μείωση μεταβολικού ρυθμού με το βάρος · <b>E</b> Εφαρμόζει 50 ml/kg για κάθε kg >10: τριπλασιάζει τα ml ανά kg άνω των 20 kg",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Usa 150 en lugar de 100 para los primeros 10 kg — sobreestima los requerimientos · <b>C</b> Aplica 100 ml/kg para TODOS los kg hasta 20, duplicando erróneamente la estimación · <b>A</b> Dosis fija 120 ml/kg: no refleja la disminución del ritmo metabólico al aumentar el peso · <b>E</b> Aplica 50 ml/kg para cada kg >10: triplica los ml/kg por encima de 20 kg",
+  "cite": "Holliday MA, Segar WE. Pediatrics 1957;19:823-832 · Nelson 21.ª ed., cap. «Terapia con líquidos»",
+  "id": "B-752"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 87,
+  "concepts": [
+   "c.ped.gi.antibioticos_gea"
+  ],
+  "topic_el": "Γαστρεντερίτιδα · Αντιβιοτικά · Σαλμονέλλα μη τυφοειδής · Ενδείξεις",
+  "topic_es": "Gastroenteritis · Antibióticos · Salmonella no tifoidea · Indicaciones",
+  "stem_el": "Βρέφος 2 μηνών με θετική καλλιέργεια κοπράνων για Salmonella typhimurium, πυρετό 38,8°C, αλλά σε καλή γενική κατάσταση και χωρίς σημεία βακτηριαιμίας. Ποια είναι η σωστή απόφαση;",
+  "stem_es": "Lactante de 2 meses con coprocultivo positivo para Salmonella typhimurium, fiebre de 38,8°C, buen estado general y sin signos de bacteriemia. ¿Cuál es la decisión correcta?",
+  "options": [
+   {
+    "el": "Αντιβιοτικό μόνο αν το αποτέλεσμα αντιβιογράμματος δείξει ευαισθησία στην αμπικιλλίνη",
+    "es": "Antibiótico solo si el antibiograma muestra sensibilidad a la ampicilina"
+   },
+   {
+    "el": "Αντιβιοτικό μόνο κατά τις πρώτες 48 ώρες από την έναρξη για μείωση διάρκειας φέρτρου",
+    "es": "Antibiótico solo durante las primeras 48 horas del inicio para reducir la duración del portador"
+   },
+   {
+    "el": "Αντιβιοτικό ενδείκνυται: ηλικία <3 μηνών, ανοσοκατεστοιμένοι, βακτηριαιμία · σε ανοσοεπαρκείς >3 μηνών αποφεύγεται γιατί παρατείνει τη φορεία",
+    "es": "Antibiótico indicado: edad <3 meses, inmunocomprometidos, bacteriemia confirmada · en inmunocompetentes >3 meses se evita porque prolonga el estado de portador"
+   },
+   {
+    "el": "Παρακολούθηση χωρίς αντιβιοτικό σε όλα τα βρέφη με σαλμονέλλα, ανεξαρτήτως ηλικίας",
+    "es": "Observación sin antibiótico en todos los lactantes con salmonelosis, independientemente de la edad"
+   },
+   {
+    "el": "Αντιβιοτικό μόνο αν εμφανιστεί αιματηρή διάρροια ή πυρετός >39°C",
+    "es": "Antibiótico solo si aparece diarrea sanguinolenta o fiebre >39°C"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Σε βρέφος <3 μηνών η Salmonella ενέχει υψηλό κίνδυνο βακτηριαιμίας και μηνιγγίτιδας, οπότε η αντιβίωση ενδείκνυται ανεξαρτήτως βαρύτητας. Σε ανοσοεπαρκείς ηλικίας >3 μηνών τα αντιβιοτικά δεν μειώνουν διάρκεια και παρατείνουν ασυμπτωματική φορεία.",
+  "expl_es": "En lactantes <3 meses la Salmonella conlleva alto riesgo de bacteriemia y meningitis, por lo que el antibiótico está indicado independientemente de la gravedad. En inmunocompetentes >3 meses los antibióticos no acortan la duración y prolongan el estado de portador asintomático.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η ηλικία <3 μηνών αποτελεί καθαρή ένδειξη αντιβίωσης — η παρακολούθηση μόνο είναι ανεπαρκής · <b>E</b> Αναμονή αιματηρής διάρροιας ή υψηλότερου πυρετού: χάνεται το κρίσιμο παράθυρο για πρόληψη βακτηριαιμίας · <b>A</b> Η απόφαση δεν εξαρτάται από το αντιβιόγραμμα αλλά από την ηλικία και το ανοσολογικό status · <b>B</b> Σύντομη αντιβίωση δεν αντικαθιστά πλήρες σχήμα και μπορεί να επιλέξει ανθεκτικά στελέχη",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> La edad <3 meses es indicación clara de antibiótico — solo observación es insuficiente · <b>E</b> Esperar diarrea sanguinolenta o fiebre mayor pierde la ventana crítica para prevenir bacteriemia · <b>A</b> La decisión no depende del antibiograma sino de la edad y el estado inmunitario · <b>B</b> Un ciclo corto no sustituye la pauta completa y puede seleccionar cepas resistentes",
+  "cite": "Nelson 21.ª ed., cap. «Infecciones por Salmonella» · AAP Red Book 2024 · IDSA diarrea infecciosa",
+  "id": "B-753"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 85,
+  "concepts": [
+   "c.ped.gi.antibioticos_gea"
+  ],
+  "topic_el": "Γαστρεντερίτιδα · Shigelosis · Αντιβιοτική αγωγή πρώτης γραμμής",
+  "topic_es": "Gastroenteritis · Shigelosis · Antibiótico de primera línea",
+  "stem_el": "Παιδί 4 ετών με αιματηρή διάρροια 3 ημερών, πυρετό 39°C και θετική καλλιέργεια για Shigella sonnei. Ποια αντιβίωση αποτελεί την τρέχουσα πρώτη επιλογή;",
+  "stem_es": "Niño de 4 años con diarrea sanguinolenta de 3 días, fiebre de 39°C y coprocultivo positivo para Shigella sonnei. ¿Qué antibiótico es actualmente la primera elección?",
+  "options": [
+   {
+    "el": "Κεφτριαξόνη IV σε όλες τις περιπτώσεις επιβεβαιωμένης Shigella",
+    "es": "Ceftriaxona IV en todos los casos de Shigella confirmada"
+   },
+   {
+    "el": "Κοτριμοξαζόλη από στόμα 5 ημέρες (αντοχή >50% στις περισσότερες περιοχές)",
+    "es": "Cotrimoxazol oral 5 días (resistencia >50% en la mayoría de regiones)"
+   },
+   {
+    "el": "Μετρονιδαζόλη από στόμα 7-10 ημέρες (δεν καλύπτει Shigella sp.)",
+    "es": "Metronidazol oral 7-10 días (no tiene actividad contra Shigella sp.)"
+   },
+   {
+    "el": "Αζιθρομυκίνη 12 mg/kg την 1η ημέρα, 6 mg/kg/ημέρα τις ημέρες 2-5",
+    "es": "Azitromicina 12 mg/kg el día 1, 6 mg/kg/día los días 2-5"
+   },
+   {
+    "el": "Αμοξικιλλίνη από στόμα 7 ημέρες (υψηλά ποσοστά αντοχής σε Shigella παγκοσμίως)",
+    "es": "Amoxicilina oral 7 días (alta tasa de resistencia en Shigella a nivel mundial)"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η αζιθρομυκίνη είναι το αντιβιοτικό πρώτης εκλογής για παιδιατρική Shigella: υψηλά ποσοστά ευαισθησίας, από στόμα χορήγηση, καλή ανεκτικότητα. Εναλλακτικά κιπροφλοξασίνη (όταν δεν είναι εφικτή άλλη επιλογή). Κεφτριαξόνη IV για σοβαρή/βακτηριαιμική νόσο.",
+  "expl_es": "La azitromicina es el antibiótico de primera elección para Shigella pediátrica: alta sensibilidad, vía oral, buena tolerancia. Alternativa: ciprofloxacino (cuando no hay otra opción). Ceftriaxona IV para enfermedad grave o bacteriemia.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Αμοξικιλλίνη: >80% στελεχών παγκοσμίως ανθεκτικά, δεν συνιστάται εμπειρικά · <b>C</b> Μετρονιδαζόλη: δρα σε αναερόβια και παράσιτα, χωρίς δράση ενάντια σε Shigella (αερόβιο gram-αρνητικό · <b>A</b> Κεφτριαξόνη IV: επιφυλάσσεται για βακτηριαιμία ή σοβαρή νόσο, όχι ήπια-μέτρια από στόμα · <b>B</b> Κοτριμοξαζόλη: αντοχή >50% στις περισσότερες χώρες, δεν χρησιμοποιείται εμπειρικά",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> Amoxicilina: >80% de cepas resistentes globalmente, no recomendada de forma empírica · <b>C</b> Metronidazol: activo frente a anaerobios y parásitos, sin actividad contra Shigella (aerobio gram-negativo) · <b>A</b> Ceftriaxona IV: reservada para bacteriemia o enfermedad grave, no para casos leve-moderados orales · <b>B</b> Cotrimoxazol: resistencia >50% en la mayoría de países, no recomendado empíricamente",
+  "cite": "Nelson 21.ª ed., cap. «Shigelosis» · AAP Red Book 2024 · IDSA Infectious Diarrhea Guidelines",
+  "id": "B-754"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 83,
+  "concepts": [
+   "c.ped.gi.antibioticos_gea"
+  ],
+  "topic_el": "Γαστρεντερίτιδα · Campylobacter · Ενδείξεις αντιβίωσης",
+  "topic_es": "Gastroenteritis · Campylobacter · Indicaciones de antibiótico",
+  "stem_el": "Παιδί 7 ετών, ανοσοεπαρκές, με γαστρεντερίτιδα από Campylobacter jejuni (επιβεβαιωμένη), ήπια συμπτώματα που βελτιώνονται τη 4η ημέρα. Σε ποια περίπτωση θα υπήρχε ένδειξη αντιβίωσης;",
+  "stem_es": "Niño de 7 años, inmunocompetente, con gastroenteritis por Campylobacter jejuni confirmada, síntomas leves que mejoran en el 4.º día. ¿En qué circunstancia estaría indicado el antibiótico?",
+  "options": [
+   {
+    "el": "Μόνο σε ηλικία >10 ετών ή βάρος >30 kg για χορήγηση πλήρους δόσης ενηλίκου",
+    "es": "Solo en mayores de 10 años o peso >30 kg para poder dar dosis adulta completa"
+   },
+   {
+    "el": "Σε κάθε βρέφος <12 μηνών με θετική καλλιέργεια, ανεξαρτήτως κλινικής βαρύτητας",
+    "es": "En todo lactante <12 meses con coprocultivo positivo, independientemente de la gravedad"
+   },
+   {
+    "el": "Μόνο κατά τη διάρκεια επιδημικών κρουσμάτων για μείωση της κοινοτικής μετάδοσης",
+    "es": "Solo durante brotes epidémicos para reducir la transmisión comunitaria"
+   },
+   {
+    "el": "Σε κάθε θετική καλλιέργεια για Campylobacter ανεξαρτήτως κλινικής εικόνας",
+    "es": "En todo coprocultivo positivo para Campylobacter independientemente de la clínica"
+   },
+   {
+    "el": "Σε σοβαρή νόσο, βακτηριαιμία, ανοσοκαταστολή ή παρατεταμένα συμπτώματα >7 ημερών · φάρμακο εκλογής αζιθρομυκίνη",
+    "es": "En enfermedad grave, bacteriemia, inmunosupresión o síntomas prolongados >7 días · fármaco de elección azitromicina"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η Campylobacter γαστρεντερίτιδα είναι συνήθως αυτοπεριοριζόμενη. Αντιβίωση (αζιθρομυκίνη) ενδείκνυται μόνο σε: σοβαρή νόσο, βακτηριαιμία, ανοσοκαταστολή ή συμπτώματα >7 ημέρες. Αποφεύγεται η κινολόνη λόγω αυξανόμενης αντοχής.",
+  "expl_es": "La gastroenteritis por Campylobacter suele ser autolimitada. El antibiótico (azitromicina) está indicado solo en: enfermedad grave, bacteriemia, inmunosupresión o síntomas >7 días. Se evitan las quinolonas por resistencia creciente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Χορήγηση σε κάθε θετική καλλιέργεια οδηγεί σε αχρείαστη αντιβίωση και επιλογή ανθεκτικών στελεχών · <b>A</b> Η ηλικία ή βάρος δεν αποτελεί κριτήριο ένδειξης — η κλινική βαρύτητα είναι καθοριστική · <b>B</b> Τα βρέφη <12 μηνών δεν έχουν per se ένδειξη αντιβίωσης εκτός σοβαρής κλινικής εικόνας · <b>C</b> Η ατομική κλινική κατάσταση, όχι η επιδημιολογία, καθορίζει την ατομική αντιμετώπιση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Tratar todo coprocultivo positivo genera antibióticos innecesarios y selección de resistencias · <b>A</b> La edad o el peso no son el criterio — la gravedad clínica es determinante · <b>B</b> Los lactantes <12 meses no tienen indicación per se salvo enfermedad grave · <b>C</b> La situación clínica individual, no la epidemiología, determina el tratamiento individual",
+  "cite": "Nelson 21.ª ed., cap. «Campylobacter» · AAP Red Book 2024 · IDSA Infectious Diarrhea Guidelines",
+  "id": "B-755"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 80,
+  "concepts": [
+   "c.ped.gi.c_difficile"
+  ],
+  "topic_el": "C. difficile παιδιατρική · Διαγνωστικό αλγόριθμο",
+  "topic_es": "C. difficile pediátrico · Algoritmo diagnóstico",
+  "stem_el": "Παιδί 5 ετών νοσηλεύεται με υδαρή διάρροια 6 ημερών μετά λήψη αμοξικιλλίνης. Ύποπτη νόσος Clostridioides difficile. Ποιος είναι ο συνιστώμενος διαγνωστικός αλγόριθμος;",
+  "stem_es": "Niño de 5 años hospitalizado con diarrea acuosa de 6 días tras tomar amoxicilina. Se sospecha enfermedad por Clostridioides difficile. ¿Cuál es el algoritmo diagnóstico recomendado?",
+  "options": [
+   {
+    "el": "Αλγόριθμος 2 σταδίων: GDH + τοξίνη Α/Β · αν ασύμφωνα, επιβεβαίωση με PCR/NAAT",
+    "es": "Algoritmo de 2 pasos: GDH + toxina A/B · si discordantes, confirmación con PCR/NAAT"
+   },
+   {
+    "el": "Καλλιέργεια σε επιλεκτικό θρεπτικό υλικό (CCFA): gold standard μοναδικής πρώτης γραμμής",
+    "es": "Cultivo en agar CCFA: gold standard como única prueba de primera línea"
+   },
+   {
+    "el": "Ενδοσκόπηση με αναζήτηση ψευδομεμβρανών ως πρώτη εξέταση σε παιδιά <6 ετών",
+    "es": "Endoscopia con búsqueda de pseudomembranas como primera prueba en niños <6 años"
+   },
+   {
+    "el": "PCR τοξίνης Β ως μοναδικό βήμα χωρίς προηγούμενο έλεγχο GDH",
+    "es": "PCR de toxina B como único paso sin cribado previo de GDH"
+   },
+   {
+    "el": "Ανίχνευση τοξίνης Α μόνο με EIA: ευαισθησία >95%, αρκεί για διάγνωση",
+    "es": "Detección de toxina A sola por EIA: sensibilidad >95%, suficiente para diagnóstico"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Ο αλγόριθμος 2 σταδίων συνδυάζει υψηλή ευαισθησία (GDH) με υψηλή ειδικότητα (τοξίνη Α/Β EIA). Αν αποτελέσματα ασύμφωνα, PCR/NAAT επιβεβαιώνει. Το GDH ανιχνεύει πρωτεΐνη σε όλα τα στελέχη C. difficile, η τοξίνη EIA επιβεβαιώνει τοξιγόνα στελέχη.",
+  "expl_es": "El algoritmo de 2 pasos combina alta sensibilidad (GDH) con alta especificidad (toxina A/B EIA). Si discordantes, PCR/NAAT confirma. El GDH detecta proteína común en todos los aislados; la EIA de toxina confirma cepas toxigénicas.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Καλλιέργεια: χρονοβόρα (48-72h), δεν ξεχωρίζει τοξιγόνα από μη τοξιγόνα στελέχη · <b>E</b> Τοξίνη Α μόνο: χάνει στελέχη που παράγουν μόνο τοξίνη Β (σε ορισμένα ανθεκτικά στελέχη) · <b>D</b> PCR μόνο: υπερανίχνευση — θετικοποιείται και σε παιδιά <2 ετών που φέρουν C. difficile ως ασυμπτωματικοί φορείς · <b>C</b> Ενδοσκόπηση: επεμβατική, δεν απαιτείται ως πρώτη εξέταση — ψευδομεμβράνες απαντούν στο 50% μόνο",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> Cultivo: tardío (48-72 h), no distingue cepas toxigénicas de no toxigénicas · <b>E</b> Toxina A sola: pierde cepas productoras de solo toxina B (en algunas cepas resistentes) · <b>D</b> PCR sola: sobredetección — se positiviza en <2 años portadores asintomáticos · <b>C</b> Endoscopia: invasiva, no requerida como primera prueba — pseudomembranas solo en 50% de casos",
+  "cite": "Nelson 21.ª ed., cap. «Clostridioides difficile» · IDSA/SHEA CDI Guidelines 2021 · ESPGHAN",
+  "id": "B-756"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 92,
+  "concepts": [
+   "c.ped.gi.invaginacion"
+  ],
+  "topic_el": "Εντερεντέρωση · Κλασική κλινική εικόνα",
+  "topic_es": "Invaginación intestinal · Presentación clásica",
+  "stem_el": "Γονείς φέρνουν βρέφος 7 μηνών στο ΤΕΠ: από 6ώρου επαναλαμβανόμενα επεισόδια έντονου κλαυθμού, ωχρότητας και κάμψης γονάτων που υποχωρούν μόνοι τους κάθε 15-20 λεπτά, μεταξύ των οποίων το βρέφος φαίνεται ησυχιστικό αλλά εξαντλημένο. Κατά την ψηλάφηση στη δεξιά λαγόνιο χώρα γίνεται αντιληπτή ογκώδης αίσθηση, και στο πάνο υπάρχουν αιμορραγικά βλεννώδη κόπρανα. Ποια η πιο πιθανή διάγνωση;",
+  "stem_es": "Los padres traen un lactante de 7 meses a urgencias: desde hace 6 horas episodios repetidos de llanto intenso, palidez y flexión de rodillas que ceden espontáneamente cada 15-20 min; entre episodios el lactante parece tranquilo pero agotado. A la palpación en fosa iliaca derecha se percibe una masa, y en el pañal hay heces hemorrágicas mucosas. ¿Cuál es el diagnóstico más probable?",
+  "options": [
+   {
+    "el": "Εντεροκολίτιδα από Salmonella: αιμορραγική διάρροια με υψηλό πυρετό χωρίς επεισοδιακό κολικό",
+    "es": "Enterocolitis por Salmonella: diarrea hemorrágica con fiebre alta sin cólico episódico"
+   },
+   {
+    "el": "Εντερεντέρωση: παροξυσμικό κολικό άλγος με ωχρότητα, «δαμασκηνόμελο» κόπρανα και ψηλαφητή μάζα σε ΔΛΧ σε βρέφος 3-12 μηνών",
+    "es": "Invaginación intestinal: dolor cólico paroxístico con palidez, heces en «jalea de grosella» y masa palpable en FID en lactante de 3-12 meses"
+   },
+   {
+    "el": "Νεκρωτική εντεροκολίτιδα: σε πρόωρο νεονάτο, κοιλιακή διόγκωση, αιμορραγικά κόπρανα και πνευμάτωση εντέρου",
+    "es": "Enterocolitis necrotizante: en prematuro neonatal, distensión abdominal, heces hemorrágicas y neumatosis intestinal"
+   },
+   {
+    "el": "Οξεία σκωληκοειδίτιδα: πυρετός, αμυντική συστολή στη ΔΛΧ και ανορεξία σε παιδί >5 ετών",
+    "es": "Apendicitis aguda: fiebre, defensa en FID y anorexia en niño >5 años"
+   },
+   {
+    "el": "Διάτρηση εντέρου από ξένο σώμα: ξαφνική έναρξη, διάχυτο άλγος χωρίς επεισόδια υφέσεως",
+    "es": "Perforación intestinal por cuerpo extraño: inicio súbito, dolor difuso sin períodos de remisión"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Η κλασική τριάδα εντερεντέρωσης (παροξυσμικό κολικό, αιμορραγικά βλεννώδη κόπρανα «δαμασκηνόμελο», ψηλαφητή μάζα) σε βρέφος 3-12 μηνών είναι διαγνωστική. Οι ήσυχες περίοδοι μεταξύ επεισοδίων αντικατοπτρίζουν την εντερική περισταλτική δραστηριότητα.",
+  "expl_es": "La tríada clásica de invaginación (dolor cólico paroxístico, heces en jalea de grosella, masa palpable) en lactante de 3-12 meses es diagnóstica. Los intervalos tranquilos entre episodios reflejan la actividad peristáltica intestinal.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Σκωληκοειδίτιδα: συνήθως >5 ετών, συνεχές άλγος που μεταναστεύει από ομφαλό, πυρετός από την αρχή · <b>C</b> ΝΕΚ: αποκλειστικά σε πρόωρα νεογνά, συνδέεται με εντερικά σημεία απεικόνισης (αεροπνευμάτωση) · <b>A</b> Σαλμονέλλα: διαρκής διάρροια χωρίς τα τυπικά επεισοδιακά κολικά και χωρίς ψηλαφητή μάζα · <b>E</b> Διάτρηση: οξεία, συνεχής έναρξη, ελεύθερος αέρας στην ακτινογραφία, χωρίς περιοδικές παύσεις",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Apendicitis: habitualmente >5 años, dolor continuo que migra del ombligo, fiebre precoz · <b>C</b> NEC: exclusiva del prematuro neonatal, asociada a signos radiológicos (neumatosis) · <b>A</b> Salmonella: diarrea continua sin los cólicos episódicos ni masa palpable · <b>E</b> Perforación: inicio agudo y continuo, aire libre en Rx, sin pausas periódicas",
+  "cite": "Nelson 21.ª ed., cap. «Invaginación intestinal» · NASPGHAN Clinical Report 2019",
+  "id": "B-757"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 90,
+  "concepts": [
+   "c.ped.gi.invaginacion"
+  ],
+  "topic_el": "Εντερεντέρωση · Εξέταση εκλογής · Υπερηχογράφημα",
+  "topic_es": "Invaginación intestinal · Prueba de elección · Ecografía",
+  "stem_el": "Βρέφος 9 μηνών με κλινική εικόνα συμβατή με εντερεντέρωση φτάνει στο ΤΕΠ. Ποια απεικονιστική μέθοδος είναι η εξέταση εκλογής για επιβεβαίωση της διάγνωσης;",
+  "stem_es": "Lactante de 9 meses con cuadro clínico compatible con invaginación intestinal llega a urgencias. ¿Qué método de imagen es la prueba de elección para confirmar el diagnóstico?",
+  "options": [
+   {
+    "el": "Απλή ακτινογραφία κοιλίας: ειδική εικόνα «ημισελήνου» επιβεβαιώνει τη διάγνωση",
+    "es": "Radiografía simple de abdomen: imagen específica de «semiluna» confirma el diagnóstico"
+   },
+   {
+    "el": "Υδατοδιαλυτό υποκλυσμό: ταυτόχρονα διαγνωστικό και θεραπευτικό",
+    "es": "Enema con contraste hidrosoluble: simultáneamente diagnóstico y terapéutico de primera línea"
+   },
+   {
+    "el": "Υπερηχογράφημα κοιλίας: εικόνα «στόχου» ή «ψευδονεφρού» με ευαισθησία >95%, χωρίς ακτινοβολία",
+    "es": "Ecografía abdominal: imagen en «diana» o «pseudorriñón» con sensibilidad >95%, sin radiación"
+   },
+   {
+    "el": "Αξονική τομογραφία κοιλίας με σκιαγραφικό: τεχνική αναφοράς σε τριτοβάθμια κέντρα",
+    "es": "TC abdominal con contraste: técnica de referencia en centros terciarios pediátricos"
+   },
+   {
+    "el": "Μαγνητική τομογραφία κοιλίας: ανώτερη για ανίχνευση «σημείου κεφαλής» (lead point) σε μεγαλύτερα παιδιά",
+    "es": "Resonancia magnética abdominal: superior para detectar el lead point en niños mayores"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Το υπερηχογράφημα κοιλίας είναι η εξέταση εκλογής: στην εγκάρσια τομή η εντερεντέρωση εμφανίζει εικόνα «στόχου» (διπλοί δακτύλιοι), στη διαμήκη τομή εικόνα «ψευδονεφρού». Ευαισθησία 98-100%, ειδικότητα 88-100%, χωρίς ακτινοβολία.",
+  "expl_es": "La ecografía abdominal es la prueba de elección: en sección transversal la invaginación muestra imagen en «diana» (anillos concéntricos), en longitudinal imagen en «pseudorriñón». Sensibilidad 98-100%, especificidad 88-100%, sin radiación.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Απλή ακτινογραφία: χαμηλή ευαισθησία (<50%), αδυναμία άμεσης αποκλεισμού — χρήσιμη μόνο για ελεύθερο αέρα (αντένδειξη υποκλυσμού) · <b>D</b> Αξονική: ακτινοβολία, κόστος και καθυστέρηση — απαγορεύεται ως πρώτη επιλογή σε παιδιά · <b>B</b> Υποκλυσμός σκιαγραφικού: θεραπευτικός, όχι διαγνωστικός πρώτης γραμμής — γίνεται μετά οικονομική επιβεβαίωση με υπερηχογράφημα · <b>E</b> MRI: χρονοβόρο, απαιτεί νάρκωση σε βρέφη, μη εφικτό σε επείγον περιβάλλον",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Rx simple: baja sensibilidad (<50%), no descarta — útil solo para buscar aire libre (contraindicación al enema) · <b>D</b> TC: radiación, coste y retraso — contraindicada como primera opción en niños · <b>B</b> Enema de contraste: terapéutico, no diagnóstico inicial — se realiza tras confirmación ecográfica · <b>E</b> RMN: lenta, requiere sedación en lactantes, inviable en urgencias",
+  "cite": "Nelson 21.ª ed., cap. «Invaginación intestinal» · NASPGHAN Clinical Report 2019 · Radiology ACEP guidelines",
+  "id": "B-758"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 88,
+  "concepts": [
+   "c.ped.gi.invaginacion"
+  ],
+  "topic_el": "Εντερεντέρωση · Αντενδείξεις πνευματικής ανάταξης",
+  "topic_es": "Invaginación intestinal · Contraindicaciones de reducción neumática",
+  "stem_el": "Βρέφος 8 μηνών με εντερεντέρωση επιβεβαιωμένη υπερηχογραφικά. Ποιο εύρημα αποτελεί απόλυτη αντένδειξη πνευματικής ανάταξης;",
+  "stem_es": "Lactante de 8 meses con invaginación intestinal confirmada ecográficamente. ¿Qué hallazgo constituye una contraindicación absoluta para la reducción neumática?",
+  "options": [
+   {
+    "el": "Ψηλαφητή μάζα στη δεξιά λαγόνιο χώρα",
+    "es": "Masa palpable en fosa iliaca derecha"
+   },
+   {
+    "el": "Παρουσία αιμορραγικών βλεννωδών κοπράνων «δαμασκηνόμελο»",
+    "es": "Presencia de heces hemorrágicas mucosas en «jalea de grosella»"
+   },
+   {
+    "el": "Χρόνος εξέλιξης >24 ώρες από έναρξη συμπτωμάτων",
+    "es": "Tiempo de evolución >24 horas desde el inicio de síntomas"
+   },
+   {
+    "el": "Σημεία shock, περιτονίτιδας ή ελεύθερου αέρα (πνευμοπεριτόναιο) στην ακτινογραφία",
+    "es": "Signos de shock, peritonitis o aire libre (neumoperitoneo) en la radiografía"
+   },
+   {
+    "el": "Ηλικία βρέφους <3 μηνών",
+    "es": "Edad del lactante <3 meses"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η πνευματική ή υδατική ανάταξη αντενδείκνυται απόλυτα σε: shock, περιτονίτιδα, πνευμοπεριτόναιο (ελεύθερος αέρας σε απλή ακτινογραφία). Αυτά υποδηλώνουν νέκρωση ή διάτρηση εντέρου και επιβάλλουν άμεση χειρουργική αντιμετώπιση.",
+  "expl_es": "La reducción neumática o hidrostática está absolutamente contraindicada en: shock, peritonitis, neumoperitoneo (aire libre en Rx). Estos hallazgos indican necrosis o perforación intestinal y obligan a cirugía urgente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Χρόνος >24h δεν αποτελεί καθαρή αντένδειξη — η ανάταξη μπορεί να επιχειρηθεί αν δεν υπάρχουν σημεία διάτρησης · <b>E</b> Ηλικία <3 μηνών είναι ανασφαλιστήρια παράμετρος αλλά όχι απόλυτη αντένδειξη από μόνη της · <b>A</b> Ψηλαφητή μάζα είναι αναμενόμενο εύρημα στην εντερεντέρωση, δεν αντενδεικνύει την ανάταξη · <b>B</b> Αιμορραγικά κόπρανα αντικατοπτρίζουν τη νόσο, δεν αποτελούν αντένδειξη από μόνα τους",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> El tiempo >24 h no es contraindicación absoluta — se puede intentar reducción si no hay signos de perforación · <b>E</b> Edad <3 meses es un factor de cautela pero no contraindicación absoluta por sí sola · <b>A</b> La masa palpable es un hallazgo esperado en la invaginación, no contraindica la reducción · <b>B</b> Las heces hemorrágicas reflejan la enfermedad, no son contraindicación por sí solas",
+  "cite": "Nelson 21.ª ed., cap. «Invaginación intestinal» · NASPGHAN Clinical Report 2019",
+  "id": "B-759"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 84,
+  "concepts": [
+   "c.ped.gi.invaginacion"
+  ],
+  "topic_el": "Εντερεντέρωση · «Lead point» — σημείο κεφαλής κατά ηλικία",
+  "topic_es": "Invaginación intestinal · Lead point — punto de cabeza según edad",
+  "stem_el": "Αγόρι 3 ετών εμφανίζει εντερεντέρωση. Σε αντίθεση με τα βρέφη, σε παιδιά ηλικίας >2 ετών ο ιδιοπαθής τύπος είναι λιγότερο συχνός. Ποιο «σημείο κεφαλής» πρέπει να αναζητηθεί σε αυτή την ηλικία;",
+  "stem_es": "Niño de 3 años presenta invaginación intestinal. A diferencia de los lactantes, en niños >2 años el tipo idiopático es menos frecuente. ¿Qué lead point debe buscarse en esta edad?",
+  "options": [
+   {
+    "el": "Λέμφωμα τύπου Burkitt: η πιο συχνή αιτία lead point σε βρέφη 6-12 μηνών",
+    "es": "Linfoma tipo Burkitt: la causa más frecuente de lead point en lactantes de 6-12 meses"
+   },
+   {
+    "el": "Νεαρός πολύπους (juvenile polyp): το πιο σύχνό lead point σε οποιαδήποτε παιδιατρική ηλικία",
+    "es": "Pólipo juvenil: el lead point más frecuente en cualquier edad pediátrica"
+   },
+   {
+    "el": "Πορφύρα Schönlein-Henoch είναι η πιο συχνή αιτία σε παιδιά <12 μηνών",
+    "es": "Púrpura de Schönlein-Henoch es la causa más frecuente en niños <12 meses"
+   },
+   {
+    "el": "Τεράτωμα μεσεντερίου: αποκλειστικό lead point σε νεογνά <28 ημερών",
+    "es": "Teratoma del mesenterio: lead point exclusivo de neonatos <28 días"
+   },
+   {
+    "el": "Εκκόλαπτο Meckel σε >2 ετών · λέμφωμα εντέρου σε >5 ετών · αιμάτωμα εντέρου σε πορφύρα Schönlein-Henoch",
+    "es": "Divertículo de Meckel en >2 años · linfoma intestinal en >5 años · hematoma intramural en púrpura de Schönlein-Henoch"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Σε ηλικία >2 ετών το εκκόλαπτο Meckel είναι η πιο συχνή αιτία lead point λόγω της εκτοπικής γαστρικής βλεννογόνου. Σε >5 ετών ο λεμφαδένας/λέμφωμα. Η Schönlein-Henoch προκαλεί υποβλεννογόνιο αιμάτωμα που δρα ως lead point σε οποιαδήποτε ηλικία.",
+  "expl_es": "En mayores de 2 años el divertículo de Meckel es la causa más frecuente de lead point por su mucosa gástrica ectópica. En >5 años el linfoma. La púrpura de Schönlein-Henoch produce hematoma submucoso que actúa como lead point a cualquier edad.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Λέμφωμα Burkitt είναι σύνδεσμος >5 ετών, όχι 6-12 μηνών — σε βρέφη η εντερεντέρωση είναι κυρίως ιδιοπαθής · <b>C</b> Schönlein-Henoch σε βρέφη <12 μηνών: λανθασμένη ηλικία, η πορφύρα εμφανίζεται συνήθως σε 2-8 ετών · <b>B</b> Νεαρός πολύπους: σπάνιο lead point, δεν αποτελεί τη συνηθέστερη αιτία · <b>D</b> Τεράτωμα: εξαιρετικά σπάνια αιτία, όχι αποκλειστικά νεογνικό",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Linfoma Burkitt es la asociación en >5 años, no en 6-12 meses — en lactantes la invaginación es principalmente idiopática · <b>C</b> Schönlein-Henoch en <12 meses: edad incorrecta, la púrpura ocurre habitualmente en 2-8 años · <b>B</b> Pólipo juvenil: lead point raro, no la causa más frecuente · <b>D</b> Teratoma: causa excepcional, no exclusiva del neonato",
+  "cite": "Nelson 21.ª ed., cap. «Invaginación intestinal» · NASPGHAN Clinical Report 2019",
+  "id": "B-760"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 87,
+  "concepts": [
+   "c.ped.gi.invaginacion"
+  ],
+  "topic_el": "Εντερεντέρωση · Ενδείξεις χειρουργικής αντιμετώπισης",
+  "topic_es": "Invaginación intestinal · Indicaciones de cirugía urgente",
+  "stem_el": "Βρέφος 10 μηνών με εντερεντέρωση υποβλήθηκε σε 2 προσπάθειες πνευματικής ανάταξης χωρίς αποτέλεσμα. Ποια είναι η κατάλληλη αντιμετώπιση τώρα;",
+  "stem_es": "Lactante de 10 meses con invaginación intestinal al que se le han realizado 2 intentos de reducción neumática sin éxito. ¿Cuál es el manejo adecuado en este momento?",
+  "options": [
+   {
+    "el": "Άμεση χειρουργική επέμβαση: αποτυχία ανάταξης, περιτονίτιδα, διάτρηση ή αγγειακή ισχαιμία εντέρου αποτελούν απόλυτη ένδειξη",
+    "es": "Cirugía urgente: fracaso de reducción, peritonitis, perforación o compromiso vascular intestinal son indicación absoluta"
+   },
+   {
+    "el": "Αλλαγή σε υδατική ανάταξη με βαρύτητα, έως 3 συνολικές προσπάθειες",
+    "es": "Cambio a reducción hidrostática por gravedad, hasta 3 intentos totales"
+   },
+   {
+    "el": "Ενδοσκοπική αντιμετώπιση: κολονοσκόπηση για ανάταξη υπό άμεση όραση",
+    "es": "Manejo endoscópico: colonoscopia para reducción bajo visión directa"
+   },
+   {
+    "el": "Παρακολούθηση νοσηλεία 24 ώρες και επανάληψη ανάταξης στη συνέχεια",
+    "es": "Observación hospitalaria 24 horas y nuevo intento de reducción después"
+   },
+   {
+    "el": "Κορτικοστεροειδή IV για μείωση οιδήματος εντέρου πριν νέα ανάταξη",
+    "es": "Corticosteroides IV para reducir el edema intestinal antes de nuevo intento"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Αποτυχία ανάταξης μετά 2-3 προσπάθειες αποτελεί ένδειξη χειρουργικής επέμβασης. Άλλες απόλυτες ενδείξεις: περιτονίτιδα, διάτρηση, σημεία αγγειακής ισχαιμίας ή necrosis εντέρου. Η λαπαροσκοπική ή ανοιχτή ανάταξη με εκτίμηση βιωσιμότητας εντέρου είναι η επιλογή.",
+  "expl_es": "El fracaso tras 2-3 intentos de reducción indica cirugía. Otras indicaciones absolutas: peritonitis, perforación, signos de isquemia vascular o necrosis intestinal. La reducción laparoscópica o abierta con evaluación de la viabilidad intestinal es la elección.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Αναμονή 24h μετά 2 αποτυχημένες ανατάξεις καθυστερεί αναγκαία χειρουργική αντιμετώπιση και αυξάνει κίνδυνο νέκρωσης · <b>B</b> Εναλλαγή μεθόδου μετά από 2 αποτυχίες δεν συνιστάται — η χειρουργική είναι η επόμενη βαθμίδα · <b>E</b> Κορτικοστεροειδή δεν έχουν τεκμηριωμένο ρόλο στη θεραπεία εντερεντέρωσης · <b>C</b> Κολονοσκόπηση: δεν χρησιμοποιείται για ανάταξη — κίνδυνος τραύματος σε ισχαιμικό εντέρο",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Esperar 24 h tras 2 intentos fallidos retrasa la cirugía necesaria y aumenta el riesgo de necrosis · <b>B</b> Cambiar el método tras 2 fracasos no está recomendado — la cirugía es el siguiente escalón · <b>E</b> Los corticoides no tienen papel probado en el tratamiento de la invaginación · <b>C</b> Colonoscopia: no se usa para reducción — riesgo de lesión en intestino isquémico",
+  "cite": "Nelson 21.ª ed., cap. «Invaginación intestinal» · NASPGHAN Clinical Report 2019",
+  "id": "B-761"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 78,
+  "concepts": [
+   "c.ped.gi.invaginacion"
+  ],
+  "topic_el": "Εντερεντέρωση · Υποτροπή μετά μη χειρουργική ανάταξη",
+  "topic_es": "Invaginación intestinal · Recurrencia tras reducción no quirúrgica",
+  "stem_el": "Γονείς βρέφους 9 μηνών που ανατάχθηκε επιτυχώς με πνευματική μέθοδο ρωτούν για τον κίνδυνο υποτροπής. Ποια είναι η σωστή πληροφόρηση;",
+  "stem_es": "Los padres de un lactante de 9 meses reducido con éxito por vía neumática preguntan sobre el riesgo de recurrencia. ¿Cuál es la información correcta?",
+  "options": [
+   {
+    "el": "<1% υποτροπή — σχεδόν μηδενική · κάθε υποτροπή υποχρεωτικά σημαίνει lead point και απαιτεί άμεση χειρουργική",
+    "es": "<1% de recurrencia — prácticamente nula · toda recurrencia implica obligatoriamente un lead point y requiere cirugía inmediata"
+   },
+   {
+    "el": "5-10% υποτροπή μετά μη χειρουργική ανάταξη · συνήθως εντός 24-48 ωρών · δεν δικαιολογεί προφυλακτική χειρουργική στο 1ο επεισόδιο",
+    "es": "5-10% de recurrencia tras reducción no quirúrgica · habitualmente en las primeras 24-48 h · no justifica cirugía profiláctica en el 1.er episodio"
+   },
+   {
+    "el": ">50% υποτροπή · η μη χειρουργική ανάταξη θεωρείται γέφυρα μόνο πριν τη χειρουργική αντιμετώπιση",
+    "es": ">50% de recurrencia · la reducción no quirúrgica se considera solo un puente a la cirugía definitiva"
+   },
+   {
+    "el": "15-20% υποτροπή · μία εφάπαξ δόση προφυλακτικής αντιβίωσης μειώνει τον κίνδυνο",
+    "es": "15-20% de recurrencia · una dosis única de antibiótico profiláctico reduce el riesgo"
+   },
+   {
+    "el": "25-30% υποτροπή · συνιστάται προγραμματιστική λαπαροσκοπική χειρουργική μετά το 1ο επεισόδιο",
+    "es": "25-30% de recurrencia · se recomienda cirugía laparoscópica electiva tras el 1.er episodio"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Ο κίνδυνος υποτροπής μετά μη χειρουργική ανάταξη είναι 5-10%. Η πλειονότητα εμφανίζεται εντός 72 ωρών, αλλά μπορεί να συμβεί και αργότερα. Δεύτερη επιτυχής ανάταξη είναι εφικτή. Χειρουργική ένδειξη σε ≥3 υποτροπές ή παρουσία lead point.",
+  "expl_es": "El riesgo de recurrencia tras reducción no quirúrgica es del 5-10%. La mayoría ocurre en las primeras 72 horas, pero puede ocurrir más tarde. Una segunda reducción exitosa es posible. La cirugía se indica con ≥3 recurrencias o lead point demostrado.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Ο κίνδυνος είναι 5-10%, όχι <1% — η μηδενική υποτροπή θα ήταν αδικαιολόγητα αισιόδοξη · <b>E</b> 25-30% θα δικαιολογούσε προφυλακτική χειρουργική που δεν συνιστάται στο 1ο επεισόδιο · <b>D</b> Η αντιβίωση δεν έχει καμία βιβλιογραφική τεκμηρίωση για μείωση υποτροπής εντερεντέρωσης · <b>C</b> Ποσοστό >50% θα αχρήστευε την πνευματική ανάταξη ως μέθοδο — αντίθετα με τα δεδομένα",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El riesgo es 5-10%, no <1% — la ausencia de recurrencia sería injustificadamente optimista · <b>E</b> El 25-30% justificaría cirugía profiláctica que no está recomendada en el 1.er episodio · <b>D</b> Los antibióticos no tienen ninguna evidencia que respalde la reducción de recurrencias · <b>C</b> Un >50% inutilizaría la reducción neumática como método — contrario a los datos",
+  "cite": "Nelson 21.ª ed., cap. «Invaginación intestinal» · NASPGHAN Clinical Report 2019",
+  "id": "B-762"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 92,
+  "concepts": [
+   "c.ped.gi.estenosis_pilorica"
+  ],
+  "topic_el": "Υπερτροφική πυλωρική στένωση · Τύπος εμέτων και παθοφυσιολογία",
+  "topic_es": "Estenosis hipertrófica de píloro · Tipo de vómitos y fisiopatología",
+  "stem_el": "Βρέφος αρσενικού φύλου 4 εβδομάδων παρουσιάζει επαναλαμβανόμενους βλαστικούς εμέτους αμέσως μετά τη σίτιση, χωρίς χολή. Το βάρος έχει σταθεροποιηθεί τελευταίες 2 εβδομάδες. Γιατί οι έμετοι είναι αχολικοί σε αυτή τη νόσο;",
+  "stem_es": "Lactante varón de 4 semanas con vómitos en proyectil repetidos inmediatamente tras cada toma, sin bilis. El peso está estancado en las últimas 2 semanas. ¿Por qué los vómitos son acólicos en esta enfermedad?",
+  "options": [
+   {
+    "el": "Ο εμετός εξωθεί το περιεχόμενο του στομάχου πριν φτάσει στο δωδεκαδάκτυλο, αλλά δεν αποκλείει ότι ορισμένα βρέφη εμούν με χολή",
+    "es": "El vómito expulsa el contenido gástrico antes de llegar al duodeno, pero no excluye que algunos lactantes vomiten con bilis"
+   },
+   {
+    "el": "Η χολή δεν παράγεται επαρκώς στο ήπαρ ενός νεογνού <6 εβδομάδων",
+    "es": "La bilis no se produce suficientemente en el hígado de un recién nacido <6 semanas"
+   },
+   {
+    "el": "Η στένωση βρίσκεται προξιμαλώτερα του αμπούλλα του Vater, οπότε το γαστρικό περιεχόμενο εμείται πριν αναμιχθεί με χολή που εισέρχεται στο δωδεκαδάκτυλο",
+    "es": "La estenosis está proximal a la ampolla de Vater, por lo que el contenido gástrico se vomita antes de mezclarse con la bilis que entra en el duodeno"
+   },
+   {
+    "el": "Εμφανίζεται πυλωρικό σπασμό που επιτρέπει διέλευση χολής, αλλά ο εμετός προηγείται της επαναρρόφησής της",
+    "es": "Aparece espasmo pilórico que permite el paso de bilis, pero el vómito precede a su reabsorción"
+   },
+   {
+    "el": "Η υπερτροφία αφορά τον σφιγκτήρα ουρήθρας, όχι τον πυλωρό",
+    "es": "La hipertrofia afecta al esfínter uretral, no al píloro"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Ο πυλωρός βρίσκεται εγγύτερα από την άμπουλλα του Vater (σύμβολο εισόδου χολής και παγκρεατικού υγρού). Η υπερτροφική στένωση εμποδίζει έξοδο γαστρικού περιεχομένου προς το δωδεκαδάκτυλο: ο έμετος εξωθεί μόνο γαστρικό οξύ χωρίς χολή — διαγνωστικό στοιχείο.",
+  "expl_es": "El píloro es proximal a la ampolla de Vater (donde entra la bilis y el jugo pancreático). La hipertrofia pilórica bloquea la salida del contenido gástrico al duodeno: el vómito expulsa solo ácido gástrico sin bilis — dato diagnóstico clave.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Ο πυλωρικός σπασμός δεν επιτρέπει επαφή με χολή — η στένωση είναι μηχανική, όχι λειτουργική · <b>B</b> Η ηπατική παραγωγή χολής είναι φυσιολογική από τη γέννηση, δεν υπολείπεται σε βρέφη <6 εβδομάδων · <b>A</b> Αυτή η επιλογή θολώνει το διαγνωστικό σήμα — η αχολία είναι νόμος στην ΥΠΣ, όχι μεταβλητή · <b>E</b> Πρόκειται για ανατομικά εσφαλμένη πρόταση: ο πυλωρός είναι γαστρεντερική δομή",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> El espasmo pilórico no permite contacto con bilis — la obstrucción es mecánica, no funcional · <b>B</b> La producción hepática de bilis es normal desde el nacimiento, no deficitaria en <6 semanas · <b>A</b> Esta opción difumina la señal diagnóstica — la ausencia de bilis es regla en EHP, no variable · <b>E</b> Propuesta anatómicamente incorrecta: el píloro es una estructura gastrointestinal",
+  "cite": "Nelson 21.ª ed., cap. «Estenosis hipertrófica de píloro» · Sabiston 21.ª ed., cap. «Pediatric Surgery»",
+  "id": "B-763"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 90,
+  "concepts": [
+   "c.ped.gi.estenosis_pilorica"
+  ],
+  "topic_el": "Υπερτροφική πυλωρική στένωση · Υπερηχογραφικά κριτήρια διάγνωσης",
+  "topic_es": "Estenosis hipertrófica de píloro · Criterios ecográficos diagnósticos",
+  "stem_el": "Βρέφος 5 εβδομάδων με βλαστικούς εμέτους αχολικούς υποβάλλεται σε κοιλιακό υπερηχογράφημα. Ποια μετρήσεις επιβεβαιώνουν υπερτροφική πυλωρική στένωση;",
+  "stem_es": "Lactante de 5 semanas con vómitos en proyectil acólicos se somete a ecografía abdominal. ¿Qué medidas confirman la estenosis hipertrófica de píloro?",
+  "options": [
+   {
+    "el": "Μήκος πυλωρικού σωλήνα ≥20 mm και πάχος μυός ≥5 mm",
+    "es": "Longitud del canal pilórico ≥20 mm y grosor muscular ≥5 mm"
+   },
+   {
+    "el": "Μήκος ≥10 mm και πάχος βλεννογόνου (όχι μυός) >3 mm",
+    "es": "Longitud ≥10 mm y engrosamiento de la mucosa (no del músculo) >3 mm"
+   },
+   {
+    "el": "Μήκος πυλωρικού σωλήνα ≥12 mm και πάχος μυός ≥3 mm",
+    "es": "Longitud del canal pilórico ≥12 mm y grosor muscular ≥3 mm"
+   },
+   {
+    "el": "Μήκος πυλωρικού σωλήνα ≥16 mm και πάχος πυλωρικού μυός ≥4 mm",
+    "es": "Longitud del canal pilórico ≥16 mm y grosor del músculo pilórico ≥4 mm"
+   },
+   {
+    "el": "Συνολική διάμετρος πυλωρού >10 mm χωρίς ανοίγμα πυλωρικού σωλήνα σε πραγματικό χρόνο",
+    "es": "Diámetro total del píloro >10 mm sin apertura del canal en tiempo real"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Τα αποδεκτά υπερηχογραφικά κριτήρια ΥΠΣ είναι: μήκος καναλιού ≥16 mm και πάχος πυλωρικού μυός ≥4 mm. Μερικά κέντρα χρησιμοποιούν ≥3 mm για το πάχος, αλλά ≥4 mm έχει υψηλότερη ειδικότητα. Ο συνδυασμός των δύο έχει ευαισθησία >95%.",
+  "expl_es": "Los criterios ecográficos aceptados para EHP son: longitud del canal ≥16 mm y grosor muscular pilórico ≥4 mm. Algunos centros usan ≥3 mm para el grosor, pero ≥4 mm tiene mayor especificidad. La combinación de ambos tiene sensibilidad >95%.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> ≥12 mm μήκος και ≥3 mm πάχος: τιμές κάτω του ορίου — αύξηση ψευδώς θετικών · <b>A</b> ≥20 mm και ≥5 mm: υπερβολικά αυστηρά κριτήρια — χάνονται μέτριες υπερτροφίες · <b>E</b> Μη άνοιγμα πυλωρικού σωλήνα: χρήσιμο ως επικουρικό εύρημα, δεν αντικαθιστά τις μετρήσεις · <b>B</b> Το πάχος μετράται στο μυϊκό στρώμα, όχι στον βλεννογόνο — σύγχυση ανατομικής δομής",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> ≥12 mm y ≥3 mm: valores bajo el umbral — aumenta falsos positivos · <b>A</b> ≥20 mm y ≥5 mm: criterios demasiado estrictos — se perderían hipertrofias moderadas · <b>E</b> No apertura del canal: hallazgo auxiliar útil, pero no sustituye las medidas · <b>B</b> El grosor se mide en la capa muscular, no en la mucosa — confusión de estructura anatómica",
+  "cite": "Nelson 21.ª ed., cap. «Estenosis hipertrófica de píloro» · Pediatric Radiology 2012 criteria",
+  "id": "B-764"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 88,
+  "concepts": [
+   "c.ped.gi.estenosis_pilorica"
+  ],
+  "topic_el": "Υπερτροφική πυλωρική στένωση · Μεταβολική διαταραχή",
+  "topic_es": "Estenosis hipertrófica de píloro · Alteración metabólica característica",
+  "stem_el": "Βρέφος 6 εβδομάδων με υποψία υπερτροφικής πυλωρικής στένωσης. Αιμ/χημεία: Na 138, K 2,9, Cl 82, HCO3 34 mEq/L, pH 7,55. Ποια μεταβολική διαταραχή αντικατοπτρίζουν αυτές οι τιμές;",
+  "stem_es": "Lactante de 6 semanas con sospecha de estenosis hipertrófica de píloro. Analítica: Na 138, K 2,9, Cl 82, HCO3 34 mEq/L, pH 7,55. ¿Qué alteración metabólica reflejan estos valores?",
+  "options": [
+   {
+    "el": "Μεταβολική αλκάλωση υπερχλωραιμική — απώλεια HCO3 από κόπρανα",
+    "es": "Alcalosis metabólica hiperclorémica — pérdida de HCO3 por heces"
+   },
+   {
+    "el": "Υποναιτριαιμία αραιωτική χωρίς διαταραχή pH — υπερβολική κατανάλωση ελεύθερου νερού",
+    "es": "Hiponatremia dilucional sin alteración del pH — consumo excesivo de agua libre"
+   },
+   {
+    "el": "Αναπνευστική αλκάλωση με αντισταθμιστική μεταβολική οξέωση — υπεραερισμός λόγω πόνου",
+    "es": "Alcalosis respiratoria con acidosis metabólica compensatoria — hiperventilación por dolor"
+   },
+   {
+    "el": "Μεταβολική οξέωση υπερχλωραιμική με υποκαλιαιμία — μοτίβο οσμωτικής διάρροιας",
+    "es": "Acidosis metabólica hiperclorémica con hipopotasemia — patrón de diarrea osmótica"
+   },
+   {
+    "el": "Μεταβολική αλκάλωση υποχλωραιμική υποκαλιαιμική — απώλεια HCl με εμέτους οδηγεί σε αύξηση HCO3 και απώλεια K+ νεφρικά",
+    "es": "Alcalosis metabólica hipoclorémica hipopotasémica — la pérdida de HCl con los vómitos lleva a aumento de HCO3 y pérdida renal de K+"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Οι επαναλαμβανόμενοι έμετοι γαστρικού υγρού (HCl) προκαλούν: απώλεια H+ → αύξηση HCO3, απώλεια Cl- → υποχλωριαιμία, απώλεια K+ (νεφρικά: αντισταθμιστική έκκριση K+). Αποτέλεσμα: μεταβολική αλκάλωση υποχλωραιμική υποκαλιαιμική.",
+  "expl_es": "Los vómitos repetidos de jugo gástrico (HCl) causan: pérdida de H+ → aumento de HCO3, pérdida de Cl- → hipocloremia, pérdida de K+ (renal: excreción compensatoria de K+). Resultado: alcalosis metabólica hipoclorémica hipopotasémica.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Υπερχλωραιμική οξέωση: μοτίβο ΝεφρΣ ή βαριάς διάρροιας — αντίθετο του ευρήματος (Cl 82 = υποχλωριαιμία) · <b>C</b> Αναπνευστική αλκάλωση: pH 7,55 υψηλό, αλλά το HCO3 34 δείχνει μεταβολική, όχι αναπνευστική αιτία · <b>A</b> Υπερχλωραιμική αλκάλωση δεν υπάρχει ως κλινικά ορθή οντότητα — Cl και HCO3 κινούνται αντίθετα · <b>B</b> Υποναιτριαιμία χωρίς pH διαταραχή: δεν εξηγεί το υψηλό HCO3 και χαμηλό Cl",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Acidosis hiperclorémica: patrón de SHR o diarrea grave — opuesto al hallazgo (Cl 82 = hipocloremia) · <b>C</b> Alcalosis respiratoria: pH 7,55 elevado, pero HCO3 34 señala causa metabólica, no respiratoria · <b>A</b> Alcalosis hiperclorémica no existe como entidad clínica válida — Cl y HCO3 se mueven en sentidos opuestos · <b>B</b> Hiponatremia sin alteración del pH: no explica el HCO3 elevado ni el Cl bajo",
+  "cite": "Nelson 21.ª ed., cap. «Estenosis hipertrófica de píloro» · Greenfield's Surgery 6.ª ed.",
+  "id": "B-765"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 91,
+  "concepts": [
+   "c.ped.gi.estenosis_pilorica"
+  ],
+  "topic_el": "Υπερτροφική πυλωρική στένωση · Αλληλουχία διαχείρισης · Μεταβολική διόρθωση πριν χειρουργείο",
+  "topic_es": "Estenosis hipertrófica de píloro · Secuencia de manejo · Corrección metabólica antes de cirugía",
+  "stem_el": "Βρέφος 5 εβδομάδων με επιβεβαιωμένη υπερτροφική πυλωρική στένωση (υπερηχογράφημα), αλκάλωση μεταβολική (pH 7,56, HCO3 36, Cl 78 mEq/L, K 2,8). Ποια είναι η ορθή διαχείριση;",
+  "stem_es": "Lactante de 5 semanas con estenosis hipertrófica de píloro confirmada (ecografía), alcalosis metabólica (pH 7,56, HCO3 36, Cl 78 mEq/L, K 2,8). ¿Cuál es el manejo correcto?",
+  "options": [
+   {
+    "el": "Διόρθωση αλκάλωσης με SSF 0,9% IV (ανασύνθεση Cl-), αναπλήρωση K+, χειρουργείο εκλεκτικά όταν Cl >95 mEq/L και HCO3 <30 mEq/L",
+    "es": "Corrección de la alcalosis con SSF 0,9% IV (aporta Cl-), reposición de K+, cirugía electiva cuando Cl >95 mEq/L y HCO3 <30 mEq/L"
+   },
+   {
+    "el": "Ενδοσκοπική διαστολή πυλωρού ως πρώτο βήμα μη χειρουργικής προσέγγισης",
+    "es": "Dilatación endoscópica del píloro como primer paso no quirúrgico"
+   },
+   {
+    "el": "Ακεταζολαμίδη IV για επιτάχυνση νεφρικής έκκρισης HCO3 και χειρουργείο την επόμενη ημέρα",
+    "es": "Acetazolamida IV para acelerar la excreción renal de HCO3 y cirugía al día siguiente"
+   },
+   {
+    "el": "Χειρουργείο εντός 1 ώρας άφιξης για αποκατάσταση σίτισης το συντομότερο δυνατό",
+    "es": "Cirugía en la primera hora del ingreso para restablecer la alimentación cuanto antes"
+   },
+   {
+    "el": "Χορήγηση υποτονικού διαλύματος γλυκόζης 5% IV για αποφυγή επιβάρυνσης Na σε βρέφος",
+    "es": "Administración de suero glucosado 5% IV para evitar sobrecarga de Na en el lactante"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Η ΥΠΣ δεν είναι χειρουργική επείγουσα κατάσταση — η σοβαρή μεταβολική αλκάλωση αυξάνει τον κίνδυνο αναισθησιολογικής απόφραξης αεραγωγού (βρογχόσπασμος, λαρυγγόσπασμος) και αναπνευστικής αναστολής. Πρώτα SSF 0,9% ± KCl IV έως μεταβολική σταθεροποίηση.",
+  "expl_es": "La EHP no es una emergencia quirúrgica — la alcalosis metabólica grave aumenta el riesgo de laringoespasmo y depresión respiratoria durante la anestesia. Primero SSF 0,9% ± KCl IV hasta estabilización metabólica, luego piloromiotomía electiva.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Άμεση χειρουργική με διαταραγμένη μεταβολική κατάσταση: υψηλός κίνδυνος αναισθησιολογικών επιπλοκών από αλκάλωση · <b>B</b> Ενδοσκοπική διαστολή: δεν αποτελεί standard of care — αποτελεσματικότητα σε βρέφη δεν τεκμηριώνεται · <b>E</b> Υποτονικό γλυκόζης 5%: δεν ανορθώνει Cl- — το ισότονο SSF 0,9% είναι το κατάλληλο · <b>C</b> Ακεταζολαμίδη: αναστολέας ανθρακικής ανυδράσης, δεν χρησιμοποιείται για αλκάλωση λόγω εμέτων και μπορεί να επιδεινώσει υποκαλιαιμία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Cirugía inmediata con estado metabólico alterado: alto riesgo de complicaciones anestésicas por alcalosis · <b>B</b> Dilatación endoscópica: no es el estándar de cuidado — eficacia en lactantes no documentada · <b>E</b> Glucosado 5%: no repone Cl- — el SSF 0,9% isotónico es el adecuado · <b>C</b> Acetazolamida: inhibidor de anhidrasa carbónica, no indicado para alcalosis por vómitos y puede agravar la hipopotasemia",
+  "cite": "Nelson 21.ª ed., cap. «Estenosis hipertrófica de píloro» · Sabiston 21.ª ed. · AAP Pediatric Surgery",
+  "id": "B-766"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 86,
+  "concepts": [
+   "c.ped.gi.estenosis_pilorica"
+  ],
+  "topic_el": "Υπερτροφική πυλωρική στένωση · Χειρουργική τεχνική Ramstedt",
+  "topic_es": "Estenosis hipertrófica de píloro · Técnica quirúrgica de Ramstedt",
+  "stem_el": "Βρέφος 5 εβδομάδων με ΥΠΣ μεταβολικά σταθεροποιημένο. Ποια χειρουργική τεχνική ενδείκνυται και ποια είναι η πιο συχνή ενδεγχειρητική επιπλοκή;",
+  "stem_es": "Lactante de 5 semanas con EHP metabolicamente estabilizado. ¿Qué técnica quirúrgica está indicada y cuál es la complicación intraoperatoria más frecuente?",
+  "options": [
+   {
+    "el": "Γαστροστομία εκτόνωσης και αναβεβλημένη ενδοσκοπική διαστολή 6-8 εβδομάδες αργότερα",
+    "es": "Gastrostomía de descarga y dilatación endoscópica diferida 6-8 semanas después"
+   },
+   {
+    "el": "Πυλωρομυοτομή Ramstedt: διαμήκης τομή πυλωρικού μυός εώς βλεννογόνου · επιπλοκή: ενδεγχειρητική διάτρηση βλεννογόνου",
+    "es": "Piloromiotomía de Ramstedt: incisión longitudinal del músculo pilórico hasta mucosa · complicación: perforación mucosa intraoperatoria"
+   },
+   {
+    "el": "Τροποποιημένη νισενεκτομή για ταυτόχρονη αντιμετώπιση πυλωρού και πιθανής γαστροοισοφαγικής παλινδρόμησης",
+    "es": "Funduplicatura de Nissen modificada para tratar simultáneamente el píloro y el posible reflujo gastroesofágico"
+   },
+   {
+    "el": "Σφηνοειδής εκτομή πυλωρού με άμεση αναστόμωση τέλους-τέλους",
+    "es": "Resección en cuña del píloro con anastomosis término-terminal"
+   },
+   {
+    "el": "Πυλωροπλαστική Heineke-Mikulicz: εγκάρσια τομή, κατακόρυφο κλείσιμο",
+    "es": "Piloroplastia de Heineke-Mikulicz: incisión transversa, cierre longitudinal"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Η πυλωρομυοτομή Ramstedt είναι η καθιερωμένη χειρουργική θεραπεία: διαμήκης τομή εξωτερικής επιφάνειας πυλωρού εώς βλεννογόνου χωρίς εντεροτομή. Η πιο συχνή ενδεγχειρητική επιπλοκή είναι η διάτρηση βλεννογόνου (~1-3%). Λαπαροσκοπική ισοδύναμη ανοιχτής σε αποτελεσματικότητα.",
+  "expl_es": "La piloromiotomía de Ramstedt es el tratamiento quirúrgico establecido: incisión longitudinal de la superficie externa del píloro hasta la mucosa sin enterotomía. La complicación intraoperatoria más frecuente es la perforación mucosa (~1-3%). La vía laparoscópica es equivalente a la abierta en resultados.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Σφηνοειδής εκτομή: δεν εφαρμόζεται στη ΥΠΣ — αχρείαστη εκτομή σε μια μυϊκή υπερτροφία που αρκεί η τομή · <b>E</b> Heineke-Mikulicz: κατάλληλη για πεπτικό έλκος/στένωση ενηλίκου, δεν χρησιμοποιείται σε ΥΠΣ βρεφών · <b>A</b> Γαστροστομία: περιττή, αναβάλλει θεραπεία και εξαίρει σκοπό της Ramstedt · <b>C</b> Νίσεν: θεραπεία ΓΟΠΝ, δεν αντιμετωπίζει πυλωρική υπερτροφία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Resección en cuña: no aplicable en EHP — la hipertrofia muscular solo precisa incisión, no resección · <b>E</b> Heineke-Mikulicz: indicada para úlcera péptica/estenosis del adulto, no en EHP del lactante · <b>A</b> Gastrostomía: innecesaria, retrasa el tratamiento y elimina el propósito de la piloromiotomía · <b>C</b> Nissen: tratamiento de ERGE, no aborda la hipertrofia pilórica",
+  "cite": "Nelson 21.ª ed., cap. «Estenosis hipertrófica de píloro» · Sabiston 21.ª ed., cap. «Pediatric Surgery»",
+  "id": "B-767"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 83,
+  "concepts": [
+   "c.ped.gi.estenosis_pilorica"
+  ],
+  "topic_el": "Υπερτροφική πυλωρική στένωση · Επιδημιολογία και χαρακτηριστικά παρουσίασης",
+  "topic_es": "Estenosis hipertrófica de píloro · Epidemiología y características de presentación",
+  "stem_el": "Στο ΤΕΠ παρουσιάζεται μητέρα με βρέφος 5 εβδομάδων αρσενικού φύλου, πρωτότοκο. Ποια χαρακτηριστικά επιδημιολογικά δεδομένα για την υπερτροφική πυλωρική στένωση είναι σωστά;",
+  "stem_es": "En urgencias se presenta una madre con su lactante varón de 5 semanas, primogénito. ¿Qué datos epidemiológicos sobre la estenosis hipertrófica de píloro son correctos?",
+  "options": [
+   {
+    "el": "Αρσενικά πρωτότοκα, τυπική εμφάνιση 8-16 εβδομάδων · αυτοσωμική υπολειπόμενη κληρονομικότητα",
+    "es": "Varones primogénitos, presentación típica a las 8-16 semanas · herencia autosómica recesiva"
+   },
+   {
+    "el": "Πιο συχνή σε κορίτσια · επίπτωση 1:200 · σύνδεση με τρισωμία 18",
+    "es": "Más frecuente en niñas · incidencia 1:200 · asociación con trisomía 18"
+   },
+   {
+    "el": "Αρσενικά πρωτότοκα · επίπτωση 2-4:1000 (αγόρια:κορίτσια 4:1) · εμφάνιση 2α-8η εβδομάδα · αυξημένος κίνδυνος αν μητέρα νόσησε",
+    "es": "Varones primogénitos · incidencia 2-4:1000 (niños:niñas 4:1) · presentación semanas 2-8 de vida · riesgo aumentado si la madre padeció la enfermedad"
+   },
+   {
+    "el": "Εξίσου συχνή σε αγόρια και κορίτσια · τυπική εμφάνιση στους 6-12 μήνες",
+    "es": "Igual frecuencia en niños y niñas · presentación típica a los 6-12 meses"
+   },
+   {
+    "el": "Αρσενικά τελευτόκια (όχι πρωτότοκα) · εμφάνιση στη νεογνική περίοδο (πρώτες 7 ημέρες)",
+    "es": "Varones últimos hijos (no primogénitos) · presentación en el período neonatal inmediato (primeros 7 días)"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η ΥΠΣ εμφανίζεται στα 2-4:1000 γεννήσεις, με αναλογία αρσενικών:θηλυκών 4:1. Τυπικά: αρσενικό πρωτότοκο, εμφάνιση 2-8 εβδομάδων. Η γενετική συνιστώσα είναι πολυγονιδιακή — κόρη ασθενούς μητέρας έχει >20% κίνδυνο.",
+  "expl_es": "La EHP afecta a 2-4:1000 nacimientos, con ratio varón:mujer de 4:1. Típicamente: varón primogénito, presentación entre las semanas 2-8. El componente genético es poligénico — la hija de madre afectada tiene >20% de riesgo.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Ίση κατανομή φύλων και εμφάνιση 6-12 μηνών: και τα δύο λάθος — κυριαρχία αρρένων 4:1 και τυπική ηλικία 2-8 εβδομάδες · <b>B</b> Κυριαρχία κοριτσιών και 1:200: αντίθετο του πραγματικού — κυριαρχούν τα αγόρια 4:1 · <b>A</b> Αυτοσωμική υπολειπόμενη: η γενετική μεταβίβαση είναι πολύπλοκη/πολυγονιδιακή, όχι απλή μενδελιανή · <b>E</b> Τελευτόκια και νεογνική εμφάνιση: και τα δύο εσφαλμένα — πρωτότοκα κατά κανόνα, εμφάνιση εβδομάδες 2-8",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> Igual distribución de sexos y presentación 6-12 meses: ambos incorrectos — predominio masculino 4:1 y edad típica semanas 2-8 · <b>B</b> Predominio en niñas y 1:200: contrario a la realidad — predominan varones 4:1 · <b>A</b> Herencia autosómica recesiva: la transmisión genética es compleja/poligénica, no mendeliana simple · <b>E</b> Últimos hijos y período neonatal inmediato: ambos incorrectos — primogénitos habitualmente, presentación semanas 2-8",
+  "cite": "Nelson 21.ª ed., cap. «Estenosis hipertrófica de píloro» · Pediatrics in Review, EHP epidemiology",
+  "id": "B-768"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 90,
+  "concepts": [
+   "c.ped.gi.celiaca.diagnostico"
+  ],
+  "topic_el": "Κοιλιοκάκη · Ορολογικός έλεγχος · Anti-TTG IgA",
+  "topic_es": "Enfermedad celíaca · Cribado serológico · Anti-TTG IgA",
+  "stem_el": "Κορίτσι 4 ετών με χρόνια διάρροια, κοιλιακή διάταση και προοδευτική απώλεια βάρους. Η καμπύλη ανάπτυξης βρίσκεται στο 5ο εκατοστημόριο. Ο παιδίατρος αποφασίζει να διερευνήσει κοιλιοκάκη. Ποια είναι η εξέταση πρώτης γραμμής;",
+  "stem_es": "Niña de 4 años con diarrea crónica, distensión abdominal y pérdida de peso progresiva. La curva de crecimiento se sitúa en el percentil 5. El pediatra decide investigar enfermedad celíaca. ¿Cuál es la prueba de primera línea?",
+  "options": [
+   {
+    "el": "Αντισώματα IgA κατά ενδομυσίου (anti-EMA), χωρίς ανάγκη μέτρησης IgA",
+    "es": "Anticuerpos IgA anti-endomisio (anti-EMA), sin necesidad de cuantificar IgA total"
+   },
+   {
+    "el": "Τυποποίηση HLA DQ2/DQ8 ως πρώτη διαγνωστική εξέταση",
+    "es": "Tipaje HLA DQ2/DQ8 como primera prueba diagnóstica"
+   },
+   {
+    "el": "Αντισώματα IgG κατά αποαμιδιωμένων πεπτιδίων γλιαδίνης (anti-DGP IgG)",
+    "es": "Anticuerpos IgG anti-péptidos deaminados de gliadina (anti-DGP IgG)"
+   },
+   {
+    "el": "Αντισώματα IgA κατά ιστικής τρανσγλουταμινάσης (anti-TTG IgA), αφού ελεγχθεί πρώτα το συνολικό IgA ορού",
+    "es": "Anticuerpos IgA anti-transglutaminasa tisular (anti-TTG IgA), previa determinación de IgA total sérica"
+   },
+   {
+    "el": "Αντισώματα IgG κατά γλιαδίνης (AGA)",
+    "es": "Anticuerpos IgG anti-gliadina (AGA)"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η κατευθυντήρια οδηγία ESPGHAN 2020 ορίζει ως εξέταση πρώτης γραμμής τα anti-TTG IgA. Ωστόσο, απαιτείται προηγούμενη μέτρηση της συνολικής IgA ορού, ώστε να αποκλειστεί επιλεκτική ανεπάρκεια IgA (~1:500 στον γενικό πληθυσμό), που προκαλεί ψευδώς αρνητικά αποτελέσματα.",
+  "expl_es": "La guía ESPGHAN 2020 establece los anti-TTG IgA como prueba de primera línea. Sin embargo, se requiere medir previamente la IgA total sérica para descartar deficiencia selectiva de IgA (~1:500 en población general), que produciría un falso negativo en todos los marcadores IgA.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Τα AGA IgG έχουν χαμηλή ευαισθησία και ειδικότητα και δεν προτείνονται πλέον για κορινό διαγνωστικό έλεγχο · <b>C</b> Τα anti-DGP χρησιμοποιούνται κυρίως σε παιδιά <2 ετών ή σε περιπτώσεις ανεπάρκειας IgA, όχι ως πρώτη εξέταση στα 4 έτη · <b>A</b> Τα anti-EMA έχουν υψηλή ειδικότητα αλλά είναι παρατηρητής-εξαρτώμενα· επίσης απαιτείται έλεγχος IgA πρώτα — δεν παρακάμπτεται · <b>B</b> Ο HLA DQ2/DQ8 χρησιμοποιείται για αποκλεισμό κοιλιοκάκης (99,9% αρνητική προγνωστική αξία), όχι ως πρώτη γραμμή — 30-35% του γενικού πληθυσμού έχει DQ2/DQ8 χωρίς νόσο",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> Los AGA IgG tienen baja sensibilidad y especificidad y ya no se recomiendan para cribado rutinario · <b>C</b> Los anti-DGP se usan principalmente en niños <2 años o con déficit de IgA, no como primera prueba a los 4 años · <b>A</b> Los anti-EMA tienen alta especificidad pero son observador-dependientes; además, la IgA total debe determinarse antes — no se puede omitir · <b>B</b> El HLA DQ2/DQ8 se usa para exclusión de celíaca (VPN 99,9%), no como primera línea — el 30-35% de la población general porta DQ2/DQ8 sin enfermedad",
+  "cite": "ESPGHAN Guidelines for the Diagnosis of Coeliac Disease 2020 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Malabsorptive Disorders»",
+  "id": "B-769"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 92,
+  "concepts": [
+   "c.ped.gi.celiaca.espghan2020"
+  ],
+  "topic_el": "Κοιλιοκάκη · Κριτήρια ESPGHAN 2020 · Διάγνωση χωρίς βιοψία",
+  "topic_es": "Enfermedad celíaca · Criterios ESPGHAN 2020 · Diagnóstico sin biopsia",
+  "stem_el": "Αγόρι 5 ετών με τυπικά συμπτώματα δυσαπορρόφησης. Anti-TTG IgA = 15 φορές το ανώτατο όριο φυσιολογικού. Φυσιολογική IgA ορού. Ποιο πρόσθετο κριτήριο επιτρέπει τη διάγνωση κοιλιοκάκης χωρίς βιοψία σύμφωνα με τις οδηγίες ESPGHAN 2020;",
+  "stem_es": "Varón de 5 años con síntomas típicos de malabsorción. Anti-TTG IgA = 15 veces el límite superior de la normalidad. IgA total normal. ¿Qué criterio adicional permite el diagnóstico de enfermedad celíaca sin biopsia según ESPGHAN 2020?",
+  "options": [
+   {
+    "el": "Μόνο anti-EMA IgA θετικό σε δεύτερο δείγμα χωρίς άλλη επιβεβαίωση",
+    "es": "Solo anti-EMA IgA positivo en segunda muestra sin ningún otro criterio"
+   },
+   {
+    "el": "Anti-TTG IgA >5× ανώτατου ορίου μαζί με χαρακτηριστική βιοψία Marsh IIIa",
+    "es": "Anti-TTG IgA >5× el límite superior junto con biopsia característica Marsh IIIa"
+   },
+   {
+    "el": "Anti-DGP IgG >10× ανώτατου ορίου σε παιδί <2 ετών",
+    "es": "Anti-DGP IgG >10× el límite superior en niño <2 años"
+   },
+   {
+    "el": "Anti-TTG IgA >10× ανώτατου ορίου χωρίς καμία άλλη εξέταση",
+    "es": "Anti-TTG IgA >10× el límite superior sin ninguna otra prueba"
+   },
+   {
+    "el": "Anti-TTG IgA ≥10× ανώτατου ορίου + anti-EMA IgA θετικό σε δεύτερο δείγμα + HLA DQ2/DQ8 θετικό, σε παιδί >2 ετών με συμπτώματα",
+    "es": "Anti-TTG IgA ≥10× el límite superior + anti-EMA IgA positivo en segunda muestra + HLA DQ2/DQ8 positivo, en niño >2 años con síntomas"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η οδός ESPGHAN 2020 χωρίς βιοψία απαιτεί: anti-TTG IgA ≥10× ανώτατου ορίου + anti-EMA IgA θετικό σε δεύτερο ξεχωριστό δείγμα + HLA DQ2 ή DQ8 θετικό + ηλικία >2 ετών με κλινικά συμπτώματα. Όλα τα κριτήρια πρέπει να πληρούνται ταυτόχρονα.",
+  "expl_es": "La vía sin biopsia de ESPGHAN 2020 requiere: anti-TTG IgA ≥10× LSN + anti-EMA IgA positivo en una segunda muestra separada + HLA DQ2 o DQ8 positivo + edad >2 años con síntomas clínicos. Todos los criterios deben cumplirse simultáneamente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Το anti-EMA μόνο δεν επαρκεί — απαιτείται η συνδυαστική πλήρωση όλων των κριτηρίων · <b>D</b> Το anti-TTG >10× μόνο δεν αρκεί χωρίς επιβεβαίωση anti-EMA και HLA — ο συνδυασμός μειώνει τα ψευδώς θετικά · <b>B</b> Anti-TTG >5× δεν πληροί το κατώφλι (απαιτείται ≥10×) και απαιτείται η βιοψία εάν δεν πληρούνται τα κριτήρια χωρίς βιοψία · <b>C</b> Τα anti-DGP IgG σε παιδιά <2 ετών είναι κριτήριο επιβεβαίωσης σε αρνητικά IgA, όχι η οδός χωρίς βιοψία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El anti-EMA solo no basta — se requiere el cumplimiento combinado de todos los criterios · <b>D</b> El anti-TTG >10× solo no es suficiente sin confirmación con anti-EMA y HLA — la combinación reduce los falsos positivos · <b>B</b> Anti-TTG >5× no alcanza el umbral requerido (≥10×) y se necesitaría biopsia si no se cumplen los criterios sin biopsia · <b>C</b> Los anti-DGP IgG en <2 años son criterio de apoyo en déficit de IgA, no la ruta sin biopsia",
+  "cite": "ESPGHAN Guidelines for the Diagnosis of Coeliac Disease 2020 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Malabsorptive Disorders»",
+  "id": "B-770"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 85,
+  "concepts": [
+   "c.ped.gi.celiaca.marsh"
+  ],
+  "topic_el": "Κοιλιοκάκη · Ταξινόμηση Marsh · Ιστολογική διάγνωση",
+  "topic_es": "Enfermedad celíaca · Clasificación Marsh · Diagnóstico histológico",
+  "stem_el": "Βιοψία δωδεκαδακτύλου κοριτσιού 6 ετών με υποψία κοιλιοκάκης δείχνει: πλήρης αποπλάτυνση λαχνών (λόγος λαχνών/κρυπτών <1), υπερπλασία κρυπτών και αυξημένα ενδοεπιθηλιακά λεμφοκύτταρα. Πώς ταξινομείται αυτό το εύρημα κατά Marsh;",
+  "stem_es": "La biopsia duodenal de una niña de 6 años con sospecha de enfermedad celíaca muestra: vellosidades totalmente aplanadas (relación vellosidades/criptas <1), hiperplasia de criptas y aumento de linfocitos intraepiteliales. ¿Cómo se clasifica este hallazgo según Marsh?",
+  "options": [
+   {
+    "el": "Marsh τύπου IIIc (ολική ατροφία λαχνών)",
+    "es": "Marsh tipo IIIc (atrofia vellositaria total)"
+   },
+   {
+    "el": "Marsh τύπου 0 (φυσιολογική βλεννογόνος — λανθάνουσα κοιλιοκάκη)",
+    "es": "Marsh tipo 0 (mucosa normal — celíaca latente)"
+   },
+   {
+    "el": "Marsh τύπου IIIa (μερική ατροφία λαχνών)",
+    "es": "Marsh tipo IIIa (atrofia vellositaria parcial)"
+   },
+   {
+    "el": "Marsh τύπου II (αύξηση ΕΛ + υπερπλασία κρυπτών χωρίς ατροφία λαχνών)",
+    "es": "Marsh tipo II (aumento de LIE + hiperplasia de criptas sin atrofia vellositaria)"
+   },
+   {
+    "el": "Marsh τύπου I (μόνο αύξηση ενδοεπιθηλιακών λεμφοκυττάρων, φυσιολογικές λάχνες)",
+    "es": "Marsh tipo I (solo aumento de linfocitos intraepiteliales, vellosidades normales)"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Το Marsh IIIc αντιστοιχεί σε ολική ατροφία λαχνών (επίπεδη επιφάνεια) με υπερπλασία κρυπτών και αυξημένα ΕΛ. Η ταξινόμηση: IIIa = μερική, IIIb = υπολική, IIIc = ολική ατροφία. Τύποι Marsh IIIa/b/c θεωρούνται διαγνωστικοί κοιλιοκάκης.",
+  "expl_es": "Marsh IIIc corresponde a atrofia vellositaria total (mucosa plana) con hiperplasia de criptas y aumento de LIE. La escala: IIIa = atrofia parcial, IIIb = subtotal, IIIc = total. Todos los subtipos Marsh III son diagnósticos de enfermedad celíaca.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Marsh I έχει μόνο αύξηση ΕΛ (>25/100 επιθηλιακά κύτταρα) με φυσιολογικές λάχνες — δεν επαρκεί μόνο του για διάγνωση · <b>D</b> Marsh II έχει υπερπλασία κρυπτών αλλά λάχνες ακόμη παρούσες — η βιοψία περιγράφει πλήρη απώλεια λαχνών · <b>B</b> Marsh 0 = απολύτως φυσιολογική βλεννογόνος, αντιθέτως αυτή η βιοψία έχει σαφή παθολογία · <b>C</b> Marsh IIIa έχει μερική (όχι ολική) ατροφία λαχνών — η αναλογία λαχνών/κρυπτών <1 με επίπεδη εικόνα υποδεικνύει IIIc",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> Marsh I tiene solo aumento de LIE (>25/100 enterocitos) con vellosidades normales — no es suficiente por sí solo para el diagnóstico · <b>D</b> Marsh II tiene hiperplasia de criptas pero vellosidades todavía presentes — la biopsia descrita tiene pérdida total de vellosidades · <b>B</b> Marsh 0 = mucosa completamente normal, en contraposición esta biopsia muestra patología clara · <b>C</b> Marsh IIIa tiene atrofia parcial (no total) — la relación vellosidades/criptas <1 con imagen plana indica IIIc",
+  "cite": "Nelson Textbook of Pediatrics 21.ª ed., cap. «Malabsorptive Disorders» · ESPGHAN Guidelines for the Diagnosis of Coeliac Disease 2020",
+  "id": "B-771"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 88,
+  "concepts": [
+   "c.ped.gi.celiaca.atipica"
+  ],
+  "topic_el": "Κοιλιοκάκη · Άτυπη παρουσίαση · Σιδηροπενική αναιμία + μικρό ανάστημα",
+  "topic_es": "Enfermedad celíaca · Presentación atípica · Anemia ferropénica + talla baja",
+  "stem_el": "Αγόρι 8 ετών αξιολογείται για μικρό ανάστημα (3ο εκατοστημόριο, −2,3 SD). Αιματολογία: Hb 10,2 g/dL, MCV 68 fL, φερριτίνη 4 ng/mL. Δεν υπάρχει διάρροια ή άλλα πεπτικά συμπτώματα. Η σιδηροθεραπεία δεν βελτίωσε την αναιμία σε 3 μήνες. Ποια η πιθανότερη διάγνωση;",
+  "stem_es": "Niño de 8 años evaluado por talla baja (percentil 3, −2,3 DE). Analítica: Hb 10,2 g/dL, VCM 68 fL, ferritina 4 ng/mL. Sin diarrea ni síntomas digestivos. La suplementación oral de hierro no mejoró la anemia en 3 meses. ¿Cuál es el diagnóstico más probable?",
+  "options": [
+   {
+    "el": "Αναιμία χρόνιας νόσου λόγω αθόρυβης λοίμωξης",
+    "es": "Anemia de proceso crónico por infección oculta"
+   },
+   {
+    "el": "Κοιλιοκάκη με άτυπη παρουσίαση (ανθεκτική σιδηροπενική αναιμία + μικρό ανάστημα)",
+    "es": "Enfermedad celíaca con presentación atípica (anemia ferropénica refractaria + talla baja)"
+   },
+   {
+    "el": "Αιμοσφαιρινοπάθεια τύπου α-θαλασσαιμίας μικρής (φορέας)",
+    "es": "Hemoglobinopatía tipo alfa-talasemia menor (portador)"
+   },
+   {
+    "el": "Διατροφική ανεπάρκεια σιδήρου λόγω επιλεκτικής διατροφής",
+    "es": "Déficit dietético de hierro por alimentación selectiva"
+   },
+   {
+    "el": "Φλεγμονώδης νόσος εντέρου με προσβολή δωδεκαδακτύλου",
+    "es": "Enfermedad inflamatoria intestinal con afectación duodenal"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Η κοιλιοκάκη μπορεί να εμφανιστεί χωρίς πεπτικά συμπτώματα. Η ανθεκτική στη θεραπεία σιδηροπενική αναιμία και το μικρό ανάστημα είναι κλασικές εξωεντερικές εκδηλώσεις: ο σίδηρος απορροφάται στο δωδεκαδάκτυλο/εγγύς νήστιδα — ακριβώς η περιοχή με λαχνική ατροφία. Οι οδηγίες ESPGHAN 2020 αναφέρουν ρητά την ανθεκτική σιδηροπενία ως ένδειξη ελέγχου για κοιλιοκάκη.",
+  "expl_es": "La enfermedad celíaca puede presentarse sin síntomas gastrointestinales. La anemia ferropénica refractaria al tratamiento y la talla baja son manifestaciones extraintestinales clásicas: el hierro se absorbe en el duodeno/yeyuno proximal, exactamente la zona afectada por la atrofia vellositaria. Las guías ESPGHAN 2020 citan expresamente la ferropenia refractaria como indicación de cribado celíaco.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η αναιμία χρόνιας νόσου εμφανίζει φυσιολογική ή υψηλή φερριτίνη — εδώ είναι χαμηλή (4 ng/mL), άρα πρόκειται για σιδηροπενία · <b>C</b> Η α-θαλασσαιμία μικρής έχει χαμηλό MCV αλλά φυσιολογή σίδηρο/φερριτίνη, και δεν ανταποκρίνεται αρνητικά σε σιδηρο-συμπληρώματα — η σιδηροθεραπεία δεν ήταν επωφελής, πράγμα που ταιριάζει με δυσαπορρόφηση · <b>D</b> Ο διατροφικός σίδηρος ανταποκρίνεται στη θεραπεία εντός 4-6 εβδομάδων — εδώ 3 μήνες χωρίς ανταπόκριση · <b>E</b> Η ΦΝΕ θα έδινε επίσης άλλα ευρήματα (αίμα στα κόπρανα, CRP ↑, υποαλβουμιναιμία), και δεν είναι η πιο συχνή αιτία",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La anemia de proceso crónico muestra ferritina normal o elevada — aquí es baja (4 ng/mL), confirmando ferropenia verdadera · <b>C</b> La alfa-talasemia menor tiene VCM bajo pero ferritina normal, no responde negativamente al hierro — la refractariedad apunta a malabsorción · <b>D</b> La ferropenia dietética responde al tratamiento en 4-6 semanas — aquí 3 meses sin respuesta · <b>E</b> La EII también daría otros hallazgos (sangre en heces, PCR elevada, hipoalbuminemia) y no es la causa más probable",
+  "cite": "ESPGHAN Guidelines for the Diagnosis of Coeliac Disease 2020 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Malabsorptive Disorders»",
+  "id": "B-772"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 86,
+  "concepts": [
+   "c.ped.gi.celiaca.asociadas"
+  ],
+  "topic_el": "Κοιλιοκάκη · Συνοδές παθήσεις · ΣΔ τύπου 1 · Σύνδρομο Down",
+  "topic_es": "Enfermedad celíaca · Enfermedades asociadas · DM tipo 1 · Síndrome de Down",
+  "stem_el": "Κορίτσι 10 ετών με σακχαρώδη διαβήτη τύπου 1 σε καλό γλυκαιμικό έλεγχο παραπέμπεται από τον παιδίατρο-ενδοκρινολόγο στη γαστρεντερολογία. Ποια είναι η πιο πιθανή αιτία παραπομπής;",
+  "stem_es": "Niña de 10 años con diabetes mellitus tipo 1 en buen control glucémico es derivada por su endocrinólogo pediátrico a gastroenterología. ¿Cuál es la razón más probable de la derivación?",
+  "options": [
+   {
+    "el": "Αυξημένος κίνδυνος αυτοάνοσης ηπατίτιδας τύπου II σε ασθενείς με ΣΔ1",
+    "es": "Riesgo aumentado de hepatitis autoinmune tipo II en pacientes con DM tipo 1"
+   },
+   {
+    "el": "Αποκλεισμός κυστικής ίνωσης ως υποκείμενης αιτίας και των δύο παθήσεων",
+    "es": "Descartar fibrosis quística como causa subyacente de ambas enfermedades"
+   },
+   {
+    "el": "Έλεγχος κοιλιοκάκης, που συνδέεται με ΣΔ τύπου 1 στο 5-10% των περιπτώσεων",
+    "es": "Cribado de enfermedad celíaca, que se asocia a DM tipo 1 en el 5-10% de los casos"
+   },
+   {
+    "el": "Εκτίμηση νόσου Crohn λόγω κοινής αυτοάνοσης αιτιολογίας με ΣΔ1",
+    "es": "Evaluación de enfermedad de Crohn por origen autoinmune compartido con DM tipo 1"
+   },
+   {
+    "el": "Αποκλεισμός συνδρόμου Wolfram (DIDMOAD) που περιλαμβάνει ΣΔ και δυσαπορρόφηση",
+    "es": "Exclusión de síndrome de Wolfram (DIDMOAD) que incluye DM y malabsorción"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η κοιλιοκάκη εμφανίζεται στο 5-10% των ασθενών με ΣΔ τύπου 1 — αμφότερες αποτελούν αυτοάνοσες παθήσεις μεσολαβούμενες από Τ-λεμφοκύτταρα, συνδεδεμένες με HLA DQ2/DQ8. Επίσης συνδέεται με σύνδρομο Down, σύνδρομο Turner και αυτοάνοση θυρεοειδίτιδα. Οι οδηγίες συνιστούν περιοδικό ορολογικό έλεγχο σε όλους τους ΣΔ1.",
+  "expl_es": "La enfermedad celíaca ocurre en el 5-10% de los pacientes con DM tipo 1 — ambas son enfermedades autoinmunes mediadas por linfocitos T, asociadas con HLA DQ2/DQ8. También se asocia a síndrome de Down, síndrome de Turner y tiroiditis autoinmune. Las guías recomiendan cribado serológico periódico en todos los DM1.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η αυτοάνοση ηπατίτιδα δεν αποτελεί στάνταρ ένδειξη παραπομπής σε γαστρεντερολογία σε ΣΔ1 χωρίς αύξηση τρανσαμινασών · <b>B</b> Η κυστική ίνωση δεν συνδέεται αιτιολογικά με ΣΔ τύπου 1 — αφορά διαφορετική γενετική παθολογία (CFTR) · <b>D</b> Η νόσος Crohn δεν έχει διαπιστωμένη ειδική συσχέτιση με ΣΔ1 σε σχέση με κοιλιοκάκη · <b>E</b> Το σύνδρομο Wolfram (DIDMOAD) συνδέεται με ΣΔ1 και σήπη/νεφρογενή άποβο — όχι με γαστρεντερολογική υπό επίβλεψη για δυσαπορρόφηση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La hepatitis autoinmune no es indicación estándar de derivación a GI en DM1 sin elevación de transaminasas · <b>B</b> La fibrosis quística no se asocia etiológicamente a DM tipo 1 — involucra patología genética diferente (CFTR) · <b>D</b> La enfermedad de Crohn no tiene la asociación documentada específica con DM1 que sí tiene la celíaca · <b>E</b> El síndrome de Wolfram (DIDMOAD) se asocia con DM1 y diabetes insípida/atrofia óptica — no con seguimiento gastroenterológico por malabsorción",
+  "cite": "Nelson Textbook of Pediatrics 21.ª ed., cap. «Malabsorptive Disorders» · ESPGHAN Guidelines for the Diagnosis of Coeliac Disease 2020",
+  "id": "B-773"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 80,
+  "concepts": [
+   "c.ped.gi.celiaca.familiar"
+  ],
+  "topic_el": "Κοιλιοκάκη · Οικογενειακός έλεγχος · Α΄ βαθμού συγγενείς",
+  "topic_es": "Enfermedad celíaca · Cribado familiar · Familiares de primer grado",
+  "stem_el": "Κορίτσι 6 ετών μόλις διαγνώσθηκε με κοιλιοκάκη μέσω βιοψίας δωδεκαδακτύλου. Οι γονείς ρωτούν αν τα ασυμπτωματικά αδέλφια χρειάζονται εξετάσεις. Ποια είναι η σωστή αντιμετώπιση;",
+  "stem_es": "Una niña de 6 años acaba de ser diagnosticada de enfermedad celíaca mediante biopsia duodenal. Los padres preguntan si los hermanos asintomáticos necesitan evaluación. ¿Cuál es la conducta correcta?",
+  "options": [
+   {
+    "el": "Οικογενειακός έλεγχος μόνο σε περίπτωση αιμοσυγγένειας μεταξύ των γονέων",
+    "es": "Cribado familiar solo si hay consanguinidad entre los padres"
+   },
+   {
+    "el": "Έλεγχος μόνο σε μονοζυγωτικούς διδύμους λόγω υψηλής γενετικής συσχέτισης",
+    "es": "Cribado solo en gemelos monocigóticos por la alta concordancia genética"
+   },
+   {
+    "el": "Δεν απαιτείται έλεγχος σε ασυμπτωματικούς συγγενείς — η κοιλιοκάκη διαγιγνώσκεται μόνο με συμπτώματα",
+    "es": "No es necesaria la evaluación en familiares asintomáticos — la celíaca solo se diagnostica con síntomas"
+   },
+   {
+    "el": "Ορολογικός έλεγχος (anti-TTG IgA + IgA ολική) σε όλους τους συγγενείς α΄ βαθμού, ακόμα και ασυμπτωματικούς",
+    "es": "Cribado serológico (anti-TTG IgA + IgA total) en todos los familiares de primer grado, incluso asintomáticos"
+   },
+   {
+    "el": "Γίνεται απευθείας τυποποίηση HLA DQ2/DQ8 στους συγγενείς, χωρίς ορολογικό έλεγχο",
+    "es": "Se realiza directamente tipaje HLA DQ2/DQ8 en los familiares, sin cribado serológico"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η ESPGHAN 2020 συνιστά ορολογικό έλεγχο (anti-TTG IgA + IgA ολική) σε όλους τους α΄ βαθμού συγγενείς (γονείς, αδέλφια) του δείκτη περιστατικού, ακόμα και αν είναι ασυμπτωματικοί. Ο επιπολασμός κοιλιοκάκης στους α΄ βαθμού συγγενείς είναι 10-15%.",
+  "expl_es": "La ESPGHAN 2020 recomienda cribado serológico (anti-TTG IgA + IgA total) en todos los familiares de primer grado (padres, hermanos) del caso índice, incluso si son asintomáticos. La prevalencia de celíaca en familiares de primer grado es del 10-15%.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η σιωπηλή (ασυμπτωματική) κοιλιοκάκη είναι κλινικά σημαντική — μπορεί να προκαλέσει οστεοπόρωση, αναιμία και αυξημένο κίνδυνο λεμφώματος χωρίς εμφανή συμπτώματα · <b>B</b> Ο έλεγχος δεν περιορίζεται στους μονοζυγωτικούς διδύμους (75-80% συμφωνία) — αφορά όλους τους α΄ βαθμού · <b>A</b> Η αιμοσυγγένεια δεν είναι απαίτηση — η σύσταση βασίζεται στον κληρονομικό κίνδυνο λόγω HLA κοινών αλληλίων · <b>E</b> Ο HLA δεν είναι η πρώτη επιλογή για οικογενειακό έλεγχο — αρνητικό HLA αποκλείει τη νόσο αλλά είναι πιο ακριβός και η ορολογία είναι αρκετή ως πρώτο βήμα",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La celíaca silente (asintomática) es clínicamente significativa — puede causar osteoporosis, anemia y mayor riesgo de linfoma sin síntomas evidentes · <b>B</b> El cribado no se limita a los gemelos monocigóticos (75-80% concordancia) — abarca a todos los familiares de primer grado · <b>A</b> La consanguinidad no es un requisito — la recomendación se basa en el riesgo hereditario por alelos HLA comunes · <b>E</b> El HLA no es la primera elección para cribado familiar — el HLA negativo excluye la enfermedad pero es más costoso y la serología es suficiente como primer paso",
+  "cite": "ESPGHAN Guidelines for the Diagnosis of Coeliac Disease 2020 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Malabsorptive Disorders»",
+  "id": "B-774"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 90,
+  "concepts": [
+   "c.ped.gi.ibd.porto"
+  ],
+  "topic_el": "ΦΝΕ παιδιών · Κριτήρια Porto · Διαγνωστικό πρωτόκολλο",
+  "topic_es": "EII pediátrica · Criterios Porto · Protocolo diagnóstico",
+  "stem_el": "Αγόρι 12 ετών με αιματηρή διάρροια, κοιλιακό άλγος και απώλεια 3 kg σε 2 μήνες. CRP αυξημένη, Hb 10 g/dL. Υποψία φλεγμονώδους νόσου εντέρου. Ποιο είναι το αρχικό διαγνωστικό πρωτόκολλο σύμφωνα με τα κριτήρια Porto;",
+  "stem_es": "Niño de 12 años con diarrea sanguinolenta, dolor abdominal y pérdida de 3 kg en 2 meses. PCR elevada, Hb 10 g/dL. Sospecha de enfermedad inflamatoria intestinal. ¿Cuál es el protocolo diagnóstico inicial según los criterios Porto?",
+  "options": [
+   {
+    "el": "Ενδοσκόπηση κάψουλας ως πρώτη εξέταση λόγω μικρότερης επεμβατικότητας",
+    "es": "Cápsula endoscópica como primera exploración por menor invasividad"
+   },
+   {
+    "el": "CT κοιλίας με σκιαγραφικό ως αρχική εξέταση σε ηλικίες <14 ετών",
+    "es": "TC abdominal con contraste como primera prueba en menores de 14 años"
+   },
+   {
+    "el": "Κολονοσκόπηση + κοπρανοκαλπροτεκτίνη χωρίς ανάγκη άνω ενδοσκόπησης",
+    "es": "Colonoscopia + calprotectina fecal sin necesidad de endoscopia alta"
+   },
+   {
+    "el": "Ορολογικός έλεγχος ASCA/pANCA ως οριστική διαγνωστική μέθοδος",
+    "es": "Serología ASCA/pANCA como método diagnóstico definitivo"
+   },
+   {
+    "el": "Ιλεοκολονοσκόπηση + βιοψίες + άνω ενδοσκόπηση + πλήρης ιστολογική αξιολόγηση (κριτήρια Porto)",
+    "es": "Ileocolonoscopia + biopsias + endoscopia alta + evaluación histológica completa (criterios Porto)"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Τα κριτήρια Porto (ESPGHAN 2005, αναθεώρηση 2014) ορίζουν ότι η διάγνωση ΦΝΕ στα παιδιά απαιτεί: ιλεοκολονοσκόπηση με βιοψίες από πολλαπλά τμήματα + ΑΓΕ (γαστροσκόπηση) + πλήρη ιστολογική αξιολόγηση. Αυτό είναι υποχρεωτικό ακόμα και αν η ΕΚ φαίνεται προφανής. Η ενδοσκόπηση κάψουλας συμπληρώνει αλλά δεν αντικαθιστά την κλασική ενδοσκόπηση. Το CT αποφεύγεται λόγω ακτινοβολίας.",
+  "expl_es": "Los criterios Porto (ESPGHAN 2005, revisión 2014) establecen que el diagnóstico de EII pediátrica requiere: ileocolonoscopia con biopsias de múltiples segmentos + endoscopia alta (gastroscopia) + evaluación histológica completa. Es obligatorio incluso si la CU parece evidente. La cápsula endoscópica complementa pero no reemplaza la endoscopia convencional. El TC se evita por la radiación.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η άνω ενδοσκόπηση είναι υποχρεωτική σύμφωνα με τα κριτήρια Porto — η γαστρίτιδα από Crohn/φοκαλιακές αλλοιώσεις ανιχνεύονται μόνο εκεί · <b>A</b> Η ενδοσκόπηση κάψουλας δεν επιτρέπει βιοψίες και αντενδείκνυται όταν υποψιαζόμαστε στένωση — δεν είναι αρχική εξέταση · <b>D</b> Τα ASCA/pANCA βοηθούν στη διάκριση Crohn/ΕΚ αλλά έχουν χαμηλή ευαισθησία για αρχική διάγνωση · <b>B</b> Αποφεύγεται η ιονίζουσα ακτινοβολία στα παιδιά — το CT χρησιμοποιείται μόνο σε επείγουσες επιπλοκές (αποστήματα, διάτρηση)",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La endoscopia alta es obligatoria según criterios Porto — la gastritis por Crohn y las lesiones focales solo se detectan allí · <b>A</b> La cápsula endoscópica no permite biopsias y está contraindicada cuando se sospecha estenosis — no es prueba inicial · <b>D</b> ASCA/pANCA ayudan a distinguir Crohn/CU pero tienen baja sensibilidad para diagnóstico inicial · <b>B</b> Se evita la radiación ionizante en niños — el TC se usa solo en complicaciones urgentes (abscesos, perforación)",
+  "cite": "ESPGHAN Inflammatory Bowel Disease Porto Criteria 2014 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "B-775"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 87,
+  "concepts": [
+   "c.ped.gi.ibd.crohn_vs_cu"
+  ],
+  "topic_el": "ΦΝΕ παιδιών · Νόσος Crohn vs ΕΚ · Κοκκιώματα · Skip lesions",
+  "topic_es": "EII pediátrica · Crohn vs CU · Granulomas · Skip lesions",
+  "stem_el": "Σε βιοψία εντέρου εφήβου με ΦΝΕ, ο παθολογοανατόμος αναφέρει επιθηλιοειδή μη τυρεώδη κοκκιώματα στην υποβλεννογόνιο στοιβάδα του ειλεού με ιστολογικά φυσιολογικό ορθικό βλεννογόνο. Ποιο διαγνωστικό υπέρ είναι αυτό;",
+  "stem_es": "En la biopsia intestinal de un adolescente con EII, el patólogo informa granulomas epitelioides no caseificantes en la submucosa ileal con mucosa rectal histológicamente normal. ¿A qué diagnóstico apunta este hallazgo?",
+  "options": [
+   {
+    "el": "Νόσος Crohn (κοκκιώματα + ειλεϊκή εντόπιση με skip lesions και σεβασμός ορθού)",
+    "es": "Enfermedad de Crohn (granulomas + afectación ileal con skip lesions y recto spared)"
+   },
+   {
+    "el": "Βαριά ελκώδης κολίτιδα με εκτεταμένη συμμετοχή έως ειλεού",
+    "es": "Colitis ulcerosa grave con extensión proximal hasta el íleon"
+   },
+   {
+    "el": "Λοιμωξιακή κολίτιδα από Yersinia enterocolitica",
+    "es": "Colitis infecciosa por Yersinia enterocolitica"
+   },
+   {
+    "el": "Αδιευκρίνιστη κολίτιδα με παγκολονική συμμετοχή",
+    "es": "Colitis indeterminada con afectación pancolónica"
+   },
+   {
+    "el": "Νόσος Whipple (Tropheryma whipplei)",
+    "es": "Enfermedad de Whipple (Tropheryma whipplei)"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Τα επιθηλιοειδή κοκκιώματα είναι παθογνωμονικά (παρόντα στο 30-60% βιοψιών) της νόσου Crohn. Ο συνδυασμός ειλεϊκής συμμετοχής με ανέπαφο ορθό (skip lesion) και διαβλεννογόνια/διατοιχωματική φλεγμονή είναι χαρακτηριστικός. Η ΕΚ παρουσιάζει συνεχή φλεγμονή από το ορθό και ποτέ ειλεό χωρίς backwash ileitis.",
+  "expl_es": "Los granulomas epitelioides son prácticamente patognomónicos (presentes en 30-60% de biopsias) de la enfermedad de Crohn. La combinación de afectación ileal con recto íntegro (skip lesion) y la inflamación transmural son características de Crohn. La CU presenta inflamación continua desde el recto sin afectar el íleon salvo por backwash ileitis.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η ΕΚ δεν προκαλεί κοκκιώματα — χαρακτηρίζεται από επιφανειακή κρυπτίτιδα, αποστήματα κρυπτών και ΠΑΝΤΑ προσβολή ορθού · <b>C</b> Η Yersinia μπορεί να σχηματίσει κοκκιώματα αλλά είναι οξεία λοίμωξη — η χρόνια πορεία εδώ ταιριάζει με ΦΝΕ · <b>D</b> Η αδιευκρίνιστη κολίτιδα αποτελεί διάγνωση εξ αποκλεισμού όταν δεν μπορεί να διαχωρισθεί Crohn/ΕΚ — τα κοκκιώματα κατευθύνουν σαφώς στο Crohn · <b>E</b> Η νόσος Whipple προκαλεί PAS+ μακροφάγα στη λεμφαδενική χώρα νήστιδος, όχι επιθηλιοειδή κοκκιώματα στο ειλεό",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> La CU no produce granulomas — se caracteriza por criptitis superficial, abscesos de criptas y SIEMPRE afecta el recto · <b>C</b> Yersinia puede producir granulomas pero es infección aguda — el curso crónico aquí encaja con EII · <b>D</b> La colitis indeterminada es diagnóstico de exclusión cuando no se puede distinguir Crohn/CU — los granulomas apuntan claramente a Crohn · <b>E</b> La enfermedad de Whipple produce macrófagos PAS+ en la lámina propia yeyunal, no granulomas epitelioides en el íleon",
+  "cite": "ESPGHAN IBD Porto Criteria 2014 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "B-776"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 92,
+  "concepts": [
+   "c.ped.gi.ibd.nee"
+  ],
+  "topic_el": "Νόσος Crohn παιδιών · Αποκλειστική εντερική διατροφή · Επαγωγή ύφεσης",
+  "topic_es": "Crohn pediátrico · Nutrición enteral exclusiva · Inducción de remisión",
+  "stem_el": "Αγόρι 10 ετών με πρόσφατη διάγνωση ειλεοκολικής νόσου Crohn, wPCDAI = 45 (μέτρια-σοβαρή δραστηριότητα). Βάρος στο 10ο εκατοστημόριο. Ποια είναι η πρώτη γραμμή επαγωγής ύφεσης με τη μεγαλύτερη τεκμηρίωση στην παιδιατρική;",
+  "stem_es": "Niño de 10 años con enfermedad de Crohn ileocólica recién diagnosticada, wPCDAI = 45 (actividad moderada-grave). Peso en el percentil 10. ¿Cuál es la primera línea de inducción de remisión con mayor evidencia en el paciente pediátrico?",
+  "options": [
+   {
+    "el": "Πρεδνιζολόνη 1 mg/kg/ημέρα per os επί 4 εβδομάδες, ακολούθως σταδιακή μείωση",
+    "es": "Prednisolona oral 1 mg/kg/día durante 4 semanas, con reducción progresiva posterior"
+   },
+   {
+    "el": "Αποκλειστική εντερική διατροφή (ΑΕΔ) 6-8 εβδομάδες, συγκρίσιμη αποτελεσματικότητα με κορτικοστεροειδή και χωρίς αρνητικές επιπτώσεις στη σωματική ανάπτυξη",
+    "es": "Nutrición enteral exclusiva (NEE) durante 6-8 semanas, eficacia comparable a corticoides y sin impacto negativo sobre el crecimiento"
+   },
+   {
+    "el": "Infliximab IV ως πρώτη γραμμή επαγωγής σε όλα τα παιδιά με μέτρια Crohn",
+    "es": "Infliximab IV como inducción de primera línea en todos los niños con Crohn moderado"
+   },
+   {
+    "el": "Αζαθειοπρίνη 2,5 mg/kg/ημέρα ως μονοθεραπεία επαγωγής",
+    "es": "Azatioprina 2,5 mg/kg/día como monoterapia de inducción"
+   },
+   {
+    "el": "Μεσαλαζίνη per os 50 mg/kg/ημέρα, πιο αποτελεσματική στη Crohn παιδιών απ' ό,τι στους ενήλικες",
+    "es": "Mesalazina oral 50 mg/kg/día, más efectiva en el Crohn pediátrico que en adultos"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Η ΑΕΔ (πολυμερική ή στοιχειακή φόρμουλα, 100% θερμιδική πρόσληψη για 6-8 εβδομάδες) επιτυγχάνει ύφεση σε ~80% των παιδιατρικών ασθενών με νόσο Crohn, συγκρίσιμη με κορτικοστεροειδή, με πρόσθετο όφελος για τη διατροφική κατάσταση, τη γραμμική ανάπτυξη και την οστική πυκνότητα. Αυτό το πλεονέκτημα δεν υπάρχει στους ενήλικες.",
+  "expl_es": "La NEE (fórmula polimérica o elemental, 100% ingesta calórica durante 6-8 semanas) logra remisión en ~80% de los pacientes pediátricos con Crohn, comparable a corticoides, con el beneficio adicional de mejorar el estado nutricional, el crecimiento lineal y la densidad ósea. Esta ventaja no existe en adultos.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Τα κορτικοστεροειδή είναι αποτελεσματικά για επαγωγή αλλά αποφεύγονται στα παιδιά ως πρώτη γραμμή λόγω ανάσχεσης ανάπτυξης, οστεοπόρωσης και σοβαρών παρενεργειών — εφαρμόζονται στη νόσο Crohn παιδιών μόνο εάν η ΑΕΔ αποτύχει ή είναι ανέφικτη · <b>D</b> Η αζαθειοπρίνη είναι θεραπεία συντήρησης, ΟΧΙ επαγωγής — δεν επιτυγχάνει ύφεση ως μονοθεραπεία στη φλεγμονώδη φάση · <b>C</b> Τα βιολογικά (infliximab) ενδείκνυνται σε κορτικοστεροειδο-εξαρτώμενη/ανθεκτική νόσο ή σε εξαιρετικά σοβαρές παρουσιάσεις — όχι πρωτογενώς σε μέτρια νόσο · <b>E</b> Η μεσαλαζίνη δεν έχει τεκμηριωμένη αποτελεσματικότητα στη νόσο Crohn (ούτε στα παιδιά ούτε στους ενήλικες) — χρησιμοποιείται στην ΕΚ",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> Los corticoides son eficaces para inducción pero se evitan como primera línea pediátrica por retraso del crecimiento, osteoporosis y efectos adversos graves — solo si NEE falla o es inviable · <b>D</b> La azatioprina es tratamiento de mantenimiento, NO de inducción — no logra remisión como monoterapia en la fase activa · <b>C</b> Los biológicos (infliximab) están indicados en enfermedad corticodependiente/refractaria o presentaciones muy graves — no de entrada en Crohn moderado · <b>E</b> La mesalazina no tiene eficacia documentada en enfermedad de Crohn (ni en niños ni en adultos) — se usa en la CU",
+  "cite": "ECCO-ESPGHAN Consensus on Pediatric Crohn's Disease 2021 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "B-777"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 88,
+  "concepts": [
+   "c.ped.gi.ibd.tpmt"
+  ],
+  "topic_el": "ΦΝΕ παιδιών · Αζαθειοπρίνη · TPMT · Μυελοτοξικότητα",
+  "topic_es": "EII pediátrica · Azatioprina · TPMT · Mielotoxicidad",
+  "stem_el": "Έφηβος 15 ετών με νόσο Crohn σε ύφεση μετά από ΑΕΔ. Αποφασίζεται έναρξη αζαθειοπρίνης ως θεραπεία συντήρησης. Ποιος εργαστηριακός έλεγχος είναι απαραίτητος πριν από την έναρξη του φαρμάκου;",
+  "stem_es": "Adolescente de 15 años con enfermedad de Crohn en remisión tras NEE. Se decide iniciar azatioprina como tratamiento de mantenimiento. ¿Qué determinación es imprescindible antes de comenzar el fármaco?",
+  "options": [
+   {
+    "el": "PCR CMV αίματος (αποκλεισμός λανθάνουσας λοίμωξης)",
+    "es": "PCR de CMV en sangre (descartar infección latente)"
+   },
+   {
+    "el": "Επίπεδα καλπροτεκτίνης κοπράνων βάσης",
+    "es": "Nivel basal de calprotectina fecal"
+   },
+   {
+    "el": "Δραστικότητα θειοπουρίνης μεθυλοτρανσφεράσης (TPMT) για ρύθμιση δόσης και αποφυγή μυελοτοξικότητας",
+    "es": "Actividad de tiopurina metiltransferasa (TPMT) para ajustar dosis y prevenir mielotoxicidad"
+   },
+   {
+    "el": "Ηλεκτροφόρηση αιμοσφαιρίνης (αποκλεισμός αιμοσφαιρινοπάθειας)",
+    "es": "Electroforesis de hemoglobina (descartar hemoglobinopatía)"
+   },
+   {
+    "el": "Anti-dsDNA και συμπλήρωμα C3/C4 (αποκλεισμός φαρμακευτικού λύκου)",
+    "es": "Anti-dsDNA y complemento C3/C4 (descartar lupus inducido por fármaco)"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η TPMT είναι το ένζυμο που μεταβολίζει τις θειοπουρίνες (αζαθειοπρίνη, μερκαπτοπουρίνη). Ασθενείς με χαμηλή ή απούσα TPMT (ομόζυγοι ~0,3%, ετερόζυγοι ~11%) συσσωρεύουν 6-θειογουανίνη με σοβαρό κίνδυνο μυελοκαταστολής. Πριν την έναρξη ελέγχεται φαινότυπος ή γονότυπος TPMT. Σε Ασιάτες ελέγχεται επίσης NUDT15.",
+  "expl_es": "La TPMT es la enzima que metaboliza las tiopurinas (azatioprina, mercaptopurina). Los pacientes con TPMT baja o ausente (homocigotos ~0,3%, heterocigotos ~11%) acumulan 6-tioguanina con riesgo grave de mielotoxicidad. Antes de iniciar se determina el fenotipo o genotipo TPMT. En asiáticos también se analiza NUDT15.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η καλπροτεκτίνη αξιολογεί δραστηριότητα φλεγμονής — χρήσιμη αλλά ΔΕΝ απαιτείται πριν από την έναρξη αζαθειοπρίνης · <b>D</b> Η ηλεκτροφόρηση αιμοσφαιρίνης δεν σχετίζεται με τη φαρμακοκινητική των θειοπουρινών — δεν αποτελεί απαίτηση πριν τη χορήγηση · <b>E</b> Ο φαρμακευτικός λύκος από αζαθειοπρίνη δεν ελέγχεται εκ των προτέρων με anti-dsDNA/συμπλήρωμα — αυτά παρακολουθούνται εάν προκύψουν συμπτώματα · <b>A</b> Το CMV ελέγχεται κυρίως πριν από βιολογικούς παράγοντες ή σε ανοσοκαταστολή — ο κατάλληλος προελεγχος για αζαθειοπρίνη είναι η TPMT",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> La calprotectina evalúa actividad inflamatoria — útil, pero NO se requiere antes de iniciar azatioprina · <b>D</b> La electroforesis de hemoglobina no se relaciona con la farmacocinética de las tiopurinas — no es requisito previo · <b>E</b> El lupus inducido por azatioprina no se previene con anti-dsDNA/complemento previo — se monitorizan si aparecen síntomas · <b>A</b> El CMV se examina principalmente antes de biológicos o en inmunosupresión intensa — el cribado previo correcto para azatioprina es la TPMT",
+  "cite": "ECCO-ESPGHAN Consensus on Pediatric Crohn's Disease 2021 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "B-778"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 91,
+  "concepts": [
+   "c.ped.gi.ibd.biologicos_tb"
+  ],
+  "topic_el": "ΦΝΕ παιδιών · Βιολογικοί παράγοντες · Έλεγχος φυματίωσης πριν anti-TNF",
+  "topic_es": "EII pediátrica · Biológicos · Cribado de tuberculosis antes de anti-TNF",
+  "stem_el": "Κορίτσι 13 ετών με μέτρια-σοβαρή νόσο Crohn ανθεκτική στην αζαθειοπρίνη. Σχεδιάζεται έναρξη infliximab. Ποιο είναι το υποχρεωτικό βήμα πριν από την έναρξη του βιολογικού;",
+  "stem_es": "Niña de 13 años con enfermedad de Crohn moderada-grave refractaria a azatioprina. Se plantea iniciar infliximab. ¿Cuál es el paso obligatorio previo al inicio del biológico?",
+  "options": [
+   {
+    "el": "Ηχοκαρδιογράφημα για αποκλεισμό καρδιοπάθειας πριν χρήση anti-TNF",
+    "es": "Ecocardiograma para descartar cardiopatía antes del uso de anti-TNF"
+   },
+   {
+    "el": "Μέτρηση επιπέδων βιταμίνης D και χορήγηση εφόσον ανεπαρκής",
+    "es": "Medición de niveles de vitamina D y suplementación si insuficiente"
+   },
+   {
+    "el": "Μέτρηση καλπροτεκτίνης κοπράνων για τεκμηρίωση φλεγμονώδους δραστηριότητας",
+    "es": "Calprotectina fecal para documentar actividad inflamatoria"
+   },
+   {
+    "el": "Έλεγχος λανθάνουσας φυματίωσης (Mantoux/IGRA) και ενημέρωση εμβολιασμών (ζωντανά εμβόλια πριν από έναρξη)",
+    "es": "Cribado de tuberculosis latente (Mantoux/IGRA) y actualización del calendario vacunal (vacunas vivas antes del inicio)"
+   },
+   {
+    "el": "Επίπεδα 6-ΤGN αζαθειοπρίνης ορού για τεκμηρίωση θεραπευτικής αποτυχίας",
+    "es": "Niveles séricos de 6-TGN de azatioprina para documentar fracaso terapéutico"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Πριν από κάθε anti-TNF θεραπεία (infliximab, adalimumab) είναι υποχρεωτικός ο έλεγχος λανθάνουσας φυματίωσης (Mantoux/IGRA), διότι ο TNF-α είναι κρίσιμος για τη διατήρηση των κοκκιωμάτων. Επίσης, τα ζωντανά εμβόλια (ΙΑΠ, ανεμευλογιά, ροταϊός) πρέπει να χορηγηθούν πριν, καθώς αντενδείκνυνται κατά τη βιολογική θεραπεία.",
+  "expl_es": "Antes de cualquier terapia anti-TNF (infliximab, adalimumab) es obligatorio el cribado de TB latente (Mantoux/IGRA), ya que el TNF-α es crítico para el mantenimiento de granulomas. Además, las vacunas vivas (MMR, varicela, rotavirus) deben administrarse antes, ya que están contraindicadas durante la terapia biológica.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Τα επίπεδα βιταμίνης D είναι χρήσιμα για τη γενική παρακολούθηση της ΦΝΕ αλλά ΔΕΝ αποτελούν υποχρεωτική προϋπόθεση πριν από βιολογικό παράγοντα · <b>C</b> Η καλπροτεκτίνη αξιολογεί φλεγμονή αλλά δεν είναι ο υποχρεωτικός προελεγχος ασφάλειας πριν τον anti-TNF · <b>E</b> Τα επίπεδα 6-TGN μπορεί να βοηθήσουν στην αξιολόγηση αδυναμίας ανταπόκρισης αλλά δεν αποτελούν βήμα ασφάλειας πριν την έναρξη βιολογικού · <b>A</b> Το ηχοκαρδιογράφημα δεν αποτελεί τυπική απαίτηση προελέγχου για anti-TNF σε ΦΝΕ — η καρδιακή ανεπάρκεια (NYHA III/IV) είναι σχετική αντένδειξη αλλά ο προσυμπτωματικός έλεγχος δεν είναι καθιερωμένος",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> Los niveles de vitamina D son útiles para el seguimiento general de la EII pero NO son requisito obligatorio previo al biológico · <b>C</b> La calprotectina evalúa inflamación pero no es el cribado de seguridad obligatorio previo al anti-TNF · <b>E</b> Los niveles de 6-TGN pueden ayudar a evaluar el fracaso pero no son un paso de seguridad previo al inicio del biológico · <b>A</b> El ecocardiograma no es requisito estándar de precribado para anti-TNF en EII — la IC (NYHA III/IV) es contraindicación relativa pero no se hace cribado presintomático sistemático",
+  "cite": "ECCO-ESPGHAN Consensus on Pediatric Crohn's Disease 2021 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "B-779"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 89,
+  "concepts": [
+   "c.ped.gi.ibd.megacolon"
+  ],
+  "topic_el": "ΕΚ παιδιών · Τοξικό μεγάκολο · Επείγουσα αντιμετώπιση",
+  "topic_es": "CU pediátrica · Megacolon tóxico · Manejo urgente",
+  "stem_el": "Έφηβος 16 ετών με γνωστή ελκώδη κολίτιδα. Προσέρχεται επειγόντως με πυρετό 39 °C, καρδιακή συχνότητα 120 bpm, διάχυτο κοιλιακό άλγος με αντίσταση και 12 αιματηρές κενώσεις/24ω. Απλή ακτινογραφία: εγκάρσιο κόλο >6 cm. Ποια η διάγνωση και η άμεση αντιμετώπιση;",
+  "stem_es": "Adolescente de 16 años con colitis ulcerosa conocida. Acude a urgencias con fiebre 39 °C, FC 120 lpm, dolor abdominal difuso con defensa y 12 deposiciones sanguinolentas/24 h. Radiografía: colon transverso >6 cm. ¿Cuál es el diagnóstico y la conducta inmediata?",
+  "options": [
+   {
+    "el": "Ήπια έξαρση· διπλασιασμός δόσης μεσαλαζίνης και επανέλεγχος σε 48 ώρες",
+    "es": "Reagudización leve; doblar dosis de mesalazina y control en 48 horas"
+   },
+   {
+    "el": "Οξεία ειλεΐτιδα από νόσο Crohn· επείγουσα ιλεοκολονοσκόπηση",
+    "es": "Ileítis aguda por enfermedad de Crohn; ileocolonoscopia urgente"
+   },
+   {
+    "el": "Ψευδομεμβρανώδης κολίτιδα από C. difficile· έναρξη βανκομυκίνης per os",
+    "es": "Colitis pseudomembranosa por C. difficile; iniciar vancomicina oral"
+   },
+   {
+    "el": "Διάτρηση κόλου· άμεση λαπαροτομία χωρίς άλλες εξετάσεις",
+    "es": "Perforación colónica; laparotomía exploratoria inmediata sin más estudios"
+   },
+   {
+    "el": "Τοξικό μεγάκολο· νοσηλεία, διάταση κόλου >6 cm αποτελεί κριτήριο, νηστεία, κορτικοστεροειδή IV, αξιολόγηση κολεκτομής εάν δεν υπάρξει ανταπόκριση εντός 72 ώρων",
+    "es": "Megacolon tóxico; hospitalización urgente, dilatación >6 cm es criterio diagnóstico, ayuno, corticoides IV, valorar colectomía si no respuesta en 72 h"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Τοξικό μεγάκολο: οξεία διάταση κόλου >6 cm (εγκάρσιο) με συστηματική τοξικότητα. Αντιμετώπιση: νοσηλεία, νηστεία, ρινογαστρικός σωλήνας, IV υγρά, κορτικοστεροειδή IV (μεθυλπρεδνιζολόνη 1 mg/kg/ημέρα), στενή παρακολούθηση. Η κολονοσκόπηση αντενδείκνυται (κίνδυνος διάτρησης). Εάν δεν υπάρξει ανταπόκριση εντός 72 ώρων ή κλινική επιδείνωση: επείγουσα κολεκτομή.",
+  "expl_es": "Megacolon tóxico: dilatación colónica aguda >6 cm (transverso) con toxicidad sistémica. Tratamiento: hospitalización, ayuno, SNG, hidratación IV, corticoides IV (metilprednisolona 1 mg/kg/día), monitorización estrecha. La colonoscopia está contraindicada (riesgo de perforación). Si no hay respuesta en 72 h o deterioro clínico: colectomía urgente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η κλινική εικόνα (πυρετός, ταχυκαρδία, εγκάρσιο κόλο >6 cm) ΔΕΝ αντιστοιχεί σε ήπια έξαρση — η αποτυχία αναγνώρισης είναι απειλητική για τη ζωή · <b>C</b> Η ψευδομεμβρανώδης κολίτιδα μπορεί να επιπλέξει ΕΚ — απαιτείται τοξίνη C. difficile, αλλά η άμεση αντιμετώπιση ΔΕΝ αλλάζει (νοσηλεία + κορτικοστεροειδή IV) · <b>B</b> Η ιλεοκολονοσκόπηση είναι ΑΝΤΕΝΔΕΔΕΙΓΜΕΝΗ σε τοξικό μεγάκολο — κίνδυνος διάτρησης · <b>D</b> Η διάτρηση είναι επιπλοκή του τοξικού μεγακόλου — αν υπάρχουν σημεία διάτρησης (ελεύθερος αέρας, περιτοναϊκά σημεία) τότε ναι λαπαροτομία, αλλά τώρα δεν περιγράφεται",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El cuadro clínico (fiebre, taquicardia, colon transverso >6 cm) NO corresponde a reagudización leve — no reconocerlo es potencialmente mortal · <b>C</b> La colitis por C. difficile puede complicar la CU — se requiere toxina, pero el manejo inmediato NO cambia (hospitalización + corticoides IV) · <b>B</b> La ileocolonoscopia está CONTRAINDICADA en megacolon tóxico — riesgo de perforación · <b>D</b> La perforación es complicación del megacolon — si hay signos de perforación (aire libre, peritonismo franco) entonces sí laparotomía, pero no se describe aquí",
+  "cite": "ECCO-ESPGHAN Consensus on Pediatric UC 2021 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "B-780"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 78,
+  "concepts": [
+   "c.ped.gi.ibd.scores"
+  ],
+  "topic_el": "ΦΝΕ παιδιών · wPCDAI (Crohn) · PUCAI (ΕΚ) · Δείκτες κλινικής δραστηριότητας",
+  "topic_es": "EII pediátrica · wPCDAI (Crohn) · PUCAI (CU) · Índices de actividad clínica",
+  "stem_el": "Κατά την εκτίμηση της κλινικής δραστηριότητας της ΦΝΕ στα παιδιά, ποια εργαλεία χρησιμοποιούνται αντίστοιχα για την ελκώδη κολίτιδα και τη νόσο Crohn;",
+  "stem_es": "Al evaluar la actividad clínica de la EII pediátrica, ¿qué instrumentos se usan respectivamente para la colitis ulcerosa y la enfermedad de Crohn pediátrica?",
+  "options": [
+   {
+    "el": "PUCAI (Pediatric Ulcerative Colitis Activity Index) για ΕΚ · wPCDAI (weighted Pediatric Crohn's Disease Activity Index) για Crohn",
+    "es": "PUCAI (Pediatric Ulcerative Colitis Activity Index) para CU · wPCDAI (weighted Pediatric Crohn's Disease Activity Index) para Crohn"
+   },
+   {
+    "el": "wPCDAI για αμφότερες τις νόσους· το PUCAI δεν έχει παιδιατρική επικύρωση",
+    "es": "wPCDAI para ambas enfermedades; el PUCAI no tiene validación pediátrica"
+   },
+   {
+    "el": "CDAI (Crohn's Disease Activity Index) ενηλίκων για Crohn παιδιών · Mayo score για ΕΚ παιδιών",
+    "es": "CDAI adulto para Crohn pediátrico · Mayo score para CU pediátrica"
+   },
+   {
+    "el": "Μόνο η κοπρανοκαλπροτεκτίνη έχει παιδιατρική επικύρωση · οι κλινικοί δείκτες δεν ισχύουν στα παιδιά",
+    "es": "Solo la calprotectina fecal tiene validación pediátrica; los scores clínicos no están validados en menores"
+   },
+   {
+    "el": "Harvey-Bradshaw Index για Crohn παιδιών · Baron score για ΕΚ παιδιών",
+    "es": "Harvey-Bradshaw Index para Crohn pediátrico · Baron score para CU pediátrica"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Το PUCAI (Turner et al.) είναι ο επικυρωμένος δείκτης για ΕΚ παιδιών (κοιλιακό άλγος, αίμα, σύσταση κοπράνων, συχνότητα, νυκτερινά κόπρανα). Το wPCDAI είναι ο επικυρωμένος δείκτης για Crohn παιδιών, προσθέτοντας ΤΚΕ και αλβουμίνη. Και οι δύο αντικαθιστούν τους δείκτες ενηλίκων (CDAI, Mayo) σε αυτή την ηλικία.",
+  "expl_es": "El PUCAI (Turner et al.) es el índice validado para CU pediátrica (dolor abdominal, sangrado, consistencia heces, frecuencia, deposiciones nocturnas). El wPCDAI es el índice validado para Crohn pediátrico, añadiendo VSG y albúmina. Ambos reemplazan a los scores de adultos (CDAI, Mayo) en este grupo de edad.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Το PUCAI είναι επικυρωμένο και χρησιμοποιείται ευρέως στην παιδιατρική ΕΚ — το αντίθετο ισχύει · <b>C</b> Ο CDAI σχεδιάστηκε για ενήλικες και δεν εφαρμόζεται ευθέως σε παιδιά (διαφορετικά κατώφλια, φυσιολογία) — το wPCDAI είναι η παιδιατρική εκδοχή · <b>D</b> Τόσο το PUCAI όσο και το wPCDAI είναι πλήρως επικυρωμένοι κλινικοί δείκτες στα παιδιά — η καλπροτεκτίνη είναι εργαστηριακός δείκτης, συμπληρωματικός · <b>E</b> Το Harvey-Bradshaw και το Baron score είναι δείκτες ενηλίκων — το Baron score μάλιστα είναι ενδοσκοπικός δείκτης, όχι κλινικός",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> El PUCAI está validado y se usa ampliamente en CU pediátrica — lo contrario es erróneo · <b>C</b> El CDAI fue diseñado para adultos y no aplica directamente en niños (distintos umbrales, fisiología diferente) — el wPCDAI es la versión pediátrica · <b>D</b> Tanto el PUCAI como el wPCDAI son índices clínicos completamente validados en niños — la calprotectina es un marcador de laboratorio, complementario · <b>E</b> El Harvey-Bradshaw y Baron score son índices de adultos — el Baron además es endoscópico, no clínico",
+  "cite": "ECCO-ESPGHAN Consensus on Pediatric IBD 2021 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Inflammatory Bowel Disease»",
+  "id": "B-781"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 91,
+  "concepts": [
+   "c.ped.gi.aplv.ige"
+  ],
+  "topic_el": "ΑΠΛΓ · IgE-μεσολαβούμενη μορφή · Κλινική εικόνα · Διάγνωση",
+  "topic_es": "APLV · Forma IgE mediada · Clínica · Diagnóstico",
+  "stem_el": "Βρέφος 5 μηνών που τρέφεται με τροποποιημένο γάλα εμφανίζει, 30 λεπτά μετά το τάισμα, κνίδωση σε όλο το σώμα, αγγειοίδημα χειλέων και δύσπνοια. Αυξημένη IgE ορού. Ποια η σωστή αντιμετώπιση;",
+  "stem_es": "Lactante de 5 meses alimentado con fórmula adaptada que, a los 30 minutos de la toma, presenta urticaria generalizada, angioedema labial y dificultad respiratoria. IgE total elevada. ¿Cuál es la conducta correcta?",
+  "options": [
+   {
+    "el": "Δυσανεξία στη λακτόζη· αντικατάσταση με φόρμουλα χωρίς λακτόζη",
+    "es": "Intolerancia a la lactosa; sustituir por fórmula sin lactosa"
+   },
+   {
+    "el": "IgE-μεσολαβούμενη ΑΠΛΓ· επιβεβαίωση με ειδική IgE έναντι καζεΐνης/ορού γάλακτος και prick test με φρέσκο γάλα",
+    "es": "APLV IgE mediada; confirmar con IgE específica frente a caseína/proteínas del suero y prick test con leche fresca"
+   },
+   {
+    "el": "ΑΠΛΓ μη-IgE μεσολαβούμενη· βιοψία ορθού για επιβεβαίωση προκτοκολίτιδας",
+    "es": "APLV no IgE mediada; biopsia rectal para confirmar proctocolitis eosinofílica"
+   },
+   {
+    "el": "FPIES (εντεροκολίτιδα από τροφικές πρωτεΐνες)· η άμεση IgE-εξαρτώμενη εικόνα δεν αντιστοιχεί",
+    "es": "FPIES (enterocolitis inducida por proteínas); la clínica IgE inmediata no corresponde a este diagnóstico"
+   },
+   {
+    "el": "Γαστροοισοφαγική παλινδρόμηση με άτυπη παρουσίαση· έναρξη ανασταλτή αντλίας πρωτονίων",
+    "es": "Reflujo gastroesofágico de presentación atípica; iniciar inhibidor de bomba de protones"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Η IgE-μεσολαβούμενη ΑΠΛΓ χαρακτηρίζεται από άμεσα συμπτώματα (εντός 2 ωρών): κνίδωση, αγγειοίδημα, εμετός, αναφυλαξία. Αυξημένη ολική IgE + ειδική IgE έναντι καζεΐνης/πρωτεϊνών ορού και θετικό prick test επιβεβαιώνουν τη διάγνωση. Το FPIES παρουσιάζει άφθονους εμετούς 1-4 ώρες μετά και δεν είναι IgE-εξαρτώμενο.",
+  "expl_es": "La APLV IgE mediada se caracteriza por síntomas inmediatos (dentro de 2 horas): urticaria, angioedema, vómitos, anafilaxia. IgE total elevada + IgE específica a caseína/proteínas del suero y prick test positivo confirman el diagnóstico. FPIES presenta vómitos profusos a 1-4 horas y no es IgE dependiente.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η μη-IgE ΑΠΛΓ εκδηλώνεται ώρες-ημέρες μετά και ΔΕΝ προκαλεί κνίδωση ή δύσπνοια ως αρχικά συμπτώματα — η άμεση αναφυλακτοειδής αντίδραση είναι χαρακτηριστική IgE · <b>A</b> Η δυσανεξία στη λακτόζη είναι ενζυμικό ζήτημα, δεν προκαλεί ποτέ κνίδωση/αγγειοίδημα/δύσπνοια · <b>E</b> Η γαστροοισοφαγική παλινδρόμηση ΔΕΝ εξηγεί κνίδωση, αγγειοίδημα και δύσπνοια — αντένδειξη PPI σε ΑΠΛΓ άνευ ενδείξεων · <b>D</b> Το FPIES εμφανίζεται με έντονους εμετούς 1-4 ώρες μετά, λήθαργο, χλωμάδα — χωρίς κνίδωση ή IgE αύξηση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La APLV no-IgE se manifiesta horas-días después y NO produce urticaria/disnea como síntomas iniciales — la reacción anafilactoide inmediata es característica IgE · <b>A</b> La intolerancia a la lactosa es un problema enzimático, nunca produce urticaria/angioedema/disnea · <b>E</b> El reflujo gastroesofágico NO explica urticaria, angioedema y disnea — contraindicación de IBP sin indicación en APLV · <b>D</b> El FPIES se presenta con vómitos profusos a 1-4 h, letargia, palidez — sin urticaria ni elevación de IgE",
+  "cite": "ESPGHAN Committee on Nutrition, APLV Guidelines 2012 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Gastrointestinal Allergy»",
+  "id": "B-782"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 88,
+  "concepts": [
+   "c.ped.gi.aplv.fpies"
+  ],
+  "topic_el": "ΑΠΛΓ · FPIES · Μη-IgE μεσολαβούμενη εντεροκολίτιδα · Θεραπεία",
+  "topic_es": "APLV · FPIES · Enterocolitis no IgE mediada · Tratamiento",
+  "stem_el": "Βρέφος 3 μηνών με επαναλαμβανόμενους εκρηκτικούς εμετούς και λήθαργο 2 ώρες μετά από κάθε τάισμα με τροποποιημένο γάλα αγελάδας. Χωρίς κνίδωση ή άμεσα συμπτώματα. Ειδική IgE κατά γάλακτος: αρνητική. Ποια η διάγνωση και η αντιμετώπιση;",
+  "stem_es": "Lactante de 3 meses con vómitos explosivos repetidos y letargo 2 horas después de cada toma con fórmula de leche de vaca. Sin urticaria ni síntomas inmediatos. IgE específica frente a leche: negativa. ¿Cuál es el diagnóstico y el tratamiento?",
+  "options": [
+   {
+    "el": "IgE-μεσολαβούμενη ΑΠΛΓ· έναρξη αντιισταμινικού per os και επινεφρίνης σε αναφυλαξία",
+    "es": "APLV IgE mediada; iniciar antihistamínico oral y adrenalina en anafilaxia"
+   },
+   {
+    "el": "Κολικός βρέφους· συνέχιση της ίδιας φόρμουλας και μέτρα ανακούφισης",
+    "es": "Cólico del lactante; continuar con la misma fórmula y medidas de confort"
+   },
+   {
+    "el": "Σύνδρομο εντεροκολίτιδας από τροφικές πρωτεΐνες (FPIES)· υποκατάσταση με φόρμουλα αμινοξέων ή εκτεταμένου υδρολύματος",
+    "es": "Síndrome de enterocolitis inducida por proteínas (FPIES); sustituir por fórmula de aminoácidos o hidrolizado extenso"
+   },
+   {
+    "el": "Εοσινοφιλική οισοφαγίτιδα· παραπομπή για ενδοσκόπηση και βιοψία οισοφάγου",
+    "es": "Esofagitis eosinofílica; derivar para endoscopia y biopsia esofágica"
+   },
+   {
+    "el": "Δυσανεξία στη λακτόζη· αντικατάσταση με φόρμουλα χωρίς λακτόζη (που περιέχει πρωτεΐνες γάλακτος)",
+    "es": "Intolerancia a la lactosa; cambiar a fórmula sin lactosa (que contiene proteínas de leche)"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Το FPIES είναι μη-IgE ΑΠΛΓ. Εμφανίζεται με επαναλαμβανόμενους, άφθονους εμετούς 1-4 ώρες μετά από την κατανάλωση, λήθαργο, χλωμάδα, χωρίς κνίδωση. Η ειδική IgE είναι αρνητική. Θεραπεία: φόρμουλα αμινοξέων (προτιμώμενη) ή εκτεταμένο υδρόλυμα. Αποφυγή σόγιας σε <6 μηνών (διασταυρούμενη αντίδραση).",
+  "expl_es": "El FPIES es una APLV no-IgE. Se presenta con vómitos copiosos repetitivos a 1-4 h de la ingesta, letargia, palidez, sin urticaria. La IgE específica es negativa. Tratamiento: fórmula de aminoácidos (de elección) o hidrolizado extenso. Evitar soja en <6 meses (reactividad cruzada).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Δεν υπάρχει IgE-εξαρτώμενος μηχανισμός — τα αντιισταμινικά/επινεφρίνη δεν αντιμετωπίζουν το FPIES · <b>B</b> Ο κολικός ΔΕΝ εξηγεί επαναλαμβανόμενους εκρηκτικούς εμετούς μετά από τρόφιμο-ειδικές τροφοδοσίες — η σχέση με τη φόρμουλα είναι σαφής · <b>D</b> Η εοσινοφιλική οισοφαγίτιδα προκαλεί δυσφαγία/εγκολεασμό τροφής σε μεγαλύτερα παιδιά — σπάνια εκδηλώνεται με εκρηκτικούς εμετούς σε βρέφη · <b>E</b> Η φόρμουλα χωρίς λακτόζη ΠΕΡΙΕΧΕΙ ακέραιες πρωτεΐνες γάλακτος — δεν αντιμετωπίζει την ΑΠΛΓ",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> No hay mecanismo IgE dependiente — los antihistamínicos/adrenalina no tratan el FPIES · <b>B</b> El cólico NO explica vómitos explosivos repetidos tras tomas específicas — la relación con la fórmula es clara · <b>D</b> La esofagitis eosinofílica causa disfagia/impactación alimentaria en niños mayores — raramente se presenta con vómitos explosivos en lactantes · <b>E</b> La fórmula sin lactosa CONTIENE proteínas de leche íntegras — no trata la APLV",
+  "cite": "ESPGHAN Committee on Nutrition, APLV Guidelines 2012 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Gastrointestinal Allergy»",
+  "id": "B-783"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 90,
+  "concepts": [
+   "c.ped.gi.aplv.formulas"
+  ],
+  "topic_el": "ΑΠΛΓ · Φόρμουλες υποκατάστασης · Εκτεταμένο υδρόλυμα vs Αμινοξέα",
+  "topic_es": "APLV · Fórmulas de sustitución · Hidrolizado extenso vs Aminoácidos",
+  "stem_el": "Βρέφος 4 μηνών με επιβεβαιωμένη ΑΠΛΓ μη-IgE μεσολαβούμενη (προκτοκολίτιδα) που δεν δύναται να λάβει αποκλειστικό μητρικό θηλασμό. Ποια φόρμουλα συνιστάται;",
+  "stem_es": "Lactante de 4 meses con APLV no IgE mediada confirmada (proctocolitis) que no puede recibir lactancia materna exclusiva. ¿Qué fórmula se recomienda?",
+  "options": [
+   {
+    "el": "Μερικώς υδρολυμένη φόρμουλα (pHF), επαρκής για θεραπεία ΑΠΛΓ",
+    "es": "Fórmula parcialmente hidrolizada (pHF), suficiente para el tratamiento de la APLV"
+   },
+   {
+    "el": "Φόρμουλα από υδρολυμένο ρύζι, πρώτης γραμμής για ΑΠΛΓ σε βρέφη στην Ευρώπη",
+    "es": "Fórmula de arroz hidrolizado, primera línea para APLV en lactantes en Europa"
+   },
+   {
+    "el": "Φόρμουλα κατσικίσιου γάλακτος, επαρκώς διαφορετική αντιγονικά από το αγελαδινό γάλα",
+    "es": "Fórmula de leche de cabra, suficientemente diferente en estructura antigénica de la leche de vaca"
+   },
+   {
+    "el": "Εκτεταμένο υδρόλυμα πρωτεϊνών (eHF), ανεκτό από >90% ασθενών με ΑΠΛΓ· φόρμουλα αμινοξέων (AAF) εάν αποτύχει ή σε FPIES/εοσινοφιλική οισοφαγίτιδα",
+    "es": "Hidrolizado extenso de proteínas (eHF), tolerado por >90% de pacientes con APLV; fórmula de aminoácidos (AAF) si falla o en FPIES/esofagitis eosinofílica"
+   },
+   {
+    "el": "Φόρμουλα σόγιας, καλά ανεκτή σε βρέφη οποιασδήποτε ηλικίας με ΑΠΛΓ",
+    "es": "Fórmula de soja, bien tolerada en lactantes de cualquier edad con APLV"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Οδηγία ESPGHAN 2012: το εκτεταμένο υδρόλυμα (eHF) είναι πρώτη γραμμή, ανεκτό από >90% ασθενών με ΑΠΛΓ. Η φόρμουλα αμινοξέων (AAF) ενδείκνυται σε: FPIES, εοσινοφιλική οισοφαγίτιδα, αποτυχία eHF, σοβαρή αναφυλαξία ή αναπτυξιακή κατάπτωση. Φόρμουλα σόγιας: αντενδείκνυται σε <6 μηνών. Μερικό υδρόλυμα: πρόληψη, όχι θεραπεία.",
+  "expl_es": "Guía ESPGHAN 2012: el hidrolizado extenso (eHF) es primera línea, tolerado por >90% de pacientes con APLV. La fórmula de aminoácidos (AAF) se indica en: FPIES, esofagitis eosinofílica, fallo del eHF, anafilaxia grave o faltering growth. Fórmula de soja: contraindicada en <6 meses. Hidrolizado parcial: prevención, no tratamiento.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Φόρμουλα σόγιας αντενδείκνυται σε <6 μηνών (φυτοοιστρογόνα, χαμηλότερη βιολογική αξία πρωτεΐνης, 10-14% διασταυρούμενες αντιδράσεις σε μη-IgE ΑΠΛΓ) · <b>A</b> Το μερικό υδρόλυμα (pHF) χρησιμεύει ως πρόληψη σε βρέφη υψηλού κινδύνου — ΔΕΝ αντιμετωπίζει εγκατεστημένη ΑΠΛΓ · <b>C</b> Φόρμουλα κατσικίσιου γάλακτος αντενδείκνυται: >90% αντιγονική διασταυρούμενη αντίδραση με αγελαδινό γάλα — δεν είναι εναλλακτική · <b>B</b> Φόρμουλα υδρολυμένου ρυζιού δεν είναι επίσημα εγκεκριμένη ως πρώτη γραμμή για ΑΠΛΓ στη σχετική ευρωπαϊκή κατευθυντήρια",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> Fórmula de soja contraindicada en <6 meses (fitoestrógenos, menor valor proteico, 10-14% reactividad cruzada en APLV no-IgE) · <b>A</b> El hidrolizado parcial (pHF) es para prevención en lactantes de alto riesgo — NO trata una APLV establecida · <b>C</b> Fórmula de leche de cabra contraindicada: >90% reactividad cruzada antigénica con leche de vaca — no es alternativa · <b>B</b> La fórmula de arroz hidrolizado no está oficialmente aprobada como primera línea para APLV en la guía europea correspondiente",
+  "cite": "ESPGHAN Committee on Nutrition, APLV Guidelines 2012 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Gastrointestinal Allergy»",
+  "id": "B-784"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 85,
+  "concepts": [
+   "c.ped.gi.aplv.tolerancia"
+  ],
+  "topic_el": "ΑΠΛΓ · Ανάπτυξη ανοχής · Πρωτόκολλο σκάλας γάλακτος",
+  "topic_es": "APLV · Adquisición de tolerancia · Protocolo escalera de leche",
+  "stem_el": "Κοριτσάκι 18 μηνών με IgE-μεσολαβούμενη ΑΠΛΓ από 4 μηνών. Πρόσφατος έλεγχος: ειδική IgE γάλακτος σε πτώση. Η οικογένεια ρωτά πότε και πώς μπορεί να ξαναεισαχθεί το γάλα. Ποια είναι η σωστή προσέγγιση;",
+  "stem_es": "Niña de 18 meses con APLV IgE mediada diagnosticada a los 4 meses. Control reciente: IgE específica frente a leche en descenso. La familia pregunta cuándo y cómo puede reintroducir los lácteos. ¿Cuál es la conducta correcta?",
+  "options": [
+   {
+    "el": "Η IgE ΑΠΛΓ είναι χρόνια και δεν υποχωρεί ποτέ πριν τα 10 έτη· αποφυγή μέχρι τότε",
+    "es": "La APLV IgE mediada es crónica y nunca se resuelve antes de los 10 años; evitación hasta entonces"
+   },
+   {
+    "el": "Η επαναεισαγωγή γίνεται μόνο σε νοσοκομειακό πλαίσιο με ανοιχτή πρόκληση με πλήρες υγρό γάλα",
+    "es": "La reintroducción se realiza solo en medio hospitalario con provocación abierta con leche entera líquida"
+   },
+   {
+    "el": "Αρνητική ειδική IgE επιβεβαιώνει ανοχή· επαναεισαγωγή ελεύθερα χωρίς σταδιακό πρωτόκολλο",
+    "es": "Una IgE específica negativa confirma tolerancia; reintroducción libre sin protocolo escalonado"
+   },
+   {
+    "el": "Η ανοχή σε IgE ΑΠΛΓ αποκτάται πριν από 6 μήνες αποφυγής· επαναεισαγωγή απευθείας με πλήρες αγελαδινό γάλα",
+    "es": "La tolerancia en APLV IgE mediada se adquiere antes de 6 meses de evitación; reintroducir directamente con leche entera"
+   },
+   {
+    "el": "Το 85% αποκτά ανοχή πριν από τα 3 έτη· συνιστάται το πρωτόκολλο σκάλας γάλακτος (Matrix protocol): έναρξη από πολύ επεξεργασμένο γάλα (μπισκότα, κέικ) με σταδιακή πρόοδο",
+    "es": "El 85% adquiere tolerancia antes de los 3 años; se recomienda el protocolo escalera de leche (Matrix protocol): comenzar por leche muy procesada/horneada (galletas, bizcocho) con progresión gradual"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Το 85% των παιδιών με ΑΠΛΓ (IgE και μη-IgE) αποκτά ανοχή πριν τα 3 έτη. Το πρωτόκολλο σκάλας γάλακτος (Matrix protocol) είναι η τεκμηριωμένη προσέγγιση: επεξεργασμένο/ψημένο γάλα πρώτα (μπισκότα, κέικ — οι εκτεταμένα θερμαινόμενες πρωτεΐνες χάνουν αλλεργιογόνο ικανότητα) με σταδιακή πρόοδο υπό ιατρική επίβλεψη.",
+  "expl_es": "El 85% de los niños con APLV (IgE y no-IgE) adquiere tolerancia antes de los 3 años. El protocolo escalera de leche (Matrix protocol) es el enfoque con evidencia: leche procesada/horneada primero (galletas, bizcocho — las proteínas extensamente calentadas pierden alergenicidad) con progresión gradual bajo supervisión médica.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η ανοχή δεν αποκτάται τόσο γρήγορα (6 μήνες) και δεν επαναεισάγεται απευθείας με πλήρες γάλα σε IgE ΑΠΛΓ — κίνδυνος αναφυλαξίας · <b>A</b> Η IgE ΑΠΛΓ υποχωρεί στην πλειοψηφία πριν τα 3-5 έτη — δεν είναι χρόνια ισόβια κατάσταση κατά κανόνα · <b>B</b> Η επαναεισαγωγή με πλήρες υγρό γάλα ως πρώτο βήμα είναι λανθασμένη — το Matrix protocol ξεκινά από ψημένο/επεξεργασμένο · <b>C</b> Αρνητική ειδική IgE είναι καλός προγνωστικός δείκτης αλλά ΔΕΝ επιβεβαιώνει ανοχή απόλυτα — απαιτείται σταδιακή επαναεισαγωγή υπό επίβλεψη",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> La tolerancia no se adquiere tan rápido (6 meses) y no se reintroduce directamente con leche entera en APLV IgE — riesgo de anafilaxia · <b>A</b> La APLV IgE se resuelve en la mayoría antes de los 3-5 años — no es una condición crónica permanente como norma · <b>B</b> La reintroducción con leche entera líquida como primer paso es incorrecta — el protocolo Matrix empieza por procesado/horneado · <b>C</b> La IgE específica negativa es buen marcador pronóstico pero NO confirma tolerancia de forma absoluta — se requiere reintroducción gradual supervisada",
+  "cite": "ESPGHAN Committee on Nutrition, APLV Guidelines 2012 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Gastrointestinal Allergy»",
+  "id": "B-785"
+ },
+ {
+  "sid": "ped-gi",
+  "prob": 88,
+  "concepts": [
+   "c.ped.gi.aplv.vs_lactosa"
+  ],
+  "topic_el": "ΑΠΛΓ vs Δυσανεξία στη λακτόζη · Διαφορική διάγνωση",
+  "topic_es": "APLV vs intolerancia a la lactosa · Diagnóstico diferencial",
+  "stem_el": "Μητέρα βρέφους 6 μηνών, στο οποίο ο παιδίατρος διέγνωσε ΑΠΛΓ, πληροφορείται από το διαδίκτυο ότι πρόκειται για «δυσανεξία στη λακτόζη» και μπορεί να χορηγήσει φόρμουλα χωρίς λακτόζη. Ποια είναι η ουσιώδης διαφορά μεταξύ των δύο καταστάσεων;",
+  "stem_es": "Madre de un lactante de 6 meses al que el pediatra diagnosticó APLV, lee en internet que es «intolerancia a la lactosa» y puede dar fórmula sin lactosa. ¿Cuál es la diferencia fundamental entre ambas condiciones?",
+  "options": [
+   {
+    "el": "Η ΑΠΛΓ είναι ανοσολογική αντίδραση (IgE ή κυτταρική) έναντι πρωτεϊνών γάλακτος· η δυσανεξία στη λακτόζη είναι ανεπάρκεια ενζύμου λακτάσης· η φόρμουλα χωρίς λακτόζη ΔΕΝ αντιμετωπίζει την ΑΠΛΓ",
+    "es": "La APLV es una reacción inmunológica (IgE o celular) frente a proteínas de la leche; la intolerancia a la lactosa es déficit de la enzima lactasa; la fórmula sin lactosa NO trata la APLV"
+   },
+   {
+    "el": "Η δυσανεξία στη λακτόζη είναι ανοσολογική (IgG-εξαρτώμενη)· η ΑΠΛΓ είναι ενζυμική",
+    "es": "La intolerancia a la lactosa es inmunológica (IgG mediada); la APLV es enzimática"
+   },
+   {
+    "el": "Αμφότερες απαιτούν πλήρη αποφυγή όλων των γαλακτοκομικών προϊόντων ισοβίως",
+    "es": "Ambas requieren eliminación completa de todos los productos lácteos de por vida"
+   },
+   {
+    "el": "Η δυσανεξία στη λακτόζη αντιμετωπίζεται ομοίως με την ΑΠΛΓ με εκτεταμένο υδρόλυμα πρωτεϊνών",
+    "es": "La intolerancia a la lactosa se trata igual que la APLV con hidrolizado extenso de proteínas"
+   },
+   {
+    "el": "Είναι η ίδια κατάσταση· η φόρμουλα χωρίς λακτόζη είναι η θεραπεία της μη-IgE ΑΠΛΓ",
+    "es": "Son la misma entidad; la fórmula sin lactosa es el tratamiento de la APLV no IgE mediada"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "ΑΠΛΓ = ανοσολογική αντίδραση (IgE ή T-κυτταρική) έναντι πρωτεϊνών γάλακτος (καζεΐνη, α-λακτοαλβουμίνη, β-λακτοσφαιρίνη). Θεραπεία: φόρμουλα χωρίς πρωτεΐνες (eHF ή AAF). Δυσανεξία λακτόζης = ανεπάρκεια λακτάσης, αδυναμία πέψης σακχάρου γάλακτος. Θεραπεία: γαλακτοκομικά χωρίς λακτόζη (που περιέχουν ακέραιες πρωτεΐνες). Φόρμουλα χωρίς λακτόζη σε ΑΠΛΓ = καμία θεραπευτική δράση.",
+  "expl_es": "APLV = reacción inmunológica (IgE o T-celular) frente a proteínas de la leche (caseína, alfa-lactoalbúmina, beta-lactoglobulina). Tratamiento: fórmula libre de proteínas (eHF o AAF). Intolerancia lactosa = déficit de lactasa, incapacidad de digerir el azúcar de la leche. Tratamiento: lácteos sin lactosa (que contienen proteínas íntegras). Fórmula sin lactosa en APLV = ningún beneficio terapéutico.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Δεν είναι η ίδια κατάσταση — ο μηχανισμός είναι τελείως διαφορετικός (ανοσολογικός vs ενζυμικός) · <b>B</b> Είναι αντεστραμμένο: η ΑΠΛΓ είναι ανοσολογική, η δυσανεξία λακτόζης είναι ενζυμική — ΟΧΙ το αντίθετο · <b>D</b> Η δυσανεξία στη λακτόζη δεν αντιμετωπίζεται με εκτεταμένο υδρόλυμα πρωτεϊνών — επαρκεί η αποφυγή λακτόζης · <b>C</b> Η ΑΠΛΓ υποχωρεί στο 85% πριν τα 3 έτη· η δυσανεξία στη λακτόζη (πρωτοπαθής) εμφανίζεται στην εφηβεία και παραμένει αλλά επιτρέπει περιορισμένη πρόσληψη",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> No son la misma entidad — el mecanismo es completamente diferente (inmunológico vs enzimático) · <b>B</b> Está invertido: la APLV es inmunológica, la intolerancia a lactosa es enzimática — NO al contrario · <b>D</b> La intolerancia a lactosa no se trata con hidrolizado extenso de proteínas — basta evitar la lactosa · <b>C</b> La APLV se resuelve en el 85% antes de los 3 años; la intolerancia a lactosa (primaria) aparece en la adolescencia y persiste pero permite ingesta limitada",
+  "cite": "ESPGHAN Committee on Nutrition, APLV Guidelines 2012 · Nelson Textbook of Pediatrics 21.ª ed., cap. «Gastrointestinal Allergy»",
+  "id": "B-786"
  },
  {
   "id": "B-813",

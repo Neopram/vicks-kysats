@@ -2405,6 +2405,806 @@
   "id": "C-176"
  },
  {
+  "sid": "surg-acute",
+  "prob": 92,
+  "concepts": [
+   "c.surg.acute.pancreatitis_diagnostico"
+  ],
+  "topic_el": "Παγκρεατίτιδα · Διαγνωστικά κριτήρια Atlanta 2012",
+  "topic_es": "Pancreatitis aguda · Criterios diagnósticos Atlanta 2012",
+  "stem_el": "Άνδρας 45 ετών εμφανίζει οξύ επιγαστρικό άλγος που ακτινοβολεί στη ράχη μετά από πλούσιο γεύμα. Αρτηριακή πίεση 110/70 mmHg, ΣΦ 100 bpm, θερμοκρασία 37,8°C. Λιπάση ορού 580 U/L (φ.τ. < 60 U/L). Υπερηχογράφημα κοιλίας: χολολιθίαση, χωρίς ορατή παθολογία παγκρέατος. Σύμφωνα με τα κριτήρια Atlanta 2012, ποιο εύρημα, σε συνδυασμό με το τυπικό άλγος, επαρκεί για τη διάγνωση οξείας παγκρεατίτιδας;",
+  "stem_es": "Varón de 45 años con dolor epigástrico agudo irradiado a la espalda tras ingesta copiosa. TA 110/70 mmHg, FC 100 lpm, Tª 37,8°C. Lipasa sérica 580 U/L (VN < 60 U/L). Ecografía abdominal: colelitiasis, sin alteración pancreática visible. Según los criterios de Atlanta 2012, ¿qué hallazgo, junto con el dolor típico, es suficiente para establecer el diagnóstico de pancreatitis aguda?",
+  "options": [
+   {
+    "el": "Λιπάση ορού ≥ 3 φορές το ανώτατο φυσιολογικό όριο",
+    "es": "Lipasa sérica ≥ 3 veces el límite superior normal"
+   },
+   {
+    "el": "Εικόνα οιδήματος παγκρέατος σε υπερηχογράφημα",
+    "es": "Imagen de edema pancreático en ecografía"
+   },
+   {
+    "el": "CT κοιλίας με εστιακή υποπρόσληψη παρεγχύματος παγκρέατος",
+    "es": "TC abdominal con hipocaptación focal del parénquima pancreático"
+   },
+   {
+    "el": "Πυρετός ≥ 38°C με λευκοκυττάρωση > 12 000/mm³",
+    "es": "Fiebre ≥ 38°C con leucocitosis > 12 000/mm³"
+   },
+   {
+    "el": "CRP > 150 mg/L στις 48 ώρες από την έναρξη",
+    "es": "PCR > 150 mg/L a las 48 horas del inicio"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Τα κριτήρια Atlanta 2012 ορίζουν τη διάγνωση οξείας παγκρεατίτιδας όταν υπάρχουν ≥ 2 από τα 3 εξής: (1) τυπικό άλγος (επιγαστρικό, ακτινοβόλο στη ράχη), (2) αύξηση αμυλάσης ή λιπάσης ορού ≥ 3× φυσιολογικού ορίου, (3) χαρακτηριστικά ευρήματα σε CT ή MRI. Η λιπάση ≥ 3× (παρ. Β) σε συνδυασμό με το τυπικό άλγος ικανοποιεί δύο κριτήρια — άρα η διάγνωση τίθεται χωρίς CT.",
+  "expl_es": "Los criterios de Atlanta 2012 establecen el diagnóstico de pancreatitis aguda con ≥ 2 de 3: (1) dolor típico (epigástrico, irradiado a espalda), (2) amilasa o lipasa sérica ≥ 3× límite normal, (3) hallazgos en TC o RM compatibles. Una lipasa ≥ 3× (opción B) junto con el dolor típico cumple dos criterios — el diagnóstico queda establecido sin necesidad de TC.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Το υπερηχογράφημα δεν ανιχνεύει αξιόπιστα το παγκρεατικό οίδημα στα πρώτα στάδια και δεν αποτελεί κριτήριο Atlanta · <b>E</b> Η CRP > 150 mg/L στις 48 ώρες είναι δείκτης βαρύτητας, όχι διαγνωστικό κριτήριο · <b>D</b> Πυρετός και λευκοκυττάρωση είναι αναίτια ευρήματα που δεν αναφέρονται στα κριτήρια Atlanta · <b>C</b> Η CT επιβεβαιώνει επιπλοκές αλλά δεν απαιτείται όταν άλγος + ένζυμα ≥ 3× ικανοποιούν τη διάγνωση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> La ecografía no detecta de forma fiable el edema pancreático en fases iniciales y no es criterio de Atlanta · <b>E</b> La PCR > 150 mg/L a las 48 h es marcador de gravedad, no criterio diagnóstico · <b>D</b> La fiebre y la leucocitosis son hallazgos inespecíficos no recogidos en los criterios de Atlanta · <b>C</b> La TC confirma complicaciones pero no es necesaria cuando el dolor más enzimas ≥ 3× ya satisfacen el diagnóstico",
+  "cite": "Sabiston 21.ª ed., cap. «Páncreas exocrino: pancreatitis aguda» · Banks PA et al., Atlanta Classification 2012, Gut 2013",
+  "id": "C-177"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 90,
+  "concepts": [
+   "c.surg.acute.pancreatitis_gravedad_atlanta"
+  ],
+  "topic_el": "Παγκρεατίτιδα · Ταξινόμηση βαρύτητας Atlanta 2012",
+  "topic_es": "Pancreatitis aguda · Clasificación de gravedad Atlanta 2012",
+  "stem_el": "Γυναίκα 58 ετών με οξεία παγκρεατίτιδα βρίσκεται στην 3η ημέρα νοσηλείας. Κρεατινίνη 2,3 mg/dL (βασική 0,8 mg/dL), PaO₂/FiO₂ 255 mmHg, αρτηριακή πίεση 105/70 mmHg. CT κοιλίας δεν δείχνει νέκρωση ή περιπαγκρεατικές συλλογές. Κατά την ταξινόμηση Atlanta 2012, ποια κατηγορία αντιστοιχεί σε αυτήν την εικόνα;",
+  "stem_es": "Mujer de 58 años con pancreatitis aguda en el 3.er día de ingreso. Creatinina 2,3 mg/dL (basal 0,8 mg/dL), PaO₂/FiO₂ 255 mmHg, TA 105/70 mmHg. TC abdominal sin necrosis ni colecciones peripancreáticas. Según la clasificación de Atlanta 2012, ¿qué categoría corresponde a este cuadro?",
+  "options": [
+   {
+    "el": "Μέτρια οξεία παγκρεατίτιδα λόγω τοπικών επιπλοκών χωρίς οργανική ανεπάρκεια",
+    "es": "Pancreatitis aguda moderada por complicaciones locales sin fallo orgánico"
+   },
+   {
+    "el": "Σοβαρή οξεία παγκρεατίτιδα λόγω εμμένουσας οργανικής ανεπάρκειας (> 48 ώρες)",
+    "es": "Pancreatitis aguda grave por fallo orgánico persistente (> 48 horas)"
+   },
+   {
+    "el": "Σοβαρή οξεία παγκρεατίτιδα λόγω μολυσμένης νέκρωσης επιβεβαιωμένης βιοψία",
+    "es": "Pancreatitis aguda grave por necrosis infectada confirmada por biopsia"
+   },
+   {
+    "el": "Μέτρια οξεία παγκρεατίτιδα λόγω παροδικής οργανικής ανεπάρκειας (< 48 ώρες)",
+    "es": "Pancreatitis aguda moderada por fallo orgánico transitorio (< 48 horas)"
+   },
+   {
+    "el": "Ήπια οξεία παγκρεατίτιδα (χωρίς οργανική ανεπάρκεια, χωρίς τοπικές επιπλοκές)",
+    "es": "Pancreatitis aguda leve (sin fallo orgánico ni complicaciones locales)"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Η Atlanta 2012 ορίζει σοβαρή οξεία παγκρεατίτιδα ως εκείνη με εμμένουσα οργανική ανεπάρκεια > 48 ώρες (νεφρική, αναπνευστική ή καρδιαγγειακή), αξιολογούμενη με κλίμακα Modified Marshall. Κρεατινίνη 2,3 (≥ 2 αναπνευστική: PaO₂/FiO₂ 255 < 300) στην 3η ημέρα υποδηλώνει εμμένουσα πολυοργανική δυσλειτουργία → σοβαρή κατηγορία. Δεν απαιτείται νέκρωση για τον χαρακτηρισμό «σοβαρή».",
+  "expl_es": "La Atlanta 2012 define la pancreatitis aguda grave como aquella con fallo orgánico persistente > 48 horas (renal, respiratorio o cardiovascular), evaluado con la escala de Marshall modificada. Creatinina 2,3 (fallo renal) y PaO₂/FiO₂ 255 < 300 (fallo respiratorio) en el día 3 evidencian fallo orgánico persistente → categoría grave. No se requiere necrosis para clasificar como grave.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η ήπια μορφή δεν έχει οργανική ανεπάρκεια ούτε τοπικές επιπλοκές · <b>A</b> Η μέτρια μορφή με τοπικές επιπλοκές δεν έχει οργανική ανεπάρκεια — εδώ υπάρχει σαφής νεφρική + αναπνευστική δυσλειτουργία · <b>D</b> Η παροδική οργανική ανεπάρκεια διαρκεί < 48 ώρες — εδώ η δυσλειτουργία υπάρχει στην 3η ημέρα, άρα εμμένουσα · <b>C</b> Η νέκρωση μπορεί να μην υπάρχει στη σοβαρή μορφή· εδώ αποκλείστηκε με CT",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> La forma leve no presenta fallo orgánico ni complicaciones locales · <b>A</b> La forma moderada con complicaciones locales no tiene fallo orgánico — aquí existe disfunción renal y respiratoria clara · <b>D</b> El fallo orgánico transitorio dura < 48 h — aquí la disfunción persiste en el día 3, por tanto es persistente · <b>C</b> La necrosis puede estar ausente en la forma grave; aquí se descartó con TC",
+  "cite": "Sabiston 21.ª ed., cap. «Páncreas exocrino» · Banks PA et al., Atlanta Classification 2012, Gut 2013",
+  "id": "C-178"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 82,
+  "concepts": [
+   "c.surg.acute.pancreatitis_ranson"
+  ],
+  "topic_el": "Παγκρεατίτιδα · Κριτήρια Ranson — κατά την εισαγωγή vs 48 ώρες",
+  "topic_es": "Pancreatitis aguda · Criterios de Ranson — al ingreso vs 48 horas",
+  "stem_el": "Ασθενής νοσηλεύεται για οξεία παγκρεατίτιδα. Ποιο από τα παρακάτω αποτελεί κριτήριο Ranson που αξιολογείται ΑΠΟΚΛΕΙΣΤΙΚΑ κατά την εισαγωγή (0 ώρες) και όχι στις 48 ώρες;",
+  "stem_es": "Un paciente es ingresado por pancreatitis aguda. ¿Cuál de los siguientes es un criterio de Ranson que se evalúa EXCLUSIVAMENTE en el momento del ingreso (hora 0) y no a las 48 horas?",
+  "options": [
+   {
+    "el": "Πτώση αιματοκρίτη > 10 μονάδες",
+    "es": "Caída del hematocrito > 10 puntos"
+   },
+   {
+    "el": "Έλλειμμα βάσεων > 4 mEq/L",
+    "es": "Déficit de bases > 4 mEq/L"
+   },
+   {
+    "el": "Γλυκόζη αίματος > 200 mg/dL",
+    "es": "Glucosa en sangre > 200 mg/dL"
+   },
+   {
+    "el": "Ασβέστιο ορού < 8 mg/dL",
+    "es": "Calcio sérico < 8 mg/dL"
+   },
+   {
+    "el": "Αύξηση BUN > 5 mg/dL σε σχέση με εισαγωγή",
+    "es": "Elevación de BUN > 5 mg/dL respecto al ingreso"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Τα κριτήρια Ranson κατά την εισαγωγή (0 ώρες) είναι: ηλικία > 55, λευκοκύτταρα > 16 000, γλυκόζη > 200 mg/dL, LDH > 350 IU/L, AST > 250 IU/L. Τα κριτήρια στις 48 ώρες περιλαμβάνουν: πτώση αιματοκρίτη > 10%, αύξηση BUN > 5 mg/dL, ασβέστιο < 8 mg/dL, PaO₂ < 60 mmHg, έλλειμμα βάσεων > 4 mEq/L, sequestration υγρού > 6 L. Η γλυκόζη > 200 mg/dL ανήκει αποκλειστικά στην εισαγωγή.",
+  "expl_es": "Los criterios de Ranson al ingreso (hora 0) son: edad > 55, leucocitos > 16 000, glucosa > 200 mg/dL, LDH > 350 UI/L, AST > 250 UI/L. Los criterios a las 48 horas incluyen: caída de hematocrito > 10%, aumento de BUN > 5 mg/dL, calcio < 8 mg/dL, PaO₂ < 60 mmHg, déficit de bases > 4 mEq/L, secuestro de líquido > 6 L. La glucosa > 200 mg/dL pertenece exclusivamente al ingreso.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η πτώση αιματοκρίτη > 10% αξιολογείται στις 48 ώρες · <b>B</b> Το έλλειμμα βάσεων > 4 mEq/L αξιολογείται στις 48 ώρες · <b>D</b> Το ασβέστιο < 8 mg/dL αξιολογείται στις 48 ώρες · <b>E</b> Η αύξηση BUN > 5 mg/dL εκτιμάται σε σχέση με την τιμή εισαγωγής, άρα αξιολογείται στις 48 ώρες",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La caída del hematocrito > 10% se evalúa a las 48 horas · <b>B</b> El déficit de bases > 4 mEq/L se evalúa a las 48 horas · <b>D</b> El calcio < 8 mg/dL se evalúa a las 48 horas · <b>E</b> El aumento de BUN > 5 mg/dL se mide respecto al valor al ingreso, por tanto se evalúa a las 48 horas",
+  "cite": "Sabiston 21.ª ed., cap. «Páncreas exocrino: pancreatitis aguda» · Schwartz's Principles of Surgery 11.ª ed., cap. «The Pancreas»",
+  "id": "C-179"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 78,
+  "concepts": [
+   "c.surg.acute.pancreatitis_bisap"
+  ],
+  "topic_el": "Παγκρεατίτιδα · BISAP score — συστατικά και πρόγνωση",
+  "topic_es": "Pancreatitis aguda · Score BISAP — componentes y pronóstico",
+  "stem_el": "Ασθενής με οξεία παγκρεατίτιδα έχει: BUN 29 mg/dL, σύγχυση (GCS 13), θερμοκρασία 38,6°C με ΣΦ 98 bpm και λευκοκύτταρα 11 800/mm³ (SIRS: 2 κριτήρια), ηλικία 67 ετών και αμφοτερόπλευρη πλευριτική συλλογή. Ποια βαθμολογία BISAP και ποια πρόγνωση αντιστοιχεί;",
+  "stem_es": "Un paciente con pancreatitis aguda presenta: BUN 29 mg/dL, confusión (GCS 13), temperatura 38,6°C con FC 98 lpm y leucocitos 11 800/mm³ (SIRS: 2 criterios), edad 67 años y derrame pleural bilateral. ¿Qué puntuación BISAP y qué pronóstico corresponde?",
+  "options": [
+   {
+    "el": "BISAP 2/5 · χαμηλός κίνδυνος · μπορεί να εξαχθεί με παρακολούθηση",
+    "es": "BISAP 2/5 · riesgo bajo · puede darse de alta con seguimiento"
+   },
+   {
+    "el": "BISAP 3/5 · χρησιμοποιείται μόνο τις πρώτες 6 ώρες από την έναρξη",
+    "es": "BISAP 3/5 · solo se aplica en las primeras 6 horas del inicio del dolor"
+   },
+   {
+    "el": "BISAP ισοδυναμεί με κλίμακα Ranson και υπολογίζεται στις 48 ώρες",
+    "es": "BISAP equivale al score de Ranson y se calcula a las 48 horas"
+   },
+   {
+    "el": "BISAP 5/5 · υψηλός κίνδυνος θνητότητας (> 10%)",
+    "es": "BISAP 5/5 · riesgo de mortalidad alto (> 10%)"
+   },
+   {
+    "el": "BISAP 4/5 · επιβεβαιώνει μολυσμένη νέκρωση",
+    "es": "BISAP 4/5 · confirma necrosis infectada con certeza"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Το BISAP score αξιολογεί 5 παράγοντες στις πρώτες 24 ώρες: BUN > 25 mg/dL (✓), Impaired mental status/GCS < 15 (✓), SIRS ≥ 2 κριτήρια (✓), Age > 60 (✓), Pleural effusion (✓). Βαθμολογία = 5/5. Σκόρ ≥ 3 συνδέεται με θνητότητα > 5–22%· βαθμολογία 5 αντιστοιχεί σε ιδιαίτερα υψηλό κίνδυνο.",
+  "expl_es": "El BISAP score evalúa 5 parámetros en las primeras 24 horas: BUN > 25 mg/dL (✓), estado mental alterado/GCS < 15 (✓), SIRS ≥ 2 criterios (✓), edad > 60 (✓), derrame pleural (✓). Puntuación = 5/5. Score ≥ 3 se asocia a mortalidad > 5–22%; puntuación 5 implica riesgo especialmente elevado.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Το BISAP 2 αντιστοιχεί σε χαμηλό κίνδυνο· αλλά εδώ τα 5 συστατικά είναι θετικά, άρα η βαθμολογία δεν είναι 2 · <b>E</b> BISAP δεν επιβεβαιώνει μολυσμένη νέκρωση — η μολυσμένη νέκρωση διαγιγνώσκεται με CT (αέριο) ή PAAF · <b>B</b> Το BISAP υπολογίζεται στις πρώτες 24 ώρες, όχι στις 6 ώρες · <b>C</b> Το BISAP διαφέρει από το Ranson: υπολογίζεται ολοκληρωτικά στις 24 ώρες, όχι σε δύο φάσεις",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> BISAP 2 corresponde a riesgo bajo, pero aquí los 5 componentes son positivos · <b>E</b> El BISAP no confirma necrosis infectada — ésta se diagnostica por TC (gas) o PAAF · <b>B</b> El BISAP se calcula en las primeras 24 horas, no en las primeras 6 · <b>C</b> El BISAP difiere del Ranson: se calcula íntegramente a las 24 horas, no en dos fases",
+  "cite": "Wu BU et al., Arch Intern Med 2008 (BISAP) · IAP/APA guidelines 2013 · Sabiston 21.ª ed., cap. «Páncreas exocrino»",
+  "id": "C-180"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 85,
+  "concepts": [
+   "c.surg.acute.pancreatitis_necrosis_infectada"
+  ],
+  "topic_el": "Παγκρεατίτιδα · Μολυσμένη νέκρωση — αέριο σε CT, θεραπεία",
+  "topic_es": "Pancreatitis necrotizante · Necrosis infectada — gas en TC, tratamiento",
+  "stem_el": "Άνδρας 52 ετών με νεκρωτική παγκρεατίτιδα (CT Severity Index 8). Στην 3η εβδομάδα: πυρετός 39°C, λευκοκυττάρωση, κλινική επιδείνωση. Επανεκτίμηση με CT αναδεικνύει φυσαλίδες αερίου εντός της νεκρωτικής συλλογής. Ποιο είναι το επόμενο κατάλληλο βήμα;",
+  "stem_es": "Varón de 52 años con pancreatitis necrotizante (CTSI 8). En la 3.ª semana: fiebre 39°C, leucocitosis, deterioro clínico. TC de control muestra burbujas de gas en el interior de la colección necrótica. ¿Cuál es el paso siguiente más adecuado?",
+  "options": [
+   {
+    "el": "Παρακέντηση-αναρρόφηση με λεπτή βελόνα (PAAF) για επιβεβαίωση μικροβιακής μόλυνσης",
+    "es": "Punción-aspiración con aguja fina (PAAF) para confirmar infección microbiana"
+   },
+   {
+    "el": "Άμεση εκτεταμένη χειρουργική αφαίρεση νέκρωσης (ανοιχτή λαπαροτομή)",
+    "es": "Necrosectomía quirúrgica abierta inmediata (laparotomía)"
+   },
+   {
+    "el": "Αποκλειστικά συντηρητική αγωγή · το ενδοσυλλογικό αέριο δεν υποδηλώνει λοίμωξη",
+    "es": "Solo tratamiento conservador; el gas intracolección no indica infección"
+   },
+   {
+    "el": "Χολοκυστεκτομή εάν η αιτία είναι χολολιθιάσεις, ως πρώτο βήμα ελέγχου εστίας",
+    "es": "Colecistectomía si la causa es litiásica, como primer paso de control del foco"
+   },
+   {
+    "el": "Έναρξη αντιβιοτικών (καρβαπενέμη) και σχεδιασμός ελάχιστα επεμβατικής αποσαθρωτικής (≥ 4 εβδομάδες εάν σταθεροποιηθεί)",
+    "es": "Inicio de antibióticos (carbapeném) y planificación de drenaje mínimamente invasivo ≥ 4 semanas del inicio si estabiliza"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Αέριο εντός νεκρωτικής συλλογής σε CT αποτελεί παθογνωμονικό σημείο μολυσμένης νέκρωσης — δεν χρειάζεται PAAF για επιβεβαίωση. Αντιμετώπιση: (1) αντιβιοτικά (καρβαπενέμη ή μεθοτρεξάτη + μετρονιδαζόλη), (2) 'step-up approach': αναμονή ≥ 4 εβδομάδων εφόσον ο ασθενής σταθεροποιείται (ωριμάζουν τα τοιχώματα), ακολουθούμενη από διαδερμική αποστράγγιση ή ενδοσκοπική/ελάχιστα επεμβατική νεκροσεκτομή.",
+  "expl_es": "El gas en la colección necrótica en TC es patognomónico de necrosis infectada — no se requiere PAAF para confirmación. Tratamiento: (1) antibióticos (carbapeném), (2) 'step-up approach': esperar ≥ 4 semanas si el paciente estabiliza (para maduración de paredes), seguido de drenaje percutáneo o necrosectomía endoscópica/mínimamente invasiva.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η PAAF δεν απαιτείται όταν το CT δείχνει αέριο — αυτό είναι παθογνωμονικό · <b>D</b> Η χολοκυστεκτομή δεν είναι το επόμενο βήμα σε νεκρωτική παγκρεατίτιδα με μολυσμένη νέκρωση · <b>B</b> Η πρώιμη ανοιχτή νεκροσεκτομή αυξάνει σημαντικά θνητότητα σε σχέση με το 'step-up approach' · <b>C</b> Το αέριο εντός συλλογής είναι παθογνωμονικό μολυσμένης νέκρωσης, όχι αθώο εύρημα",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La PAAF no es necesaria cuando el TC muestra gas — es patognomónico · <b>D</b> La colecistectomía no es el paso siguiente en necrosis infectada pancreática · <b>B</b> La necrosectomía abierta precoz aumenta significativamente la mortalidad frente al step-up approach · <b>C</b> El gas intracolección es patognomónico de necrosis infectada, no un hallazgo inocuo",
+  "cite": "WSES Consensus on Acute Pancreatitis 2019 · van Santvoort HC et al., NEJM 2010 (PANTER trial) · Sabiston 21.ª ed., cap. «Páncreas exocrino»",
+  "id": "C-181"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 83,
+  "concepts": [
+   "c.surg.acute.pancreatitis_stepup"
+  ],
+  "topic_el": "Παγκρεατίτιδα · Step-up approach — χρόνος και σειρά παρέμβασης",
+  "topic_es": "Pancreatitis necrotizante · Step-up approach — timing y secuencia de intervención",
+  "stem_el": "Ασθενής με νεκρωτική παγκρεατίτιδα και μολυσμένη νέκρωση (αέριο σε CT, 3η εβδομάδα) παραμένει αιμοδυναμικά σταθερός υπό αντιβιοτική αγωγή. Ποια είναι η ορθότερη στρατηγική παρέμβασης σύμφωνα με το 'step-up approach';",
+  "stem_es": "Paciente con pancreatitis necrotizante y necrosis infectada (gas en TC, 3.ª semana) que permanece hemodinámicamente estable con antibioterapia. ¿Cuál es la estrategia de intervención más correcta según el 'step-up approach'?",
+  "options": [
+   {
+    "el": "Διαδερμική ή ενδοσκοπική διαλουμινική αποστράγγιση ως πρώτο σκαλί, ακολουθούμενη από ελάχιστα επεμβατική νεκροσεκτομή εάν δεν υπάρξει ανταπόκριση",
+    "es": "Drenaje percutáneo o endoscópico transluminal como primer escalón, seguido de necrosectomía mínimamente invasiva si no hay respuesta"
+   },
+   {
+    "el": "Αναμονή 8 εβδομάδων πάντοτε ανεξαρτήτως κλινικής εικόνας πριν από οποιαδήποτε επέμβαση",
+    "es": "Esperar siempre 8 semanas independientemente del estado clínico antes de cualquier intervención"
+   },
+   {
+    "el": "Τοποθέτηση αυτοδιαστελλόμενου μεταλλικού stent στον χοληδόχο πόρο για έλεγχο εστίας",
+    "es": "Colocación de stent metálico autoexpandible en el colédoco para control del foco"
+   },
+   {
+    "el": "CPRE με σφιγκτηροτομή ως πρώτο βήμα εάν η αιτία είναι χολολιθίαση",
+    "es": "CPRE con esfinterotomía como primer paso si la causa es litiásica"
+   },
+   {
+    "el": "Άμεση λαπαροτομή με ανοιχτή νεκροσεκτομή πλήρους αφαίρεσης νέκρωσης",
+    "es": "Laparotomía inmediata con necrosectomía abierta de resección completa"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Το 'step-up approach' (PANTER trial, NEJM 2010) επέβαλε ελάχιστα επεμβατικές τεχνικές ως πρώτο σκαλί αντί της ανοιχτής χειρουργικής. Ιδανικά αναμένουμε ≥ 4 εβδομάδες (ωρίμανση τοιχωμάτων) αλλά εάν απαιτείται παρέμβαση, ξεκινάμε με διαδερμική αποστράγγιση ή ενδοσκοπική τοποθέτηση stent/αποστράγγιση εάν η συλλογή βρίσκεται πλησίον στομαχικού/εντερικού τοιχώματος.",
+  "expl_es": "El 'step-up approach' (ensayo PANTER, NEJM 2010) estableció técnicas mínimamente invasivas como primer escalón frente a la cirugía abierta. Idealmente se esperan ≥ 4 semanas (maduración de paredes), pero si se requiere intervención, se inicia con drenaje percutáneo o stenting/drenaje endoscópico transluminal si la colección está adyacente a la pared gástrica o intestinal.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η πρώιμη ανοιχτή νεκροσεκτομή αυξάνει θνητότητα και επιπλοκές σε σχέση με το step-up · <b>B</b> Η αναμονή 8 εβδομάδων είναι υπερβολική — το βέλτιστο παράθυρο είναι ≥ 4 εβδομάδες, αλλά δεν είναι απόλυτο · <b>D</b> Η CPRE ελέγχει χολολιθία/χολαγγειίτιδα αλλά δεν αντιμετωπίζει τη μολυσμένη νέκρωση · <b>C</b> Τα stents χοληδόχου χρησιμεύουν για στενώσεις/χολολιθία, όχι ως έλεγχος μολυσμένης νέκρωσης",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> La necrosectomía abierta precoz aumenta mortalidad y complicaciones frente al step-up · <b>B</b> Esperar 8 semanas es excesivo — el intervalo óptimo es ≥ 4 semanas, pero no es absoluto · <b>D</b> La CPRE maneja coledocolitiasis/colangitis pero no la necrosis infectada · <b>C</b> Los stents del colédoco se usan para estenosis/litiasis, no como control de necrosis infectada",
+  "cite": "van Santvoort HC et al., NEJM 2010 (PANTER) · WSES Pancreatitis Guidelines 2019 · Sabiston 21.ª ed., cap. «Páncreas exocrino»",
+  "id": "C-182"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 80,
+  "concepts": [
+   "c.surg.acute.pancreatitis_sca"
+  ],
+  "topic_el": "Παγκρεατίτιδα · Σύνδρομο κοιλιακού διαμερίσματος (SCA)",
+  "topic_es": "Pancreatitis aguda grave · Síndrome compartimental abdominal (SCA)",
+  "stem_el": "Άνδρας 58 ετών με σοβαρή οξεία παγκρεατίτιδα, 72 ώρες από έναρξη. Προοδευτική κοιλιακή διάταση, ολιγουρία (15 mL/ώρα), PaO₂/FiO₂ 175 mmHg. Ενδοκοιλιακή πίεση (ICP) μέσω ουροδόχου κύστης: 24 mmHg. Ποια είναι η ορθή διάγνωση και η άμεση προτεραιότητα θεραπείας;",
+  "stem_es": "Varón de 58 años con pancreatitis aguda grave, 72 horas de evolución. Distensión abdominal progresiva, oliguria (15 mL/h), PaO₂/FiO₂ 175 mmHg. Presión intraabdominal (PIA) medida por vejiga: 24 mmHg. ¿Cuál es el diagnóstico correcto y la prioridad terapéutica inmediata?",
+  "options": [
+   {
+    "el": "Προνεφρική οξεία νεφρική ανεπάρκεια · αύξηση όγκου με κρυσταλλοειδή",
+    "es": "Insuficiencia renal aguda prerrenal · aumentar aporte de volumen con cristaloides"
+   },
+   {
+    "el": "Σύνδρομο κοιλιακού διαμερίσματος (ICP > 20 mmHg + οργανική δυσλειτουργία) · αποσυμπίεση εάν αποτύχουν τα συντηρητικά μέτρα",
+    "es": "Síndrome compartimental abdominal (PIA > 20 mmHg + disfunción orgánica) · descompresión quirúrgica si fracasan las medidas conservadoras"
+   },
+   {
+    "el": "Σηψαιμία κοιλιακής αιτιολογίας · άμεση έναρξη ευρέος φάσματος αντιβιοτικών",
+    "es": "Sepsis abdominal · inicio inmediato de antibióticos de amplio espectro"
+   },
+   {
+    "el": "Αντιδραστική πλευριτική συλλογή · τοποθέτηση αμφοτερόπλευρης θωρακοστομίας",
+    "es": "Derrame pleural reactivo · colocar drenaje torácico bilateral"
+   },
+   {
+    "el": "Παραλυτικός ειλεός μετά φλεγμονή · νεοστιγμίνη IV",
+    "es": "Íleo paralítico postinflamatorio · neostigmina IV"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Ορισμός SCA (WSACS): ICP > 20 mmHg με νέα ή επιδεινούμενη οργανική δυσλειτουργία. Εδώ: ICP 24 mmHg + ολιγουρία + αναπνευστική ανεπάρκεια = SCA. Συντηρητικά μέτρα: ρινογαστρική αποσυμπίεση, ανυψωμένη θέση < 30°, αναλγοσεδασία, διουρητικά, διαδερμική αποστράγγιση ενδοκοιλιακών συλλογών, εξωσωματική αποστράγγιση. Εάν αποτύχουν → λαπαροστομία αποσυμπίεσης.",
+  "expl_es": "Definición de SCA (WSACS): PIA > 20 mmHg con disfunción orgánica nueva o en deterioro. Aquí: PIA 24 mmHg + oliguria + insuficiencia respiratoria = SCA. Medidas conservadoras: descompresión nasogástrica, posición elevada < 30°, analgosedación, diuréticos, drenaje percutáneo de colecciones, hemodiafiltración. Si fracasan → laparostomía descompresiva.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Ο παραλυτικός ειλεός δεν εξηγεί ICP 24 mmHg + αναπνευστική ανεπάρκεια · <b>A</b> Αύξηση όγκου σε SCA επιδεινώνει την ICP λόγω επιπρόσθετου οιδήματος εντέρου · <b>D</b> Η θωρακοστομία δεν αντιμετωπίζει την αυξημένη ICP · <b>C</b> Η σηψαιμία είναι πιθανή αλλά η ICP 24 mmHg + δυσλειτουργία οργάνων τίθεται πρώτα ως SCA",
+  "dis_es": "<b>Por qué no las otras:</b> <b>E</b> El íleo paralítico no explica PIA 24 mmHg + insuficiencia respiratoria · <b>A</b> Aumentar el volumen en SCA empeora la PIA por edema intestinal adicional · <b>D</b> El drenaje torácico no aborda la PIA elevada · <b>C</b> La sepsis es posible pero la PIA 24 mmHg + disfunción orgánica se clasifica primero como SCA",
+  "cite": "Kirkpatrick AW et al., WSACS 2013 Consensus Definitions · WSES Pancreatitis Guidelines 2019 · Schwartz's Principles of Surgery 11.ª ed., cap. «The Pancreas»",
+  "id": "C-183"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 88,
+  "concepts": [
+   "c.surg.acute.pancreatitis_fluidoterapia"
+  ],
+  "topic_el": "Παγκρεατίτιδα · Ενυδάτωση — Ringer lactate έναντι φυσιολογικού ορού",
+  "topic_es": "Pancreatitis aguda · Reanimación — Ringer lactato vs suero fisiológico",
+  "stem_el": "Ασθενής με οξεία παγκρεατίτιδα ήπιας μορφής, 6 ώρες από έναρξη συμπτωμάτων, χρειάζεται ενδοφλέβια ενυδάτωση. Ποιο κρυσταλλοειδές διάλυμα συνιστάται ως πρώτης γραμμής θεραπεία;",
+  "stem_es": "Paciente con pancreatitis aguda leve de 6 horas de evolución que requiere reanimación endovenosa. ¿Qué solución cristaloide se recomienda actualmente como primera línea?",
+  "options": [
+   {
+    "el": "Φυσιολογικός ορός (NaCl 0,9%) διότι αποφεύγει την υπερκαλιαιμία",
+    "es": "Suero salino fisiológico (SSF 0,9%) porque evita la hiperpotasemia"
+   },
+   {
+    "el": "Γλυκόζη 5% για προτιμητέα μεταβολική αναπλήρωση",
+    "es": "Glucosa al 5% para reposición metabólica preferente"
+   },
+   {
+    "el": "Ringer lactate, σχετίζεται με χαμηλότερη συχνότητα SIRS και υπερχλωραιμικής οξέωσης",
+    "es": "Ringer lactato, ya que se asocia a menor incidencia de SIRS y acidosis hiperclorémica"
+   },
+   {
+    "el": "Λευκωματίνη 4%, καθώς η υποαλβουμιναιμία επιδεινώνει την παγκρεατίτιδα",
+    "es": "Albúmina al 4%, pues la hipoalbuminemia agrava la pancreatitis"
+   },
+   {
+    "el": "Υπέρτονο NaCl για διόρθωση τρίτου χώρου",
+    "es": "Solución de NaCl hipertónico para corregir el tercer espacio"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Το Ringer lactate (RL) έχει ουδέτερο pH (6,5) και χαμηλότερη χλωρίδα (109 mEq/L) σε σχέση με τον φυσιολογικό ορό (154 mEq/L). Μελέτες (Wu BU, Clin Gastroenterol Hepatol 2011) δείχνουν μείωση SIRS, κατώτερο CRP και χαμηλότερη νοσοκομειακή παραμονή με RL έναντι SSF. Το SSF προκαλεί υπερχλωραιμική μεταβολική οξέωση, που επιδεινώνει τη φλεγμονή.",
+  "expl_es": "El Ringer lactato (RL) tiene pH neutro (6,5) y menor concentración de cloruro (109 mEq/L) frente al SSF (154 mEq/L). Estudios (Wu BU, Clin Gastroenterol Hepatol 2011) muestran reducción del SIRS, menor PCR y menor estancia hospitalaria con RL frente a SSF. El SSF produce acidosis metabólica hiperclorémica, que agrava la inflamación.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Ο SSF προκαλεί υπερχλωραιμική μεταβολική οξέωση και σχετίζεται με υψηλότερη συχνότητα SIRS · <b>B</b> Το γλυκοζούχο διάλυμα αντενδείκνυται λόγω υπεργλυκαιμίας που συχνά επιπλέκει την παγκρεατίτιδα · <b>D</b> Η λευκωματίνη δεν ενδείκνυται στην αρχική ενυδάτωση οξείας παγκρεατίτιδας · <b>E</b> Το υπέρτονο NaCl δεν ενδείκνυται στη διαχείριση της οξείας παγκρεατίτιδας",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El SSF produce acidosis metabólica hiperclorémica y se asocia a mayor incidencia de SIRS · <b>B</b> La glucosada está contraindicada por la hiperglucemia frecuente en pancreatitis · <b>D</b> La albúmina no está indicada en la reanimación inicial de la pancreatitis aguda · <b>E</b> El NaCl hipertónico no está indicado en el manejo de la pancreatitis aguda",
+  "cite": "IAP/APA Guidelines 2013 · Wu BU et al., Clin Gastroenterol Hepatol 2011 · WSES Pancreatitis Guidelines 2019",
+  "id": "C-184"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 87,
+  "concepts": [
+   "c.surg.acute.pancreatitis_nutricion"
+  ],
+  "topic_el": "Παγκρεατίτιδα · Διατροφή — εντερική έναντι παρεντερικής σίτισης",
+  "topic_es": "Pancreatitis aguda grave · Nutrición — enteral vs parenteral",
+  "stem_el": "Γυναίκα 60 ετών με σοβαρή οξεία παγκρεατίτιδα (Atlanta) και 30% νέκρωση παγκρέατος σε CT. Εμφανίζει ναυτία αλλά ανέχεται ελάχιστα στοματική σίτιση. Ποια διατροφική στρατηγική είναι καταλληλότερη;",
+  "stem_es": "Mujer de 60 años con pancreatitis aguda grave (Atlanta) y necrosis del 30% del páncreas en TC. Presenta náuseas pero tolera mínimamente la vía oral. ¿Cuál es la estrategia nutricional más adecuada?",
+  "options": [
+   {
+    "el": "Ελεύθερη στοματική σίτιση μόλις υποχωρήσει ο πόνος, ανεξαρτήτως επιπέδων ενζύμων",
+    "es": "Alimentación oral libre en cuanto desaparezca el dolor, independientemente de los niveles de enzimas"
+   },
+   {
+    "el": "Διαδερμική γαστροστομία για μακροχρόνια εντερική σίτιση από την πρώτη ημέρα",
+    "es": "Gastrostomía percutánea para nutrición enteral a largo plazo desde el primer día"
+   },
+   {
+    "el": "Αποκλειστική ολική παρεντερική διατροφή μέχρι την κλινική ανάρρωση",
+    "es": "Nutrición parenteral total exclusiva hasta la recuperación clínica"
+   },
+   {
+    "el": "Πρώιμη εντερική διατροφή (νασογαστρικός ή νασοχοληδοχικός σωλήνας) εντός 24–72 ωρών από εισαγωγή",
+    "es": "Nutrición enteral temprana (nasogástrica o nasoyeyunal) iniciada en las primeras 24–72 horas"
+   },
+   {
+    "el": "Απόλυτη νηστεία με ορoθεραπεία μέχρι κανονικοποίηση αμυλάσης/λιπάσης",
+    "es": "Ayuno absoluto con sueroterapia hasta normalización de amilasa/lipasa"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η πρώιμη εντερική διατροφή (εντός 24–72 ωρών) μέσω νασογαστρικού ή νασοχοληδοχικού σωλήνα συνιστάται σε σοβαρή παγκρεατίτιδα καθώς: μειώνει μολυσματικές επιπλοκές, διατηρεί τη λειτουργία του εντερικού φραγμού μειώνοντας μικροβιακή μετατόπιση, μειώνει θνητότητα και ΜΕΘ-νοσηλεία. Η παρεντερική διατροφή συνιστάται μόνο εάν δεν είναι εφικτή η εντερική (αποτυχία ή αντένδειξη).",
+  "expl_es": "La nutrición enteral temprana (en las primeras 24–72 horas) mediante sonda nasogástrica o nasoyeyunal está recomendada en la pancreatitis grave porque: reduce las complicaciones infecciosas, mantiene la función de la barrera intestinal reduciendo la translocación bacteriana, disminuye la mortalidad y los ingresos en UCI. La nutrición parenteral se reserva solo si la enteral no es viable (intolerancia o contraindicación).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η ολική παρεντερική διατροφή σχετίζεται με υψηλότερο ποσοστό λοιμώξεων και κατωτέρα έκβαση σε σχέση με την εντερική · <b>E</b> Η παρατεταμένη νηστεία επιτρέπει μικροβιακή μετατόπιση και κατροφή βλεννογόνου εντέρου · <b>A</b> Στη σοβαρή παγκρεατίτιδα η εντερική διατροφή μέσω σωλήνα ξεκινά πριν υποχωρήσει ο πόνος · <b>B</b> Η γαστροστομία δεν ενδείκνυται στην οξεία φάση",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La nutrición parenteral total se asocia a mayor tasa de infecciones y peor resultado que la enteral · <b>E</b> El ayuno prolongado permite la translocación bacteriana y la atrofia de la mucosa intestinal · <b>A</b> En la pancreatitis grave la nutrición enteral por sonda se inicia antes de que desaparezca el dolor · <b>B</b> La gastrostomía no está indicada en la fase aguda",
+  "cite": "WSES Pancreatitis Guidelines 2019 · IAP/APA Guidelines 2013 · Schwartz's Principles of Surgery 11.ª ed., cap. «The Pancreas»",
+  "id": "C-185"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 80,
+  "concepts": [
+   "c.surg.acute.pancreatitis_colecciones"
+  ],
+  "topic_el": "Παγκρεατίτιδα · Συλλογές — ψευδοκύστη έναντι νεκρωτικής συλλογής",
+  "topic_es": "Pancreatitis aguda · Colecciones — pseudoquiste vs colección necrótica aguda",
+  "stem_el": "Άνδρας 50 ετών με οξεία παγκρεατίτιδα αλκοολικής αιτιολογίας πριν από 5 εβδομάδες. CT ελέγχου δείχνει συλλογή στο υπεργαστρικό δεξαμενοειδές με καλά καθορισμένο τοίχωμα, ομοιογενές υγρό περιεχόμενο, χωρίς στερεά υπολείμματα. Ασυμπτωματικός. Ποια είναι η διάγνωση και η κατάλληλη αντιμετώπιση;",
+  "stem_es": "Varón de 50 años con pancreatitis aguda de etiología alcohólica hace 5 semanas. TC de seguimiento muestra colección en la transcavidad de los epiplones con pared bien definida, contenido líquido homogéneo y sin restos sólidos. Asintomático. ¿Cuál es el diagnóstico y la conducta adecuada?",
+  "options": [
+   {
+    "el": "Οξεία περιπαγκρεατική υγρή συλλογή (APFC) · άμεση διαδερμική αποστράγγιση",
+    "es": "Colección líquida aguda peripancreática (APFC) · drenaje percutáneo urgente"
+   },
+   {
+    "el": "Αποτετειχισμένη νέκρωση (Walled-off necrosis) · άμεση ενδοσκοπική νεκροσεκτομή",
+    "es": "Necrosis con pared (walled-off necrosis) · necrosectomía endoscópica inmediata"
+   },
+   {
+    "el": "Αποστήμα παγκρέατος · έναρξη αντιβιοτικών και λαπαροτομή",
+    "es": "Absceso pancreático · inicio de antibióticos y laparotomía"
+   },
+   {
+    "el": "Οξεία νεκρωτική συλλογή (< 4 εβδομάδες) · αναμονή ωρίμανσης ≥ 4 εβδομάδες",
+    "es": "Colección necrótica aguda (< 4 semanas) · esperar maduración ≥ 4 semanas"
+   },
+   {
+    "el": "Ψευδοκύστη παγκρέατος · συντηρητική παρακολούθηση · αποστράγγιση εάν > 6 εκ. ή συμπτωματική",
+    "es": "Pseudoquiste pancreático · conducta expectante si asintomático · drenaje si > 6 cm o sintomático"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η ψευδοκύστη παγκρέατος (Atlanta 2012) ορίζεται ως: (1) συλλογή > 4 εβδομάδες από εισβολή, (2) καλά καθορισμένο τοίχωμα, (3) ομοιογενές υγρό χωρίς στερεά. Ασυμπτωματική ψευδοκύστη παρακολουθείται συντηρητικά· αποστράγγιση ενδείκνυται εάν: διάμετρος > 6 εκ. και δεν υποστρέφει, συμπτωματολογία (πόνος, ίκτερος, δυσφαγία) ή λοίμωξη.",
+  "expl_es": "El pseudoquiste pancreático (Atlanta 2012) se define como: (1) colección > 4 semanas de evolución, (2) pared bien definida, (3) contenido líquido homogéneo sin restos sólidos. El pseudoquiste asintomático se maneja de forma expectante; el drenaje está indicado si: diámetro > 6 cm y no regresa, síntomas (dolor, ictericia, disfagia) o infección.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η APFC εμφανίζεται στις πρώτες 4 εβδομάδες, χωρίς καθορισμένο τοίχωμα — εδώ παρήλθαν 5 εβδομάδες με καλά τοίχωμα · <b>B</b> Η αποτετειχισμένη νέκρωση (WON) έχει ανομοιογενές ή στερεό περιεχόμενο, δηλαδή νεκρωτικά υπολείμματα · <b>C</b> Δεν υπάρχουν ενδείξεις λοίμωξης (πυρετός, λευκοκυττάρωση) ούτε κλινικά συμπτώματα που να δικαιολογούν αποστηματική εικόνα · <b>D</b> Οξεία νεκρωτική συλλογή (ANC) < 4 εβδομάδες, χωρίς καθορισμένο τοίχωμα — εδώ 5 εβδομάδες, με τοίχωμα, χωρίς νεκρωτικό περιεχόμενο",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La APFC aparece en las primeras 4 semanas sin pared definida — aquí han transcurrido 5 semanas con pared bien formada · <b>B</b> La necrosis encapsulada (WON) tiene contenido heterogéneo o sólido, es decir, restos necróticos · <b>C</b> No hay signos de infección (fiebre, leucocitosis) ni síntomas que justifiquen la imagen de absceso · <b>D</b> La colección necrótica aguda (ANC) es < 4 semanas, sin pared definida — aquí 5 semanas, con pared, sin contenido necrótico",
+  "cite": "Banks PA et al., Atlanta Classification 2012, Gut 2013 · Sabiston 21.ª ed., cap. «Páncreas exocrino» · WSES Pancreatitis Guidelines 2019",
+  "id": "C-186"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 91,
+  "concepts": [
+   "c.surg.acute.colangitis_tokio_grado"
+  ],
+  "topic_el": "Χολαγγειίτιδα · Κριτήρια Tokyo 2018 — ταξινόμηση βαρύτητας",
+  "topic_es": "Colangitis aguda · Criterios Tokio 2018 — clasificación de gravedad",
+  "stem_el": "Άνδρας 68 ετών με κίτρινο χρωματισμό, πυρετό 39°C και άλγος στο δεξιό υποχόνδριο. Αναλύσεις: ολική χολερυθρίνη 4,5 mg/dL, FAL 3×, GGT 4×. Υπερηχογράφημα: διατεταμένη έξω ηπατική χολαγγεία. Χωρίς αιμοδυναμική αστάθεια ούτε νοητική σύγχυση. Κατά τα κριτήρια Tokyo 2018, σε ποιο βαθμό κατατάσσεται η χολαγγειίτιδα και ποια είναι η ενδεδειγμένη θεραπεία;",
+  "stem_es": "Varón de 68 años con ictericia, fiebre 39°C y dolor en hipocondrio derecho. Analítica: bilirrubina total 4,5 mg/dL, FAL 3×, GGT 4×. Ecografía: dilatación de la vía biliar extrahepática. Sin inestabilidad hemodinámica ni confusión mental. Según los criterios de Tokio 2018, ¿en qué grado se clasifica la colangitis y cuál es el tratamiento indicado?",
+  "options": [
+   {
+    "el": "Βαθμός ΙΙ (μέτρια) · αντιβιοτικά + πρώιμο χολικό drainage (ΕΡΧΠ εντός 24–72 ωρών)",
+    "es": "Grado II (moderada) · antibióticos + drenaje biliar precoz (CPRE dentro de 24–72 horas)"
+   },
+   {
+    "el": "Βαθμός Ι (ήπια) · αποκλειστικά αντιβιοτική αγωγή, χωρίς ανάγκη αποστράγγισης",
+    "es": "Grado I (leve) · antibioterapia exclusiva sin necesidad de drenaje"
+   },
+   {
+    "el": "Βαθμός III (σοβαρή) · διασωλήνωση και επείγουσα λαπαροτομία",
+    "es": "Grado III (grave) · intubación orotraqueal y laparotomía de urgencia"
+   },
+   {
+    "el": "Βαθμός ΙΙΙ (σοβαρή) · επείγουσα χολική αποστράγγιση < 12 ωρών + εισαγωγή σε ΜΕΘ",
+    "es": "Grado III (grave) · drenaje biliar urgente < 12 horas + ingreso en UCI"
+   },
+   {
+    "el": "Βαθμός Ι (ήπια) · εξιτήριο με από στόματος αντιβιοτικά και προγραμματισμένη χολοκυστεκτομή",
+    "es": "Grado I (leve) · alta con antibióticos orales y colecistectomía programada"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Tokyo 2018: Βαθμός Ι = ήπια (ανταπόκριση σε αρχική θεραπεία, χωρίς οργανική ανεπάρκεια). Βαθμός ΙΙ = μέτρια (πυρετός + τοπικά σημεία χωρίς οργανική ανεπάρκεια, WBC > 12 000 ή < 4 000, ηλικία ≥ 75). Βαθμός ΙΙΙ = σοβαρή (οργανική ανεπάρκεια: καρδιαγγειακή, νοητική, αναπνευστική, νεφρική, ηπατική, αιματολογική). Εδώ: τριάδα Charcot χωρίς οργανική ανεπάρκεια = Βαθμός ΙΙ → αντιβιοτικά + πρώιμη ΕΡΧΠ.",
+  "expl_es": "Tokio 2018: Grado I = leve (responde al tratamiento inicial, sin fallo orgánico). Grado II = moderada (fiebre + signos locales sin fallo orgánico, leucocitos > 12 000 o < 4 000, edad ≥ 75). Grado III = grave (fallo orgánico: cardiovascular, neurológico, respiratorio, renal, hepático, hematológico). Aquí: tríada de Charcot sin fallo orgánico = Grado II → antibióticos + CPRE precoz.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Βαθμός ΙΙΙ απαιτεί οργανική ανεπάρκεια — εδώ δεν υπάρχει · <b>B</b> Βαθμός Ι (ήπια) ανταποκρίνεται σε αντιβιοτικά και μπορεί να επιτρέψει αποστράγγιση αργότερα, αλλά η κλινική εικόνα (τριάδα Charcot, χωρίς ανταπόκριση σε επείγουσα αρχική αγωγή) δεν αντιστοιχεί σε Βαθμό Ι · <b>E</b> Εξιτήριο από ΤΕΠ με αντιβιοτικά oral δεν ενδείκνυται σε Βαθμό ΙΙ με πλήρη τριάδα Charcot · <b>D</b> Βαθμός ΙΙΙ και ΜΕΘ δεν δικαιολογούνται ελλείψει οργανικής ανεπάρκειας",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> El grado III requiere fallo orgánico — aquí no existe · <b>B</b> El grado I (leve) responde a antibióticos solos, pero la tríada de Charcot completa con parámetros inflamatorios elevados no corresponde a grado I · <b>E</b> El alta con antibióticos orales no está indicada en grado II con tríada de Charcot completa · <b>D</b> El grado III e ingreso en UCI no están justificados sin fallo orgánico",
+  "cite": "Miura F et al., Tokyo Guidelines 2018 (TG18), J Hepatobiliary Pancreat Sci 2018 · Sabiston 21.ª ed., cap. «Biliary Tract»",
+  "id": "C-187"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 88,
+  "concepts": [
+   "c.surg.acute.colangitis_reynolds"
+  ],
+  "topic_el": "Χολαγγειίτιδα · Πεντάδα Reynolds — βαθμός ΙΙΙ κατά Tokyo",
+  "topic_es": "Colangitis aguda · Pentada de Reynolds — grado III según Tokio",
+  "stem_el": "Γυναίκα 72 ετών με γνωστή χολαγγειίτιδα αναπτύσσει στη διάρκεια νοσηλείας υπόταση (ΑΠ 85/50 mmHg), νοητική σύγχυση και πυρετό 40°C. Ποια είναι η πλήρης κλινική ταξινόμηση και η θεραπευτική προτεραιότητα;",
+  "stem_es": "Mujer de 72 años con colangitis aguda conocida desarrolla durante el ingreso hipotensión (TA 85/50 mmHg), confusión mental y fiebre de 40°C. ¿Cuál es la clasificación clínica completa y la prioridad terapéutica?",
+  "options": [
+   {
+    "el": "Υπερτασική κρίση από χολικό πόνο · υπογλώσσια νιτρικά",
+    "es": "Crisis hipertensiva por dolor biliar · nitratos sublinguales"
+   },
+   {
+    "el": "Πεντάδα Reynolds (χολαγγειίτιδα βαθμού ΙΙΙ) · επείγουσα χολική αποστράγγιση < 12 ωρών + οργανική υποστήριξη",
+    "es": "Pentada de Reynolds (colangitis grado III) · drenaje biliar urgente < 12 horas + soporte orgánico"
+   },
+   {
+    "el": "Οξεία χολοκυστίτιδα βαθμού ΙΙΙ · επείγουσα χολοκυστεκτομή",
+    "es": "Colecistitis aguda grado III · colecistectomía de urgencia inmediata"
+   },
+   {
+    "el": "Σήψη από μικροβιακή μετατόπιση · από στόματος αντιβιοτικά και παρακολούθηση",
+    "es": "Sepsis por translocación bacteriana · antibióticos orales y vigilancia"
+   },
+   {
+    "el": "Ηπατική εγκεφαλοπάθεια από οξεία χολόσταση · λακτουλόζη και περιορισμός πρωτεΐνης",
+    "es": "Encefalopatía hepática por colestasis aguda · lactulosa y restricción proteica"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Η πεντάδα Reynolds = τριάδα Charcot (ίκτερος + πυρετός + κωλικοειδές δεξιό υποχόνδριο) + σηπτικό shock + νοητική σύγχυση = χολαγγειίτιδα βαθμού ΙΙΙ (Tokyo 2018). Θεραπεία: (1) αιμοδυναμική σταθεροποίηση (φόρτωση υγρών, αγγειοδραστικά), (2) ευρέος φάσματος αντιβιοτικά IV, (3) χολική αποστράγγιση εντός < 12 ωρών (ΕΡΧΠ ή διαδερμική).",
+  "expl_es": "La pentada de Reynolds = tríada de Charcot (ictericia + fiebre + dolor en hipocondrio derecho) + shock séptico + confusión = colangitis grado III (Tokio 2018). Tratamiento: (1) estabilización hemodinámica (carga de fluidos, vasopresores), (2) antibióticos IV de amplio espectro, (3) drenaje biliar urgente < 12 horas (CPRE o percutáneo).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η υπόταση και η σύγχυση σε χολαγγειίτιδα είναι σηπτικές εκδηλώσεις, όχι υπερτασική κρίση · <b>E</b> Ηπατική εγκεφαλοπάθεια δεν δικαιολογεί υπόταση + πυρετό 40°C σε αυτό το πλαίσιο · <b>D</b> Το βαρύ κλινικό σύνδρομο (shock + σύγχυση) απαιτεί IV αντιβιοτικά και άμεσο drenaje, όχι φάρμακα από στόματος · <b>C</b> Η χολοκυστίτιδα βαθμού ΙΙΙ αναφέρεται σε χολοκυστίτιδα, όχι σε χολαγγειίτιδα· επίσης δεν αντιστοιχεί σε πεντάδα Reynolds",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La hipotensión y la confusión en colangitis son manifestaciones sépticas, no una crisis hipertensiva · <b>E</b> La encefalopatía hepática no justifica hipotensión + fiebre 40°C en este contexto · <b>D</b> El síndrome clínico grave (shock + confusión) requiere antibióticos IV y drenaje inmediato, no antibióticos orales · <b>C</b> La colecistitis grado III se refiere a colecistitis, no a colangitis; además no corresponde a la pentada de Reynolds",
+  "cite": "Miura F et al., Tokyo Guidelines 2018 (TG18) · Sabiston 21.ª ed., cap. «Biliary Tract» · Schwartz's Principles of Surgery 11.ª ed.",
+  "id": "C-188"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 89,
+  "concepts": [
+   "c.surg.acute.colangitis_drenaje"
+  ],
+  "topic_el": "Χολαγγειίτιδα · Χολική αποστράγγιση — ΕΡΧΠ έναντι διαδερμικής",
+  "topic_es": "Colangitis aguda · Drenaje biliar — CPRE vs drenaje percutáneo",
+  "stem_el": "Ασθενής με χολαγγειίτιδα οξεία βαθμού ΙΙ (Tokyo 2018) λόγω χολοδοχολιθίασης. Αιμοδυναμικά σταθερός υπό αντιβιοτική αγωγή. Ποια μέθοδος χολικής αποστράγγισης αποτελεί πρώτη επιλογή;",
+  "stem_es": "Paciente con colangitis aguda grado II (Tokio 2018) por coledocolitiasis. Hemodinámicamente estable con antibioterapia. ¿Qué método de drenaje biliar es la primera elección?",
+  "options": [
+   {
+    "el": "Χειρουργική χοληδοχοτομή με εκτεταμένη διερεύνηση χοληδόχου πόρου (ανοιχτή λαπαροτομή)",
+    "es": "Coledocotomía quirúrgica abierta por laparotomía"
+   },
+   {
+    "el": "Διαδερμική διαηπατική χολαγγειογραφία-αποστράγγιση (PTBD), γιατί αποφεύγει τη σεδίαση της ΕΡΧΠ",
+    "es": "Drenaje percutáneo transhepático (PTBD) porque evita la sedación de la CPRE"
+   },
+   {
+    "el": "Ενδοσκοπική οπισθοδρομική χολαγγειοπαγκρεατογραφία (ΕΡΧΠ) με σφιγκτηροτομή και αφαίρεση λίθων",
+    "es": "Colangiopancreatografía retrógrada endoscópica (CPRE) con esfinterotomía y extracción de cálculos"
+   },
+   {
+    "el": "Επείγουσα λαπαροσκοπική χολοκυστεκτομή με διερεύνηση χοληδόχου πόρου",
+    "es": "Colecistectomía laparoscópica urgente con exploración del colédoco"
+   },
+   {
+    "el": "Τοποθέτηση ενδοπροθέσεων χοληδόχου πόρου μέσω διαδερμικής διαηπατικής οδού χωρίς ενδοσκόπιο",
+    "es": "Colocación de stent biliar por vía transhepática percutánea sin endoscopio"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η ΕΡΧΠ (Ενδοσκοπική Οπισθοδρομική Χολαγγειοπαγκρεατογραφία) αποτελεί πρώτη επιλογή για χολική αποστράγγιση σε χολαγγειίτιδα λόγω χολοδοχολιθίασης: άμεση απεικόνιση και εκκένωση λίθων, σφιγκτηροτομή, τοποθέτηση ενδοπρόθεσης εάν χρειαστεί. Η PTBD είναι εναλλακτική εάν η ΕΡΧΠ αποτύχει ή αντενδείκνυται (π.χ. διαταραχή πήξης σοβαρή, ανατομικές αλλαγές μετά χειρουργείο γαστρεντερικής οδού).",
+  "expl_es": "La CPRE es la primera elección para el drenaje biliar en colangitis por coledocolitiasis: visualización directa y extracción de cálculos, esfinterotomía, colocación de stent si es necesario. El PTBD es alternativa cuando la CPRE fracasa o está contraindicada (p.ej. coagulopatía grave, anatomía alterada postquirúrgica).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η PTBD είναι εναλλακτική λύση, όχι πρώτης γραμμής σε χολαγγειίτιδα από χολοδοχολιθίαση · <b>A</b> Η ανοιχτή χοληδοχοτομή αυξάνει χειρουργικό κίνδυνο σε οξεία φλεγμονή και δεν ενδείκνυται ως πρώτο βήμα · <b>E</b> Η τοποθέτηση stent μόνο διαδερμικώς χωρίς ΕΡΧΠ αφήνει τους λίθους εντός χοληδόχου · <b>D</b> Η χολοκυστεκτομή δεν επιλύει τη χολοδοχολιθίαση ούτε είναι κατάλληλη στην οξεία φάση χολαγγειίτιδας",
+  "dis_es": "<b>Por qué no las otras:</b> <b>B</b> El PTBD es alternativa, no primera línea en colangitis por coledocolitiasis · <b>A</b> La coledocotomía abierta aumenta el riesgo quirúrgico en inflamación aguda y no es el primer paso · <b>E</b> El stent percutáneo solo sin CPRE deja los cálculos en el colédoco · <b>D</b> La colecistectomía no resuelve la coledocolitiasis ni es adecuada en la fase aguda de colangitis",
+  "cite": "Miura F et al., Tokyo Guidelines 2018 (TG18) · Sabiston 21.ª ed., cap. «Biliary Tract»",
+  "id": "C-189"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 90,
+  "concepts": [
+   "c.surg.acute.colecistitis_temprana"
+  ],
+  "topic_el": "Χολοκυστίτιδα · Έγκαιρη χολοκυστεκτομή — κριτήρια Tokyo 2018",
+  "topic_es": "Colecistitis aguda · Colecistectomía temprana — criterios Tokio 2018",
+  "stem_el": "Γυναίκα 55 ετών με άλγος στο δεξιό υποχόνδριο, πυρετό 38,2°C, θετικό Murphy, λευκοκύτταρα 14 200/mm³. Υπερηχογράφημα: πάχυνση χοληδόχου κύστης τοιχώματος > 4 mm, περικυστική υγρή στοιβάδα, χολολιθίαση. Χωρίς ενδείξεις οργανικής ανεπάρκειας. Κατά τα κριτήρια Tokyo 2018, πώς ταξινομείται και τι θεραπεία ενδείκνυται;",
+  "stem_es": "Mujer de 55 años con dolor en hipocondrio derecho, fiebre 38,2°C, Murphy positivo, leucocitos 14 200/mm³. Ecografía: engrosamiento de la pared vesicular > 4 mm, líquido pericístico, colelitiasis. Sin signos de fallo orgánico. Según los criterios de Tokio 2018, ¿cómo se clasifica y qué tratamiento se indica?",
+  "options": [
+   {
+    "el": "Χολοκυστίτιδα Βαθμός Ι · μόνο αντιβιοτικά και αναβλητική χειρουργική > 6 εβδομάδων πάντοτε",
+    "es": "Colecistitis grado I · antibióticos exclusivos y cirugía diferida > 6 semanas siempre"
+   },
+   {
+    "el": "Χολοκυστίτιδα Βαθμός ΙΙΙ · εισαγωγή σε ΜΕΘ και επείγουσα χειρουργική επέμβαση",
+    "es": "Colecistitis grado III · ingreso en UCI y cirugía de emergencia"
+   },
+   {
+    "el": "Χολοκυστίτιδα Βαθμός ΙΙ · επείγουσα διαδερμική χολοκυστοστομία ως πρώτο βήμα",
+    "es": "Colecistitis grado II · colecistostomía percutánea urgente como primer paso"
+   },
+   {
+    "el": "Χολοκυστίτιδα Βαθμός Ι · λαπαροσκοπική χολοκυστεκτομή εντός 72 ωρών ως επιλογή",
+    "es": "Colecistitis grado I · colecistectomía laparoscópica temprana (< 72 h) de elección"
+   },
+   {
+    "el": "Χολοκυστίτιδα Βαθμός ΙΙ · ανοιχτή χολοκυστεκτομή προτιμάται έναντι λαπαροσκοπικής",
+    "es": "Colecistitis grado II · colecistectomía abierta preferida sobre laparoscópica"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Tokyo 2018: Βαθμός Ι = ήπια χολοκυστίτιδα χωρίς οργανική ανεπάρκεια και χωρίς σοβαρές τοπικές επιπλοκές (WBC < 18 000, χωρίς ψηλαφητή μάζα, διάρκεια < 72 ωρών). Λαπαροσκοπική χολοκυστεκτομή εντός 72 ωρών (πρώιμη) ενδείκνυται σε Βαθμό Ι–ΙΙ: μικρότερη νοσηλεία, ίδιο ή χαμηλότερο ποσοστό επιπλοκών (ACALC trial, JAMA 2020).",
+  "expl_es": "Tokio 2018: Grado I = colecistitis leve sin fallo orgánico ni complicaciones locales graves (leucocitos < 18 000, sin masa palpable, duración < 72 h). La colecistectomía laparoscópica temprana (< 72 h) está indicada en grado I–II: menor estancia, igual o menor tasa de complicaciones (ensayo ACALC, JAMA 2020).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η διαδερμική χολοκυστοστομία είναι μέτρο για Βαθμό ΙΙ/ΙΙΙ υψηλού χειρουργικού κινδύνου, όχι πρώτο βήμα σε Βαθμό Ι · <b>B</b> Βαθμός ΙΙΙ απαιτεί οργανική ανεπάρκεια — εδώ δεν υπάρχει · <b>A</b> Αναβολή > 6 εβδομάδων δεν ενδείκνυται πάντα: αυξάνει κίνδυνο επανεισαγωγής και επιπλοκών · <b>E</b> Η λαπαροσκοπική χολοκυστεκτομή αποτελεί χρυσό κανόνα, η ανοιχτή δεν προτιμάται εκτός ειδικής ένδειξης",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La colecistostomía percutánea es para grado II/III con alto riesgo quirúrgico, no el primer paso en grado I · <b>B</b> El grado III requiere fallo orgánico — aquí no existe · <b>A</b> Diferir > 6 semanas no está indicado siempre: aumenta riesgo de reingreso y complicaciones · <b>E</b> La colecistectomía laparoscópica es el estándar; la abierta no se prefiere salvo indicación específica",
+  "cite": "Okamoto K et al., Tokyo Guidelines 2018 (TG18) · Loozen CS et al. (ACALC trial), JAMA 2020 · Sabiston 21.ª ed., cap. «Biliary Tract»",
+  "id": "C-190"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 85,
+  "concepts": [
+   "c.surg.acute.colecistitis_grado3"
+  ],
+  "topic_el": "Χολοκυστίτιδα · Βαθμός ΙΙΙ (σοβαρή) — αρχική θεραπεία",
+  "topic_es": "Colecistitis aguda · Grado III (grave) — tratamiento inicial",
+  "stem_el": "Άνδρας 70 ετών με χολοκυστίτιδα και: υπόταση (ΑΠ 90/60 mmHg), κρεατινίνη 2,8 mg/dL, νοητική σύγχυση, χολερυθρίνη 3,1 mg/dL. Υπερηχογράφημα: διατεταμένη κύστη, πάχυνση τοιχώματος, αέριο εντός χοληδόχου κύστης. Ποια είναι η καταλληλότερη αντιμετώπιση αρχικά;",
+  "stem_es": "Varón de 70 años con colecistitis aguda: hipotensión (TA 90/60 mmHg), creatinina 2,8 mg/dL, confusión mental, bilirrubina 3,1 mg/dL. Ecografía: vesícula distendida, pared engrosada, gas intravesicular. ¿Cuál es la conducta más adecuada inicialmente?",
+  "options": [
+   {
+    "el": "Επείγουσα λαπαροσκοπική χολοκυστεκτομή αμέσως",
+    "es": "Colecistectomía laparoscópica urgente inmediata"
+   },
+   {
+    "el": "Ανοιχτή χολοκυστεκτομή εκτάκτου ανάγκης χωρίς καθυστέρηση",
+    "es": "Colecistectomía abierta de emergencia sin demora"
+   },
+   {
+    "el": "Εξιτήριο με αντιβιοτικά από στόματος και χολοκυστεκτομή σε 4–6 εβδομάδες",
+    "es": "Alta con antibióticos orales y colecistectomía programada en 4–6 semanas"
+   },
+   {
+    "el": "ΕΡΧΠ με χολικοεντερική σφιγκτηροτομή ως έλεγχος εστίας",
+    "es": "CPRE con esfinterotomía bilioentérica como control del foco"
+   },
+   {
+    "el": "Αιμοδυναμική σταθεροποίηση + αντιβιοτικά IV + διαδερμική χολοκυστοστομία · χολοκυστεκτομή σε δεύτερο χρόνο μετά ανάρρωση",
+    "es": "Estabilización hemodinámica + antibióticos IV + colecistostomía percutánea · colecistectomía diferida tras recuperación"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Χολοκυστίτιδα Βαθμός ΙΙΙ (Tokyo 2018): οργανική ανεπάρκεια (νεφρική + καρδιαγγειακή + νοητική). Σε ασθενείς υψηλού χειρουργικού κινδύνου (ASA III/IV), η αρχική αντιμετώπιση περιλαμβάνει: αιμοδυναμική υποστήριξη, ευρέος φάσματος αντιβιοτικά IV, διαδερμική χολοκυστοστομία ως «bridge to surgery». Η οριστική χολοκυστεκτομή γίνεται μετά σταθεροποίηση (σε εβδομάδες).",
+  "expl_es": "Colecistitis grado III (Tokio 2018): fallo orgánico (renal + cardiovascular + neurológico). En pacientes de alto riesgo quirúrgico (ASA III/IV), el tratamiento inicial incluye: estabilización hemodinámica, antibióticos IV de amplio espectro, colecistostomía percutánea como «puente a la cirugía». La colecistectomía definitiva se realiza tras estabilización (semanas después).",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Επείγουσα λαπαροσκοπική χολοκυστεκτομή σε Βαθμό ΙΙΙ με πολυοργανική ανεπάρκεια αυξάνει χειρουργική θνητότητα · <b>B</b> Ανοιχτή χολοκυστεκτομή επίσης αυξάνει θνητότητα χωρίς σταθεροποίηση · <b>C</b> Εξιτήριο αντενδείκνυται με υπόταση, σύγχυση και οξεία νεφρική ανεπάρκεια · <b>D</b> Η ΕΡΧΠ δεν αντιμετωπίζει τη χολοκυστίτιδα (πρόβλημα κύστης, όχι χοληδόχου)",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La colecistectomía laparoscópica urgente en grado III con fallo multiorgánico aumenta la mortalidad quirúrgica · <b>B</b> La colecistectomía abierta también aumenta la mortalidad sin estabilización previa · <b>C</b> El alta está contraindicada con hipotensión, confusión e insuficiencia renal aguda · <b>D</b> La CPRE no trata la colecistitis (problema de la vesícula, no del colédoco)",
+  "cite": "Okamoto K et al., Tokyo Guidelines 2018 (TG18) · Sabiston 21.ª ed., cap. «Biliary Tract» · Schwartz's Principles of Surgery 11.ª ed.",
+  "id": "C-191"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 82,
+  "concepts": [
+   "c.surg.acute.colecistitis_diagnostico_eco"
+  ],
+  "topic_el": "Χολοκυστίτιδα · Υπερηχογραφικά κριτήρια — ειδικότητα και ευαισθησία",
+  "topic_es": "Colecistitis aguda · Criterios ecográficos — especificidad y sensibilidad",
+  "stem_el": "Ασθενής με κλινική υποψία οξείας χολοκυστίτιδας οδηγείται σε υπερηχογράφημα. Ποιος συνδυασμός υπερηχογραφικών ευρημάτων έχει τη μεγαλύτερη διαγνωστική αξία για οξεία χολοκυστίτιδα;",
+  "stem_es": "Paciente con sospecha clínica de colecistitis aguda es enviado a ecografía. ¿Qué combinación de hallazgos ecográficos tiene mayor valor diagnóstico para la colecistitis aguda?",
+  "options": [
+   {
+    "el": "Υπερηχογραφικό σημείο Murphy + πάχυνση τοιχώματος > 3 mm + περικυστική υγρή στοιβάδα",
+    "es": "Signo de Murphy ecográfico + engrosamiento de la pared > 3 mm + líquido pericístico"
+   },
+   {
+    "el": "Διάταση χοληδόχου πόρου > 8 mm σε ενήλικα < 60 ετών",
+    "es": "Dilatación del colédoco > 8 mm en adulto menor de 60 años"
+   },
+   {
+    "el": "Χολολεπτοειδής λάσπη (sludge) χωρίς λίθους ούτε φλεγμονώδη σημεία",
+    "es": "Barro biliar (sludge) sin cálculos ni signos inflamatorios"
+   },
+   {
+    "el": "Χολολιθίαση χωρίς άλλες αλλαγές (απλή χολελιθίαση)",
+    "es": "Colelitiasis sin otras alteraciones (colelitiasis simple)"
+   },
+   {
+    "el": "Ακουστική σκιά οπισθεν λίθου χωρίς πάχυνση τοιχώματος",
+    "es": "Sombra acústica posterior a cálculo sin engrosamiento de pared"
+   }
+  ],
+  "correct": 0,
+  "expl_el": "Διαγνωστικά κριτήρια υπερηχογράφου για χολοκυστίτιδα (Tokyo 2018): A. Τοπικά σημεία φλεγμονής: (i) υπερηχογραφικό σημείο Murphy, (ii) πάχυνση τοιχώματος > 3–4 mm, (iii) περικυστική υγρή στοιβάδα, (iv) αέριο εντός τοιχώματος. B. Χολολιθίαση ή πάχυνση βλεννογόνου. Ο συνδυασμός υπερηχογραφικού Murphy + πάχυνση + περικυστικό υγρό έχει ευαισθησία > 90% για οξεία χολοκυστίτιδα.",
+  "expl_es": "Criterios ecográficos para colecistitis (Tokio 2018): A. Signos de inflamación local: (i) signo de Murphy ecográfico, (ii) engrosamiento de pared > 3–4 mm, (iii) líquido pericístico, (iv) gas intramural. B. Colelitiasis o engrosamiento mucoso. La combinación de Murphy ecográfico + engrosamiento + líquido pericístico tiene sensibilidad > 90% para colecistitis aguda.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>D</b> Η χολολιθίαση χωρίς φλεγμονώδη ευρήματα μπορεί να είναι τυχαίο εύρημα · <b>B</b> Διατεταμένος χοληδόχος πόρος είναι εύρημα χολοδοχολιθίασης ή χολαγγειίτιδας, όχι ειδικά χολοκυστίτιδας · <b>E</b> Η ακουστική σκιά οπισθεν λίθου επιβεβαιώνει χολολιθίαση, όχι φλεγμονή · <b>C</b> Το sludge είναι αναίτιο εύρημα χωρίς σημεία φλεγμονής",
+  "dis_es": "<b>Por qué no las otras:</b> <b>D</b> La colelitiasis sin hallazgos inflamatorios puede ser un hallazgo incidental · <b>B</b> La dilatación del colédoco es hallazgo de coledocolitiasis o colangitis, no específico de colecistitis · <b>E</b> La sombra acústica posterior a cálculo confirma litiasis, no inflamación · <b>C</b> El sludge es un hallazgo inespecífico sin signos de inflamación",
+  "cite": "Yokoe M et al., Tokyo Guidelines 2018 (TG18) · Sabiston 21.ª ed., cap. «Biliary Tract»",
+  "id": "C-192"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 83,
+  "concepts": [
+   "c.surg.acute.mirizzi"
+  ],
+  "topic_el": "Σύνδρομο Mirizzi — διάγνωση και ταξινόμηση Csendes",
+  "topic_es": "Síndrome de Mirizzi — diagnóstico y clasificación de Csendes",
+  "stem_el": "Γυναίκα 65 ετών με προοδευτικό αποφρακτικό ίκτερο, επανειλημμένα επεισόδια χολαγγειίτιδας και γνωστή χολολιθίαση. Ελικτής-ΜΤ αναδεικνύει λίθο στο χοληδοχικό κύπελλο που συμπιέζει εξωτερικά τον κοινό ηπατικό πόρο, χωρίς ενδοχοληδοχική λιθίαση. Ποια είναι η ορθή διάγνωση;",
+  "stem_es": "Mujer de 65 años con ictericia obstructiva progresiva, episodios recurrentes de colangitis y colelitiasis conocida. Colangio-RM muestra cálculo en el infundíbulo vesicular que comprime extrínsecamente el conducto hepático común, sin litiasis en el colédoco. ¿Cuál es el diagnóstico correcto?",
+  "options": [
+   {
+    "el": "Χολαγγειοκαρκίνωμα πύλης ήπατος (όγκος Klatskin) · χειρουργική εξαίρεση εάν εφικτή",
+    "es": "Colangiocarcinoma hiliar (tumor de Klatskin) · resección quirúrgica si es posible"
+   },
+   {
+    "el": "Σύνδρομο Mirizzi · λίθος στο χοληδοχικό κύπελλο συμπιέζει εξωτερικά τον κοινό ηπατικό πόρο",
+    "es": "Síndrome de Mirizzi · cálculo impactado en el infundíbulo comprime extrínsecamente el conducto hepático común"
+   },
+   {
+    "el": "Πρωτογενής χολοδοχολιθίαση χοληδόχου πόρου με αποφρακτική συνιστώσα",
+    "es": "Coledocolitiasis primaria del colédoco con componente obstructivo"
+   },
+   {
+    "el": "Πρωτογενής σκληρυντική χολαγγειίτιδα με στενώσεις πύλης ήπατος",
+    "es": "Colangitis esclerosante primaria con estenosis hiliar"
+   },
+   {
+    "el": "Κύστη χοληδόχου τύπου Ι με εξωτερική συμπίεση",
+    "es": "Quiste de colédoco tipo I con compresión extrínseca"
+   }
+  ],
+  "correct": 1,
+  "expl_el": "Το σύνδρομο Mirizzi ορίζεται ως εξωτερική συμπίεση του κοινού ηπατικού πόρου από λίθο εμφηγμένο στο χοληδοχικό κύπελλο ή τον κυστικό πόρο. Ταξινόμηση Csendes: τύπος I (εξωτερική συμπίεση μόνο), τύποι II–IV (αυξανόμενος βαθμός χολοχοληδοχικής επικοινωνίας). Η χολελαπαροσκοπική αντιμετώπιση εξαρτάται από τον τύπο· ο υψηλός τύπος απαιτεί ανοιχτή χειρουργική και ηπατικοεντερική αναστόμωση.",
+  "expl_es": "El síndrome de Mirizzi se define como la compresión extrínseca del conducto hepático común por un cálculo impactado en el infundíbulo vesicular o el conducto cístico. Clasificación de Csendes: tipo I (solo compresión extrínseca), tipos II–IV (grado creciente de fístula colecistocoledociana). El manejo laparoscópico depende del tipo; los tipos altos requieren cirugía abierta y anastomosis hepaticoyeyunal.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Ο όγκος Klatskin εμφανίζει ενδογενή μάζα, όχι εξωτερική συμπίεση από λίθο στο χοληδοχικό κύπελλο · <b>C</b> Η ενδοχοληδοχική λιθίαση αφορά λίθους εντός του χοληδόχου, όχι εξωτερική συμπίεση · <b>D</b> Η πρωτογενής σκληρυντική χολαγγειίτιδα προκαλεί πολλαπλές στενώσεις, δεν σχετίζεται με λίθο εμφηγμένο στο κύπελλο · <b>E</b> Κύστη χοληδόχου τύπου Ι είναι εκ γενετής διάταση, δεν συμπιέζεται από λίθο κυστικής χολοκυστίτιδας",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> El tumor de Klatskin muestra una masa intraluminal, no compresión extrínseca por cálculo en el infundíbulo · <b>C</b> La coledocolitiasis implica cálculos dentro del colédoco, no compresión extrínseca · <b>D</b> La colangitis esclerosante primaria causa estenosis múltiples, no se relaciona con cálculo impactado en el infundíbulo · <b>E</b> El quiste de colédoco tipo I es una dilatación congénita, no comprimida por colelitiasis cística",
+  "cite": "Sabiston 21.ª ed., cap. «Biliary Tract» · Csendes A et al., Surg Gynecol Obstet 1989 (Mirizzi classification) · Schwartz's Principles of Surgery 11.ª ed.",
+  "id": "C-193"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 77,
+  "concepts": [
+   "c.surg.acute.cep_diagnostico"
+  ],
+  "topic_el": "Πρωτογενής σκληρυντική χολαγγειίτιδα (PSC) — διάγνωση και διαφορική",
+  "topic_es": "Colangitis esclerosante primaria (CEP) — diagnóstico y diagnóstico diferencial",
+  "stem_el": "Άνδρας 38 ετών με χρόνια αύξηση FAL, GGT και επαναλαμβανόμενα επεισόδια χολαγγειίτιδας. Χωρίς χολολιθίαση. Κολονοσκόπηση: εκτεταμένη ελκώδης κολίτιδα. Ελικτής-ΜΤ χοληφόρων: πολλαπλές ενδο- και εξωηπατικές στενώσεις σε «χαντρόκολο» σχήμα. pANCA θετικό. Ποια είναι η πιθανότερη διάγνωση;",
+  "stem_es": "Varón de 38 años con elevación crónica de FAL y GGT y episodios recurrentes de colangitis. Sin colelitiasis. Colonoscopia: colitis ulcerosa extensa. Colangio-RM de vías biliares: estenosis multifocales intra y extrahepáticas con patrón en «cuentas de collar». pANCA positivo. ¿Cuál es el diagnóstico más probable?",
+  "options": [
+   {
+    "el": "Χολαγγειίτιδα χολικής αιτιολογίας (CBP) · θετικά αντιμιτοχονδριακά αντισώματα (AMA), κολόσταση χωρίς EII",
+    "es": "Colangitis biliar primaria (CBP) · AMA positivos, colestasis sin EII"
+   },
+   {
+    "el": "Χολοδοχολιθίαση με επαναλαμβανόμενη χολαγγειίτιδα από υποκλινικούς λίθους",
+    "es": "Coledocolitiasis con colangitis recurrente por litiasis subclínica"
+   },
+   {
+    "el": "Πρωτογενής σκληρυντική χολαγγειίτιδα (PSC) · pANCA+, σχέση με EII, χολαγγειογραφικό μοτίβο «χαντρόκολου»",
+    "es": "Colangitis esclerosante primaria (CEP) · pANCA+, asociación con EII, patrón colangiográfico en «cuentas de collar»"
+   },
+   {
+    "el": "Ενδοηπατικό χολαγγειοκαρκίνωμα πολυεστιακής μορφής",
+    "es": "Colangiocarcinoma intrahepático multifocal"
+   },
+   {
+    "el": "Αυτοάνοση ηπατίτιδα με ενδοηπατική κολόσταση",
+    "es": "Hepatitis autoinmune con colestasis intrahepática"
+   }
+  ],
+  "correct": 2,
+  "expl_el": "Η PSC χαρακτηρίζεται από πολλαπλές φλεγμονώδεις στενώσεις εντός και εκτός ηπατικών χοληφόρων, δημιουργώντας το χαρακτηριστικό 'beaded' ή 'pruned-tree' μοτίβο στη χολαγγειογραφία. Ισχυρή συσχέτιση με ελκώδη κολίτιδα (70–80%). pANCA θετικό σε ~80%. Μπορεί να επιπλεχθεί από χολαγγειοκαρκίνωμα. Η θεραπεία με UDCA δεν βελτιώνει επιβίωση· η μεταμόσχευση ήπατος είναι θεραπεία σε τελικό στάδιο.",
+  "expl_es": "La CEP se caracteriza por estenosis inflamatorias múltiples de las vías biliares intra y extrahepáticas, creando el patrón en «cuentas de collar» o «árbol podado» en la colangiografía. Fuerte asociación con la colitis ulcerosa (70–80%). pANCA positivo en ~80%. Puede complicarse con colangiocarcinoma. El tratamiento con AUDC no mejora la supervivencia; el trasplante hepático es el tratamiento definitivo en la fase terminal.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η CBP αφορά κυρίως γυναίκες μέσης ηλικίας, AMA θετικά, χωρίς EII ούτε εξωηπατικές στενώσεις · <b>B</b> Χολοδοχολιθίαση θα φαινόταν ως ελεύθερα λίθοι ή αθρόα διάταση, όχι πολλαπλές στενώσεις · <b>D</b> Χολαγγειοκαρκίνωμα εμφανίζεται ως μάζα ή μονήρης στένωση, όχι διάχυτο πολυεστιακό μοτίβο · <b>E</b> Αυτοάνοση ηπατίτιδα εμφανίζεται με ANA/SMA θετικά, υψηλές τρανσαμινάσες, όχι χολαγγειογραφικές στενώσεις",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La CBP afecta principalmente a mujeres de mediana edad, AMA positivos, sin EII ni estenosis extrahepáticas · <b>B</b> La coledocolitiasis se vería como cálculos libres o dilatación proximal, no estenosis multifocales · <b>D</b> El colangiocarcinoma se presenta como masa o estenosis solitaria, no patrón difuso multifocal · <b>E</b> La hepatitis autoinmune cursa con ANA/SMA positivos, transaminasas muy elevadas, sin estenosis colangiográficas",
+  "cite": "Sabiston 21.ª ed., cap. «Biliary Tract» · EASL Clinical Practice Guidelines on Primary Sclerosing Cholangitis 2022",
+  "id": "C-194"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 75,
+  "concepts": [
+   "c.surg.acute.cbp_diagnostico"
+  ],
+  "topic_el": "Χολαγγειίτιδα χολικής αιτιολογίας (CBP) — διάγνωση",
+  "topic_es": "Colangitis biliar primaria (CBP, antes cirrosis biliar primaria) — diagnóstico",
+  "stem_el": "Γυναίκα 55 ετών με χρόνιο κνησμό, αδυναμία και αύξηση FAL, GGT και άμεσης χολερυθρίνης. Χωρίς χολολιθίαση. Αντιμιτοχονδριακά αντισώματα (AMA) θετικά σε υψηλό τίτλο (> 1:40). Βιοψία ήπατος: φλεγμονώδης βλάβη μικρών χοληφόρων αγωγών. Ποια είναι η διάγνωση;",
+  "stem_es": "Mujer de 55 años con prurito crónico, astenia y elevación de FA, GGT y bilirrubina directa. Sin colelitiasis. Anticuerpos antimitocondriales (AMA) positivos a título alto (> 1:40). Biopsia hepática: lesión inflamatoria de los conductos biliares pequeños. ¿Cuál es el diagnóstico?",
+  "options": [
+   {
+    "el": "Πρωτογενής σκληρυντική χολαγγειίτιδα (PSC) · pANCA+, σχέση με ελκώδη κολίτιδα",
+    "es": "Colangitis esclerosante primaria (CEP) · pANCA+, asociación con colitis ulcerosa"
+   },
+   {
+    "el": "Ενδοηπατική χολόσταση κύησης · σχετίζεται με εγκυμοσύνη",
+    "es": "Colestasis intrahepática del embarazo · relacionada con la gestación"
+   },
+   {
+    "el": "Ενδοηπατικό χολαγγειοκαρκίνωμα · εστιακή μάζα σε απεικόνιση, AMA αρνητικό",
+    "es": "Colangiocarcinoma intrahepático · masa focal en imagen, AMA negativo"
+   },
+   {
+    "el": "Χολαγγειίτιδα χολικής αιτιολογίας (CBP) · AMA+, χολόσταση, κυρίως γυναίκες μέσης ηλικίας",
+    "es": "Colangitis biliar primaria (CBP) · AMA+, colestasis, afecta principalmente a mujeres de mediana edad"
+   },
+   {
+    "el": "Αυτοάνοση ηπατίτιδα · ANA και αντισώματα anti-smooth muscle θετικά, υψηλές τρανσαμινάσες",
+    "es": "Hepatitis autoinmune · ANA y anticuerpos anti-smooth muscle positivos, transaminasas muy elevadas"
+   }
+  ],
+  "correct": 3,
+  "expl_el": "Η CBP (πρώην Πρωτογενής Χολική Κίρρωση) αυτοάνοση νόσος των μικρών ενδοηπατικών χοληφόρων. Διάγνωση: ≥ 2 από 3 κριτήρια: (1) χολόσταση (αύξηση FAL/GGT/χολερυθρίνη άμεση), (2) AMA θετικά > 1:40, (3) βιοψία συμβατή. Θεραπεία: ουρσοδεοξυχολικό οξύ (UDCA) — μειώνει εξέλιξη. Εμφανίζεται κυρίως σε γυναίκες 40–60 ετών.",
+  "expl_es": "La CBP (antes cirrosis biliar primaria) es una enfermedad autoinmune de los conductos biliares intrahepáticos pequeños. Diagnóstico: ≥ 2 de 3 criterios: (1) colestasis (aumento FAL/GGT/bilirrubina directa), (2) AMA positivos > 1:40, (3) biopsia compatible. Tratamiento: ácido ursodesoxicólico (AUDC) — retrasa la progresión. Afecta principalmente a mujeres de 40–60 años.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η PSC εμφανίζεται κυρίως σε νέους άνδρες με EII, pANCA+, πολλαπλές στενώσεις χοληφόρων σε χολαγγειο-ΜΤ · <b>E</b> Αυτοάνοση ηπατίτιδα: ANA/SMA θετικά, κυρίως τρανσαμινάσες ↑, AMA αρνητικά συνήθως · <b>C</b> Χολαγγειοκαρκίνωμα: εστιακή μάζα σε TC/ΜΤ, AMA αρνητικό · <b>B</b> Χολόσταση κύησης: μόνο κατά την εγκυμοσύνη, δεν εμφανίζεται σε μη-έγκυο 55χρονη",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La CEP afecta principalmente a varones jóvenes con EII, pANCA+, estenosis múltiples en colangio-RM · <b>E</b> La hepatitis autoinmune: ANA/SMA positivos, predominio de transaminasas, AMA habitualmente negativos · <b>C</b> El colangiocarcinoma: masa focal en TC/RM, AMA negativo · <b>B</b> La colestasis del embarazo solo ocurre durante la gestación, no en mujer de 55 años no gestante",
+  "cite": "Sabiston 21.ª ed., cap. «Biliary Tract» · EASL Clinical Practice Guidelines on PBC 2017 · Lindor KD et al., Am J Gastroenterol 2019",
+  "id": "C-195"
+ },
+ {
+  "sid": "surg-acute",
+  "prob": 80,
+  "concepts": [
+   "c.surg.acute.colecistitis_alitiasica"
+  ],
+  "topic_el": "Χολοκυστίτιδα άνευ λίθων — κρίσιμα νοσούντα, διαδερμική χολοκυστοστομία",
+  "topic_es": "Colecistitis alitiásica — paciente crítico, colecistostomía percutánea",
+  "stem_el": "Άνδρας 65 ετών νοσηλεύεται σε ΜΕΘ για σηψαιμία πνευμονικής αιτιολογίας, σε μηχανικό αερισμό, ολική παρεντερική διατροφή και οπιοειδή 12 ημέρες. Υπερηχογράφημα κοιλίας: διατεταμένη χολοκύστη (9 εκ.), πάχυνση τοιχώματος (5 mm), χολολεπτοειδής λάσπη, χωρίς λίθους. Περικυστική φλεγμονή. Θετικό υπερηχογραφικό Murphy. Ποια είναι η διάγνωση και ποιο το βέλτιστο θεραπευτικό βήμα;",
+  "stem_es": "Varón de 65 años ingresado en UCI por sepsis de foco pulmonar, en ventilación mecánica, nutrición parenteral total y opiáceos desde hace 12 días. Ecografía abdominal: vesícula distendida (9 cm), pared engrosada (5 mm), barro biliar, sin cálculos. Inflamación pericística. Murphy ecográfico positivo. ¿Cuál es el diagnóstico y el mejor paso terapéutico?",
+  "options": [
+   {
+    "el": "Ισχαιμική ηπατίτιδα από χαμηλή καρδιακή παροχή · διακοπή οπιοειδών και βελτίωση αιμάτωσης",
+    "es": "Hepatitis isquémica por bajo gasto · suspender opiáceos y mejorar la perfusión"
+   },
+   {
+    "el": "Ψευδοαπόφραξη κόλου (σύνδρομο Ogilvie) · νεοστιγμίνη IV",
+    "es": "Pseudoobstrucción colónica aguda (síndrome de Ogilvie) · neostigmina IV"
+   },
+   {
+    "el": "Λιθιασική χολοκυστίτιδα · ΕΡΧΠ με αφαίρεση λίθων",
+    "es": "Colecistitis litiásica · CPRE con extracción de cálculos"
+   },
+   {
+    "el": "Ασυμπτωματική χολολιθίαση · απλή υπερηχογραφική παρακολούθηση",
+    "es": "Colelitiasis asintomática · solo vigilancia ecográfica"
+   },
+   {
+    "el": "Άνευ λίθων χολοκυστίτιδα (AAC) · διαδερμική χολοκυστοστομία ως θεραπεία επιλογής σε υψηλού κινδύνου χειρουργικό ασθενή",
+    "es": "Colecistitis alitiásica aguda (AAC) · colecistostomía percutánea como tratamiento de elección en paciente de alto riesgo quirúrgico"
+   }
+  ],
+  "correct": 4,
+  "expl_el": "Η οξεία άνευ λίθων χολοκυστίτιδα (AAC) εμφανίζεται σε κρίσιμα νοσούντα: μηχανικός αερισμός, ΟΠΔ, οπιοειδή, πολλαπλό τραύμα. Παράγοντες κινδύνου: κολόσταση κύστης (ΟΠΔ), ισχαιμία τοιχώματος κύστης, βακτηριακή/χολική υπερσυγκέντρωση. Σε ΜΕΘ-ασθενείς υψηλού χειρουργικού κινδύνου: διαδερμική χολοκυστοστομία (image-guided) είναι αποτελεσματική και ασφαλής. Χολοκυστεκτομή σε εκτιμώμενο χαμηλότερο κίνδυνο.",
+  "expl_es": "La colecistitis alitiásica aguda (AAC) aparece en pacientes críticos: ventilación mecánica, NPT, opiáceos, politraumatismo. Factores de riesgo: estasis biliar (NPT), isquemia de la pared vesicular, concentración biliar/bacteriana. En pacientes de UCI con alto riesgo quirúrgico: la colecistostomía percutánea guiada por imagen es eficaz y segura. La colecistectomía se reserva para menor riesgo estimado.",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Ισχαιμική ηπατίτιδα: αύξηση τρανσαμινασών, όχι διατεταμένη χολοκύστη με φλεγμονώδη ευρήματα · <b>B</b> Σύνδρομο Ogilvie αφορά κόλον, όχι χολοκύστη · <b>C</b> Η ΕΡΧΠ δεν ενδείκνυται σε AAC χωρίς χολοδοχολιθίαση · <b>D</b> Η εικόνα δεν είναι ασυμπτωματική χολολιθίαση — υπάρχουν φλεγμονώδη υπερηχογραφικά ευρήματα και θετικό Murphy",
+  "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La hepatitis isquémica eleva transaminasas, no produce vesícula distendida con signos inflamatorios · <b>B</b> El síndrome de Ogilvie afecta al colon, no a la vesícula · <b>C</b> La CPRE no está indicada en AAC sin coledocolitiasis · <b>D</b> La imagen no es una colelitiasis asintomática — hay hallazgos inflamatorios ecográficos y Murphy positivo",
+  "cite": "Sabiston 21.ª ed., cap. «Biliary Tract» · Barie PS et al., Surg Clin North Am 2014 (Acalculous Cholecystitis) · Tokyo Guidelines 2018",
+  "id": "C-196"
+ },
+ {
   "sid": "surg-trauma",
   "prob": 92,
   "concepts": [
