@@ -53,6 +53,27 @@ def norm(s):
     return re.sub(r'[^a-z0-9α-ω ]+', ' ', s).strip()
 
 
+def dis_letters_ok(q):
+    """Las letras citadas en dis_* deben ser exactamente las opciones incorrectas.
+
+    Un agente reordeno opciones para romper el sesgo de posicion y dejo el
+    analisis de distractores apuntando a las letras viejas: la pregunta explica
+    por que falla la opcion correcta y calla una de las incorrectas.
+    """
+    n = len(q.get('options') or [])
+    cor = q.get('correct')
+    if not isinstance(cor, int) or not 0 <= cor < n:
+        return []
+    expect = {chr(65 + i) for i in range(n)} - {chr(65 + cor)}
+    bad = []
+    for f in ('dis_es', 'dis_el'):
+        got = set(re.findall(r'<b>([A-E])</b>', q.get(f) or ''))
+        if got and got != expect:
+            bad.append('%s cita %s y deberia citar %s'
+                       % (f, ''.join(sorted(got)) or '-', ''.join(sorted(expect))))
+    return bad
+
+
 def check_placeholder(text, where, errs, qid):
     for pat, why in PLACEHOLDER:
         if re.search(pat, text or '', re.I | re.M):
@@ -135,6 +156,9 @@ def validate(spec, strict=False):
             errs.append('%s correct=%r fuera de rango' % (qid, cor))
         else:
             pos_by_sid[q.get('sid')][cor] += 1
+
+        for b in dis_letters_ok(q):
+            errs.append('%s %s' % (qid, b))
 
         # --- cita -----------------------------------------------------------
         cite = (q.get('cite') or '').strip()
