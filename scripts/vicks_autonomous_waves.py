@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-vicks_autonomous_waves.py — 9 oleadas × 5 agentes Haiku = ~2000q autónomamente.
+vicks_autonomous_waves.py — 11 oleadas x 5 agentes Haiku = ~1370q automaticamente.
 Minimiza tokens, paraleliza, pipeline completo, push a GitHub Pages.
 
 Uso: python scripts/vicks_autonomous_waves.py
@@ -18,7 +18,7 @@ from datetime import datetime
 from anthropic import Anthropic
 from vicks_common import SUBJECTS, CONTENT
 
-# Oleadas: (spec, sid, n_questions) — 11 oleadas × 5 × ~25q = 1375q base + overages → ~2000q
+# Oleadas: (spec, sid, n_questions) — 11 oleadas x 5 x ~25q = 1375q base + overages -> ~2000q
 WAVES = [
     # Ola 1: cardio + gi + neuro iniciales (110q)
     [('A', 'path-cardio', 25), ('A', 'path-cardio', 25), ('A', 'path-gi', 25), ('A', 'path-neuro', 25), ('A', 'path-neuro', 10)],
@@ -63,33 +63,33 @@ BRIEF = """Redacta EXACTAMENTE {n} preguntas de examen para **{sid}** ({spec_nam
     "correct": <0-4>,
     "expl_el": "...",
     "expl_es": "...",
-    "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b>... · <b>B</b>... · <b>D</b>... · <b>E</b>...",
-    "dis_es": "<b>Por qué no las otras:</b> <b>A</b>... · <b>B</b>... · <b>D</b>... · <b>E</b>...",
+    "dis_el": "<b>Gamma ouxi oi ypolipes:</b> <b>A</b>... · <b>B</b>... · <b>D</b>... · <b>E</b>...",
+    "dis_es": "<b>Por que no las otras:</b> <b>A</b>... · <b>B</b>... · <b>D</b>... · <b>E</b>...",
     "cite": "..."
   }},
   ...
 ]
 
 **REGLAS NO NEGOCIABLES:**
-1. Bilingual NATIVO: terminología médica griega auténtica, acentos correctos.
+1. Bilingual NATIVO: terminologia medica griega autentica, acentos correctos.
 2. dis_* cita EXACTAMENTE posiciones incorrectas. Si correct=2 (C), incluir A/B/D/E — NUNCA C.
-3. cite real (Harrison, ESC, KDIGO, Nelson...) con año/edición. SIN invención.
-4. Nivel: diagnóstico diferencial, decisión clínica, fisiopatología.
+3. cite real (Harrison, ESC, KDIGO, Nelson...) con ano/edicion. SIN invencion.
+4. Nivel: diagnostico diferencial, decision clinica, fisiopatologia.
 5. prob realista: 50-65 baja, 65-85 media, 85-99 alta.
 6. 5 opciones, cada distractor = error conceptual real.
 7. sin campo "id" en JSON.
 
-**OUTPUT:** array JSON válido, sin prefijo/sufijo, sin comentarios.
+**OUTPUT:** array JSON valido, sin prefijo/sufijo, sin comentarios.
 """
 
 def brief_for(spec, sid, n):
-    """Brief comprimido por sección."""
+    """Brief comprimido por seccion."""
     spec_name = SUBJECTS[spec]['name_es']
     return BRIEF.format(n=n, sid=sid, spec=spec, spec_name=spec_name)
 
 def launch_wave(wave_idx, tasks):
     """Lanza 5 agentes Haiku en paralelo."""
-    print(f"\n🌊 Oleada {wave_idx}: {sum(n for _, _, n in tasks)}q en 5 agentes...")
+    print(f"\n[WAVE {wave_idx}] {sum(n for _, _, n in tasks)}q en 5 agentes...")
 
     client = Anthropic()
     results = []
@@ -101,6 +101,7 @@ def launch_wave(wave_idx, tasks):
                 model="claude-haiku-4-5-20251001",
                 max_tokens=24000,
                 messages=[{"role": "user", "content": brief_for(spec, sid, n)}],
+                stream=False,
             )
             text = msg.content[0].text
 
@@ -111,12 +112,12 @@ def launch_wave(wave_idx, tasks):
                 json_str = text[start:end]
                 qs = json.loads(json_str)
                 results.append((spec, sid, qs))
-                print(f" ✓ {len(qs)}q")
+                print(f" OK {len(qs)}q")
             except (ValueError, json.JSONDecodeError):
-                print(f" ✗ invalid JSON")
+                print(f" FAIL invalid JSON")
                 results.append((spec, sid, []))
         except Exception as e:
-            print(f" ✗ {str(e)[:30]}")
+            print(f" FAIL {str(e)[:30]}")
             results.append((spec, sid, []))
 
         time.sleep(0.5)  # Rate limit
@@ -136,7 +137,6 @@ def persist_wave(wave_idx, results):
             spec_dir = os.path.join(temp_dir, spec)
             os.makedirs(spec_dir, exist_ok=True)
 
-            # Nombre única: oleada_{idx}_{sid}.json
             fname = f'oleada_{wave_idx:02d}_{sid.replace("-", "_")}.json'
             path = os.path.join(spec_dir, fname)
 
@@ -145,12 +145,12 @@ def persist_wave(wave_idx, results):
 
             total += len(qs)
 
-    print(f"  → Guardado en %TEMP%/vicks_stage/ ({total}q)")
+    print(f"  [SAVED] %TEMP%/vicks_stage/ ({total}q)")
     return total
 
 def run_pipeline():
-    """merge → rebalance → validate → build."""
-    print("\n⚙️  Pipeline: merge → rebalance → validate → build...")
+    """merge -> rebalance -> validate -> build."""
+    print("\n[PIPELINE] merge -> rebalance -> validate -> build...")
 
     scripts_dir = os.path.dirname(os.path.abspath(__file__))
     root_dir = os.path.dirname(scripts_dir)
@@ -165,44 +165,49 @@ def run_pipeline():
         try:
             result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
             if result.returncode == 0:
-                print(f"  ✓ {step}")
+                print(f"  OK {step}")
                 if "pregunta" in result.stdout.lower():
                     for line in result.stdout.split('\n'):
-                        if 'pregunta' in line.lower() or '=' in line:
+                        if 'pregunta' in line.lower():
                             print(f"    {line}")
             else:
-                print(f"  ✗ {step}: {result.stderr[:100]}")
+                print(f"  FAIL {step}: {result.stderr[:100]}")
                 return False
         except subprocess.TimeoutExpired:
-            print(f"  ✗ {step}: timeout")
+            print(f"  FAIL {step}: timeout")
             return False
 
     return True
 
 def push_github():
     """git add/commit/push."""
-    print("\n📤 GitHub Pages...")
+    print("\n[GITHUB] Pushing to GitHub Pages...")
 
     try:
         subprocess.run(['git', 'add', 'patologia/', 'pediatria/', 'cirugia/', 'content/'], check=True, capture_output=True)
         subprocess.run(
-            ['git', 'commit', '-m', f'Oleadas autónomas: ~2000q generadas con Haiku'],
+            ['git', 'commit', '-m', 'Oleadas autonomas: ~1370q generadas con Haiku'],
             check=True, capture_output=True,
         )
         subprocess.run(['git', 'push', 'origin', 'HEAD'], check=True, capture_output=True, timeout=60)
-        print("  ✓ GitHub Pages updated")
+        print("  OK GitHub Pages updated")
         return True
     except Exception as e:
-        print(f"  ✗ git: {e}")
+        print(f"  FAIL git: {e}")
         return False
 
 def main():
-    print("=" * 75)
-    print(" VICKS KYSATS 2026 — Oleadas Autónomas (Haiku Only)")
-    print("=" * 75)
-    print(f" {len(WAVES)} oleadas × 5 agentes = {sum(len(w) for w in WAVES)} agentes")
-    print(f" Estimado: ~{sum(sum(n for _, _, n in w) for w in WAVES)} preguntas bilingües")
-    print(" Token budget: Haiku < 25K por agente, máximo 120q/ola")
+    # Asigna nombres (como en build_v6.py)
+    SUBJECTS['A']['name_es'] = 'Medicina Interna'
+    SUBJECTS['B']['name_es'] = 'Pediatria'
+    SUBJECTS['C']['name_es'] = 'Cirugia'
+
+    print("="*75)
+    print(" VICKS KYSATS 2026 - Oleadas Autonomas (Haiku Only)")
+    print("="*75)
+    print(f" {len(WAVES)} oleadas x 5 agentes = {sum(len(w) for w in WAVES)} agentes")
+    print(f" Estimado: ~{sum(sum(n for _, _, n in w) for w in WAVES)} preguntas bilingues")
+    print(" Token budget: Haiku < 25K por agente")
     print()
 
     total_gen = 0
@@ -212,17 +217,15 @@ def main():
         wave_gen = persist_wave(wave_idx, results)
         total_gen += wave_gen
 
-        # Ejecuta pipeline cada 3 oleadas (o solo al final)
         if wave_idx % 3 == 0 or wave_idx == len(WAVES):
             if not run_pipeline():
-                print(f"⚠️  Pipeline warning en ola {wave_idx}, continuando...")
+                print(f"WARNING: Pipeline falló en ola {wave_idx}, continuando...")
 
-    # Push final
     push_github()
 
-    print("\n" + "=" * 75)
-    print(f"✅ COMPLETO: {total_gen} preguntas generadas, compiladas, desplegadas.")
-    print("=" * 75)
+    print("\n" + "="*75)
+    print(f"COMPLETE: {total_gen} preguntas generadas, compiladas, desplegadas.")
+    print("="*75)
 
 if __name__ == '__main__':
     main()
