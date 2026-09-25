@@ -4132,7 +4132,7 @@
   ],
   "topic_el": "Τραύμα κοιλιάς · Κλίμακα βαθμολόγησης AAST",
   "topic_es": "Trauma abdominal · Escala de gradación AAST",
-  "stem_el": "Στην κλίμακα της American Association for the Surgery of Trauma (AAST) για κακώσεις συμπαγών οργάνων, τι περιγράφει βασικά ο βαθμός που αποδίδεται σε ηπατική ή σπληνική κάκωση;",
+  "stem_el": "Στην κλίμακα της Αμερικανικής Εταιρείας Χειρουργικής Τραύματος (AAST) για κακώσεις συμπαγών οργάνων, τι περιγράφει βασικά ο βαθμός που αποδίδεται σε ηπατική ή σπληνική κάκωση;",
   "stem_es": "En la escala de la American Association for the Surgery of Trauma (AAST) para lesiones de órganos sólidos, ¿qué describe fundamentalmente el grado asignado a una lesión hepática o esplénica?",
   "options": [
    {
@@ -4144,7 +4144,7 @@
     "es": "El mecanismo del traumatismo (cerrado o penetrante) exclusivamente"
    },
    {
-    "el": "Αποκλειστικά την παρουσία ή απουσία αιμοδυναμικού shock κατά την εισαγωγή",
+    "el": "Αποκλειστικά την παρουσία ή απουσία αιμοδυναμικής καταπληξίας κατά την εισαγωγή",
     "es": "Únicamente la presencia o ausencia de shock hemodinámico en el momento del ingreso"
    },
    {
@@ -6296,30 +6296,30 @@
   "stem_es": "Paciente de 65 años, asintomático, con hallazgo casual de estenosis del 75% de la carótida interna en ecografía preventiva. Sin ictus ni AIT previos. ¿Qué factor influye más en la decisión de endarterectomía?",
   "options": [
    {
-    "el": "La toma previa de aspirina en dosis bajas",
+    "el": "Η προηγούμενη λήψη ασπιρίνης σε χαμηλή δόση",
     "es": "La toma previa de aspirina en dosis bajas"
    },
    {
-    "el": "Η ηλικία menor de 50 años exclusivamente",
+    "el": "Η ηλικία κάτω των 50 ετών αποκλειστικά",
     "es": "La edad menor de 50 años exclusivamente"
    },
    {
-    "el": "El riesgo perioperatorio del centro y la esperanza de vida del paciente",
+    "el": "Ο περιεγχειρητικός κίνδυνος του κέντρου και το προσδόκιμο επιβίωσης του ασθενούς",
     "es": "El riesgo perioperatorio del centro y la esperanza de vida del paciente"
    },
    {
-    "el": "La presencia de soplo carotídeo audible únicamente",
+    "el": "Η παρουσία ακουστού καρωτιδικού φυσήματος αποκλειστικά",
     "es": "La presencia de soplo carotídeo audible únicamente"
    },
    {
-    "el": "El nivel de colesterol LDL en un único análisis",
+    "el": "Το επίπεδο χοληστερόλης LDL σε μία μόνο εξέταση",
     "es": "El nivel de colesterol LDL en un único análisis"
    }
   ],
   "correct": 2,
   "expl_el": "Στην ασυμπτωματική στένωση ≥60-70%, το όφελος της ενδαρτηρεκτομής είναι μετριότερο απ' ό,τι στη συμπτωματική· εξαρτάται κρίσιμα από χαμηλό περιεγχειρητικό κίνδυνο του κέντρου (<3%) και ικανοποιητικό προσδόκιμο επιβίωσης (>5 έτη) για να υπερισχύσει η επέμβαση της φαρμακευτικής αγωγής.",
   "expl_es": "En la estenosis asintomática ≥60-70%, el beneficio de la endarterectomía es más modesto que en la sintomática; depende de forma crítica de un bajo riesgo perioperatorio del centro (<3%) y una esperanza de vida suficiente (>5 años) para que la cirugía supere al tratamiento médico.",
-  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η ηλικία <50 δεν είναι το κρίσιμο κριτήριο, η νόσος αφορά κυρίως μεγαλύτερες ηλικίες · <b>D</b> Ο φυσήματος δεν είναι αξιόπιστος δείκτης βαρύτητας στένωσης, χρειάζεται απεικόνιση · <b>E</b> Μία μόνο τιμή LDL δεν καθορίζει την ένδειξη επέμβασης, αν και η υπολιπιδαιμική αγωγή είναι σημαντική μακροπρόθεσμα · <b>A</b> Η ασπιρίνη είναι μέρος της φαρμακευτικής αγωγής βάσης, δεν καθορίζει την ένδειξη χειρουργείου",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>B</b> Η ηλικία <50 δεν είναι το κρίσιμο κριτήριο, η νόσος αφορά κυρίως μεγαλύτερες ηλικίες · <b>D</b> Το φύσημα δεν είναι αξιόπιστος δείκτης βαρύτητας στένωσης, χρειάζεται απεικόνιση · <b>E</b> Μία μόνο τιμή LDL δεν καθορίζει την ένδειξη επέμβασης, αν και η υπολιπιδαιμική αγωγή είναι σημαντική μακροπρόθεσμα · <b>A</b> Η ασπιρίνη είναι μέρος της φαρμακευτικής αγωγής βάσης, δεν καθορίζει την ένδειξη χειρουργείου",
   "dis_es": "<b>Por qué no las otras:</b> <b>B</b> La edad <50 no es el criterio crítico, la enfermedad afecta sobre todo a edades mayores · <b>D</b> El soplo no es un indicador fiable de la gravedad de la estenosis, se necesita imagen · <b>E</b> Un único valor de LDL no determina la indicación quirúrgica, aunque el tratamiento hipolipemiante importa a largo plazo · <b>A</b> La aspirina es parte del tratamiento médico de base, no determina la indicación quirúrgica",
   "cite": "ESVS 2023 Guidelines on Carotid and Vertebral Artery Disease · ensayo ACAS/ACST-1",
   "id": "C-794"

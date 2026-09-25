@@ -236,6 +236,9 @@ def build(spec):
     html = strip_nav(html, spec)
     html = filter_structures(html, spec, bank)
 
+    # SPEC solo conserva la materia propia; los bucles fijos sobre A/B/C leerian
+    # SPEC[s] indefinido (rompia recommend() y el dashboard).
+    html = html.replace("['A','B','C']", "Object.keys(SPEC)")
     html = re.sub(r"const BK_APP = '[^']*'", "const BK_APP = '%s'" % subj['bk_app'], html)
     html = re.sub(r'<title>.*?</title>',
                   '<title>Vicks \u00b7 %s \u2014 \u039a\u03a5\u03a3\u0391\u03a4\u03a3 2026</title>' % subj['name_el'],

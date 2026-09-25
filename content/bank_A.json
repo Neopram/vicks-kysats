@@ -2045,9 +2045,9 @@
   "concepts": [
    "c.path.cardio.torsades"
   ],
-  "topic_el": "Πολύμορφη κοιλιακή ταχυκαρδία · Torsades de pointes",
+  "topic_el": "Πολύμορφη κοιλιακή ταχυκαρδία · Torsades de pointes (TdP)",
   "topic_es": "Taquicardia ventricular polimorfa · Torsades de pointes",
-  "stem_el": "Γυναίκα 45 ετών με παρατεταμένο QTc σε πρόσφατο ΗΚΓ εμφανίζει επεισόδια πολύμορφης κοιλιακής ταχυκαρδίας τύπου torsades de pointes, αυτοπεριοριζόμενα. Ποια είναι η θεραπεία εκλογής στο οξύ επεισόδιο;",
+  "stem_el": "Γυναίκα 45 ετών με παρατεταμένο QTc σε πρόσφατο ΗΚΓ εμφανίζει επεισόδια πολύμορφης κοιλιακής ταχυκαρδίας τύπου TdP, αυτοπεριοριζόμενα. Ποια είναι η θεραπεία εκλογής στο οξύ επεισόδιο;",
   "stem_es": "Mujer de 45 años con QTc prolongado en ECG reciente presenta episodios de taquicardia ventricular polimorfa tipo torsades de pointes, autolimitados. ¿Cuál es el tratamiento de elección en el episodio agudo?",
   "options": [
    {
@@ -2072,7 +2072,7 @@
    }
   ],
   "correct": 1,
-  "expl_el": "Το ενδοφλέβιο θειικό μαγνήσιο είναι η θεραπεία εκλογής στα torsades de pointes, ανεξαρτήτως επιπέδου μαγνησίου ορού· διόρθωση ηλεκτρολυτών και διακοπή φαρμάκων που παρατείνουν το QT είναι επίσης απαραίτητα.",
+  "expl_el": "Το ενδοφλέβιο θειικό μαγνήσιο είναι η θεραπεία εκλογής στα TdP, ανεξαρτήτως επιπέδου μαγνησίου ορού· διόρθωση ηλεκτρολυτών και διακοπή φαρμάκων που παρατείνουν το QT είναι επίσης απαραίτητα.",
   "expl_es": "El sulfato de magnesio intravenoso es el tratamiento de elección en torsades de pointes, independientemente del nivel sérico de magnesio; corregir electrolitos y suspender fármacos que prolongan el QT también es esencial.",
   "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>A</b> Η αμιωδαρόνη παρατείνει περαιτέρω το QT και μπορεί να επιδεινώσει τα torsades · <b>D</b> Η βεραπαμίλη δεν έχει ρόλο και μπορεί να προκαλέσει αστάθεια · <b>C</b> Η διγοξίνη δεν αντιμετωπίζει την αιτία · <b>E</b> Η ατροπίνη χρησιμοποιείται σε βραδυκαρδία-εξαρτώμενα torsades για αύξηση συχνότητας, όχι ως πρώτη γραμμή γενικά",
   "dis_es": "<b>Por qué no las otras:</b> <b>A</b> La amiodarona prolonga aún más el QT y puede empeorar las torsades · <b>D</b> El verapamilo no tiene papel y puede causar inestabilidad · <b>C</b> La digoxina no trata la causa · <b>E</b> La atropina se usa en torsades bradicardia-dependientes para aumentar la frecuencia, no como primera línea general",
@@ -6253,11 +6253,11 @@
   "stem_es": "Paciente con cirrosis tiene bilirrubina 3 mg/dL, albúmina 2.8 g/dL, INR 1.9, ascitis moderada controlada con diuréticos y encefalopatía leve (grado I-II). ¿Cuál es la aproximación correcta de la escala Child-Pugh utilizada?",
   "options": [
    {
-    "el": "Bilirrubina, albúmina, INR, presencia y grado de ascitis, presencia y grado de encefalopatía — este paciente correspondería a Child-Pugh clase C",
+    "el": "Χολερυθρίνη, λευκωματίνη, INR, παρουσία και βαθμός ασκίτη, παρουσία και βαθμός εγκεφαλοπάθειας — αυτός ο ασθενής θα αντιστοιχούσε σε Child-Pugh τάξη C",
     "es": "Bilirrubina, albúmina, INR, presencia y grado de ascitis, presencia y grado de encefalopatía — este paciente correspondería a Child-Pugh clase C"
    },
    {
-    "el": "Solo la bilirrubina y la creatinina determinan la clase",
+    "el": "Μόνο η χολερυθρίνη και η κρεατινίνη καθορίζουν την τάξη",
     "es": "Solo la bilirrubina y la creatinina determinan la clase"
    },
    {
@@ -7837,7 +7837,7 @@
   "correct": 4,
   "expl_el": "Το στάδιο 1 KDIGO ορίζεται ως αύξηση κρεατινίνης 1,5–1,9× τη βασική ή ≥0,3 mg/dl εντός 48 ωρών, ή διούρηση <0,5 ml/kg/h για 6–12 ώρες. Και τα δύο κριτήρια πληρούνται εδώ (×1,6 και ολιγουρία 8 ωρών).",
   "expl_es": "El estadio 1 de KDIGO se define como aumento de creatinina 1,5–1,9× el basal o ≥0,3 mg/dl en 48 horas, o diuresis <0,5 ml/kg/h durante 6–12 horas. Ambos criterios se cumplen aquí (×1,6 y oliguria de 8 horas).",
-  "dis_el": "<b>Β</b> Το στάδιο 2 απαιτεί αύξηση ×2–2,9 ή ολιγουρία ≥12 ωρών, no alcanzado aquí · <b>Γ</b> Το στάδιο 3 απαιτεί ×3, κρεατινίνη ≥4 mg/dl ή έναρξη ΥΚΘ, ausente · <b>Δ</b> Los criterios sí se cumplen, no puede descartarse · <b>Ε</b> Η ΤΝΝ es una entidad crónica, no aplica a un cambio agudo de 48 horas",
+  "dis_el": "<b>B</b> Το στάδιο 2 απαιτεί αύξηση ×2–2,9 ή ολιγουρία ≥12 ωρών, κάτι που δεν συντρέχει εδώ · <b>C</b> Το στάδιο 3 απαιτεί ×3, κρεατινίνη ≥4 mg/dl ή έναρξη ΥΚΘ, στοιχεία που απουσιάζουν · <b>D</b> Τα κριτήρια όντως πληρούνται, άρα δεν μπορεί να αποκλειστεί η βλάβη · <b>A</b> Η ΤΝΝ είναι χρόνια οντότητα και δεν αφορά οξεία μεταβολή 48 ωρών",
   "dis_es": "<b>B</b> El estadio 2 exige aumento ×2–2,9 o oliguria ≥12 horas, no alcanzado aquí · <b>C</b> El estadio 3 exige ×3, creatinina ≥4 mg/dl o inicio de TRS, ausente · <b>D</b> Los criterios sí se cumplen, no puede descartarse · <b>A</b> La ERT es una entidad crónica, no aplica a un cambio agudo de 48 horas",
   "cite": "KDIGO Clinical Practice Guideline for Acute Kidney Injury, 2012",
   "id": "A-418"
@@ -7877,7 +7877,7 @@
   "correct": 0,
   "expl_el": "Τα διουρητικά της αγκύλης αυξάνουν την απέκκριση νατρίου ανεξάρτητα από την αιτία, καθιστώντας το FENa αναξιόπιστο. Η ουρία επαναρροφάται σε σωλήνα ανεξάρτητα από τη δράση της φουροσεμίδης, οπότε FEUrea <35% υποδηλώνει προνεφρική αιτία ακόμη και υπό διουρητικά.",
   "expl_es": "Los diuréticos de asa aumentan la excreción de sodio con independencia de la causa, invalidando la FENa. La urea se reabsorbe a nivel tubular sin verse afectada por la furosemida, así que una FEUrea <35% sugiere causa prerrenal incluso bajo diuréticos.",
-  "dis_el": "<b>Β</b> El Na urinario aislado también se altera por el diurético, no es fiable · <b>Γ</b> Η οσμωτικότητα πλάσματος δεν διακρίνει αιτιολογία νεφρικής βλάβης · <b>Δ</b> El cociente BUN/creatinina orienta pero es menos específico y también se ve afectado por catabolismo/sangrado digestivo · <b>Ε</b> Η λευκωματίνη σχετίζεται με θρέψη/νεφρωσικό σύνδρομο, όχι με προνεφρική αιτιολογία",
+  "dis_el": "<b>B</b> Το απομονωμένο νάτριο ούρων επίσης μεταβάλλεται από το διουρητικό και δεν είναι αξιόπιστο · <b>C</b> Η οσμωτικότητα πλάσματος δεν διακρίνει την αιτιολογία της νεφρικής βλάβης · <b>D</b> Ο λόγος BUN/κρεατινίνη προσανατολίζει αλλά είναι λιγότερο ειδικός και επηρεάζεται επίσης από καταβολισμό ή πεπτική αιμορραγία · <b>E</b> Η λευκωματίνη σχετίζεται με τη θρέψη ή το νεφρωσικό σύνδρομο, όχι με προνεφρική αιτιολογία",
   "dis_es": "<b>B</b> El Na urinario aislado también se altera por el diurético, no es fiable · <b>C</b> La osmolalidad plasmática no distingue la etiología de la lesión renal · <b>D</b> El cociente BUN/creatinina orienta pero es menos específico y también se ve afectado por catabolismo o sangrado digestivo · <b>E</b> La albúmina se relaciona con nutrición/síndrome nefrótico, no con causa prerrenal",
   "cite": "Harrison 21.ª ed., cap. «Fracaso renal agudo» · Brenner & Rector's The Kidney",
   "id": "A-419"
@@ -8037,7 +8037,7 @@
   "correct": 4,
   "expl_el": "Το ΦΡΓ 45–59 αντιστοιχεί σε G3a (εδώ 42 είναι στο όριο G3a/G3b· 42 εμπίπτει σε G3a κατά τη σύμβαση 30–44 G3b/45–59 G3a — με 42 τεχνικά G3b, ωστόσο η τυπική ερώτηση εξετάζει A2 30–300 mg/g για λευκωματινουρία μετρίως αυξημένη). Με ACR 45 mg/g η κατηγορία λευκωματινουρίας είναι A2 (30–300 mg/g).",
   "expl_es": "Un FG 45–59 corresponde a G3a (con 42 en el límite G3a/G3b; por convención 30–44 es G3b y 45–59 es G3a). Con un CAC de 45 mg/g la categoría de albuminuria es A2 (30–300 mg/g), moderadamente aumentada.",
-  "dis_el": "<b>Β</b> El FG de 42 no corresponde a G2 (60–89) · <b>Γ</b> El ACR de 45 mg/g no llega a A3 (>300 mg/g) · <b>Δ</b> Un FG de 42 no es G5 (<15) · <b>Ε</b> Con ACR 45 mg/g no puede clasificarse como A1 (<30 mg/g)",
+  "dis_el": "<b>D</b> Το ΦΡΓ 42 δεν αντιστοιχεί σε G2 (60–89) · <b>C</b> Το ACR 45 mg/g δεν φτάνει το A3 (>300 mg/g) · <b>A</b> Ένα ΦΡΓ 42 δεν είναι G5 (<15) · <b>B</b> Με ACR 45 mg/g δεν μπορεί να ταξινομηθεί ως A1 (<30 mg/g)",
   "dis_es": "<b>D</b> El FG de 42 no corresponde a G2 (60–89) · <b>C</b> El ACR de 45 mg/g no llega a A3 (>300 mg/g) · <b>A</b> Un FG de 42 no es G5 (<15) · <b>B</b> Con ACR 45 mg/g no puede clasificarse como A1 (<30 mg/g)",
   "cite": "KDIGO Clinical Practice Guideline for CKD, 2012/2024",
   "id": "A-423"
@@ -8077,7 +8077,7 @@
   "correct": 0,
   "expl_el": "Στη ΧΝΝ προχωρημένου σταδίου η κύρια αιτία αναιμίας είναι η μειωμένη σύνθεση ερυθροποιητίνης από τα περισωληναριακά ινοβλαστοειδή κύτταρα, δίνοντας τυπικά νορμόχρωμη νορμοκυτταρική αναιμία με φυσιολογικό σίδηρο, όπως εδώ. Η θεραπεία είναι ερυθροποιητικοί παράγοντες και σίδηρος αν χρειαστεί.",
   "expl_es": "En la ERC avanzada la causa principal de anemia es la síntesis reducida de eritropoyetina por las células peritubulares tipo fibroblasto, dando típicamente una anemia normocítica normocrómica con hierro normal, como aquí. El tratamiento son agentes estimulantes de la eritropoyesis y hierro si se precisa.",
-  "dis_el": "<b>Β</b> Η σιδηροπενία daría MCV bajo y depósitos de hierro bajos, no normales · <b>Γ</b> El déficit de B12 daría VCM elevado (macrocitosis), no normal · <b>Δ</b> La hemólisis fue descartada explícitamente en el enunciado · <b>Ε</b> No hay antecedente farmacológico que sugiera aplasia",
+  "dis_el": "<b>B</b> Η σιδηροπενία θα έδινε χαμηλό MCV και χαμηλές αποθήκες σιδήρου, όχι φυσιολογικές · <b>C</b> Η έλλειψη Β12 θα έδινε αυξημένο MCV (μακροκυττάρωση), όχι φυσιολογικό · <b>D</b> Η αιμόλυση αποκλείστηκε ρητά στην εκφώνηση · <b>E</b> Δεν υπάρχει φαρμακευτικό ιστορικό που να υποδηλώνει απλασία",
   "dis_es": "<b>B</b> La ferropenia daría VCM bajo y depósitos de hierro bajos, no normales · <b>C</b> El déficit de B12 daría VCM elevado (macrocitosis), no normal · <b>D</b> La hemólisis fue descartada explícitamente en el enunciado · <b>E</b> No hay antecedente farmacológico que sugiera aplasia",
   "cite": "Harrison 21.ª ed., cap. «Χρόνια νεφρική νόσος» · KDIGO Anemia in CKD Guideline",
   "id": "A-424"
@@ -8117,7 +8117,7 @@
   "correct": 1,
   "expl_el": "Στη ΧΝΝ η μειωμένη νεφρική μάζα αδυνατεί να αποβάλει φωσφόρο και να ενεργοποιήσει τη βιταμίνη D, οδηγώντας σε υπασβεστιαιμία και διέγερση διαρκή του παραθυρεοειδούς — τυπικό PTH πολύ αυξημένο με φωσφόρο υψηλό και ασβέστιο χαμηλό, όπως εδώ.",
   "expl_es": "En la ERC la masa renal reducida no puede excretar fósforo ni activar la vitamina D, generando hipocalcemia y estimulación mantenida de la paratiroides: PTH muy elevada con fósforo alto y calcio bajo, como en este caso.",
-  "dis_el": "<b>Β</b> El adenoma primario daría PTH alta con calcio alto, no bajo · <b>Γ</b> La toxicidad por aluminio produce PTH baja (enfermedad ósea adinámica), no alta · <b>Δ</b> El mieloma cursa con hipercalcemia y lesiones líticas focales, no este patrón bioquímico · <b>Ε</b> La hipervitaminosis D daría hipercalcemia, no hipocalcemia",
+  "dis_el": "<b>C</b> Το πρωτοπαθές αδένωμα θα έδινε υψηλή PTH με υψηλό ασβέστιο, όχι χαμηλό · <b>A</b> Η τοξικότητα από αργίλιο προκαλεί χαμηλή PTH (αδρανητική οστική νόσο), όχι υψηλή · <b>E</b> Το μυέλωμα εμφανίζεται με υπερασβεστιαιμία και εστιακές λυτικές βλάβες, όχι αυτό το βιοχημικό πρότυπο · <b>D</b> Η υπερβιταμίνωση D θα έδινε υπερασβεστιαιμία, όχι υπασβεστιαιμία",
   "dis_es": "<b>C</b> El adenoma primario daría PTH alta con calcio alto, no bajo · <b>A</b> La toxicidad por aluminio produce PTH baja (enfermedad ósea adinámica), no alta · <b>E</b> El mieloma cursa con hipercalcemia y lesiones líticas focales, no este patrón bioquímico · <b>D</b> La hipervitaminosis D daría hipercalcemia, no hipocalcemia",
   "cite": "KDIGO CKD-MBD Guideline · Harrison 21.ª ed., cap. «Χρόνια νεφρική νόσος»",
   "id": "A-425"
@@ -8157,7 +8157,7 @@
   "correct": 2,
   "expl_el": "Στη ΧΝΝ προχωρημένη η μειωμένη αμμωνιογένεση προκαλεί χρόνια μεταβολική οξέωση με φυσιολογικό χάσμα ανιόντων στα αρχικά στάδια. Η από του στόματος αλκαλοποίηση επιβραδύνει την εξέλιξη της νεφρικής νόσου και βελτιώνει τη μυϊκή/οστική κατάσταση.",
   "expl_es": "En la ERC avanzada la amoniogénesis reducida provoca acidosis metabólica crónica con anión gap normal en fases iniciales. La alcalinización oral enlentece la progresión de la enfermedad renal y mejora el estado muscular/óseo.",
-  "dis_el": "<b>Β</b> HCO3 17 sin criterios de urgencia no justifica diálisis inmediata · <b>Γ</b> La acetazolamida empeoraría la acidosis al inhibir la anhidrasa carbónica · <b>Δ</b> La restricción de agua no corrige la acidosis · <b>Ε</b> La insulina-glucosa se usa en hiperpotasemia, no en acidosis aislada",
+  "dis_el": "<b>A</b> HCO3 17 χωρίς κριτήρια επείγοντος δεν δικαιολογεί άμεση αιμοκάθαρση · <b>D</b> Η ακεταζολαμίδη θα επιδείνωνε την οξέωση αναστέλλοντας την ανθρακική ανυδράση · <b>B</b> Ο περιορισμός νερού δεν διορθώνει την οξέωση · <b>E</b> Ο συνδυασμός ινσουλίνης-γλυκόζης χρησιμοποιείται στην υπερκαλιαιμία, όχι σε απομονωμένη οξέωση",
   "dis_es": "<b>A</b> HCO3 17 sin criterios de urgencia no justifica diálisis inmediata · <b>D</b> La acetazolamida empeoraría la acidosis al inhibir la anhidrasa carbónica · <b>B</b> La restricción de agua no corrige la acidosis · <b>E</b> La insulina-glucosa se usa en hiperpotasemia, no en acidosis aislada",
   "cite": "KDIGO Clinical Practice Guideline for CKD, 2024 · Harrison 21.ª ed.",
   "id": "A-426"
@@ -8197,7 +8197,7 @@
   "correct": 3,
   "expl_el": "Η φίστουλα χρειάζεται εβδομάδες έως μήνες για να ωριμάσει (διαστολή, τοιχωματική ενδυνάμωση) πριν είναι λειτουργική. Η έγκαιρη παραπομπή αποφεύγει την ανάγκη προσωρινού κεντρικού καθετήρα με τον σχετιζόμενο κίνδυνο λοίμωξης/θρόμβωσης.",
   "expl_es": "La fístula necesita semanas a meses para madurar (dilatación, engrosamiento de la pared) antes de ser funcional. La derivación temprana evita la necesidad de un catéter central temporal, con su riesgo de infección/trombosis.",
-  "dis_el": "<b>Β</b> La creación en el momento de iniciar diálisis obliga a usar catéter transitorio mientras madura · <b>Γ</b> Tras iniciar con catéter ya se acumuló riesgo evitable de infección · <b>Δ</b> Esperar a síntomas urémicos retrasa demasiado la preparación · <b>Ε</b> Incluso eligiendo diálisis peritoneal, el acceso vascular debe planificarse por si esa vía falla",
+  "dis_el": "<b>B</b> Η δημιουργία της τη στιγμή έναρξης της αιμοκάθαρσης επιβάλλει τη χρήση προσωρινού καθετήρα όσο αυτή ωριμάζει · <b>A</b> Μετά την έναρξη με καθετήρα έχει ήδη συσσωρευτεί αποφεύξιμος κίνδυνος λοίμωξης · <b>E</b> Η αναμονή μέχρι την εμφάνιση ουραιμικών συμπτωμάτων καθυστερεί υπερβολικά την προετοιμασία · <b>C</b> Ακόμη και αν επιλεγεί περιτοναϊκή κάθαρση, η αγγειακή πρόσβαση πρέπει να προγραμματίζεται σε περίπτωση αποτυχίας αυτής της οδού",
   "dis_es": "<b>B</b> Crearla en el momento de iniciar diálisis obliga a usar catéter transitorio mientras madura · <b>A</b> Tras iniciar con catéter ya se acumuló riesgo evitable de infección · <b>E</b> Esperar a síntomas urémicos retrasa demasiado la preparación · <b>C</b> Incluso eligiendo diálisis peritoneal, el acceso vascular debe planificarse por si esa vía falla",
   "cite": "KDIGO Clinical Practice Guideline for CKD, 2024 · Harrison 21.ª ed.",
   "id": "A-427"
@@ -8346,7 +8346,7 @@
     "es": "Glomeruloesclerosis focal y segmentaria"
    },
    {
-    "el": "GN postestreptocócica",
+    "el": "GN μετα-στρεπτοκοκκική",
     "es": "Glomerulonefritis postestreptocócica"
    },
    {
@@ -8357,7 +8357,7 @@
   "correct": 2,
   "expl_el": "Η εστιακή (ορισμένα σπειράματα) και τμηματική (τμήμα του σπειράματος) σκλήρυνση, σε πλαίσιο παχυσαρκίας/χρήσης ηρωίνης/HIV και αντίσταση σε στεροειδή, είναι χαρακτηριστική της ΕΤΣΣ, η συχνότερη αιτία νεφρωσικού συνδρόμου ανθεκτικού σε στεροειδή σε ενήλικες.",
   "expl_es": "La esclerosis focal (algunos glomérulos) y segmentaria (parte del glomérulo), en contexto de obesidad/consumo de heroína/VIH y resistencia a esteroides, es característica de la GEFS, la causa más frecuente de síndrome nefrótico corticorresistente en adultos.",
-  "dis_el": "<b>Α</b> La ausencia de respuesta a esteroides y la esclerosis en biopsia descartan cambios mínimos · <b>Β</b> Η μεμβρανώδης δεν δίνει σκλήρυνση εστιακή, αλλά πάχυνση μεμβράνης · <b>Γ</b> Η IgA δεν δίνει τυπικά νεφρωσικό σύνδρομο ανθεκτικό αυτής της μορφής · <b>Δ</b> Δεν υπάρχει πρόσφατη λοίμωξη στρεπτόκοκκου στο ιστορικό",
+  "dis_el": "<b>A</b> Η απουσία ανταπόκρισης στα στεροειδή και η σκλήρυνση στη βιοψία αποκλείουν τη νόσο ελαχίστων αλλοιώσεων · <b>E</b> Η μεμβρανώδης δεν δίνει εστιακή σκλήρυνση, αλλά πάχυνση της μεμβράνης · <b>B</b> Η νεφροπάθεια IgA συνήθως δεν δίνει αυτού του τύπου ανθεκτικό νεφρωσικό σύνδρομο · <b>D</b> Δεν υπάρχει πρόσφατη στρεπτοκοκκική λοίμωξη στο ιστορικό",
   "dis_es": "<b>A</b> La ausencia de respuesta a esteroides y la esclerosis en la biopsia descartan cambios mínimos · <b>E</b> La membranosa no da esclerosis focal, sino engrosamiento de membrana · <b>B</b> La IgA no suele dar este síndrome nefrótico resistente · <b>D</b> No hay infección estreptocócica reciente en el antecedente",
   "cite": "Harrison 21.ª ed., cap. «Σπειραματοπάθειες» · KDIGO Glomerular Diseases Guideline, 2021",
   "id": "A-431"
@@ -8477,7 +8477,7 @@
   "correct": 0,
   "expl_el": "Στη νεφροπάθεια IgA με πρωτεϊνουρία >0,5–1 g/24h και υπέρταση, η βέλτιστη υποστηρικτική θεραπεία με IECA/ARB (μεγιστοποιημένη δόση) είναι πρώτης γραμμής, μειώνοντας την ενδοσπειραματική πίεση και την πρωτεϊνουρία πριν εξεταστεί ανοσοκαταστολή.",
   "expl_es": "En la nefropatía IgA con proteinuria >0,5–1 g/24h e hipertensión, el tratamiento de soporte óptimo con IECA/ARA-II (a dosis maximizada) es de primera línea, reduciendo la presión intraglomerular y la proteinuria antes de plantear inmunosupresión.",
-  "dis_el": "<b>Α</b> La inmunosupresión se reserva para casos con proteinuria persistente pese a soporte óptimo o deterioro de función renal, no de entrada · <b>Β</b> La plasmaféresis no tiene papel establecido en la IgA típica · <b>Γ</b> La proteinuria e hipertensión mantenidas sí requieren tratamiento activo · <b>Ε</b> No hay criterios de fallo renal para diálisis",
+  "dis_el": "<b>D</b> Η ανοσοκαταστολή επιφυλάσσεται για περιπτώσεις με επίμονη πρωτεϊνουρία παρά τη βέλτιστη υποστηρικτική αγωγή ή επιδείνωση της νεφρικής λειτουργίας, όχι εξαρχής · <b>B</b> Η πλασμαφαίρεση δεν έχει καθιερωμένο ρόλο στην τυπική νεφροπάθεια IgA · <b>E</b> Η επίμονη πρωτεϊνουρία και υπέρταση χρήζουν πράγματι ενεργού αγωγής · <b>C</b> Δεν υπάρχουν κριτήρια νεφρικής ανεπάρκειας για αιμοκάθαρση",
   "dis_es": "<b>D</b> La inmunosupresión se reserva para casos con proteinuria persistente pese a soporte óptimo o deterioro de función renal, no de entrada · <b>B</b> La plasmaféresis no tiene papel establecido en la IgA típica · <b>E</b> La proteinuria e hipertensión mantenidas sí requieren tratamiento activo · <b>C</b> No hay criterios de fallo renal para diálisis",
   "cite": "KDIGO Glomerular Diseases Guideline, 2021 · Harrison 21.ª ed.",
   "id": "A-434"
@@ -8502,7 +8502,7 @@
     "es": "Nefritis lúpica clase IV (proliferativa difusa)"
    },
    {
-    "el": "GN postestreptοκοκκική",
+    "el": "GN μετα-στρεπτοκοκκική",
     "es": "Glomerulonefritis postestreptocócica"
    },
    {
@@ -8517,7 +8517,7 @@
   "correct": 1,
   "expl_el": "Σε ασθενή με ΣΕΛ, η διάχυτη ενδοσπειραματική υπερπλασία με «full house» ανοσοφθορισμό (IgG, IgA, IgM, C3, C1q) ορίζει την τάξη IV κατά ISN/RPS, την πιο βαριά και συχνή μορφή λυκειδικής νεφρίτιδας, που απαιτεί επιθετική ανοσοκαταστολή.",
   "expl_es": "En una paciente con LES, la hiperplasia endocapilar difusa con inmunofluorescencia en «full house» (IgG, IgA, IgM, C3, C1q) define la clase IV según ISN/RPS, la forma más grave y frecuente de nefritis lúpica, que requiere inmunosupresión agresiva.",
-  "dis_el": "<b>Α</b> La IgA no cursa con C3/C4 bajos ni «full house» · <b>Β</b> La membranosa primaria no tiene relación con LES ni «full house» típico · <b>Δ</b> No hay antecedente de infección estreptocócica y la C4 baja no encaja con ese cuadro · <b>Ε</b> La enfermedad de cambios mínimos no da hematuria ni hipocomplementemia",
+  "dis_el": "<b>A</b> Η νεφροπάθεια IgA δεν εμφανίζει χαμηλά C3/C4 ούτε πρότυπο «full house» · <b>D</b> Η πρωτοπαθής μεμβρανώδης δεν σχετίζεται με ΣΕΛ ούτε με τυπικό «full house» · <b>C</b> Δεν υπάρχει προηγούμενη στρεπτοκοκκική λοίμωξη και η χαμηλή C4 δεν ταιριάζει με αυτή την εικόνα · <b>E</b> Η νόσος ελαχίστων αλλοιώσεων δεν δίνει αιματουρία ούτε χαμηλό συμπλήρωμα",
   "dis_es": "<b>A</b> La IgA no cursa con C3/C4 bajos ni «full house» · <b>D</b> La membranosa primaria no tiene relación con LES ni «full house» típico · <b>C</b> No hay antecedente de infección estreptocócica y la C4 baja no encaja con ese cuadro · <b>E</b> La enfermedad de cambios mínimos no da hematuria ni hipocomplementemia",
   "cite": "KDIGO Glomerular Diseases Guideline, 2021 · Harrison 21.ª ed.",
   "id": "A-435"
@@ -8546,7 +8546,7 @@
     "es": "Granulomatosis con poliangeítis (Wegener) — vasculitis asociada a ANCA"
    },
    {
-    "el": "GN postestreptοκοκκική",
+    "el": "GN μετα-στρεπτοκοκκική",
     "es": "Glomerulonefritis postestreptocócica"
    },
    {
@@ -8557,7 +8557,7 @@
   "correct": 2,
   "expl_el": "Ημισελήνες pauci-immune (χωρίς εναποθέσεις) με θετικά c-ANCA/PR3, πνευμονονεφρικό σύνδρομο και συστηματικά ευρήματα (πυρετός, αρθραλγίες) είναι χαρακτηριστικά της κοκκιωμάτωσης με πολυαγγειίτιδα, αιτίας ΤΕΣΝ που απαιτεί άμεση ανοσοκαταστολή.",
   "expl_es": "Las semilunas pauci-inmunes (sin depósitos) con c-ANCA/PR3 positivos, síndrome pulmón-riñón y hallazgos sistémicos (fiebre, artralgias) son característicos de la granulomatosis con poliangeítis, causa de GNRP que exige inmunosupresión inmediata.",
-  "dis_el": "<b>Α</b> La lúpica daría inmunocomplejos («full house»), no pauci-immune · <b>Γ</b> El Goodpasture es anti-GBM con depósito lineal, no pauci-immune con c-ANCA · <b>Δ</b> La IgA no cursa con pauci-immune ni pulmón-riñón · <b>Ε</b> No hay antecedente de infección estreptocócica reciente ni el patrón encaja",
+  "dis_el": "<b>A</b> Η λυκειδική νεφρίτιδα θα έδινε εναποθέσεις ανοσοσυμπλεγμάτων («full house»), όχι pauci-immune εικόνα · <b>E</b> Το σύνδρομο Goodpasture είναι anti-GBM με γραμμική εναπόθεση, όχι pauci-immune με c-ANCA · <b>B</b> Η νεφροπάθεια IgA δεν εμφανίζει pauci-immune εικόνα ούτε πνευμονονεφρικό σύνδρομο · <b>D</b> Δεν υπάρχει πρόσφατη στρεπτοκοκκική λοίμωξη ούτε ταιριάζει το πρότυπο",
   "dis_es": "<b>A</b> La lúpica daría inmunocomplejos («full house»), no pauci-inmune · <b>E</b> El Goodpasture es anti-GBM con depósito lineal, no pauci-inmune con c-ANCA · <b>B</b> La IgA no cursa con pauci-inmune ni pulmón-riñón · <b>D</b> No hay antecedente de infección estreptocócica reciente ni el patrón encaja",
   "cite": "KDIGO Glomerular Diseases Guideline, 2021 · Harrison 21.ª ed.",
   "id": "A-436"
@@ -8637,7 +8637,7 @@
   "correct": 4,
   "expl_el": "Η λανθάνουσα περίοδος 1–3 εβδομάδων μετά δερματική ή φαρυγγική στρεπτοκοκκική λοίμωξη, με χαμηλή C3 και θετικό αντι-DNάση Β, ορίζει τη μεταστρεπτοκοκκική σπειραματονεφρίτιδα, που στον ενήλικα έχει χειρότερη πρόγνωση απ' ό,τι στο παιδί αλλά συνήθως υποχωρεί υποστηρικτικά.",
   "expl_es": "El periodo de latencia de 1–3 semanas tras una infección estreptocócica cutánea o faríngea, con C3 baja y anti-DNasa B positiva, define la glomerulonefritis postestreptocócica, que en el adulto tiene peor pronóstico que en el niño pero suele resolverse con manejo de soporte.",
-  "dis_el": "<b>Β</b> La IgA aparece sincrónica a la infección (1–2 días), no con latencia de semanas, y no da C3 baja · <b>Γ</b> El Goodpasture no se relaciona con infección estreptocócica ni C3 baja · <b>Δ</b> La membranosa no sigue este patrón temporal infeccioso · <b>Ε</b> No hay hallazgos sistémicos de LES ni antecedente compatible",
+  "dis_el": "<b>D</b> Η νεφροπάθεια IgA εμφανίζεται σύγχρονα με τη λοίμωξη (1–2 ημέρες), όχι με λανθάνουσα περίοδο εβδομάδων, και δεν δίνει χαμηλή C3 · <b>A</b> Το σύνδρομο Goodpasture δεν σχετίζεται με στρεπτοκοκκική λοίμωξη ούτε με χαμηλή C3 · <b>C</b> Η μεμβρανώδης δεν ακολουθεί αυτό το χρονικό πρότυπο λοίμωξης · <b>B</b> Δεν υπάρχουν συστηματικά ευρήματα ΣΕΛ ούτε συμβατό ιστορικό",
   "dis_es": "<b>D</b> La IgA aparece sincrónica a la infección (1–2 días), no con latencia de semanas, y no da C3 baja · <b>A</b> El Goodpasture no se relaciona con infección estreptocócica ni C3 baja · <b>C</b> La membranosa no sigue este patrón temporal infeccioso · <b>B</b> No hay hallazgos sistémicos de LES ni antecedente compatible",
   "cite": "Harrison 21.ª ed., cap. «Σπειραματοπάθειες»",
   "id": "A-438"
@@ -8757,7 +8757,7 @@
   "correct": 2,
   "expl_el": "Η ADPKD (γονίδια PKD1/PKD2) σχετίζεται με εξωνεφρικές εκδηλώσεις όπως κύστεις ήπατος, παγκρέατος και σπλήνα, καθώς και σακκοειδή ανευρύσματα εγκεφαλικών αρτηριών, με κίνδυνο υπαραχνοειδούς αιμορραγίας — γι' αυτό ελέγχεται σε οικογενειακό ιστορικό ανευρύσματος.",
   "expl_es": "La ADPKD (genes PKD1/PKD2) se asocia a manifestaciones extrarrenales como quistes hepáticos, pancreáticos y esplénicos, además de aneurismas saculares de arterias cerebrales, con riesgo de hemorragia subaracnoidea — por eso se cribado ante antecedente familiar de aneurisma.",
-  "dis_el": "<b>Β</b> No hay asociación establecida con fibrosis pulmonar/bronquiectasias · <b>Γ</b> La ADPKD se asocia a prolapso mitral e hipertensión, no primariamente a insuficiencia cardíaca sistólica · <b>Δ</b> No hay asociación con enfermedad inflamatoria intestinal · <b>Ε</b> No es una manifestación característica de la ADPKD",
+  "dis_el": "<b>A</b> Δεν υπάρχει καθιερωμένη συσχέτιση με πνευμονική ίνωση ή βρογχεκτασίες · <b>D</b> Η ADPKD σχετίζεται με πρόπτωση μιτροειδούς και υπέρταση, όχι πρωτίστως με συστολική καρδιακή ανεπάρκεια · <b>B</b> Δεν υπάρχει συσχέτιση με φλεγμονώδη νόσο του εντέρου · <b>E</b> Δεν αποτελεί χαρακτηριστική εκδήλωση της ADPKD",
   "dis_es": "<b>A</b> No hay asociación establecida con fibrosis pulmonar/bronquiectasias · <b>D</b> La ADPKD se asocia a prolapso mitral e hipertensión, no primariamente a insuficiencia cardíaca sistólica · <b>B</b> No hay asociación con enfermedad inflamatoria intestinal · <b>E</b> No es una manifestación característica de la ADPKD",
   "cite": "Harrison 21.ª ed., cap. «Κυστικές νόσοι των νεφρών» · Davidson's 24.ª ed.",
   "id": "A-441"
@@ -8877,7 +8877,7 @@
   "correct": 0,
   "expl_el": "Στην κίρρωση με ασκίτη, η σπλαχνική αγγειοδιαστολή μειώνει τον αποτελεσματικό κυκλοφορούντα όγκο παρά τη συνολική υπερογκαιμία, ενεργοποιώντας RAAS και ADH με κατακράτηση νατρίου/νερού (νάτριο ούρων πολύ χαμηλό) και αραίωση — υπερογκαιμική υπονατριαιμία. Η θεραπεία είναι περιορισμός νατρίου/υγρών, όχι χορήγηση ορού.",
   "expl_es": "En la cirrosis con ascitis, la vasodilatación esplácnica reduce el volumen circulante efectivo pese a la hipervolemia total, activando RAAS y ADH con retención de sodio/agua (sodio urinario muy bajo) y dilución — hiponatremia hipervolémica. El tratamiento es restricción de sodio/líquidos, no aportar suero.",
-  "dis_el": "<b>Α</b> La diarrea daría hipovolemia clínica, no edema/ascitis · <b>Β</b> No hay dato de neoplasia y el SIADH no cursa con ascitis · <b>Δ</b> La polidipsia no explica el edema ni la ascitis · <b>Ε</b> No hay elevación de creatinina que sugiera NTA en el caso",
+  "dis_el": "<b>E</b> Η διάρροια θα προκαλούσε κλινική υπογκαιμία, όχι οίδημα/ασκίτη · <b>B</b> Δεν υπάρχει στοιχείο κακοήθειας και το SIADH δεν εμφανίζεται με ασκίτη · <b>D</b> Η πολυδιψία δεν εξηγεί το οίδημα ούτε τον ασκίτη · <b>C</b> Δεν υπάρχει αύξηση κρεατινίνης που να υποδηλώνει ΟΣΝ στην περίπτωση αυτή",
   "dis_es": "<b>E</b> La diarrea daría hipovolemia clínica, no edema/ascitis · <b>B</b> No hay dato de neoplasia y el SIADH no cursa con ascitis · <b>D</b> La polidipsia no explica el edema ni la ascitis · <b>C</b> No hay elevación de creatinina que sugiera NTA en el caso",
   "cite": "Harrison 21.ª ed., cap. «Υπονατριαιμία» · Davidson's 24.ª ed.",
   "id": "A-444"
@@ -9158,7 +9158,7 @@
   "correct": 2,
   "expl_el": "Στο ακανθοκυτταρικό καρκίνωμα (και σε άλλους συμπαγείς όγκους) η πιο συχνή αιτία υπερασβεστιαιμίας είναι η χυμική υπερασβεστιαιμία κακοήθειας: έκκριση PTHrP, που μιμείται τη δράση της PTH στους υποδοχείς της αλλά καταστέλλει την ενδογενή PTH (χαμηλή εδώ) — σε αντίθεση με τον πρωτοπαθή υπερπαραθυρεοειδισμό όπου η PTH είναι υψηλή.",
   "expl_es": "En el carcinoma escamoso (y en otros tumores sólidos) la causa más frecuente de hipercalcemia es la hipercalcemia humoral de la malignidad: secreción de PTHrP, que imita la acción de la PTH en sus receptores pero suprime la PTH endógena (baja aquí) — a diferencia del hiperparatiroidismo primario, donde la PTH está elevada.",
-  "dis_el": "<b>Α</b> El hiperparatiroidismo primario daría PTH elevada, no suprimida · <b>Γ</b> No hay antecedente de ingesta de vitamina D · <b>Δ</b> Las metástasis osteolíticas son otro mecanismo posible pero no explican la PTHrP elevada descrita · <b>Ε</b> La sarcoidosis eleva calcitriol, no PTHrP",
+  "dis_el": "<b>B</b> Ο πρωτοπαθής υπερπαραθυρεοειδισμός θα έδινε αυξημένη PTH, όχι καταπιεσμένη · <b>D</b> Δεν υπάρχει ιστορικό λήψης βιταμίνης D · <b>E</b> Οι οστεολυτικές μεταστάσεις αποτελούν άλλον πιθανό μηχανισμό, αλλά δεν εξηγούν την περιγραφόμενη αυξημένη PTHrP · <b>A</b> Η σαρκοείδωση αυξάνει την καλσιτριόλη, όχι την PTHrP",
   "dis_es": "<b>B</b> El hiperparatiroidismo primario daría PTH elevada, no suprimida · <b>D</b> No hay antecedente de ingesta de vitamina D · <b>E</b> Las metástasis osteolíticas son otro mecanismo posible pero no explican la PTHrP elevada descrita · <b>A</b> La sarcoidosis eleva calcitriol, no PTHrP",
   "cite": "Harrison 21.ª ed., cap. «Υπερασβεστιαιμία»",
   "id": "A-451"
@@ -9318,7 +9318,7 @@
   "correct": 1,
   "expl_el": "Χάσμα ανιόντων = Na − (Cl + HCO3) = 138 − (100+12) = 26, σαφώς αυξημένο (φυσιολογικό 8–12). Ένα αυξημένο χάσμα με χαμηλό διττανθρακικό υποδηλώνει μεταβολική οξέωση με συσσώρευση μη μετρούμενων ανιόντων (οξέα), π.χ. κετοξέωση, γαλακτική οξέωση, δηλητηριάσεις.",
   "expl_es": "Anión gap = Na − (Cl + HCO3) = 138 − (100+12) = 26, claramente elevado (normal 8–12). Un gap elevado con bicarbonato bajo sugiere acidosis metabólica con acumulación de aniones no medidos (ácidos), p. ej. cetoacidosis, acidosis láctica, intoxicaciones.",
-  "dis_el": "<b>Β</b> El cálculo correcto no da 12, sino 26 · <b>Γ</b> El cálculo correcto no da 8 ni se relaciona directamente con hipoalbuminemia sin el dato de albúmina · <b>Δ</b> El valor calculado es 26, no 38, y el gap elevado no es propio de acidosis respiratoria · <b>Ε</b> El cálculo estándar del anión gap usa Na, Cl y HCO3, no requiere el potasio",
+  "dis_el": "<b>A</b> Ο σωστός υπολογισμός δεν δίνει 12, αλλά 26 · <b>D</b> Ο σωστός υπολογισμός δεν δίνει 8 ούτε σχετίζεται άμεσα με υπολευκωματιναιμία χωρίς τα δεδομένα της λευκωματίνης · <b>C</b> Η υπολογιζόμενη τιμή είναι 26, όχι 38, και το αυξημένο χάσμα δεν είναι χαρακτηριστικό της αναπνευστικής οξέωσης · <b>E</b> Ο τυπικός υπολογισμός του χάσματος ανιόντων χρησιμοποιεί Na, Cl και HCO3, δεν απαιτεί το κάλιο",
   "dis_es": "<b>A</b> El cálculo correcto no da 12, sino 26 · <b>D</b> El cálculo correcto no da 8 ni se relaciona directamente con hipoalbuminemia sin el dato de albúmina · <b>C</b> El valor calculado es 26, no 38, y el gap elevado no es propio de acidosis respiratoria · <b>E</b> El cálculo estándar del anión gap usa Na, Cl y HCO3, no requiere el potasio",
   "cite": "Harrison 21.ª ed., cap. «Οξεοβασική ισορροπία»",
   "id": "A-455"
@@ -9358,7 +9358,7 @@
   "correct": 2,
   "expl_el": "Η λευκωματίνη είναι αρνητικά φορτισμένη και αποτελεί το κύριο «αόρατο» ανιόν στον τυπικό υπολογισμό· η υπολευκωματιναιμία μειώνει το φαινομενικό χάσμα κατά ~2,5 mEq/l ανά g/dl μείωσης. Εδώ: 9 + 2,5×(4−2) = 14, δηλαδή στην πραγματικότητα αυξημένο χάσμα που θα είχε παραβλεφθεί.",
   "expl_es": "La albúmina tiene carga negativa y es el principal anión «invisible» en el cálculo habitual; la hipoalbuminemia reduce el gap aparente en ~2,5 mEq/l por cada g/dl de descenso. Aquí: 9 + 2,5×(4−2) = 14, es decir, un gap en realidad elevado que se habría pasado por alto.",
-  "dis_el": "<b>Α</b> La albúmina sí influye de forma relevante en el cálculo · <b>Β</b> El efecto no es sobre el cloro medido, sino sobre el propio cálculo del gap · <b>Δ</b> La hipoalbuminemia reduce el gap, no lo aumenta · <b>Ε</b> En pacientes críticos con hipoalbuminemia la corrección es clínicamente relevante",
+  "dis_el": "<b>A</b> Η λευκωματίνη επηρεάζει όντως σημαντικά τον υπολογισμό · <b>B</b> Η επίδραση δεν αφορά το μετρούμενο χλώριο, αλλά τον ίδιο τον υπολογισμό του χάσματος · <b>D</b> Η υπολευκωματιναιμία μειώνει το χάσμα, δεν το αυξάνει · <b>E</b> Σε κρίσιμους ασθενείς με υπολευκωματιναιμία η διόρθωση έχει κλινική σημασία",
   "dis_es": "<b>A</b> La albúmina sí influye de forma relevante en el cálculo · <b>B</b> El efecto no es sobre el cloro medido, sino sobre el propio cálculo del gap · <b>D</b> La hipoalbuminemia reduce el gap, no lo aumenta · <b>E</b> En pacientes críticos con hipoalbuminemia la corrección es clínicamente relevante",
   "cite": "Harrison 21.ª ed., cap. «Οξεοβασική ισορροπία» · Brenner & Rector's The Kidney",
   "id": "A-456"
@@ -9471,15 +9471,15 @@
     "es": "Inhibidor DPP-4 como primera línea por mejor tolerabilidad"
    },
    {
-    "el": "Βασική ινσουλίνη de inicio λόγω HbA1c >8%",
+    "el": "Βασική ινσουλίνη εξαρχής λόγω HbA1c >8%",
     "es": "Insulina basal de inicio por HbA1c >8%"
    }
   ],
   "correct": 0,
   "expl_el": "Η μετφορμίνη παραμένει το φάρμακο πρώτης γραμμής στον ΣΔ τύπου 2 χωρίς αντενδείξεις, λόγω αποτελεσματικότητας, ασφαλείας, χαμηλού κόστους και ευνοϊκού καρδιαγγειακού προφίλ (UKPDS). Αν υπάρχει ΚΑΓ ή ΚΑΓ ισοδύναμο, SGLT-2 ή GLP-1 RA προστίθενται ανεξαρτήτως HbA1c.",
   "expl_es": "La metformina es el fármaco de primera línea en DM2 sin contraindicaciones, por su eficacia, seguridad, bajo costo y perfil cardiovascular favorable (UKPDS). Si existe ECV establecida o equivalente, se añade SGLT-2 o GLP-1 RA independientemente de la HbA1c.",
-  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η σουλφονυλουρία είναι δεύτερη γραμμή· φέρει κίνδυνο υπογλυκαιμίας και αύξησης βάρους · <b>D</b> Οι αναστολείς DPP-4 είναι δεύτερη ή τρίτη γραμμή · <b>E</b> Η ινσουλίνη de inicio ενδείκνυται μόνο σε πολύ υψηλή HbA1c (>10–11%) ή συμπτωματική υπεργλυκαιμία · <b>B</b> Οι αναστολείς SGLT-2 προτείνονται ως add-on ή ως πρώτη γραμμή μαζί με μετφορμίνη εφόσον υπάρχει ΚΑΓ/ΧΝΝ",
-  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La sulfonilurea es segunda línea; conlleva riesgo de hipoglucemia y aumento de peso · <b>D</b> Los inhibidores DPP-4 son segunda o tercera línea · <b>E</b> La insulina de inicio se reserva para HbA1c muy elevada (>10–11%) o hiperglucemia sintomática · <b>B</b> Los inhibidores SGLT-2 se recomiendan como add-on o junto a metformina cuando existe ECV/ERC",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>C</b> Η σουλφονυλουρία είναι δεύτερη γραμμή· φέρει κίνδυνο υπογλυκαιμίας και αύξησης βάρους · <b>D</b> Οι αναστολείς DPP-4 είναι δεύτερη ή τρίτη γραμμή · <b>E</b> Η βασική ινσουλίνη εξαρχής ενδείκνυται μόνο σε πολύ υψηλή HbA1c (>10–11%) ή συμπτωματική υπεργλυκαιμία · <b>B</b> Οι αναστολείς SGLT-2 προτείνονται ως πρόσθετη αγωγή ή ως πρώτη γραμμή μαζί με μετφορμίνη εφόσον υπάρχει ΚΑΓ/ΧΝΝ",
+  "dis_es": "<b>Por qué no las otras:</b> <b>C</b> La sulfonilurea es segunda línea; conlleva riesgo de hipoglucemia y aumento de peso · <b>D</b> Los inhibidores DPP-4 son segunda o tercera línea · <b>E</b> La insulina de inicio se reserva para HbA1c muy elevada (>10–11%) o hiperglucemia sintomática · <b>B</b> Los inhibidores SGLT-2 se recomiendan como tratamiento adicional o junto con metformina cuando existe ECV/ERC",
   "cite": "ADA Standards 2024, Sec. 9 «Pharmacologic Approaches»; Harrison 21.ª ed., cap. «Tratamiento de la DM2»",
   "id": "A-459"
  },
@@ -13095,30 +13095,30 @@
   "stem_es": "Varón de 70 años hipertenso con deterioro cognitivo 4 meses después de un ictus isquémico, con progresión escalonada, disfunción ejecutiva y de memoria, y signos neurológicos focales. MRI: múltiples infartos lacunares en ganglios basales y sustancia blanca. ¿Cuál es el criterio central de NINDS-AIREN para demencia vascular?",
   "options": [
    {
-    "el": "Se requiere obligatoriamente infarto estratégico en tálamo o giro angular",
+    "el": "Απαιτείται υποχρεωτικά στρατηγικό έμφρακτο στον θάλαμο ή τη γωνιώδη έλικα",
     "es": "Se requiere obligatoriamente infarto estratégico en tálamo o giro angular"
    },
    {
-    "el": "El deterioro cognitivo debe preceder al ictus en al menos 6 meses",
+    "el": "Η γνωστική έκπτωση πρέπει να προηγείται του εγκεφαλικού επεισοδίου κατά τουλάχιστον 6 μήνες",
     "es": "El deterioro cognitivo debe preceder al ictus en al menos 6 meses"
    },
    {
-    "el": "Presión del LCR normal es criterio obligatorio",
+    "el": "Φυσιολογική πίεση ΕΝΥ αποτελεί υποχρεωτικό κριτήριο",
     "es": "Presión del LCR normal es criterio obligatorio"
    },
    {
-    "el": "Relación temporal: inicio de demencia dentro de los 3 meses del ictus o deterioro escalonado, más enfermedad cerebrovascular en neuroimagen",
+    "el": "Χρονική σχέση: έναρξη της άνοιας εντός 3 μηνών από το εγκεφαλικό επεισόδιο ή σκαλοπατοειδής επιδείνωση, σε συνδυασμό με αγγειακή εγκεφαλική νόσο στη νευροαπεικόνιση",
     "es": "Relación temporal: inicio de demencia dentro de los 3 meses del ictus o deterioro escalonado, más enfermedad cerebrovascular en neuroimagen"
    },
    {
-    "el": "Las lesiones de sustancia blanca (leucoaraiosis) son suficientes para el diagnóstico sin relación temporal",
+    "el": "Οι βλάβες λευκής ουσίας (λευκοαραίωση) επαρκούν για τη διάγνωση χωρίς χρονική σχέση",
     "es": "Las lesiones de sustancia blanca (leucoaraiosis) son suficientes para el diagnóstico sin relación temporal"
    }
   ],
   "correct": 3,
   "expl_el": "Τα κριτήρια NINDS-AIREN (1993) για πιθανή αγγειακή άνοια απαιτούν: (1) άνοια, (2) αγγειακή εγκεφαλική νόσο στη νευροαπεικόνιση, (3) σχέση μεταξύ τους: έναρξη άνοιας εντός 3 μηνών από εγκεφαλικό επεισόδιο, ή σκαλοπατοειδής επιδείνωση, ή απότομη εμφάνιση γνωστικής έκπτωσης. Η χρονική σχέση αιτίου-αιτιατού είναι το κλειδί.",
   "expl_es": "Los criterios NINDS-AIREN (1993) para demencia vascular probable requieren: (1) demencia, (2) enfermedad cerebrovascular en neuroimagen, (3) relación entre ambos: inicio de demencia dentro de 3 meses del ictus, o deterioro escalonado, o aparición abrupta del deterioro cognitivo. La relación temporal de causa-efecto es la clave.",
-  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η λευκοαραίωση (λευκαραίωση) μόνη δεν επαρκεί — πολλοί ηλικιωμένοι έχουν λευκαραίωση χωρίς κλινικά σημαντική αγγειακή άνοια · <b>A</b> Στρατηγικά έμφρακτα (θάλαμος, γωνιαία έλικα) μπορούν να προκαλέσουν άνοια με μικρή βλάβη, αλλά δεν είναι υποχρεωτικά για τη διάγνωση · <b>B</b> Η γνωστική έκπτωση ακολουθεί (δεν προηγείται) το εγκεφαλικό — αντίστροφη η σχέση · <b>C</b> Η ΕΝΥ πίεση δεν αποτελεί κριτήριο των NINDS-AIREN",
+  "dis_el": "<b>Γιατί όχι οι υπόλοιπες:</b> <b>E</b> Η λευκοαραίωση (λευκαραίωση) μόνη δεν επαρκεί — πολλοί ηλικιωμένοι έχουν λευκαραίωση χωρίς κλινικά σημαντική αγγειακή άνοια · <b>A</b> Στρατηγικά έμφρακτα (θάλαμος, γωνιακή έλικα) μπορούν να προκαλέσουν άνοια με μικρή βλάβη, αλλά δεν είναι υποχρεωτικά για τη διάγνωση · <b>B</b> Η γνωστική έκπτωση ακολουθεί (δεν προηγείται) το εγκεφαλικό — αντίστροφη η σχέση · <b>C</b> Η ΕΝΥ πίεση δεν αποτελεί κριτήριο των NINDS-AIREN",
   "dis_es": "<b>Por qué no las otras:</b> <b>E</b> La leucoaraiosis sola no es suficiente — muchos ancianos la tienen sin demencia vascular clínicamente significativa · <b>A</b> Los infartos estratégicos (tálamo, giro angular) pueden causar demencia con pequeña lesión, pero no son obligatorios para el diagnóstico · <b>B</b> El deterioro cognitivo sigue (no precede) al ictus — la relación es inversa · <b>C</b> La presión del LCR no es un criterio NINDS-AIREN",
   "cite": "Román et al., NINDS-AIREN criteria, Neurology 1993 · Harrison 21.ª ed., cap. «Vascular Dementia»",
   "id": "A-857"
